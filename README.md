@@ -1,94 +1,197 @@
-# Next.js Static Site Template
+# Relaw
 
-Next.js 16 + React 19 + TypeScript を使用した静的サイト生成のテンプレートリポジトリです。GitHub Pages へのデプロイが自動化されています。
+法案・法令ライフサイクルモニタリングシステム
 
-## 技術スタック
+## 1. Product
 
-- **Next.js** 16 - App Router / Static Export
-- **React** 19
-- **TypeScript** 5
-- **ESLint** 9 - Flat Config
-- **Prettier** 3
+Relaw は、日本の法案・法令の状態変化を、公的情報源から収集・正規化し、検索・閲覧・通知できる Web サービスである。
 
-## このテンプレートの使い方
+対象は以下。
 
-1. **「Use this template」ボタン**をクリックして新しいリポジトリを作成
-2. リポジトリをクローン
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
-   ```
-3. 依存関係をインストール
-   ```bash
-   pnpm install
-   ```
-4. 開発サーバーを起動
-   ```bash
-   pnpm dev
-   ```
+- 法案の提出・審議・修正・可決・成立
+- 法律・政令・省令の公布・施行・改正・廃止
+- パブリックコメントの募集・結果公表
+- 法案資料、概要、要綱、新旧対照表、本文 PDF
 
-## セットアップ後にやること
+## 2. Goal
 
-### 1. `next.config.js` の修正
+ユーザーが以下を簡単に把握できる状態を作る。
 
-`basePath` をリポジトリ名に変更してください：
+- 新しく提出された法案
+- 現在審議中の法案
+- 成立した法案
+- 公布された法律・政令・省令
+- 近日施行される法令
+- 法案ごとの時系列イベント
+- 法令改正の差分
+- 関連資料への公式リンク
 
-```js
-basePath: process.env.NODE_ENV === "production" ? "/YOUR_REPO_NAME" : "",
-```
+## 3. Non-goals
 
-### 2. `app/layout.tsx` の修正
+初期版では以下を行わない。
 
-メタデータとサイト情報を更新してください：
+- 法律相談
+- 法的判断の自動提供
+- 判例検索
+- 自治体条例の網羅
+- 全省庁ガイドラインの完全収集
+- LLM による自動解釈を主要機能にすること
 
-```tsx
-export const metadata: Metadata = {
-  title: "Your Site Title",
-  description: "Your site description",
+## 4. Data Sources
+
+### 4.1 e-Gov 法令検索 API
+
+用途。
+
+- 現行法令本文
+- 法令番号
+- 法令名
+- 施行日
+- 改正履歴
+- 条文取得
+
+実装。
+
+- API クライアントを作成する
+- 取得結果を `laws` と `law_versions` に保存する
+- 本文は全文検索対象にする
+
+### 4.2 官報
+
+用途。
+
+- 法律公布
+- 政令公布
+- 省令公布
+- 施行期日政令
+- 廃止情報
+
+実装。
+
+- 官報の公開ページを毎日巡回する
+- HTML または PDF から法令名、法令番号、公布日を抽出する
+- 抽出できない場合も raw document として保存する
+
+### 4.3 内閣官房 国会提出法案
+
+用途。
+
+- 内閣提出法案
+- 法律案本文
+- 理由
+- 概要
+- 要綱
+- 新旧対照表
+- 参照条文
+
+実装。
+
+- 国会回次ごとのページを巡回する
+- 法案単位で資料 URL を保存する
+- PDF は `documents` として保存する
+
+### 4.4 衆議院 議案情報
+
+用途。
+
+- 提出法案
+- 議案番号
+- 提出日
+- 審議経過
+- 修正案
+- 衆議院通過状況
+
+実装。
+
+- 国会回次ごとの議案一覧を巡回する
+- 法案名と議案番号で既存 `bills` と突合する
+- 状態変更を `bill_events` に追加する
+
+### 4.5 参議院 議案情報
+
+用途。
+
+- 参議院での審議状況
+- 可決状況
+- 否決
+- 継続審査
+- 廃案
+
+実装。
+
+- 国会回次ごとの議案一覧を巡回する
+- 衆議院側のデータと統合する
+- 状態変更を `bill_events` に追加する
+
+### 4.6 e-Gov パブリックコメント
+
+用途。
+
+- 意見募集開始
+- 意見募集終了
+- 結果公表
+- 関連命令・省令案
+
+実装。
+
+- 新着一覧を巡回する
+- 法令名、案件名、省庁、募集期間、結果 URL を保存する
+- 法案・法令と名称類似で紐付ける
+
+## 5. Update Frequency
+
+| Source                   | Frequency |
+| ------------------------ | --------- |
+| 官報                     | daily     |
+| 内閣官房                 | daily     |
+| 衆議院                   | daily     |
+| 参議院                   | daily     |
+| e-Gov 法令 API           | daily     |
+| e-Gov パブリックコメント | daily     |
+
+デフォルト実行時刻は JST 06:00。
+
+## 6. Core Entities
+
+### 6.1 Bill
+
+法案を表す。
+
+```ts
+type BillStatus =
+  | "draft"
+  | "public_comment"
+  | "submitted"
+  | "committee_review"
+  | "passed_lower_house"
+  | "passed_upper_house"
+  | "passed_diet"
+  | "promulgated"
+  | "enforced"
+  | "withdrawn"
+  | "rejected"
+  | "expired"
+  | "unknown"
+
+interface Bill {
+  id: string
+  title: string
+  titleKana?: string
+  billNumber?: string
+  dietSession?: number
+  proposerType?: "cabinet" | "representative" | "councillor" | "unknown"
+  proposerName?: string
+  ministry?: string
+  category?: string
+  status: BillStatus
+  submittedAt?: string
+  passedLowerHouseAt?: string
+  passedUpperHouseAt?: string
+  enactedAt?: string
+  promulgatedAt?: string
+  enforcedAt?: string
+  sourceUrl?: string
+  createdAt: string
+  updatedAt: string
 }
 ```
-
-### 3. GitHub Pages の設定
-
-1. リポジトリの **Settings** → **Pages** へ移動
-2. **Source** を「GitHub Actions」に設定
-
-## ディレクトリ構成
-
-```
-.
-├── app/
-│   ├── layout.tsx      # ルートレイアウト
-│   ├── page.tsx        # ホームページ
-│   └── reset.css       # CSSリセット
-├── .github/
-│   └── workflows/
-│       ├── lint.yml    # リント自動実行
-│       └── deploy.yml  # GitHub Pages 自動デプロイ
-├── next.config.js      # Next.js 設定
-├── tsconfig.json       # TypeScript 設定
-├── eslint.config.mjs   # ESLint 設定
-└── .prettierrc.json    # Prettier 設定
-```
-
-## スクリプト
-
-| コマンド | 説明 |
-|---------|------|
-| `pnpm dev` | 開発サーバーを起動 |
-| `pnpm build` | 静的サイトをビルド（`/out` に出力） |
-| `pnpm lint` | ESLint を実行 |
-| `pnpm format` | Prettier でコードをフォーマット |
-| `pnpm typecheck` | TypeScript の型チェック |
-
-## 機能
-
-- **静的サイト生成** - `next build` で `/out` に HTML を出力
-- **自動デプロイ** - main ブランチへの push で GitHub Pages に自動デプロイ
-- **自動リント** - push 時に ESLint / Prettier チェックを実行
-- **依存関係の自動更新** - Dependabot による週次チェック
-- **エディタ設定** - VS Code での自動フォーマット設定済み
-
-## ライセンス
-
-ISC
