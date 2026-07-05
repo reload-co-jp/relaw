@@ -2,6 +2,7 @@ import { FC } from "react"
 import {
   getBillsUnderDeliberation,
   getEnactedBills,
+  getOpenPublicComments,
   getRecentlyPromulgatedLaws,
   getRecentlySubmittedBills,
   getUpcomingEnforcementLaws,
@@ -9,6 +10,7 @@ import {
 import { Section } from "components/elements/section"
 import { BillList } from "components/blocks/bill-list"
 import { LawList } from "components/blocks/law-list"
+import { PublicCommentList } from "components/blocks/public-comment-list"
 
 const Page: FC = () => {
   const submitted = getRecentlySubmittedBills()
@@ -16,6 +18,7 @@ const Page: FC = () => {
   const enacted = getEnactedBills()
   const promulgated = getRecentlyPromulgatedLaws()
   const upcoming = getUpcomingEnforcementLaws()
+  const openComments = getOpenPublicComments()
   return (
     <>
       <Section title="新しく提出された法案" count={submitted.length}>
@@ -32,6 +35,9 @@ const Page: FC = () => {
       </Section>
       <Section title="近日施行される法令" count={upcoming.length}>
         <LawList laws={upcoming} />
+      </Section>
+      <Section title="募集中のパブリックコメント" count={openComments.length}>
+        <PublicCommentList comments={openComments} />
       </Section>
     </>
   )

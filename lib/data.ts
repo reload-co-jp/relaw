@@ -83,6 +83,9 @@ export const getEnactedBills = (): Bill[] =>
     ["passed_diet", "promulgated", "enforced"].includes(bill.status)
   )
 
+export const getOpenPublicComments = (): PublicComment[] =>
+  getPublicComments().filter((comment) => comment.status === "open")
+
 export const getRecentlyPromulgatedLaws = (): Law[] =>
   getLaws().filter(
     (law) =>
