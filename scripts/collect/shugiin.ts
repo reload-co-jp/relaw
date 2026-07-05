@@ -104,15 +104,21 @@ export const collectShugiin = async (): Promise<CollectorResult> => {
       bills = result.collection
       if (result.changed) updated += 1
 
-      // 参議院側で正確な提出日イベントを持つ場合は暫定イベントを作らない
-      const hasSubmittedEvent = events.some(
-        (event) => event.billId === billId && event.type === "submitted"
-      )
-      if (
-        (statusChanged || !existing) &&
-        eventTypeByStatus[status] &&
-        !(eventTypeByStatus[status] === "submitted" && hasSubmittedEvent)
-      ) {
+      // 参議院明細側で正確な日付のイベントを持つ場合は暫定イベントを作らない
+      const accurateTypes: BillEvent["type"][] = [
+        "submitted",
+        "committee_referral",
+        "passed_lower_house",
+        "passed_diet",
+      ]
+      const eventType = eventTypeByStatus[status]
+      const hasAccurateEvent =
+        eventType !== undefined &&
+        accurateTypes.includes(eventType) &&
+        events.some(
+          (event) => event.billId === billId && event.type === eventType
+        )
+      if ((statusChanged || !existing) && eventType && !hasAccurateEvent) {
         const event: BillEvent = {
           id: `event-${billId}-${status}-${today}`,
           billId,
