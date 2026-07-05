@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "collect": "node scripts/collect/index.ts",
     "dev": "next dev",
     "lint": "eslint",
     "build": "next build",

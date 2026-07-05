@@ -160,9 +160,24 @@ data/
 
 デフォルト実行時刻は JST 06:00。バッチ実行 → JSON 更新 → 再ビルド・デプロイまでを 1 サイクルとする。
 
-## 8. Core Entities
+## 8. Development
 
-### 8.1 Bill
+```sh
+pnpm install
+pnpm collect    # 収集バッチを実行し data/*.json を更新 (Node 24, 追加依存なし)
+pnpm dev        # 開発サーバー
+pnpm build      # 静的サイトを out/ に生成
+pnpm lint
+pnpm typecheck
+```
+
+- 収集対象の国会回次は `COLLECT_SESSIONS` (カンマ区切り) で指定する。デフォルトは `scripts/collect/config.ts` を参照
+- e-Gov 法令 API の取得範囲は `COLLECT_LAW_WINDOW_DAYS` (公布日の下限、デフォルト 730 日) で指定する
+- `.github/workflows/collect.yml` が毎日 JST 06:00 に収集バッチを実行し、`data/` の差分を main にコミットする。push を契機に GitHub Pages へ再デプロイされる
+
+## 9. Core Entities
+
+### 9.1 Bill
 
 法案を表す。`data/bills.json` に配列で保存する。
 
