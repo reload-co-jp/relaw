@@ -4,7 +4,7 @@ export const siteName = "Relaw"
 export const siteDescription =
   "法案、法令、パブリックコメントを横断して、提出から公布・施行までの政策ライフサイクルを追跡できるモニタリングシステム。"
 export const siteUrl = (
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://relaw.jp"
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://relaw.reload.co.jp"
 ).replace(/\/$/, "")
 
 export const absoluteUrl = (path: string): string =>
