@@ -10,6 +10,7 @@ export const metadata = {
 const navLinks = [
   { href: "/", label: "ホーム" },
   { href: "/bills/", label: "法案" },
+  { href: "/gantt/", label: "ガントチャート" },
   { href: "/laws/", label: "法令" },
   { href: "/public-comments/", label: "パブリックコメント" },
 ]
