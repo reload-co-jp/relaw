@@ -32,12 +32,26 @@ export const billStatusColors: Record<BillStatus, string> = {
   passed_lower_house: "#9db8d2",
   passed_upper_house: "#9db8d2",
   passed_diet: "#8fbf9f",
-  promulgated: "#8fbf9f",
+  promulgated: "#74b3ae",
   enforced: "#79a98b",
   withdrawn: "#c08a8a",
   rejected: "#c08a8a",
   expired: "#77726a",
   unknown: "#77726a",
+}
+
+/** 法案ライフサイクルの主要段階 */
+export const billStages = ["提出", "審議", "成立", "公布", "施行"] as const
+
+/** 現在ステータス → 到達済み段階 (ステッパー非対象の状態は undefined) */
+export const billStageIndex: Partial<Record<BillStatus, number>> = {
+  submitted: 0,
+  committee_review: 1,
+  passed_lower_house: 1,
+  passed_upper_house: 1,
+  passed_diet: 2,
+  promulgated: 3,
+  enforced: 4,
 }
 
 export const proposerTypeLabels: Record<

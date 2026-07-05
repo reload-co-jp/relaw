@@ -2,6 +2,7 @@ import { FC, Fragment } from "react"
 import Link from "next/link"
 import { Badge } from "components/elements/badge"
 import { EmptyMessage } from "components/elements/section"
+import { Stage, StageProgress } from "components/elements/stage-progress"
 
 export interface EntryBadge {
   label: string
@@ -23,6 +24,7 @@ export interface Entry {
   meta: string[]
   summary?: string
   links?: EntryLink[]
+  stage?: Stage
 }
 
 const EntryTitle: FC<{ entry: Entry }> = ({ entry }) => {
@@ -57,6 +59,7 @@ export const EntryList: FC<{ entries: Entry[] }> = ({ entries }) => {
               <Badge key={badge.label} label={badge.label} color={badge.color} />
             ))}
             <EntryTitle entry={entry} />
+            {entry.stage && <StageProgress {...entry.stage} />}
           </div>
           {entry.summary && <p className="card-summary">{entry.summary}</p>}
           {entry.meta.length > 0 && (

@@ -3,6 +3,8 @@ import { notFound } from "next/navigation"
 import { getBill, getBillDocuments, getBillEvents, getBills } from "lib/data"
 import {
   billEventTypeLabels,
+  billStages,
+  billStageIndex,
   billStatusColors,
   billStatusLabels,
   documentTypeLabels,
@@ -10,6 +12,7 @@ import {
 } from "lib/labels"
 import { Badge } from "components/elements/badge"
 import { EmptyMessage, Section } from "components/elements/section"
+import { StageFlow } from "components/elements/stage-progress"
 
 export const generateStaticParams = () =>
   getBills().map((bill) => ({ id: bill.id }))
@@ -55,6 +58,12 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
           />
         </div>
         <h2 className="detail-title">{bill.title}</h2>
+        {billStageIndex[bill.status] !== undefined && (
+          <StageFlow
+            steps={billStages}
+            current={billStageIndex[bill.status] as number}
+          />
+        )}
       </div>
       <Section title="基本情報">
         <div className="detail-panel">

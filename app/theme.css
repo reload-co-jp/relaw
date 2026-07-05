@@ -303,6 +303,100 @@ a.card-title::after {
   margin: 0 0.5rem;
 }
 
+/* ---- stage progress ---- */
+
+.stage-track {
+  align-items: center;
+  display: inline-flex;
+  gap: 3px;
+  margin-left: auto;
+  position: relative;
+  z-index: 1;
+}
+
+.stage-seg {
+  background: var(--line-strong);
+  border-radius: 2px;
+  height: 3px;
+  width: 0.875rem;
+}
+
+.stage-seg.done {
+  background: var(--gold);
+}
+
+.stage-track-label {
+  color: var(--text-faint);
+  font-size: 0.6875rem;
+  letter-spacing: 0.06em;
+  margin-left: 0.375rem;
+}
+
+.stage-flow {
+  display: flex;
+  list-style: none;
+  margin: 1.5rem 0 0;
+  padding: 0;
+}
+
+.stage-flow li {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 0.5rem;
+  position: relative;
+}
+
+.stage-flow li:not(:first-child)::before {
+  background: var(--line-strong);
+  content: "";
+  height: 1px;
+  left: calc(-50% + 0.5rem);
+  position: absolute;
+  right: calc(50% + 0.5rem);
+  top: 0.34375rem;
+}
+
+.stage-flow li.done:not(:first-child)::before,
+.stage-flow li.current:not(:first-child)::before {
+  background: var(--gold-line);
+}
+
+.stage-dot {
+  background: var(--surface);
+  border: 1px solid var(--line-strong);
+  border-radius: 50%;
+  height: 0.6875rem;
+  width: 0.6875rem;
+}
+
+.stage-flow li.done .stage-dot {
+  background: var(--gold);
+  border-color: var(--gold);
+}
+
+.stage-flow li.current .stage-dot {
+  background: var(--gold);
+  border-color: var(--gold-strong);
+  box-shadow: 0 0 0 4px var(--gold-soft);
+}
+
+.stage-label {
+  color: var(--text-faint);
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+}
+
+.stage-flow li.done .stage-label {
+  color: var(--text-muted);
+}
+
+.stage-flow li.current .stage-label {
+  color: var(--gold-strong);
+  font-weight: 600;
+}
+
 /* ---- badge ---- */
 
 .badge {
