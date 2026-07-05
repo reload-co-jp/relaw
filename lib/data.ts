@@ -16,7 +16,7 @@ const readJson = <T>(filename: string): T[] =>
 
 export const getBills = (): Bill[] =>
   readJson<Bill>("bills.json").sort((a, b) =>
-    (b.submittedAt ?? b.createdAt).localeCompare(a.submittedAt ?? a.createdAt)
+    b.updatedAt.localeCompare(a.updatedAt)
   )
 
 export const getBill = (id: string): Bill | undefined =>
@@ -29,9 +29,7 @@ export const getBillEvents = (billId: string): BillEvent[] =>
 
 export const getLaws = (): Law[] =>
   readJson<Law>("laws.json").sort((a, b) =>
-    (b.promulgatedAt ?? b.createdAt).localeCompare(
-      a.promulgatedAt ?? a.createdAt
-    )
+    b.updatedAt.localeCompare(a.updatedAt)
   )
 
 export const getLaw = (id: string): Law | undefined =>
@@ -55,7 +53,7 @@ export const getLawDocuments = (lawId: string): Document[] =>
 
 export const getPublicComments = (): PublicComment[] =>
   readJson<PublicComment>("public-comments.json").sort((a, b) =>
-    (b.startAt ?? b.createdAt).localeCompare(a.startAt ?? a.createdAt)
+    b.updatedAt.localeCompare(a.updatedAt)
   )
 
 const DASHBOARD_WINDOW_DAYS = 30
