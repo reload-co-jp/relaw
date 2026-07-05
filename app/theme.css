@@ -688,6 +688,53 @@ a.card-title::after {
   text-underline-offset: 0.25em;
 }
 
+/* ---- law text ---- */
+
+.law-text {
+  max-height: 36rem;
+  overflow-y: auto;
+}
+
+.law-text-heading {
+  color: var(--text);
+  font-family: var(--serif);
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  margin: 1.75rem 0 0.75rem;
+}
+
+.law-text-heading:first-child {
+  margin-top: 0;
+}
+
+.law-text-heading-1,
+.law-text-heading-2 {
+  font-size: 1rem;
+}
+
+.law-text-heading-3,
+.law-text-heading-4,
+.law-text-heading-5 {
+  font-size: 0.875rem;
+}
+
+.law-text-caption {
+  color: var(--text-faint);
+  font-size: 0.8125rem;
+  letter-spacing: 0.05em;
+  margin: 1.25rem 0 0.25rem;
+  padding-left: 1.25rem;
+}
+
+.law-text-paragraph,
+.law-text-item {
+  color: var(--text-muted);
+  font-size: 0.875rem;
+  letter-spacing: 0.04em;
+  line-height: 1.9;
+  margin: 0 0 0.625rem;
+}
+
 /* ---- timeline ---- */
 
 .timeline {

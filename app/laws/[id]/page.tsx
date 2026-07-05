@@ -6,6 +6,7 @@ import {
   getLaw,
   getLawDocuments,
   getLaws,
+  getLawText,
   getLawVersions,
 } from "lib/data"
 import {
@@ -36,6 +37,7 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
   if (!law) notFound()
   const versions = getLawVersions(law.id)
   const documents = getLawDocuments(law.id)
+  const lawText = getLawText(law.id)
   const relatedBill = law.billId ? getBill(law.billId) : undefined
 
   const details = (
@@ -117,6 +119,46 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
               </li>
             ))}
           </ol>
+        )}
+      </Section>
+      <Section title="条文">
+        {!lawText || lawText.blocks.length === 0 ? (
+          <EmptyMessage>条文データなし</EmptyMessage>
+        ) : (
+          <div className="detail-panel law-text">
+            {lawText.blocks.map((block, index) => {
+              if (block.type === "heading")
+                return (
+                  <h4
+                    key={index}
+                    className={`law-text-heading law-text-heading-${block.level ?? 1}`}
+                  >
+                    {block.text}
+                  </h4>
+                )
+              if (block.type === "caption")
+                return (
+                  <p key={index} className="law-text-caption">
+                    {block.text}
+                  </p>
+                )
+              if (block.type === "item")
+                return (
+                  <p
+                    key={index}
+                    className="law-text-item"
+                    style={{ paddingLeft: `${(block.level ?? 1) * 1.25}rem` }}
+                  >
+                    {block.text}
+                  </p>
+                )
+              return (
+                <p key={index} className="law-text-paragraph">
+                  {block.text}
+                </p>
+              )
+            })}
+          </div>
         )}
       </Section>
       <Section title="関連資料">

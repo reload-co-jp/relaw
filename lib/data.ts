@@ -1,10 +1,11 @@
-import { readFileSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import type {
   Bill,
   BillEvent,
   Document,
   Law,
+  LawText,
   LawVersion,
   PublicComment,
 } from "./types"
@@ -63,6 +64,12 @@ export const getLawVersions = (lawId: string): LawVersion[] =>
     .sort((a, b) =>
       (a.promulgatedAt ?? "").localeCompare(b.promulgatedAt ?? "")
     )
+
+export const getLawText = (lawId: string): LawText | undefined => {
+  const path = join(process.cwd(), "data", "law-texts", `${lawId}.json`)
+  if (!existsSync(path)) return undefined
+  return JSON.parse(readFileSync(path, "utf-8")) as LawText
+}
 
 export const getDocuments = (): Document[] =>
   readJson<Document>("documents.json")

@@ -106,6 +106,20 @@ export interface LawVersion {
   createdAt: string
 }
 
+export interface LawTextBlock {
+  type: "heading" | "caption" | "paragraph" | "item"
+  level?: number
+  text: string
+}
+
+export interface LawText {
+  id: string
+  lawId: string
+  revisionId?: string
+  fetchedAt: string
+  blocks: LawTextBlock[]
+}
+
 export type DocumentType =
   | "bill_text"
   | "reason"

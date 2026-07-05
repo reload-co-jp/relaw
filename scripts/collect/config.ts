@@ -7,3 +7,8 @@ export const dietSessions: number[] = process.env.COLLECT_SESSIONS
 export const lawPromulgationWindowDays = Number(
   process.env.COLLECT_LAW_WINDOW_DAYS ?? 730
 )
+
+/** 1 回の収集で法令本文を取得する最大件数 */
+export const lawTextFetchLimit = Number(
+  process.env.COLLECT_LAW_TEXT_LIMIT ?? 100
+)

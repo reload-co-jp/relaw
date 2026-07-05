@@ -1,4 +1,5 @@
 import { collectEgovLaws } from "./egov-laws.ts"
+import { collectEgovLawText } from "./egov-law-text.ts"
 import { collectKanpo } from "./kanpo.ts"
 import { collectNaikaku } from "./naikaku.ts"
 import { collectShugiin } from "./shugiin.ts"
@@ -8,6 +9,7 @@ import type { CollectorResult } from "./lib.ts"
 
 const collectors: (() => Promise<CollectorResult>)[] = [
   collectEgovLaws,
+  collectEgovLawText, // laws.json 更新後に本文を取得する
   collectKanpo,
   collectNaikaku,
   collectShugiin, // 衆議院 → 参議院の順で統合する
