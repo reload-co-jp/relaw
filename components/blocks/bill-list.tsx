@@ -1,6 +1,10 @@
 import { FC } from "react"
 import type { Bill } from "lib/types"
-import { billStatusColors, billStatusLabels } from "lib/labels"
+import {
+  billStatusColors,
+  billStatusLabels,
+  proposerTypeLabels,
+} from "lib/labels"
 import { Entry, EntryList } from "components/blocks/entry-list"
 
 export const billEntry = (bill: Bill): Entry => ({
@@ -15,6 +19,8 @@ export const billEntry = (bill: Bill): Entry => ({
   ],
   meta: [
     bill.billNumber,
+    bill.proposerName ??
+      (bill.proposerType && proposerTypeLabels[bill.proposerType]),
     bill.ministry,
     bill.submittedAt && `提出 ${bill.submittedAt}`,
     bill.promulgatedAt && `公布 ${bill.promulgatedAt}`,

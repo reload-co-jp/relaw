@@ -1,4 +1,5 @@
 import type {
+  Bill,
   BillEventType,
   BillStatus,
   DocumentType,
@@ -37,6 +38,16 @@ export const billStatusColors: Record<BillStatus, string> = {
   rejected: "#c08a8a",
   expired: "#77726a",
   unknown: "#77726a",
+}
+
+export const proposerTypeLabels: Record<
+  NonNullable<Bill["proposerType"]>,
+  string
+> = {
+  cabinet: "内閣提出",
+  representative: "衆議院議員提出",
+  councillor: "参議院議員提出",
+  unknown: "不明",
 }
 
 export const billEventTypeLabels: Record<BillEventType, string> = {

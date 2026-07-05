@@ -6,6 +6,7 @@ import {
   billStatusColors,
   billStatusLabels,
   documentTypeLabels,
+  proposerTypeLabels,
 } from "lib/labels"
 import { Badge } from "components/elements/badge"
 import { EmptyMessage, Section } from "components/elements/section"
@@ -22,13 +23,6 @@ export const generateMetadata = async ({
   return { title: bill ? `${bill.title} | Relaw` : "Relaw" }
 }
 
-const proposerTypeLabels = {
-  cabinet: "内閣提出",
-  representative: "衆議院議員提出",
-  councillor: "参議院議員提出",
-  unknown: "不明",
-}
-
 const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
   const bill = getBill((await params).id)
   if (!bill) notFound()
@@ -40,6 +34,7 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
       ["議案番号", bill.billNumber],
       ["国会回次", bill.dietSession && `第${bill.dietSession}回`],
       ["提出者", bill.proposerType && proposerTypeLabels[bill.proposerType]],
+      ["発議者", bill.proposerName],
       ["所管", bill.ministry],
       ["提出日", bill.submittedAt],
       ["衆議院通過日", bill.passedLowerHouseAt],
