@@ -34,6 +34,7 @@ interface PlenaryProgress {
 /** 明細ページから抽出した審議経過 */
 interface MeisaiInfo {
   submittedAt?: string
+  summary?: string
   lowerCommittee: CommitteeProgress
   upperCommittee: CommitteeProgress
   lowerPlenary: PlenaryProgress
@@ -84,12 +85,19 @@ export const parseMeisai = (html: string): MeisaiInfo => {
   const upperCommittee = committeeProgress("参議院")
   const lowerPlenary = plenaryProgress("衆議院")
   const upperPlenary = plenaryProgress("参議院")
+  // 議案要旨: 「（○○委員会） 件名…要旨」の見出しを除いた本文
+  const summary = text
+    .match(/議案要旨\s*([\s\S]*?)\s*(?:議案要旨のPDF|議案等のファイル|利用案内|$)/)?.[1]
+    ?.replace(/^（[^）]*）\s*/, "")
+    .replace(/^[^。]{0,150}?要旨\s+/, "")
+    .trim()
   // 「衆議院から受領／提出日」等を除外し、議案そのものの提出日のみ拾う
   const submitted = text.match(/(?:^|[^／])提出日\s*(\S+)/)
   const promulgated = text.match(/公布年月日\s*(\S+)/)
   const lawNumber = text.match(/法律番号\s*(\d+)/)
   return {
     submittedAt: submitted ? parseJapaneseDate(submitted[1]) : undefined,
+    summary: summary || undefined,
     lowerCommittee,
     upperCommittee,
     lowerPlenary,
@@ -194,6 +202,7 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
           createdAt: nowIso(),
         }),
         status: nextStatus,
+        summary: info.summary ?? existing?.summary,
         submittedAt: info.submittedAt ?? existing?.submittedAt,
         passedLowerHouseAt:
           info.passedLowerHouseAt ?? existing?.passedLowerHouseAt,

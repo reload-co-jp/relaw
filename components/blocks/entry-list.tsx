@@ -21,6 +21,7 @@ export interface Entry {
   externalUrl?: string
   badges: EntryBadge[]
   meta: string[]
+  summary?: string
   links?: EntryLink[]
 }
 
@@ -57,6 +58,7 @@ export const EntryList: FC<{ entries: Entry[] }> = ({ entries }) => {
             ))}
             <EntryTitle entry={entry} />
           </div>
+          {entry.summary && <p className="card-summary">{entry.summary}</p>}
           {entry.meta.length > 0 && (
             <p className="card-meta">
               {entry.meta.map((item, index) => (

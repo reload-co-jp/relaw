@@ -19,6 +19,7 @@ export const billEntry = (bill: Bill, latestEvent?: BillEvent): Entry => ({
       color: billStatusColors[bill.status],
     },
   ],
+  summary: bill.summary,
   meta: [
     bill.billNumber,
     bill.proposerName ??

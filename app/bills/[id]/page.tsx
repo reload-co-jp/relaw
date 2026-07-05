@@ -80,6 +80,13 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
           )}
         </div>
       </Section>
+      {bill.summary && (
+        <Section title="概要">
+          <div className="detail-panel">
+            <p className="detail-summary">{bill.summary}</p>
+          </div>
+        </Section>
+      )}
       <Section title="時系列イベント">
         {events.length === 0 ? (
           <EmptyMessage>イベントなし</EmptyMessage>

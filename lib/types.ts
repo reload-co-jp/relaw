@@ -24,6 +24,7 @@ export interface Bill {
   ministry?: string
   category?: string
   status: BillStatus
+  summary?: string
   submittedAt?: string
   passedLowerHouseAt?: string
   passedUpperHouseAt?: string
