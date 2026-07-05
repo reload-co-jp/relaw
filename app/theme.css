@@ -178,6 +178,7 @@ body {
   border: 1px solid var(--line);
   border-radius: 0.5rem;
   padding: 0.9375rem 1.25rem;
+  position: relative;
   transition:
     border-color 0.25s,
     background 0.25s;
@@ -205,6 +206,17 @@ body {
 
 a.card-title:hover {
   color: var(--gold-strong);
+}
+
+a.card-title::after {
+  content: "";
+  inset: 0;
+  position: absolute;
+}
+
+.card .text-link {
+  position: relative;
+  z-index: 1;
 }
 
 .card-meta {
