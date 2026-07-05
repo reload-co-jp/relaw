@@ -13,8 +13,14 @@ import { LifecycleGuide } from "components/blocks/lifecycle-guide"
 import { BillList } from "components/blocks/bill-list"
 import { LawList } from "components/blocks/law-list"
 import { PublicCommentList } from "components/blocks/public-comment-list"
+import { pageMetadata, siteDescription } from "lib/seo"
 
 const FIRST_VIEW_LIMIT = 5
+
+export const metadata = pageMetadata({
+  description: siteDescription,
+  path: "/",
+})
 
 const Page: FC = () => {
   const submitted = getRecentlySubmittedBills()

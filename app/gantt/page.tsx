@@ -5,10 +5,14 @@ import type { Bill } from "lib/types"
 import { billStatusLabels } from "lib/labels"
 import { Section } from "components/elements/section"
 import { LifecycleGuide } from "components/blocks/lifecycle-guide"
+import { pageMetadata } from "lib/seo"
 
-export const metadata = {
-  title: "ガントチャート | Relaw",
-}
+export const metadata = pageMetadata({
+  title: "ガントチャート",
+  description:
+    "法案の提出、審議、成立、公布、施行までの進行状況をガントチャートで可視化。政策ライフサイクルの遷移を時系列で確認できます。",
+  path: "/gantt/",
+})
 
 // dataviz 検証済みパレット (dark surface #151920: 明度バンド・彩度・CVD・コントラスト全PASS)
 const PHASE_COLORS = {

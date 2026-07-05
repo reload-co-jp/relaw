@@ -1,10 +1,41 @@
 import Link from "next/link"
+import { siteDescription, siteName, siteUrl } from "lib/seo"
 import "./reset.css"
 import "./theme.css"
 
 export const metadata = {
-  title: "Relaw",
-  description: "法案・法令ライフサイクルモニタリングシステム",
+  metadataBase: new URL(siteUrl),
+  title: {
+    default: siteName,
+    template: `%s | ${siteName}`,
+  },
+  description: siteDescription,
+  applicationName: siteName,
+  keywords: [
+    "法案",
+    "法令",
+    "パブリックコメント",
+    "政策",
+    "国会",
+    "官報",
+    "e-Gov",
+  ],
+  authors: [{ name: siteName }],
+  creator: siteName,
+  publisher: siteName,
+  openGraph: {
+    title: siteName,
+    description: siteDescription,
+    url: siteUrl,
+    siteName,
+    locale: "ja_JP",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: siteName,
+    description: siteDescription,
+  },
 }
 
 const navLinks = [

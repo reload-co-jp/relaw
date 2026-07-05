@@ -17,6 +17,7 @@ import {
   lawTypeColor,
   lawTypeLabels,
 } from "lib/labels"
+import { compactText, pageMetadata } from "lib/seo"
 import { Badge } from "components/elements/badge"
 import { EmptyMessage, Section } from "components/elements/section"
 
@@ -29,7 +30,27 @@ export const generateMetadata = async ({
   params: Promise<{ id: string }>
 }) => {
   const law = getLaw((await params).id)
-  return { title: law ? `${law.title} | Relaw` : "Relaw" }
+  if (!law)
+    return pageMetadata({
+      title: "法令",
+      description: "指定された法令は見つかりません。",
+      path: "/laws/",
+    })
+  const description = compactText(
+    [
+      law.lawNumber,
+      law.promulgatedAt && `公布 ${law.promulgatedAt}`,
+      law.enforcedAt && `施行 ${law.enforcedAt}`,
+      lawStatusLabels[law.status],
+    ]
+      .filter(Boolean)
+      .join("。")
+  )
+  return pageMetadata({
+    title: law.title,
+    description,
+    path: `/laws/${law.id}/`,
+  })
 }
 
 const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {

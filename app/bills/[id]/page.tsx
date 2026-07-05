@@ -13,6 +13,7 @@ import {
   proposerTypeLabels,
 } from "lib/labels"
 import { formatSummary } from "lib/format"
+import { compactText, pageMetadata } from "lib/seo"
 import { Badge } from "components/elements/badge"
 import { EmptyMessage, Section } from "components/elements/section"
 import { StageFlow } from "components/elements/stage-progress"
@@ -26,7 +27,29 @@ export const generateMetadata = async ({
   params: Promise<{ id: string }>
 }) => {
   const bill = getBill((await params).id)
-  return { title: bill ? `${bill.title} | Relaw` : "Relaw" }
+  if (!bill)
+    return pageMetadata({
+      title: "法案",
+      description: "指定された法案は見つかりません。",
+      path: "/bills/",
+    })
+  const description = compactText(
+    bill.summary ??
+      [
+        bill.billNumber,
+        bill.ministry,
+        bill.submittedAt && `提出 ${bill.submittedAt}`,
+        bill.promulgatedAt && `公布 ${bill.promulgatedAt}`,
+        billStatusLabels[bill.status],
+      ]
+        .filter(Boolean)
+        .join("。")
+  )
+  return pageMetadata({
+    title: bill.title,
+    description,
+    path: `/bills/${bill.id}/`,
+  })
 }
 
 const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
