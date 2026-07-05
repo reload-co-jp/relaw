@@ -27,6 +27,16 @@ export const getBillEvents = (billId: string): BillEvent[] =>
     .filter((event) => event.billId === billId)
     .sort((a, b) => a.date.localeCompare(b.date))
 
+export const getLatestBillEvents = (): Map<string, BillEvent> => {
+  const latest = new Map<string, BillEvent>()
+  for (const event of readJson<BillEvent>("bill-events.json")) {
+    const current = latest.get(event.billId)
+    if (!current || event.date.localeCompare(current.date) > 0)
+      latest.set(event.billId, event)
+  }
+  return latest
+}
+
 export const getLaws = (): Law[] =>
   readJson<Law>("laws.json").sort((a, b) =>
     b.updatedAt.localeCompare(a.updatedAt)
