@@ -1,0 +1,392 @@
+{
+  "id": "text-law-507CO0000000039",
+  "lawId": "law-507CO0000000039",
+  "revisionId": "507CO0000000039_20250401_000000000000000",
+  "fetchedAt": "2026-07-05T23:35:51.772Z",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "内閣は、食料供給困難事態対策法（令和六年法律第六十一号）第二条第一号、第二号、第六号及び第七号の規定に基づき、この政令を制定する。"
+    },
+    {
+      "type": "caption",
+      "text": "（特定食料）"
+    },
+    {
+      "type": "paragraph",
+      "text": "第一条　食料供給困難事態対策法（以下「法」という。）第二条第一号の政令で定める農林水産物は、次に掲げる農林水産物とする。"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "一　米穀"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二　小麦"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "三　大豆"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "四　菜種又は油やしの実"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "五　てん菜又はさとうきび"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "六　生乳（しぼったままの牛乳をいう。）"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "七　牛、豚又は鶏の肉"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "八　鶏卵"
+    },
+    {
+      "type": "paragraph",
+      "text": "２　法第二条第一号の政令で定める食品は、次に掲げる食品とする。"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "一　小麦粉"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二　植物油脂（前項第三号又は第四号に掲げる農林水産物を原材料とするものに限る。）"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "三　砂糖（前項第五号に掲げる農林水産物を原材料とするものに限る。）"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "四　飲用牛乳（加工乳（前項第六号に掲げる農林水産物を原材料とするものに限る。）を含む。）又は乳製品（同号に掲げる農林水産物を原材料とするものに限る。）"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "五　鶏卵から卵殻を取り除いたもの（乾燥その他保存に適する処理をしたものを含む。）"
+    },
+    {
+      "type": "caption",
+      "text": "（特定資材）"
+    },
+    {
+      "type": "paragraph",
+      "text": "第二条　法第二条第二号の政令で定める資材は、次の各号に掲げる農林水産物の区分に応じ、当該各号に定める資材とする。"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "一　前条第一項第一号から第五号までに掲げる農林水産物　それぞれ当該農林水産物の生産に用いられる肥料、農薬（農薬取締法（昭和二十三年法律第八十二号）第二条第一項に規定する農薬をいう。）又は種苗"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二　前条第一項第六号から第八号までに掲げる農林水産物　それぞれ当該農林水産物の生産に用いられる飼料（当該飼料に供する飼料作物の種苗を含む。）又は動物用医薬品（医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号）第二条第一項に規定する医薬品であって専ら動物のために使用することが目的とされているものをいう。）"
+    },
+    {
+      "type": "caption",
+      "text": "（指定行政機関）"
+    },
+    {
+      "type": "paragraph",
+      "text": "第三条　法第二条第六号の政令で定める機関は、次に掲げる機関とする。"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "一　内閣府"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二　国家公安委員会"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "三　警察庁"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "四　金融庁"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "五　消費者庁"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "六　こども家庭庁"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "七　デジタル庁"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "八　総務省"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "九　法務省"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十　外務省"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十一　財務省"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十二　国税庁"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十三　文部科学省"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十四　厚生労働省"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十五　検疫所"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十六　農林水産省"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十七　植物防疫所"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十八　那覇植物防疫事務所"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十九　動物検疫所"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十　動物医薬品検査所"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十一　経済産業省"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十二　資源エネルギー庁"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十三　中小企業庁"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十四　国土交通省"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十五　気象庁"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十六　海上保安庁"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十七　環境省"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十八　防衛省"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十九　防衛装備庁"
+    },
+    {
+      "type": "caption",
+      "text": "（指定地方行政機関）"
+    },
+    {
+      "type": "paragraph",
+      "text": "第四条　法第二条第七号の政令で定める国の地方行政機関は、次に掲げる機関とする。"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "一　沖縄総合事務局"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二　管区警察局"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "三　東京都警察情報通信部"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "四　北海道警察情報通信部"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "五　財務局"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "六　福岡財務支局"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "七　税関"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "八　沖縄地区税関"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "九　国税局"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十　沖縄国税事務所"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十一　地方農政局"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十二　北海道農政事務所"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十三　経済産業局"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十四　地方整備局"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十五　北海道開発局"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十六　地方運輸局"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十七　地方航空局"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十八　航空交通管制部"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "十九　管区気象台"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十　沖縄気象台"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十一　管区海上保安本部"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十二　地方環境事務所"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "二十三　地方防衛局"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "附　則"
+    },
+    {
+      "type": "paragraph",
+      "text": "この政令は、法の施行の日（令和七年四月一日）から施行する。"
+    }
+  ]
+}
