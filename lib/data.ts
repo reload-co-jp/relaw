@@ -22,10 +22,22 @@ export const getBills = (): Bill[] =>
 export const getBill = (id: string): Bill | undefined =>
   getBills().find((bill) => bill.id === id)
 
-export const getBillEvents = (billId: string): BillEvent[] =>
-  readJson<BillEvent>("bill-events.json")
-    .filter((event) => event.billId === billId)
-    .sort((a, b) => a.date.localeCompare(b.date))
+export const getBillEvents = (billId: string): BillEvent[] => {
+  const events = readJson<BillEvent>("bill-events.json").filter(
+    (event) => event.billId === billId
+  )
+  const bill = getBill(billId)
+  if (bill?.submittedAt && !events.some((event) => event.type === "submitted"))
+    events.push({
+      id: `event-${billId}-submitted-synthesized`,
+      billId,
+      type: "submitted",
+      date: bill.submittedAt,
+      sourceUrl: bill.sourceUrl,
+      createdAt: bill.createdAt,
+    })
+  return events.sort((a, b) => a.date.localeCompare(b.date))
+}
 
 export const getLatestBillEvents = (): Map<string, BillEvent> => {
   const latest = new Map<string, BillEvent>()

@@ -104,7 +104,15 @@ export const collectShugiin = async (): Promise<CollectorResult> => {
       bills = result.collection
       if (result.changed) updated += 1
 
-      if ((statusChanged || !existing) && eventTypeByStatus[status]) {
+      // 参議院側で正確な提出日イベントを持つ場合は暫定イベントを作らない
+      const hasSubmittedEvent = events.some(
+        (event) => event.billId === billId && event.type === "submitted"
+      )
+      if (
+        (statusChanged || !existing) &&
+        eventTypeByStatus[status] &&
+        !(eventTypeByStatus[status] === "submitted" && hasSubmittedEvent)
+      ) {
         const event: BillEvent = {
           id: `event-${billId}-${status}-${today}`,
           billId,

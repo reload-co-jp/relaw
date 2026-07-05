@@ -7,12 +7,13 @@
     "status": "promulgated",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219080219005.htm",
     "createdAt": "2026-07-05T00:39:21.940Z",
-    "updatedAt": "2026-07-05T00:39:23.189Z",
+    "updatedAt": "2026-07-05T08:44:18.540Z",
     "billNumber": "第219回国会 議案番号5",
     "passedLowerHouseAt": "2025-12-11",
     "passedUpperHouseAt": "2025-12-16",
     "enactedAt": "2025-12-16",
-    "promulgatedAt": "2025-12-24"
+    "promulgatedAt": "2025-12-24",
+    "submittedAt": "2025-12-08"
   },
   {
     "id": "bill-219-cas-6307f77d6021d601",
@@ -22,12 +23,13 @@
     "status": "promulgated",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219080219006.htm",
     "createdAt": "2026-07-05T00:39:21.940Z",
-    "updatedAt": "2026-07-05T00:39:23.408Z",
+    "updatedAt": "2026-07-05T08:44:18.760Z",
     "billNumber": "第219回国会 議案番号6",
     "passedLowerHouseAt": "2025-12-11",
     "passedUpperHouseAt": "2025-12-16",
     "enactedAt": "2025-12-16",
-    "promulgatedAt": "2025-12-24"
+    "promulgatedAt": "2025-12-24",
+    "submittedAt": "2025-12-08"
   },
   {
     "id": "bill-219-sangiin-01afee253b85e8fc",
@@ -36,7 +38,10 @@
     "createdAt": "2026-07-05T00:39:34.770Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217025.htm",
-    "updatedAt": "2026-07-05T00:39:34.770Z"
+    "updatedAt": "2026-07-05T08:43:00.256Z",
+    "billNumber": "第219回国会 議案番号25",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-04-11"
   },
   {
     "id": "bill-219-sangiin-01ce83e3576136c9",
@@ -45,7 +50,10 @@
     "createdAt": "2026-07-05T00:39:27.128Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219012.htm",
-    "updatedAt": "2026-07-05T00:39:27.128Z"
+    "updatedAt": "2026-07-05T08:42:51.465Z",
+    "billNumber": "第219回国会 議案番号12",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-12-08"
   },
   {
     "id": "bill-219-sangiin-0c41b35e8e33dd19",
@@ -54,7 +62,10 @@
     "createdAt": "2026-07-05T00:39:28.231Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219017.htm",
-    "updatedAt": "2026-07-05T00:39:28.231Z"
+    "updatedAt": "2026-07-05T08:42:52.816Z",
+    "billNumber": "第219回国会 議案番号17",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-12-15"
   },
   {
     "id": "bill-219-sangiin-1d61dfc890624cf6",
@@ -63,7 +74,10 @@
     "createdAt": "2026-07-05T00:39:26.472Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219009.htm",
-    "updatedAt": "2026-07-05T00:39:26.472Z"
+    "updatedAt": "2026-07-05T08:44:22.443Z",
+    "billNumber": "第219回国会 議案番号9",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-12-05"
   },
   {
     "id": "bill-219-sangiin-1ea907194e5c794e",
@@ -74,7 +88,10 @@
     "passedUpperHouseAt": "2025-11-28",
     "promulgatedAt": "2025-12-05",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090218001.htm",
-    "updatedAt": "2026-07-05T00:39:42.003Z"
+    "updatedAt": "2026-07-05T08:44:40.599Z",
+    "billNumber": "第219回国会 議案番号1",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-08-01"
   },
   {
     "id": "bill-219-sangiin-3f876593f937fa8c",
@@ -83,7 +100,10 @@
     "createdAt": "2026-07-05T00:39:42.877Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219100219004.htm",
-    "updatedAt": "2026-07-05T00:39:42.877Z"
+    "updatedAt": "2026-07-05T08:44:41.613Z",
+    "billNumber": "第219回国会 議案番号4",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-11-25"
   },
   {
     "id": "bill-219-sangiin-487416ed0ad6e379",
@@ -96,7 +116,8 @@
     "enactedAt": "2025-12-03",
     "promulgatedAt": "2025-12-10",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219080219001.htm",
-    "updatedAt": "2026-07-05T00:39:22.314Z"
+    "updatedAt": "2026-07-05T08:42:45.803Z",
+    "submittedAt": "2025-11-11"
   },
   {
     "id": "bill-219-sangiin-4c0381ea38cccbd3",
@@ -105,7 +126,10 @@
     "createdAt": "2026-07-05T00:39:34.335Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217023.htm",
-    "updatedAt": "2026-07-05T00:39:34.335Z"
+    "updatedAt": "2026-07-05T08:42:59.821Z",
+    "billNumber": "第219回国会 議案番号23",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-04-10"
   },
   {
     "id": "bill-219-sangiin-52241836b91df1cb",
@@ -114,7 +138,10 @@
     "createdAt": "2026-07-05T00:39:31.943Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217002.htm",
-    "updatedAt": "2026-07-05T00:39:31.943Z"
+    "updatedAt": "2026-07-05T08:44:29.024Z",
+    "billNumber": "第219回国会 議案番号2",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-01-29"
   },
   {
     "id": "bill-219-sangiin-5823d70eadb6c8b5",
@@ -123,7 +150,10 @@
     "createdAt": "2026-07-05T00:39:28.663Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219019.htm",
-    "updatedAt": "2026-07-05T00:39:28.663Z"
+    "updatedAt": "2026-07-05T08:42:53.337Z",
+    "billNumber": "第219回国会 議案番号19",
+    "proposerType": "councillor",
+    "submittedAt": "2025-12-15"
   },
   {
     "id": "bill-219-sangiin-589bbbad1d5f4156",
@@ -136,7 +166,10 @@
     "enactedAt": "2025-12-16",
     "promulgatedAt": "2025-12-22",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219080219007.htm",
-    "updatedAt": "2026-07-05T00:39:23.635Z"
+    "updatedAt": "2026-07-05T08:44:19.063Z",
+    "billNumber": "第219回国会 議案番号7",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-12-08"
   },
   {
     "id": "bill-219-sangiin-5a5ec28fa0326c09",
@@ -147,7 +180,10 @@
     "passedUpperHouseAt": "2025-12-05",
     "promulgatedAt": "2025-12-12",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219080217021.htm",
-    "updatedAt": "2026-07-05T00:39:24.512Z"
+    "updatedAt": "2026-07-05T08:44:20.120Z",
+    "billNumber": "第219回国会 議案番号21",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-02-14"
   },
   {
     "id": "bill-219-sangiin-75a5791173054ee8",
@@ -156,7 +192,10 @@
     "createdAt": "2026-07-05T00:39:25.381Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219004.htm",
-    "updatedAt": "2026-07-05T00:39:25.381Z"
+    "updatedAt": "2026-07-05T08:42:49.364Z",
+    "billNumber": "第219回国会 議案番号4",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-11-25"
   },
   {
     "id": "bill-219-sangiin-7ce93c6bd8bc5825",
@@ -169,7 +208,10 @@
     "enactedAt": "2025-12-16",
     "promulgatedAt": "2025-12-24",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219080219008.htm",
-    "updatedAt": "2026-07-05T00:39:23.858Z"
+    "updatedAt": "2026-07-05T08:44:19.282Z",
+    "billNumber": "第219回国会 議案番号8",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-12-08"
   },
   {
     "id": "bill-219-sangiin-7dde060dacd52c39",
@@ -178,7 +220,10 @@
     "createdAt": "2026-07-05T00:39:26.033Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219007.htm",
-    "updatedAt": "2026-07-05T00:39:26.033Z"
+    "updatedAt": "2026-07-05T08:42:50.196Z",
+    "billNumber": "第219回国会 議案番号7",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-12-01"
   },
   {
     "id": "bill-219-sangiin-866e6a80bcd62780",
@@ -187,7 +232,8 @@
     "createdAt": "2026-07-05T00:39:43.528Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219100219007.htm",
-    "updatedAt": "2026-07-05T00:39:43.528Z"
+    "updatedAt": "2026-07-05T08:43:09.045Z",
+    "submittedAt": "2025-12-12"
   },
   {
     "id": "bill-219-sangiin-8a16754522332daf",
@@ -196,7 +242,8 @@
     "createdAt": "2026-07-05T00:39:24.729Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219001.htm",
-    "updatedAt": "2026-07-05T00:39:24.729Z"
+    "updatedAt": "2026-07-05T08:42:48.621Z",
+    "submittedAt": "2025-10-31"
   },
   {
     "id": "bill-219-sangiin-8acdcb3d7d3c9cbc",
@@ -205,7 +252,8 @@
     "createdAt": "2026-07-05T00:39:43.310Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219100219006.htm",
-    "updatedAt": "2026-07-05T00:39:43.311Z"
+    "updatedAt": "2026-07-05T08:43:08.828Z",
+    "submittedAt": "2025-12-09"
   },
   {
     "id": "bill-219-sangiin-9316970ee20adeec",
@@ -214,7 +262,10 @@
     "createdAt": "2026-07-05T00:39:42.657Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219100219003.htm",
-    "updatedAt": "2026-07-05T00:39:42.657Z"
+    "updatedAt": "2026-07-05T08:44:41.306Z",
+    "billNumber": "第219回国会 議案番号3",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-10-27"
   },
   {
     "id": "bill-219-sangiin-955581e00835789e",
@@ -223,7 +274,10 @@
     "createdAt": "2026-07-05T00:39:31.712Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217001.htm",
-    "updatedAt": "2026-07-05T00:39:31.712Z"
+    "updatedAt": "2026-07-05T08:42:57.009Z",
+    "billNumber": "第219回国会 議案番号1",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-01-28"
   },
   {
     "id": "bill-219-sangiin-97c730c7eb48bb69",
@@ -236,7 +290,8 @@
     "enactedAt": "2025-12-05",
     "promulgatedAt": "2025-12-12",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219080219004.htm",
-    "updatedAt": "2026-07-05T00:39:22.969Z"
+    "updatedAt": "2026-07-05T08:42:46.522Z",
+    "submittedAt": "2025-11-11"
   },
   {
     "id": "bill-219-sangiin-9d50acc823b8ea6d",
@@ -249,7 +304,8 @@
     "enactedAt": "2025-12-03",
     "promulgatedAt": "2025-12-10",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219080219003.htm",
-    "updatedAt": "2026-07-05T00:39:22.750Z"
+    "updatedAt": "2026-07-05T08:42:46.244Z",
+    "submittedAt": "2025-11-11"
   },
   {
     "id": "bill-219-sangiin-9d66da4f9ba38e73",
@@ -258,7 +314,10 @@
     "createdAt": "2026-07-05T00:39:34.118Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217022.htm",
-    "updatedAt": "2026-07-05T00:39:34.118Z"
+    "updatedAt": "2026-07-05T08:42:59.598Z",
+    "billNumber": "第219回国会 議案番号22",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-03-27"
   },
   {
     "id": "bill-219-sangiin-aa8e6ecb1bb1c68a",
@@ -267,7 +326,8 @@
     "createdAt": "2026-07-05T00:39:43.095Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219100219005.htm",
-    "updatedAt": "2026-07-05T00:39:43.095Z"
+    "updatedAt": "2026-07-05T08:43:08.611Z",
+    "submittedAt": "2025-11-25"
   },
   {
     "id": "bill-219-sangiin-af2da0c110d7247a",
@@ -280,7 +340,8 @@
     "enactedAt": "2025-12-03",
     "promulgatedAt": "2025-12-10",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219005.htm",
-    "updatedAt": "2026-07-05T00:39:25.598Z"
+    "updatedAt": "2026-07-05T08:42:49.672Z",
+    "submittedAt": "2025-11-26"
   },
   {
     "id": "bill-219-sangiin-b5349b1f70e00feb",
@@ -293,7 +354,8 @@
     "enactedAt": "2025-12-16",
     "promulgatedAt": "2025-12-24",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219080219009.htm",
-    "updatedAt": "2026-07-05T00:39:24.076Z"
+    "updatedAt": "2026-07-05T08:42:47.810Z",
+    "submittedAt": "2025-12-08"
   },
   {
     "id": "bill-219-sangiin-bcf1f1dc9f4a1fa1",
@@ -302,7 +364,10 @@
     "createdAt": "2026-07-05T00:39:26.252Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219008.htm",
-    "updatedAt": "2026-07-05T00:39:26.252Z"
+    "updatedAt": "2026-07-05T08:42:50.414Z",
+    "billNumber": "第219回国会 議案番号8",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-12-01"
   },
   {
     "id": "bill-219-sangiin-c3b0904c7081e412",
@@ -315,7 +380,10 @@
     "enactedAt": "2025-12-16",
     "promulgatedAt": "2025-12-24",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219080219010.htm",
-    "updatedAt": "2026-07-05T00:39:24.294Z"
+    "updatedAt": "2026-07-05T08:44:19.809Z",
+    "billNumber": "第219回国会 議案番号10",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-12-08"
   },
   {
     "id": "bill-219-sangiin-caeb9e707b294329",
@@ -324,7 +392,10 @@
     "createdAt": "2026-07-05T00:39:27.347Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219013.htm",
-    "updatedAt": "2026-07-05T00:39:27.347Z"
+    "updatedAt": "2026-07-05T08:42:51.765Z",
+    "billNumber": "第219回国会 議案番号13",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-12-11"
   },
   {
     "id": "bill-219-sangiin-dcaa00798790a065",
@@ -333,7 +404,10 @@
     "createdAt": "2026-07-05T00:39:33.685Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217012.htm",
-    "updatedAt": "2026-07-05T00:39:33.685Z"
+    "updatedAt": "2026-07-05T08:42:59.159Z",
+    "billNumber": "第219回国会 議案番号12",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-03-03"
   },
   {
     "id": "bill-219-sangiin-e0c53f273ded8377",
@@ -342,7 +416,8 @@
     "createdAt": "2026-07-05T00:39:25.815Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219006.htm",
-    "updatedAt": "2026-07-05T00:39:25.815Z"
+    "updatedAt": "2026-07-05T08:42:49.891Z",
+    "submittedAt": "2025-11-26"
   },
   {
     "id": "bill-219-sangiin-e2952bfcbb1becfa",
@@ -351,7 +426,10 @@
     "createdAt": "2026-07-05T00:39:26.910Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219011.htm",
-    "updatedAt": "2026-07-05T00:39:26.910Z"
+    "updatedAt": "2026-07-05T08:42:51.243Z",
+    "billNumber": "第219回国会 議案番号11",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-12-05"
   },
   {
     "id": "bill-219-sangiin-e7e70f3d8d229450",
@@ -360,7 +438,10 @@
     "createdAt": "2026-07-05T00:39:25.163Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219003.htm",
-    "updatedAt": "2026-07-05T00:39:25.163Z"
+    "updatedAt": "2026-07-05T08:42:49.145Z",
+    "billNumber": "第219回国会 議案番号3",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-11-25"
   },
   {
     "id": "bill-219-sangiin-ed456e1fb6bc8d63",
@@ -373,7 +454,8 @@
     "enactedAt": "2025-12-03",
     "promulgatedAt": "2025-12-10",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219080219002.htm",
-    "updatedAt": "2026-07-05T00:39:22.532Z"
+    "updatedAt": "2026-07-05T08:42:46.025Z",
+    "submittedAt": "2025-11-11"
   },
   {
     "id": "bill-219-sangiin-f021c5a129a29320",
@@ -382,7 +464,8 @@
     "createdAt": "2026-07-05T00:39:42.223Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219100219001.htm",
-    "updatedAt": "2026-07-05T00:39:42.224Z"
+    "updatedAt": "2026-07-05T08:43:07.740Z",
+    "submittedAt": "2025-10-21"
   },
   {
     "id": "bill-219-sangiin-f973c97a3419d978",
@@ -391,7 +474,10 @@
     "createdAt": "2026-07-05T00:39:34.554Z",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217024.htm",
-    "updatedAt": "2026-07-05T00:39:34.554Z"
+    "updatedAt": "2026-07-05T08:43:00.041Z",
+    "billNumber": "第219回国会 議案番号24",
+    "proposerType": "cabinet",
+    "submittedAt": "2025-04-11"
   },
   {
     "id": "bill-219-shugiin-003dca6eac493f28",
@@ -402,7 +488,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217041.htm",
-    "updatedAt": "2026-07-05T00:39:36.952Z"
+    "updatedAt": "2026-07-05T08:43:02.458Z",
+    "submittedAt": "2025-06-04"
   },
   {
     "id": "bill-219-shugiin-020c3b749f7ffa1d",
@@ -413,7 +500,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090216005.htm",
-    "updatedAt": "2026-07-05T00:39:29.532Z"
+    "updatedAt": "2026-07-05T08:42:54.372Z",
+    "submittedAt": "2024-12-06"
   },
   {
     "id": "bill-219-shugiin-08c41f1e354d346a",
@@ -424,11 +512,12 @@
     "proposerType": "cabinet",
     "status": "promulgated",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219014.htm",
-    "updatedAt": "2026-07-05T00:39:27.565Z",
+    "updatedAt": "2026-07-05T08:44:23.781Z",
     "passedLowerHouseAt": "2025-12-11",
     "passedUpperHouseAt": "2025-12-16",
     "enactedAt": "2025-12-16",
-    "promulgatedAt": "2025-12-24"
+    "promulgatedAt": "2025-12-24",
+    "submittedAt": "2025-12-11"
   },
   {
     "id": "bill-219-shugiin-0bdad7f9e0157332",
@@ -439,7 +528,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217021.htm",
-    "updatedAt": "2026-07-05T00:39:33.902Z"
+    "updatedAt": "2026-07-05T08:42:59.379Z",
+    "submittedAt": "2025-03-19"
   },
   {
     "id": "bill-219-shugiin-1109779085dc8579",
@@ -450,7 +540,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217046.htm",
-    "updatedAt": "2026-07-05T00:39:38.070Z"
+    "updatedAt": "2026-07-05T08:43:03.567Z",
+    "submittedAt": "2025-06-05"
   },
   {
     "id": "bill-219-shugiin-1610844969b50e23",
@@ -461,7 +552,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217065.htm",
-    "updatedAt": "2026-07-05T00:39:41.561Z"
+    "updatedAt": "2026-07-05T08:43:07.078Z",
+    "submittedAt": "2025-06-19"
   },
   {
     "id": "bill-219-shugiin-229a14dd24fc7402",
@@ -472,7 +564,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217005.htm",
-    "updatedAt": "2026-07-05T00:39:32.596Z"
+    "updatedAt": "2026-07-05T08:44:29.779Z",
+    "submittedAt": "2025-01-31"
   },
   {
     "id": "bill-219-shugiin-36924340e628bfa4",
@@ -483,7 +576,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090216013.htm",
-    "updatedAt": "2026-07-05T00:39:30.186Z"
+    "updatedAt": "2026-07-05T08:42:55.123Z",
+    "submittedAt": "2024-12-10"
   },
   {
     "id": "bill-219-shugiin-49668e9c21ae185a",
@@ -494,7 +588,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090216025.htm",
-    "updatedAt": "2026-07-05T00:39:31.493Z"
+    "updatedAt": "2026-07-05T08:42:56.703Z",
+    "submittedAt": "2024-12-23"
   },
   {
     "id": "bill-219-shugiin-4ace47251fe8ed9e",
@@ -505,11 +600,12 @@
     "proposerType": "cabinet",
     "status": "promulgated",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219015.htm",
-    "updatedAt": "2026-07-05T00:39:27.785Z",
+    "updatedAt": "2026-07-05T08:44:24.003Z",
     "passedLowerHouseAt": "2025-12-11",
     "passedUpperHouseAt": "2025-12-16",
     "enactedAt": "2025-12-16",
-    "promulgatedAt": "2025-12-24"
+    "promulgatedAt": "2025-12-24",
+    "submittedAt": "2025-12-11"
   },
   {
     "id": "bill-219-shugiin-4ea4345871e60bd4",
@@ -520,7 +616,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217042.htm",
-    "updatedAt": "2026-07-05T00:39:37.168Z"
+    "updatedAt": "2026-07-05T08:43:02.680Z",
+    "submittedAt": "2025-06-04"
   },
   {
     "id": "bill-219-shugiin-502c0481b026fd63",
@@ -531,7 +628,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217007.htm",
-    "updatedAt": "2026-07-05T00:39:33.034Z"
+    "updatedAt": "2026-07-05T08:42:58.503Z",
+    "submittedAt": "2025-02-14"
   },
   {
     "id": "bill-219-shugiin-50a9e72f4bdefc09",
@@ -542,7 +640,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217052.htm",
-    "updatedAt": "2026-07-05T00:39:38.940Z"
+    "updatedAt": "2026-07-05T08:43:04.447Z",
+    "submittedAt": "2025-06-11"
   },
   {
     "id": "bill-219-shugiin-51110a2df904b47e",
@@ -553,7 +652,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217050.htm",
-    "updatedAt": "2026-07-05T00:39:38.505Z"
+    "updatedAt": "2026-07-05T08:43:04.006Z",
+    "submittedAt": "2025-06-10"
   },
   {
     "id": "bill-219-shugiin-51c5b084e9c3333c",
@@ -564,7 +664,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090216019.htm",
-    "updatedAt": "2026-07-05T00:39:30.622Z"
+    "updatedAt": "2026-07-05T08:42:55.647Z",
+    "submittedAt": "2024-12-13"
   },
   {
     "id": "bill-219-shugiin-51e7f05d03620010",
@@ -575,7 +676,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217003.htm",
-    "updatedAt": "2026-07-05T00:39:32.158Z"
+    "updatedAt": "2026-07-05T08:42:57.534Z",
+    "submittedAt": "2025-01-30"
   },
   {
     "id": "bill-219-shugiin-54076884b9ad5561",
@@ -586,7 +688,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090216023.htm",
-    "updatedAt": "2026-07-05T00:39:31.061Z"
+    "updatedAt": "2026-07-05T08:42:56.245Z",
+    "submittedAt": "2024-12-20"
   },
   {
     "id": "bill-219-shugiin-5a65fc0508f8a684",
@@ -597,7 +700,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217044.htm",
-    "updatedAt": "2026-07-05T00:39:37.604Z"
+    "updatedAt": "2026-07-05T08:43:03.122Z",
+    "submittedAt": "2025-06-05"
   },
   {
     "id": "bill-219-shugiin-6be4b454ee392ea0",
@@ -608,7 +712,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217064.htm",
-    "updatedAt": "2026-07-05T00:39:41.342Z"
+    "updatedAt": "2026-07-05T08:44:39.933Z",
+    "submittedAt": "2025-06-19"
   },
   {
     "id": "bill-219-shugiin-6f78b160e942f61d",
@@ -619,7 +724,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217006.htm",
-    "updatedAt": "2026-07-05T00:39:32.817Z"
+    "updatedAt": "2026-07-05T08:42:58.284Z",
+    "submittedAt": "2025-02-14"
   },
   {
     "id": "bill-219-shugiin-7b6320a81ee50d75",
@@ -630,7 +736,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090216004.htm",
-    "updatedAt": "2026-07-05T00:39:29.315Z"
+    "updatedAt": "2026-07-05T08:42:54.071Z",
+    "submittedAt": "2024-12-06"
   },
   {
     "id": "bill-219-shugiin-7c47d5add5375ba5",
@@ -641,7 +748,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090216001.htm",
-    "updatedAt": "2026-07-05T00:39:29.098Z"
+    "updatedAt": "2026-07-05T08:42:53.853Z",
+    "submittedAt": "2024-11-28"
   },
   {
     "id": "bill-219-shugiin-7d0cda2f0fd926d0",
@@ -652,7 +760,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217061.htm",
-    "updatedAt": "2026-07-05T00:39:40.688Z"
+    "updatedAt": "2026-07-05T08:43:06.197Z",
+    "submittedAt": "2025-06-18"
   },
   {
     "id": "bill-219-shugiin-831b4e6f9b88ccca",
@@ -663,7 +772,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090216024.htm",
-    "updatedAt": "2026-07-05T00:39:31.277Z"
+    "updatedAt": "2026-07-05T08:42:56.484Z",
+    "submittedAt": "2024-12-23"
   },
   {
     "id": "bill-219-shugiin-836475c4632ab9d6",
@@ -674,7 +784,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217040.htm",
-    "updatedAt": "2026-07-05T00:39:36.734Z"
+    "updatedAt": "2026-07-05T08:43:02.238Z",
+    "submittedAt": "2025-06-04"
   },
   {
     "id": "bill-219-shugiin-856662d15836f364",
@@ -685,7 +796,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217030.htm",
-    "updatedAt": "2026-07-05T00:39:35.422Z"
+    "updatedAt": "2026-07-05T08:43:00.912Z",
+    "submittedAt": "2025-05-19"
   },
   {
     "id": "bill-219-shugiin-8a920b5b5e5e6c6f",
@@ -696,7 +808,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217047.htm",
-    "updatedAt": "2026-07-05T00:39:38.286Z"
+    "updatedAt": "2026-07-05T08:43:03.787Z",
+    "submittedAt": "2025-06-05"
   },
   {
     "id": "bill-219-shugiin-8cb92bace2d63b9d",
@@ -707,7 +820,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090216017.htm",
-    "updatedAt": "2026-07-05T00:39:30.404Z"
+    "updatedAt": "2026-07-05T08:42:55.426Z",
+    "submittedAt": "2024-12-13"
   },
   {
     "id": "bill-219-shugiin-8fde77e39f8b1b9f",
@@ -718,7 +832,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090216012.htm",
-    "updatedAt": "2026-07-05T00:39:29.967Z"
+    "updatedAt": "2026-07-05T08:42:54.902Z",
+    "submittedAt": "2024-12-10"
   },
   {
     "id": "bill-219-shugiin-945d4cea9dba0679",
@@ -729,7 +844,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217011.htm",
-    "updatedAt": "2026-07-05T00:39:33.470Z"
+    "updatedAt": "2026-07-05T08:42:58.941Z",
+    "submittedAt": "2025-02-21"
   },
   {
     "id": "bill-219-shugiin-95ddf2c282fc42f6",
@@ -740,7 +856,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217055.htm",
-    "updatedAt": "2026-07-05T00:39:39.371Z"
+    "updatedAt": "2026-07-05T08:43:04.885Z",
+    "submittedAt": "2025-06-13"
   },
   {
     "id": "bill-219-shugiin-98dc3967b4f2c08f",
@@ -751,7 +868,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217038.htm",
-    "updatedAt": "2026-07-05T00:39:36.294Z"
+    "updatedAt": "2026-07-05T08:43:01.800Z",
+    "submittedAt": "2025-06-04"
   },
   {
     "id": "bill-219-shugiin-a38385127c97faf9",
@@ -762,7 +880,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217043.htm",
-    "updatedAt": "2026-07-05T00:39:37.384Z"
+    "updatedAt": "2026-07-05T08:43:02.899Z",
+    "submittedAt": "2025-06-05"
   },
   {
     "id": "bill-219-shugiin-ab5ae9f1460d84d5",
@@ -773,7 +892,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217063.htm",
-    "updatedAt": "2026-07-05T00:39:41.125Z"
+    "updatedAt": "2026-07-05T08:43:06.637Z",
+    "submittedAt": "2025-06-18"
   },
   {
     "id": "bill-219-shugiin-b09d45b89c9c7fd2",
@@ -784,7 +904,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217031.htm",
-    "updatedAt": "2026-07-05T00:39:35.637Z"
+    "updatedAt": "2026-07-05T08:43:01.131Z",
+    "submittedAt": "2025-05-21"
   },
   {
     "id": "bill-219-shugiin-b85a085a3722b651",
@@ -795,7 +916,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217039.htm",
-    "updatedAt": "2026-07-05T00:39:36.512Z"
+    "updatedAt": "2026-07-05T08:43:02.020Z",
+    "submittedAt": "2025-06-04"
   },
   {
     "id": "bill-219-shugiin-b920060b17752cd9",
@@ -806,7 +928,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090216022.htm",
-    "updatedAt": "2026-07-05T00:39:30.843Z"
+    "updatedAt": "2026-07-05T08:42:55.948Z",
+    "submittedAt": "2024-12-19"
   },
   {
     "id": "bill-219-shugiin-b9cb0e51bff5a6bc",
@@ -817,7 +940,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219018.htm",
-    "updatedAt": "2026-07-05T00:39:28.447Z"
+    "updatedAt": "2026-07-05T08:42:53.038Z",
+    "submittedAt": "2025-12-15"
   },
   {
     "id": "bill-219-shugiin-c606f4e09b051f87",
@@ -828,7 +952,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217057.htm",
-    "updatedAt": "2026-07-05T00:39:39.807Z"
+    "updatedAt": "2026-07-05T08:43:05.325Z",
+    "submittedAt": "2025-06-16"
   },
   {
     "id": "bill-219-shugiin-c770fa6c937065aa",
@@ -839,7 +964,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217051.htm",
-    "updatedAt": "2026-07-05T00:39:38.722Z"
+    "updatedAt": "2026-07-05T08:43:04.222Z",
+    "submittedAt": "2025-06-10"
   },
   {
     "id": "bill-219-shugiin-c9c3117e102af70d",
@@ -850,7 +976,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217056.htm",
-    "updatedAt": "2026-07-05T00:39:39.589Z"
+    "updatedAt": "2026-07-05T08:43:05.105Z",
+    "submittedAt": "2025-06-16"
   },
   {
     "id": "bill-219-shugiin-cbfd5f01f7cc469a",
@@ -861,7 +988,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217060.htm",
-    "updatedAt": "2026-07-05T00:39:40.472Z"
+    "updatedAt": "2026-07-05T08:43:05.976Z",
+    "submittedAt": "2025-06-18"
   },
   {
     "id": "bill-219-shugiin-cfd8684a9e216fa5",
@@ -872,7 +1000,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217066.htm",
-    "updatedAt": "2026-07-05T00:39:41.785Z"
+    "updatedAt": "2026-07-05T08:43:07.297Z",
+    "submittedAt": "2025-06-19"
   },
   {
     "id": "bill-219-shugiin-d9e3d100eba36fff",
@@ -883,7 +1012,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219100219002.htm",
-    "updatedAt": "2026-07-05T00:39:42.442Z"
+    "updatedAt": "2026-07-05T08:44:41.087Z",
+    "submittedAt": "2025-10-21"
   },
   {
     "id": "bill-219-shugiin-dbe2e90243f5c6f4",
@@ -894,11 +1024,12 @@
     "proposerType": "cabinet",
     "status": "promulgated",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219010.htm",
-    "updatedAt": "2026-07-05T00:39:26.691Z",
+    "updatedAt": "2026-07-05T08:42:50.955Z",
     "passedLowerHouseAt": "2025-12-08",
     "passedUpperHouseAt": "2025-12-16",
     "enactedAt": "2025-12-16",
-    "promulgatedAt": "2025-12-24"
+    "promulgatedAt": "2025-12-24",
+    "submittedAt": "2025-12-05"
   },
   {
     "id": "bill-219-shugiin-dcb81b4d41296dfa",
@@ -909,7 +1040,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090219016.htm",
-    "updatedAt": "2026-07-05T00:39:28.003Z"
+    "updatedAt": "2026-07-05T08:42:52.515Z",
+    "submittedAt": "2025-12-12"
   },
   {
     "id": "bill-219-shugiin-dd01c57f8d20200e",
@@ -920,7 +1052,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217032.htm",
-    "updatedAt": "2026-07-05T00:39:35.859Z"
+    "updatedAt": "2026-07-05T08:43:01.349Z",
+    "submittedAt": "2025-05-21"
   },
   {
     "id": "bill-219-shugiin-e9a3f0516f49e37c",
@@ -931,7 +1064,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090215002.htm",
-    "updatedAt": "2026-07-05T00:39:28.880Z"
+    "updatedAt": "2026-07-05T08:42:53.555Z",
+    "submittedAt": "2024-11-13"
   },
   {
     "id": "bill-219-shugiin-ed662caa2334a5ae",
@@ -942,7 +1076,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217054.htm",
-    "updatedAt": "2026-07-05T00:39:39.156Z"
+    "updatedAt": "2026-07-05T08:43:04.667Z",
+    "submittedAt": "2025-06-12"
   },
   {
     "id": "bill-219-shugiin-f1e8341af1f02bd8",
@@ -953,7 +1088,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217058.htm",
-    "updatedAt": "2026-07-05T00:39:40.032Z"
+    "updatedAt": "2026-07-05T08:43:05.542Z",
+    "submittedAt": "2025-06-17"
   },
   {
     "id": "bill-219-shugiin-f6002b9226bb62bf",
@@ -964,7 +1100,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217045.htm",
-    "updatedAt": "2026-07-05T00:39:37.851Z"
+    "updatedAt": "2026-07-05T08:43:03.337Z",
+    "submittedAt": "2025-06-05"
   },
   {
     "id": "bill-219-shugiin-f8a7a40301921654",
@@ -975,7 +1112,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217062.htm",
-    "updatedAt": "2026-07-05T00:39:40.908Z"
+    "updatedAt": "2026-07-05T08:43:06.414Z",
+    "submittedAt": "2025-06-18"
   },
   {
     "id": "bill-219-shugiin-fd73ab4e63190c8b",
@@ -986,7 +1124,8 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217008.htm",
-    "updatedAt": "2026-07-05T00:39:33.251Z"
+    "updatedAt": "2026-07-05T08:42:58.723Z",
+    "submittedAt": "2025-02-19"
   },
   {
     "id": "bill-219-shugiin-fdf3bf98cb6d5d37",
@@ -997,6 +1136,7 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/meisai/m219090217059.htm",
-    "updatedAt": "2026-07-05T00:39:40.251Z"
+    "updatedAt": "2026-07-05T08:43:05.760Z",
+    "submittedAt": "2025-06-18"
   }
 ]

@@ -18,6 +18,7 @@ const SANGIIN_BASE = "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/"
 
 /** 明細ページから抽出した審議経過 */
 interface MeisaiInfo {
+  submittedAt?: string
   passedLowerHouseAt?: string
   passedUpperHouseAt?: string
   rejected: boolean
@@ -37,9 +38,12 @@ export const parseMeisai = (html: string): MeisaiInfo => {
   }
   const lower = chamberResult("衆議院")
   const upper = chamberResult("参議院")
+  // 「衆議院から受領／提出日」等を除外し、議案そのものの提出日のみ拾う
+  const submitted = text.match(/(?:^|[^／])提出日\s*(\S+)/)
   const promulgated = text.match(/公布年月日\s*(\S+)/)
   const lawNumber = text.match(/法律番号\s*(\d+)/)
   return {
+    submittedAt: submitted ? parseJapaneseDate(submitted[1]) : undefined,
     passedLowerHouseAt: lower?.result === "可決" ? lower.date : undefined,
     passedUpperHouseAt: upper?.result === "可決" ? upper.date : undefined,
     rejected: lower?.result === "否決" || upper?.result === "否決",
@@ -128,6 +132,7 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
           createdAt: nowIso(),
         }),
         status: nextStatus,
+        submittedAt: info.submittedAt ?? existing?.submittedAt,
         passedLowerHouseAt:
           info.passedLowerHouseAt ?? existing?.passedLowerHouseAt,
         passedUpperHouseAt:
@@ -145,6 +150,24 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
       if (result.changed) updated += 1
 
       const newEvents: BillEvent[] = []
+      if (info.submittedAt) {
+        // 収集日を日付とした暫定の提出イベントを、正確な提出日で置き換える
+        events = events.filter(
+          (event) =>
+            event.billId !== billId ||
+            event.type !== "submitted" ||
+            event.id === `event-${billId}-submitted`
+        )
+        newEvents.push({
+          id: `event-${billId}-submitted`,
+          billId,
+          type: "submitted",
+          date: info.submittedAt,
+          description: "提出",
+          sourceUrl: meisaiUrl,
+          createdAt: nowIso(),
+        })
+      }
       if (info.passedLowerHouseAt)
         newEvents.push({
           id: `event-${billId}-passed-lower`,
