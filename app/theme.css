@@ -156,11 +156,72 @@ body {
   letter-spacing: 0.08em;
 }
 
+.section-more {
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  margin-left: auto;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.section-more:hover {
+  color: var(--gold-strong);
+}
+
 .empty-message {
   color: var(--text-faint);
   font-size: 0.8125rem;
   letter-spacing: 0.06em;
   margin: 0;
+}
+
+/* ---- stat tiles ---- */
+
+.stat-grid {
+  display: grid;
+  gap: 0.625rem;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  margin: 0 0 3rem;
+}
+
+.stat-tile {
+  background: linear-gradient(180deg, var(--surface), rgba(21, 25, 32, 0.55));
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 0.875rem 1rem;
+  text-decoration: none;
+  transition:
+    border-color 0.25s,
+    background 0.25s;
+}
+
+.stat-tile:hover {
+  background: var(--surface-hover);
+  border-color: var(--gold-line);
+}
+
+.stat-label {
+  color: var(--text-muted);
+  font-size: 0.6875rem;
+  letter-spacing: 0.08em;
+}
+
+.stat-value {
+  color: var(--text);
+  font-size: 1.625rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.stat-unit {
+  color: var(--text-faint);
+  font-size: 0.75rem;
+  font-weight: 400;
+  margin-left: 0.25rem;
 }
 
 /* ---- cards / lists ---- */
