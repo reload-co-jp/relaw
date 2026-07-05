@@ -12,6 +12,7 @@ import {
   documentTypeLabels,
   proposerTypeLabels,
 } from "lib/labels"
+import { formatSummary } from "lib/format"
 import { Badge } from "components/elements/badge"
 import { EmptyMessage, Section } from "components/elements/section"
 import { StageFlow } from "components/elements/stage-progress"
@@ -96,7 +97,7 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
       {bill.summary && (
         <Section title="概要">
           <div className="detail-panel">
-            <p className="detail-summary">{bill.summary}</p>
+            <p className="detail-summary">{formatSummary(bill.summary)}</p>
           </div>
         </Section>
       )}

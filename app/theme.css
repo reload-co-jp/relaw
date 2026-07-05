@@ -642,6 +642,7 @@ a.card-title::after {
   font-size: 0.875rem;
   line-height: 1.9;
   margin: 0;
+  white-space: pre-line;
 }
 
 .detail-grid {
