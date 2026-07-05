@@ -4,6 +4,7 @@ import { getBills, getLatestBillEvents } from "lib/data"
 import type { Bill } from "lib/types"
 import { billStatusLabels } from "lib/labels"
 import { Section } from "components/elements/section"
+import { LifecycleGuide } from "components/blocks/lifecycle-guide"
 
 export const metadata = {
   title: "ガントチャート | Relaw",
@@ -109,7 +110,9 @@ const Page: FC = () => {
   const labelStep = Math.ceil(ticks.length / 12)
 
   return (
-    <Section title="法案ガントチャート" count={bills.length}>
+    <>
+      <LifecycleGuide />
+      <Section title="法案ガントチャート" count={bills.length}>
       <div className="gantt-legend">
         {(
           Object.keys(PHASE_COLORS) as (keyof typeof PHASE_COLORS)[]
@@ -192,7 +195,8 @@ const Page: FC = () => {
           </div>
         </div>
       </div>
-    </Section>
+      </Section>
+    </>
   )
 }
 

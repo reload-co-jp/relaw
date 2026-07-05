@@ -2,6 +2,7 @@ import { FC } from "react"
 import type { Law } from "lib/types"
 import {
   lawStatusColors,
+  lawStatusDescriptions,
   lawStatusLabels,
   lawTypeColor,
   lawTypeLabels,
@@ -14,7 +15,11 @@ export const lawEntry = (law: Law): Entry => ({
   href: `/laws/${law.id}/`,
   badges: [
     { label: lawTypeLabels[law.lawType], color: lawTypeColor },
-    { label: lawStatusLabels[law.status], color: lawStatusColors[law.status] },
+    {
+      label: lawStatusLabels[law.status],
+      color: lawStatusColors[law.status],
+      title: lawStatusDescriptions[law.status],
+    },
   ],
   meta: [
     law.lawNumber,

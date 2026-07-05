@@ -6,6 +6,7 @@ import {
   billStages,
   billStageIndex,
   billStatusColors,
+  billStatusDescriptions,
   billStatusLabels,
   proposerTypeLabels,
 } from "lib/labels"
@@ -21,6 +22,7 @@ export const billEntry = (bill: Bill, latestEvent?: BillEvent): Entry => {
     {
       label: billStatusLabels[bill.status],
       color: billStatusColors[bill.status],
+      title: billStatusDescriptions[bill.status],
     },
   ],
   stage:

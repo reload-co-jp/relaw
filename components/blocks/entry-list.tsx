@@ -7,6 +7,7 @@ import { Stage, StageProgress } from "components/elements/stage-progress"
 export interface EntryBadge {
   label: string
   color?: string
+  title?: string
 }
 
 export interface EntryLink {
@@ -56,7 +57,12 @@ export const EntryList: FC<{ entries: Entry[] }> = ({ entries }) => {
         <li key={entry.id} className="card">
           <div className="card-title-row">
             {entry.badges.map((badge) => (
-              <Badge key={badge.label} label={badge.label} color={badge.color} />
+              <Badge
+                key={badge.label}
+                label={badge.label}
+                color={badge.color}
+                title={badge.title}
+              />
             ))}
             <EntryTitle entry={entry} />
             {entry.stage && <StageProgress {...entry.stage} />}

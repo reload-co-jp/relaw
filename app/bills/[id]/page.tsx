@@ -2,10 +2,12 @@ import { FC } from "react"
 import { notFound } from "next/navigation"
 import { getBill, getBillDocuments, getBillEvents, getBills } from "lib/data"
 import {
+  billEventTypeDescriptions,
   billEventTypeLabels,
   billStages,
   billStageIndex,
   billStatusColors,
+  billStatusDescriptions,
   billStatusLabels,
   documentTypeLabels,
   proposerTypeLabels,
@@ -55,6 +57,7 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
           <Badge
             label={billStatusLabels[bill.status]}
             color={billStatusColors[bill.status]}
+            title={billStatusDescriptions[bill.status]}
           />
         </div>
         <h2 className="detail-title">{bill.title}</h2>
@@ -64,6 +67,7 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
             current={billStageIndex[bill.status] as number}
           />
         )}
+        <p className="status-note">{billStatusDescriptions[bill.status]}</p>
       </div>
       <Section title="基本情報">
         <div className="detail-panel">
@@ -104,7 +108,10 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
             {events.map((event) => (
               <li key={event.id}>
                 <time>{event.date}</time>
-                <span className="timeline-label">
+                <span
+                  className="timeline-label has-help"
+                  title={billEventTypeDescriptions[event.type]}
+                >
                   {billEventTypeLabels[event.type]}
                 </span>
                 {event.description && (

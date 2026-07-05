@@ -40,6 +40,59 @@ export const billStatusColors: Record<BillStatus, string> = {
   unknown: "#77726a",
 }
 
+/** 政治に詳しくないユーザ向けの平易なステータス説明 */
+export const billStatusDescriptions: Record<BillStatus, string> = {
+  draft: "法律の案を準備している段階。まだ国会には出されていません",
+  public_comment: "案について、国民から広く意見を募集している段階です",
+  submitted: "法律の案が国会に出され、審議が始まるのを待っています",
+  committee_review: "国会の委員会で、内容を詳しく検討しています",
+  passed_lower_house: "衆議院で賛成多数となり、参議院に送られました",
+  passed_upper_house: "参議院で賛成多数となりました",
+  passed_diet: "衆議院・参議院の両方で可決され、法律になることが決まりました",
+  promulgated: "新しい法律として、官報で国民に正式に知らされました",
+  enforced: "法律としての効力が始まり、実際に適用されています",
+  withdrawn: "提出した人（内閣や議員）が案を取り下げました",
+  rejected: "国会で反対多数となり、法律にはなりませんでした",
+  expired: "国会の会期が終わるまでに結論が出ず、廃案になりました",
+  unknown: "現在の状態を確認できていません",
+}
+
+export const lawStatusDescriptions: Record<LawStatus, string> = {
+  in_force: "現在有効で、実際に適用されている法令です",
+  not_yet_enforced: "公布済みですが、効力はまだ始まっていません",
+  repealed: "廃止され、現在は効力がありません",
+  unknown: "現在の状態を確認できていません",
+}
+
+export const publicCommentStatusDescriptions: Record<
+  PublicCommentStatus,
+  string
+> = {
+  open: "誰でも意見を提出できる募集期間中です",
+  closed: "意見の募集は終了し、結果を取りまとめています",
+  result_published: "寄せられた意見と行政の考え方が公表されています",
+  unknown: "現在の状態を確認できていません",
+}
+
+export const billEventTypeDescriptions: Record<BillEventType, string> = {
+  public_comment_started: "案について国民からの意見募集が始まりました",
+  public_comment_closed: "国民からの意見募集が締め切られました",
+  submitted: "法律の案が国会に出されました",
+  committee_referral: "内容を詳しく検討するため、担当の委員会に回されました",
+  committee_passed: "委員会での検討が終わり、賛成多数となりました",
+  amended: "審議の中で内容の一部が修正されました",
+  passed_lower_house: "衆議院の本会議で賛成多数となりました",
+  passed_upper_house: "参議院の本会議で賛成多数となりました",
+  passed_diet: "両院で可決され、法律になることが決まりました",
+  promulgated: "官報に掲載され、新しい法律として知らされました",
+  enforced: "法律としての効力が始まりました",
+  continued: "会期中に結論が出ず、次の国会で引き続き審議されます",
+  withdrawn: "提出した人が案を取り下げました",
+  rejected: "反対多数で否決されました",
+  expired: "会期が終わるまでに結論が出ず、廃案になりました",
+  other: "その他の動きがありました",
+}
+
 /** 法案ライフサイクルの主要段階 */
 export const billStages = ["提出", "審議", "成立", "公布", "施行"] as const
 

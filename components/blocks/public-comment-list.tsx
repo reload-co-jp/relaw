@@ -2,6 +2,7 @@ import { FC } from "react"
 import type { PublicComment } from "lib/types"
 import {
   publicCommentStatusColors,
+  publicCommentStatusDescriptions,
   publicCommentStatusLabels,
 } from "lib/labels"
 import { Entry, EntryList } from "components/blocks/entry-list"
@@ -14,6 +15,7 @@ export const publicCommentEntry = (comment: PublicComment): Entry => ({
     {
       label: publicCommentStatusLabels[comment.status],
       color: publicCommentStatusColors[comment.status],
+      title: publicCommentStatusDescriptions[comment.status],
     },
   ],
   meta: [

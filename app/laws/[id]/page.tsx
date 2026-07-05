@@ -11,6 +11,7 @@ import {
 import {
   documentTypeLabels,
   lawStatusColors,
+  lawStatusDescriptions,
   lawStatusLabels,
   lawTypeColor,
   lawTypeLabels,
@@ -54,9 +55,11 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
           <Badge
             label={lawStatusLabels[law.status]}
             color={lawStatusColors[law.status]}
+            title={lawStatusDescriptions[law.status]}
           />
         </div>
         <h2 className="detail-title">{law.title}</h2>
+        <p className="status-note">{lawStatusDescriptions[law.status]}</p>
       </div>
       <Section title="基本情報">
         <div className="detail-panel">

@@ -9,6 +9,7 @@ import {
 } from "lib/data"
 import { Section } from "components/elements/section"
 import { StatTiles } from "components/elements/stat-tiles"
+import { LifecycleGuide } from "components/blocks/lifecycle-guide"
 import { BillList } from "components/blocks/bill-list"
 import { LawList } from "components/blocks/law-list"
 import { PublicCommentList } from "components/blocks/public-comment-list"
@@ -24,6 +25,7 @@ const Page: FC = () => {
   const openComments = getOpenPublicComments()
   return (
     <>
+      <LifecycleGuide />
       <StatTiles
         stats={[
           {
