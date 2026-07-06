@@ -46,6 +46,17 @@
     "updatedAt": "2026-07-05T00:39:43.658Z"
   },
   {
+    "id": "pc-155260604",
+    "title": "車道及び側帯の舗装の構造の基準に関する省令の全部を改正する省令案に関するパブリックコメントの募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-07-06",
+    "endAt": "2026-08-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260604&Mode=0",
+    "createdAt": "2026-07-06T22:17:25.206Z",
+    "updatedAt": "2026-07-06T22:17:25.206Z"
+  },
+  {
     "id": "pc-195260024",
     "title": "令和８年度国指定鳥獣保護区の変更等に関する意見の募集（パブリック・コメント）について",
     "ministry": "環境省",
@@ -66,6 +77,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260038&Mode=0",
     "createdAt": "2026-07-05T00:39:43.659Z",
     "updatedAt": "2026-07-05T00:39:43.659Z"
+  },
+  {
+    "id": "pc-195260039",
+    "title": "環境省関係浄化槽法施行規則の一部を改正する省令（案）に対する意見募集（パブリックコメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-07-06",
+    "endAt": "2026-08-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260039&Mode=0",
+    "createdAt": "2026-07-06T22:17:25.206Z",
+    "updatedAt": "2026-07-06T22:17:25.206Z"
   },
   {
     "id": "pc-315000136",
@@ -98,7 +120,8 @@
     "endAt": "2026-08-02",
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=395122514&Mode=0",
     "createdAt": "2026-07-05T00:39:43.660Z",
-    "updatedAt": "2026-07-05T00:39:43.660Z"
+    "updatedAt": "2026-07-06T22:17:25.207Z",
+    "billId": "bill-221-shugiin-0fc104439a54c428"
   },
   {
     "id": "pc-495260100",
