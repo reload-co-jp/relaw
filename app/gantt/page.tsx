@@ -116,7 +116,7 @@ const Page: FC = () => {
   return (
     <>
       <LifecycleGuide />
-      <Section title="法案ガントチャート" count={bills.length}>
+      <Section title="法案ガントチャート" count={bills.length} titleAs="h1">
       <div className="gantt-legend">
         {(
           Object.keys(PHASE_COLORS) as (keyof typeof PHASE_COLORS)[]

@@ -14,7 +14,7 @@ export const metadata = pageMetadata({
 const Page: FC = () => {
   const laws = getLaws()
   return (
-    <Section title="法令一覧" count={laws.length}>
+    <Section title="法令一覧" count={laws.length} titleAs="h1">
       <LawList laws={laws} />
     </Section>
   )

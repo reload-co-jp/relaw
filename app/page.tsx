@@ -31,6 +31,9 @@ const Page: FC = () => {
   const openComments = getOpenPublicComments()
   return (
     <>
+      <h1 className="visually-hidden">
+        Relaw — 法案・法令ライフサイクルモニタリング
+      </h1>
       <LifecycleGuide />
       <StatTiles
         stats={[

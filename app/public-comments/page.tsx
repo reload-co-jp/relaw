@@ -14,7 +14,7 @@ export const metadata = pageMetadata({
 const Page: FC = () => {
   const comments = getPublicComments()
   return (
-    <Section title="パブリックコメント" count={comments.length}>
+    <Section title="パブリックコメント" count={comments.length} titleAs="h1">
       <PublicCommentList comments={comments} />
     </Section>
   )

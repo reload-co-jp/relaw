@@ -1,5 +1,6 @@
 import Link from "next/link"
-import { siteDescription, siteName, siteUrl } from "lib/seo"
+import { siteDescription, siteName, siteUrl, websiteJsonLd } from "lib/seo"
+import { JsonLd } from "components/elements/json-ld"
 import "./reset.css"
 import "./theme.css"
 
@@ -32,9 +33,12 @@ export const metadata = {
     type: "website",
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: siteName,
     description: siteDescription,
+  },
+  formatDetection: {
+    telephone: false,
   },
 }
 
@@ -50,6 +54,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <html lang="ja">
       <body>
+        <JsonLd data={websiteJsonLd()} />
         <header className="site-header">
           <div className="container site-header-inner">
             <Link href="/" className="brand">

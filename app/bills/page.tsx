@@ -14,7 +14,7 @@ export const metadata = pageMetadata({
 const Page: FC = () => {
   const bills = getBills()
   return (
-    <Section title="法案一覧" count={bills.length}>
+    <Section title="法案一覧" count={bills.length} titleAs="h1">
       <BillList bills={bills} />
     </Section>
   )

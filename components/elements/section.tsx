@@ -6,11 +6,12 @@ export const Section: FC<{
   count?: number
   id?: string
   moreHref?: string
+  titleAs?: "h1" | "h2"
   children: ReactNode
-}> = ({ title, count, id, moreHref, children }) => (
+}> = ({ title, count, id, moreHref, titleAs: TitleTag = "h2", children }) => (
   <section className="section" id={id}>
     <div className="section-header">
-      <h2 className="section-title">{title}</h2>
+      <TitleTag className="section-title">{title}</TitleTag>
       {count !== undefined && <span className="section-count">{count} 件</span>}
       {moreHref && (
         <Link href={moreHref} className="section-more">

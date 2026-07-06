@@ -17,7 +17,13 @@ import {
   lawTypeColor,
   lawTypeLabels,
 } from "lib/labels"
-import { compactText, pageMetadata } from "lib/seo"
+import {
+  breadcrumbJsonLd,
+  compactText,
+  legislationJsonLd,
+  pageMetadata,
+} from "lib/seo"
+import { JsonLd } from "components/elements/json-ld"
 import { Badge } from "components/elements/badge"
 import { EmptyMessage, Section } from "components/elements/section"
 
@@ -72,6 +78,24 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
 
   return (
     <>
+      <JsonLd
+        data={legislationJsonLd({
+          name: law.title,
+          path: `/laws/${law.id}/`,
+          identifier: law.lawNumber,
+          datePublished: law.promulgatedAt,
+          legislationDate: law.promulgatedAt,
+          legislationType: lawTypeLabels[law.lawType],
+          sourceUrl: law.sourceUrl,
+        })}
+      />
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: "ホーム", path: "/" },
+          { name: "法令一覧", path: "/laws/" },
+          { name: law.title, path: `/laws/${law.id}/` },
+        ])}
+      />
       <div className="detail-header">
         <div className="detail-badges">
           <Badge label={lawTypeLabels[law.lawType]} color={lawTypeColor} />
@@ -81,7 +105,7 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
             title={lawStatusDescriptions[law.status]}
           />
         </div>
-        <h2 className="detail-title">{law.title}</h2>
+        <h1 className="detail-title">{law.title}</h1>
         <p className="status-note">{lawStatusDescriptions[law.status]}</p>
       </div>
       <Section title="基本情報">

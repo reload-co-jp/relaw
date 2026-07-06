@@ -40,9 +40,75 @@ export const pageMetadata = ({
       type: "website",
     },
     twitter: {
-      card: "summary",
+      card: "summary_large_image",
       title: fullTitle,
       description,
     },
   }
+}
+
+export const websiteJsonLd = (): Record<string, unknown> => ({
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: siteName,
+  url: `${siteUrl}/`,
+  description: siteDescription,
+  inLanguage: "ja",
+  publisher: {
+    "@type": "Organization",
+    name: siteName,
+    url: `${siteUrl}/`,
+  },
+})
+
+export const breadcrumbJsonLd = (
+  items: { name: string; path: string }[]
+): Record<string, unknown> => ({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: items.map((item, index) => ({
+    "@type": "ListItem",
+    position: index + 1,
+    name: item.name,
+    item: absoluteUrl(item.path),
+  })),
+})
+
+export const legislationJsonLd = ({
+  name,
+  path,
+  description,
+  identifier,
+  datePublished,
+  legislationDate,
+  legislationType,
+  sourceUrl,
+}: {
+  name: string
+  path: string
+  description?: string
+  identifier?: string
+  datePublished?: string
+  legislationDate?: string
+  legislationType?: string
+  sourceUrl?: string
+}): Record<string, unknown> => {
+  const data: Record<string, unknown> = {
+    "@context": "https://schema.org",
+    "@type": "Legislation",
+    name,
+    url: absoluteUrl(path),
+    inLanguage: "ja",
+    legislationJurisdiction: {
+      "@type": "Country",
+      name: "日本",
+    },
+  }
+  if (description) data.description = description
+  if (identifier) data.legislationIdentifier = identifier
+  if (datePublished) data.datePublished = datePublished
+  if (legislationDate) data.legislationDate = legislationDate
+  if (legislationType) data.legislationType = legislationType
+  if (sourceUrl) data.sameAs = sourceUrl
+  return data
 }

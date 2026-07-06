@@ -13,7 +13,13 @@ import {
   proposerTypeLabels,
 } from "lib/labels"
 import { formatSummary } from "lib/format"
-import { compactText, pageMetadata } from "lib/seo"
+import {
+  breadcrumbJsonLd,
+  compactText,
+  legislationJsonLd,
+  pageMetadata,
+} from "lib/seo"
+import { JsonLd } from "components/elements/json-ld"
 import { Badge } from "components/elements/badge"
 import { EmptyMessage, Section } from "components/elements/section"
 import { StageFlow } from "components/elements/stage-progress"
@@ -76,6 +82,25 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
 
   return (
     <>
+      <JsonLd
+        data={legislationJsonLd({
+          name: bill.title,
+          path: `/bills/${bill.id}/`,
+          description: bill.summary && compactText(bill.summary),
+          identifier: bill.billNumber,
+          datePublished: bill.promulgatedAt,
+          legislationDate: bill.submittedAt,
+          legislationType: "法律案",
+          sourceUrl: bill.sourceUrl,
+        })}
+      />
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: "ホーム", path: "/" },
+          { name: "法案一覧", path: "/bills/" },
+          { name: bill.title, path: `/bills/${bill.id}/` },
+        ])}
+      />
       <div className="detail-header">
         <div className="detail-badges">
           <Badge
@@ -84,7 +109,7 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
             title={billStatusDescriptions[bill.status]}
           />
         </div>
-        <h2 className="detail-title">{bill.title}</h2>
+        <h1 className="detail-title">{bill.title}</h1>
         {billStageIndex[bill.status] !== undefined && (
           <StageFlow
             steps={billStages}
