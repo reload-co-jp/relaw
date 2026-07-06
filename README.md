@@ -116,19 +116,21 @@ data/
 
 ### 7.4 衆議院 議案情報
 
-- 国会回次ごとの議案一覧から、提出法案・議案番号・審議状況を取得する
-- 法案名と議案番号で `bills.json` の既存エントリと突合する
+- 国会回次ごとの議案一覧から、提出法案・議案番号・審議状況・議案種別 (閣法/衆法/参法) を取得する
+- (提出回次, 種別, 提出番号) で `bills.json` の既存エントリと突合し、継続審査法案は回次をまたいで同一エントリを更新する
 - 状態変更を `bill-events.json` に追記する。日付は収集日となる暫定イベントのため、参議院明細から正確な日付のイベントが得られている種別 (提出・委員会付託・衆議院通過・成立) は生成しない
 
 ### 7.5 参議院 議案情報
 
 議案明細ページを法案ごとに巡回し、最も詳細な審議経過を抽出する。
 
+- 種別 (閣法/衆法/参法)・提出回次・提出番号 (`Bill.billNumber` / 継続審査法案の回次横断突合キー)
+- 発議者 (`Bill.proposerName`、議員発議の場合)
 - 提出日 (`Bill.submittedAt` + 提出イベント)
 - 両院の委員会経過: 本付託日・付託委員会名・議決日・議決結果 (可決 / 修正 / 継続審査 / 否決)
 - 両院の本会議経過: 議決日・議決結果・採決方法 (押しボタン / 起立 など)
 - 成立日 (後議院の可決日)・公布日・法律番号
-- 議案要旨 (`Bill.summary`)
+- 議案要旨 (`Bill.summary`、参議院送付後に掲載される)
 
 衆議院側が作成した収集日付の暫定イベントは、正確な日付のイベントで自動置換する。
 
@@ -137,6 +139,11 @@ data/
 - 意見募集の開始・終了・結果公表
 - 新着一覧を巡回し、案件名・省庁・募集期間・結果 URL を `public-comments.json` に書き出す
 - 法案・法令と名称類似で紐付ける
+
+### 7.7 国会会議録検索システム API
+
+- 審議中の法案 (提出済・委員会審議中・衆議院通過・参議院通過) について、法案名で会議録を検索する
+- 審議が行われた本会議・委員会の会議録リンクを `documents.json` (type: `minutes`) に書き出す
 
 ## 8. Update Frequency
 
@@ -148,6 +155,7 @@ data/
 | 参議院                   | daily     |
 | e-Gov 法令 API           | daily     |
 | e-Gov パブリックコメント | daily     |
+| 国会会議録検索 API       | daily     |
 
 デフォルト実行時刻は JST 06:00。バッチ実行 → JSON 更新 → 再ビルド・デプロイまでを 1 サイクルとする。
 
@@ -212,7 +220,9 @@ interface Bill {
   title: string
   titleKana?: string
   billNumber?: string
-  dietSession?: number
+  dietSession?: number // 直近に審議された国会回次
+  submittedSession?: number // 提出回次
+  submittedNumber?: number // 提出番号 (提出回次内の種別ごとの連番)
   proposerType?: "cabinet" | "representative" | "councillor" | "unknown"
   proposerName?: string
   ministry?: string

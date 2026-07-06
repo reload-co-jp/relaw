@@ -2,15 +2,18 @@ import type { Bill, BillEvent, BillStatus } from "../../lib/types.ts"
 import {
   absoluteUrl,
   fetchText,
+  formatBillNumber,
   hashId,
   loadCollection,
   nowIso,
   parseJapaneseDate,
+  proposerTypeByGianType,
   saveCollection,
   sleep,
   stripTags,
   upsert,
   type CollectorResult,
+  type GianType,
 } from "./lib.ts"
 import { dietSessions } from "./config.ts"
 
@@ -33,6 +36,10 @@ interface PlenaryProgress {
 
 /** 明細ページから抽出した審議経過 */
 interface MeisaiInfo {
+  gianType?: GianType
+  submittedSession?: number
+  submittedNumber?: number
+  proposerName?: string
   submittedAt?: string
   summary?: string
   lowerCommittee: CommitteeProgress
@@ -95,7 +102,16 @@ export const parseMeisai = (html: string): MeisaiInfo => {
   const submitted = text.match(/(?:^|[^／])提出日\s*(\S+)/)
   const promulgated = text.match(/公布年月日\s*(\S+)/)
   const lawNumber = text.match(/法律番号\s*(\d+)/)
+  const gianType = text.match(/種別\s*\S+（(閣法|衆法|参法)）/)?.[1] as
+    | GianType
+    | undefined
+  const submittedSession = text.match(/提出回次\s*(\d+)\s*回/)?.[1]
+  const submittedNumber = text.match(/提出番号\s*(\d+)/)?.[1]
   return {
+    gianType,
+    submittedSession: submittedSession ? Number(submittedSession) : undefined,
+    submittedNumber: submittedNumber ? Number(submittedNumber) : undefined,
+    proposerName: text.match(/発議者\s*(.+?)\s*提出者区分/)?.[1]?.trim(),
     submittedAt: submitted ? parseJapaneseDate(submitted[1]) : undefined,
     summary: summary || undefined,
     lowerCommittee,
@@ -178,9 +194,25 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
       }
       const status = info.continued ? "committee_review" : deriveStatus(info)
 
-      const existing = bills.find(
-        (bill) => bill.dietSession === session && bill.title === title
-      )
+      // 継続審査法案は (提出回次, 種別, 提出番号) で回次をまたいで同定する
+      const proposerType = info.gianType
+        ? proposerTypeByGianType[info.gianType]
+        : undefined
+      const existing =
+        (info.submittedSession && info.submittedNumber && proposerType
+          ? bills.find(
+              (bill) =>
+                bill.submittedSession === info.submittedSession &&
+                bill.submittedNumber === info.submittedNumber &&
+                bill.proposerType === proposerType
+            )
+          : undefined) ??
+        bills.find(
+          (bill) => bill.dietSession === session && bill.title === title
+        )
+      // より新しい回次で審議済みのエントリを過去回次の古い明細で上書きしない
+      if (existing?.dietSession !== undefined && existing.dietSession > session)
+        continue
       const billId = existing?.id ?? `bill-${session}-sangiin-${hashId(title)}`
 
       // 官報・e-Gov 側で公布・施行まで進んでいる場合は後退させない
@@ -198,9 +230,21 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
         ...(existing ?? {
           id: billId,
           title,
-          dietSession: session,
           createdAt: nowIso(),
         }),
+        dietSession: session,
+        submittedSession: info.submittedSession ?? existing?.submittedSession,
+        submittedNumber: info.submittedNumber ?? existing?.submittedNumber,
+        billNumber:
+          info.submittedSession && info.submittedNumber && info.gianType
+            ? formatBillNumber(
+                info.submittedSession,
+                info.gianType,
+                info.submittedNumber
+              )
+            : existing?.billNumber,
+        proposerType: proposerType ?? existing?.proposerType,
+        proposerName: info.proposerName ?? existing?.proposerName,
         status: nextStatus,
         summary: info.summary ?? existing?.summary,
         submittedAt: info.submittedAt ?? existing?.submittedAt,

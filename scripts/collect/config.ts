@@ -1,7 +1,12 @@
-/** 巡回対象の国会回次。環境変数 COLLECT_SESSIONS (カンマ区切り) で上書き可 */
-export const dietSessions: number[] = process.env.COLLECT_SESSIONS
-  ? process.env.COLLECT_SESSIONS.split(",").map((s) => Number(s.trim()))
-  : [219]
+/**
+ * 巡回対象の国会回次。環境変数 COLLECT_SESSIONS (カンマ区切り) で上書き可。
+ * 継続審査法案を回次をまたいで追跡するため昇順で処理する。
+ */
+export const dietSessions: number[] = (
+  process.env.COLLECT_SESSIONS
+    ? process.env.COLLECT_SESSIONS.split(",").map((s) => Number(s.trim()))
+    : [219, 220, 221]
+).sort((a, b) => a - b)
 
 /** e-Gov 法令 API で取得対象とする公布日の下限 (日数) */
 export const lawPromulgationWindowDays = Number(

@@ -67,7 +67,8 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
   const details = (
     [
       ["議案番号", bill.billNumber],
-      ["国会回次", bill.dietSession && `第${bill.dietSession}回`],
+      ["提出回次", bill.submittedSession && `第${bill.submittedSession}回`],
+      ["審議回次", bill.dietSession && `第${bill.dietSession}回`],
       ["提出者", bill.proposerType && proposerTypeLabels[bill.proposerType]],
       ["発議者", bill.proposerName],
       ["所管", bill.ministry],

@@ -117,6 +117,22 @@ export const stripTags = (html: string): string =>
 export const absoluteUrl = (base: string, href: string): string =>
   new URL(href, base).toString()
 
+/** 議案種別 (閣法/衆法/参法) → 提出者区分 */
+export const proposerTypeByGianType = {
+  閣法: "cabinet",
+  衆法: "representative",
+  参法: "councillor",
+} as const
+
+export type GianType = keyof typeof proposerTypeByGianType
+
+/** 「第217回国会 衆法第25号」形式の議案番号表記 */
+export const formatBillNumber = (
+  submittedSession: number,
+  gianType: GianType,
+  submittedNumber: number
+): string => `第${submittedSession}回国会 ${gianType}第${submittedNumber}号`
+
 const KANJI_DIGITS: Record<string, number> = {
   〇: 0,
   一: 1,

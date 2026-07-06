@@ -177,6 +177,7 @@ export const documentTypeLabels: Record<DocumentType, string> = {
   comparison_table: "新旧対照表",
   reference_provisions: "参照条文",
   kanpo: "官報",
+  minutes: "会議録",
   result: "結果",
   raw: "未分類",
   other: "その他",

@@ -58,8 +58,11 @@ export const collectNaikaku = async (): Promise<CollectorResult> => {
       // ナビゲーション行や見出し行 (「法律案」等の単語のみ) を除外
       if (title.length < 8 || !/法律案|法案/.test(title)) continue
 
+      // 継続審査で dietSession が先の回次に進んでいても提出回次で同定する
       const existing = bills.find(
-        (bill) => bill.dietSession === session && bill.title === title
+        (bill) =>
+          bill.title === title &&
+          (bill.dietSession === session || bill.submittedSession === session)
       )
       const billId = existing?.id ?? `bill-${session}-cas-${hashId(title)}`
       if (!existing) {
@@ -67,6 +70,7 @@ export const collectNaikaku = async (): Promise<CollectorResult> => {
           id: billId,
           title,
           dietSession: session,
+          submittedSession: session,
           proposerType: "cabinet",
           status: "submitted",
           sourceUrl: pageUrl,

@@ -1,13 +1,16 @@
 import type { Bill, BillEvent, BillStatus } from "../../lib/types.ts"
 import {
   fetchText,
+  formatBillNumber,
   hashId,
   loadCollection,
   nowIso,
+  proposerTypeByGianType,
   saveCollection,
   stripTags,
   upsert,
   type CollectorResult,
+  type GianType,
 } from "./lib.ts"
 import { dietSessions } from "./config.ts"
 
@@ -20,7 +23,7 @@ export const statusFromKeika = (keika: string): BillStatus => {
   if (/否決/.test(keika)) return "rejected"
   if (/撤回/.test(keika)) return "withdrawn"
   if (/廃案|審査未了/.test(keika)) return "expired"
-  if (/参議院で審議中|参議院へ送付|衆議院通過/.test(keika))
+  if (/参議院で審議中|参議院へ送付|衆議院通過|本院議了|衆議院議了/.test(keika))
     return "passed_lower_house"
   if (/委員会|審査中|付託/.test(keika)) return "committee_review"
   if (/継続|閉会中/.test(keika)) return "committee_review"
@@ -58,45 +61,93 @@ export const collectShugiin = async (): Promise<CollectorResult> => {
       continue
     }
 
-    const rows = html.split(/<tr[\s>]/i).slice(1)
-    for (const row of rows) {
+    // 「衆法の一覧」等の見出しで区切られたテーブルごとに議案種別が決まる
+    const chunks = html.split(/<tr[\s>]/i)
+    let gianType: GianType | undefined
+    for (const row of chunks) {
       const cells = [...row.matchAll(/<td[^>]*>([\s\S]*?)<\/td>/gi)].map((m) =>
         stripTags(m[1])
       )
+      // チャンク末尾に次テーブルの見出しが含まれるため、行を処理してから種別を更新する
+      const updateGianType = () => {
+        const heading = [
+          ...row.matchAll(/(衆法|参法|閣法|予算|条約|承認|承諾|決算|決議)の一覧/g),
+        ].at(-1)?.[1]
+        if (heading)
+          gianType =
+            heading in proposerTypeByGianType
+              ? (heading as GianType)
+              : undefined
+      }
       // 衆議院の議案一覧: [提出回次, 番号, 議案件名, 審議状況, ...]
-      if (cells.length < 4) continue
-      const [, number, title, keika] = cells
-      if (!title || !/法律案|法案/.test(title)) continue
+      if (cells.length < 4 || !gianType) {
+        updateGianType()
+        continue
+      }
+      const [submittedSessionText, numberText, title, keika] = cells
+      if (!title || !/法律案|法案/.test(title)) {
+        updateGianType()
+        continue
+      }
 
       const status = statusFromKeika(keika ?? "")
-      const proposerType = /衆法/.test(row)
-        ? "representative"
-        : /参法/.test(row)
-          ? "councillor"
-          : "cabinet"
-      const billNumber = number
-        ? `第${session}回国会 議案番号${number}`
+      const proposerType = proposerTypeByGianType[gianType]
+      const submittedSession = Number(submittedSessionText)
+      const submittedNumber = Number(numberText)
+      const hasIdentity = submittedSession > 0 && submittedNumber > 0
+      const billNumber = hasIdentity
+        ? formatBillNumber(submittedSession, gianType, submittedNumber)
         : undefined
+      updateGianType()
 
-      const existing = bills.find(
-        (bill) =>
-          bill.dietSession === session &&
-          (bill.title === title ||
-            (billNumber && bill.billNumber === billNumber))
-      )
+      // 継続審査法案は (提出回次, 種別, 提出番号) で回次をまたいで同定する
+      const existing =
+        (hasIdentity
+          ? bills.find(
+              (bill) =>
+                bill.submittedSession === submittedSession &&
+                bill.submittedNumber === submittedNumber &&
+                bill.proposerType === proposerType
+            )
+          : undefined) ??
+        bills.find(
+          (bill) =>
+            bill.dietSession === session &&
+            (bill.title === title ||
+              (billNumber && bill.billNumber === billNumber))
+        )
+      // より新しい回次で審議済みのエントリを過去回次の一覧で上書きしない
+      if (existing?.dietSession !== undefined && existing.dietSession > session)
+        continue
       const billId = existing?.id ?? `bill-${session}-shugiin-${hashId(title)}`
 
-      const statusChanged = existing !== undefined && existing.status !== status
+      // 官報・e-Gov 側で公布・施行まで進んでいる場合は後退させない
+      const protectedStatuses: BillStatus[] = ["promulgated", "enforced"]
+      const nextStatus =
+        existing &&
+        protectedStatuses.includes(existing.status) &&
+        !protectedStatuses.includes(status)
+          ? existing.status
+          : status
+
+      const statusChanged =
+        existing !== undefined && existing.status !== nextStatus
       const bill: Bill = {
         ...(existing ?? {
           id: billId,
           title,
-          dietSession: session,
           createdAt: nowIso(),
         }),
-        billNumber: existing?.billNumber ?? billNumber,
-        proposerType: existing?.proposerType ?? proposerType,
-        status,
+        dietSession: session,
+        submittedSession: hasIdentity
+          ? submittedSession
+          : existing?.submittedSession,
+        submittedNumber: hasIdentity
+          ? submittedNumber
+          : existing?.submittedNumber,
+        billNumber: billNumber ?? existing?.billNumber,
+        proposerType,
+        status: nextStatus,
         sourceUrl: existing?.sourceUrl ?? pageUrl,
         updatedAt: nowIso(),
       }
@@ -111,7 +162,7 @@ export const collectShugiin = async (): Promise<CollectorResult> => {
         "passed_lower_house",
         "passed_diet",
       ]
-      const eventType = eventTypeByStatus[status]
+      const eventType = eventTypeByStatus[nextStatus]
       const hasAccurateEvent =
         eventType !== undefined &&
         accurateTypes.includes(eventType) &&
@@ -120,9 +171,9 @@ export const collectShugiin = async (): Promise<CollectorResult> => {
         )
       if ((statusChanged || !existing) && eventType && !hasAccurateEvent) {
         const event: BillEvent = {
-          id: `event-${billId}-${status}-${today}`,
+          id: `event-${billId}-${nextStatus}-${today}`,
           billId,
-          type: eventTypeByStatus[status],
+          type: eventType,
           date: today,
           chamber: "lower",
           description: keika ? `衆議院 審議経過: ${keika}` : undefined,

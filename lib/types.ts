@@ -18,7 +18,12 @@ export interface Bill {
   title: string
   titleKana?: string
   billNumber?: string
+  /** 直近に審議された国会回次 (継続審査で提出回次より進む) */
   dietSession?: number
+  /** 提出回次 */
+  submittedSession?: number
+  /** 提出番号 (提出回次内の種別ごとの連番) */
+  submittedNumber?: number
   proposerType?: "cabinet" | "representative" | "councillor" | "unknown"
   proposerName?: string
   ministry?: string
@@ -128,6 +133,7 @@ export type DocumentType =
   | "comparison_table"
   | "reference_provisions"
   | "kanpo"
+  | "minutes"
   | "result"
   | "raw"
   | "other"

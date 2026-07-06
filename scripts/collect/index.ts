@@ -4,6 +4,7 @@ import { collectKanpo } from "./kanpo.ts"
 import { collectNaikaku } from "./naikaku.ts"
 import { collectShugiin } from "./shugiin.ts"
 import { collectSangiin } from "./sangiin.ts"
+import { collectKokkai } from "./kokkai.ts"
 import { collectPublicComments } from "./public-comments.ts"
 import type { CollectorResult } from "./lib.ts"
 
@@ -14,6 +15,7 @@ const collectors: (() => Promise<CollectorResult>)[] = [
   collectNaikaku,
   collectShugiin, // 衆議院 → 参議院の順で統合する
   collectSangiin,
+  collectKokkai, // bills.json 更新後に審議中法案の会議録を取得する
   collectPublicComments,
 ]
 
