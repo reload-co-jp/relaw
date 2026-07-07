@@ -12,7 +12,7 @@ import {
   type CollectorResult,
   type GianType,
 } from "./lib.ts"
-import { dietSessions } from "./config.ts"
+import { resolveDietSessions } from "./config.ts"
 
 const SHUGIIN_BASE =
   "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/"
@@ -51,7 +51,7 @@ export const collectShugiin = async (): Promise<CollectorResult> => {
   let updated = 0
   const today = new Date().toISOString().slice(0, 10)
 
-  for (const session of dietSessions) {
+  for (const session of await resolveDietSessions()) {
     const pageUrl = `${SHUGIIN_BASE}kaiji${session}.htm`
     let html: string
     try {

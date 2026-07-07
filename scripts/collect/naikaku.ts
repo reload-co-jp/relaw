@@ -10,7 +10,7 @@ import {
   upsert,
   type CollectorResult,
 } from "./lib.ts"
-import { dietSessions } from "./config.ts"
+import { resolveDietSessions } from "./config.ts"
 
 const CAS_BASE = "https://www.cas.go.jp/jp/houan/"
 
@@ -37,7 +37,7 @@ export const collectNaikaku = async (): Promise<CollectorResult> => {
   let documents = loadCollection<Document>("documents.json")
   let updated = 0
 
-  for (const session of dietSessions) {
+  for (const session of await resolveDietSessions()) {
     const pageUrl = `${CAS_BASE}${session}.html`
     let html: string
     try {

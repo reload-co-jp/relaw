@@ -5,7 +5,7 @@ import { createHash } from "node:crypto"
 export const DATA_DIR = join(process.cwd(), "data")
 
 // fetch のヘッダは ByteString 制約のため ASCII のみ
-const USER_AGENT = "RelawBot/1.0 (+https://github.com/kixixixixi/relaw)"
+export const USER_AGENT = "RelawBot/1.0 (+https://github.com/kixixixixi/relaw)"
 
 export const nowIso = (): string => new Date().toISOString()
 

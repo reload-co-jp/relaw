@@ -170,7 +170,7 @@ pnpm lint
 pnpm typecheck
 ```
 
-- 収集対象の国会回次は `COLLECT_SESSIONS` (カンマ区切り) で指定する。デフォルトは `scripts/collect/config.ts` を参照
+- 収集対象の国会回次は、衆議院の議案一覧ページの存在から最新回次を自動検出し、直近 3 回次を対象とする (新しい国会の召集後、追加作業なしで収集が始まる)。`COLLECT_SESSIONS` (カンマ区切り) で上書き可。詳細は `scripts/collect/config.ts` を参照
 - e-Gov 法令 API の取得範囲は `COLLECT_LAW_WINDOW_DAYS` (公布日の下限、デフォルト 730 日) で指定する
 - `.github/workflows/collect.yml` が毎日 JST 06:00 に収集バッチを実行し、`data/` の差分を main にコミットする。push を契機に GitHub Pages へ再デプロイされる
 

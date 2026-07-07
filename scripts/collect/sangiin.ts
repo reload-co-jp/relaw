@@ -15,7 +15,7 @@ import {
   type CollectorResult,
   type GianType,
 } from "./lib.ts"
-import { dietSessions } from "./config.ts"
+import { resolveDietSessions } from "./config.ts"
 
 const SANGIIN_BASE = "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/"
 
@@ -165,7 +165,7 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
   let updated = 0
   const processedSessions = new Set<number>()
 
-  for (const session of dietSessions) {
+  for (const session of await resolveDietSessions()) {
     const pageUrl = `${SANGIIN_BASE}${session}/gian.htm`
     let html: string
     try {
