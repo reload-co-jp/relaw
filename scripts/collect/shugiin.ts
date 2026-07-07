@@ -121,8 +121,12 @@ export const collectShugiin = async (): Promise<CollectorResult> => {
         continue
       const billId = existing?.id ?? `bill-${session}-shugiin-${hashId(title)}`
 
-      // 官報・e-Gov 側で公布・施行まで進んでいる場合は後退させない
-      const protectedStatuses: BillStatus[] = ["promulgated", "enforced"]
+      // 公布・施行済みや審査未了確定からは後退させない
+      const protectedStatuses: BillStatus[] = [
+        "promulgated",
+        "enforced",
+        "expired",
+      ]
       const nextStatus =
         existing &&
         protectedStatuses.includes(existing.status) &&

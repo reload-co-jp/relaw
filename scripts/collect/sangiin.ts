@@ -50,6 +50,7 @@ interface MeisaiInfo {
   passedUpperHouseAt?: string
   rejected: boolean
   continued: boolean
+  expired: boolean
   promulgatedAt?: string
   lawNumber?: string
 }
@@ -125,6 +126,8 @@ export const parseMeisai = (html: string): MeisaiInfo => {
     rejected:
       lowerPlenary.result === "否決" || upperPlenary.result === "否決",
     continued: /議決・継続結果\s*継続/.test(text),
+    // 会期終了までに議決に至らず審査未了 (廃案) となった場合
+    expired: /議決・継続結果\s*(?:審査)?未了/.test(text),
     promulgatedAt: promulgated ? parseJapaneseDate(promulgated[1]) : undefined,
     lawNumber: lawNumber?.[1],
   }
@@ -137,10 +140,13 @@ const committeeResultTypes: Record<string, BillEvent["type"]> = {
   否決: "rejected",
   継続: "continued",
   継続審査: "continued",
+  未了: "expired",
+  審査未了: "expired",
 }
 
 const deriveStatus = (info: MeisaiInfo): BillStatus => {
   if (info.rejected) return "rejected"
+  if (info.expired) return "expired"
   if (info.promulgatedAt) return "promulgated"
   if (info.passedLowerHouseAt && info.passedUpperHouseAt) return "passed_diet"
   if (info.passedUpperHouseAt) return "passed_upper_house"
@@ -157,6 +163,7 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
   let bills = loadCollection<Bill>("bills.json")
   let events = loadCollection<BillEvent>("bill-events.json")
   let updated = 0
+  const processedSessions = new Set<number>()
 
   for (const session of dietSessions) {
     const pageUrl = `${SANGIIN_BASE}${session}/gian.htm`
@@ -167,6 +174,7 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
       errors.push(`session ${session}: ${String(error)}`)
       continue
     }
+    processedSessions.add(session)
 
     const rows = html.split(/<tr[\s>]/i).slice(1)
     for (const row of rows) {
@@ -192,7 +200,10 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
         errors.push(`meisai ${meisaiUrl}: ${String(error)}`)
         continue
       }
-      const status = info.continued ? "committee_review" : deriveStatus(info)
+      const status =
+        info.continued && !info.expired
+          ? "committee_review"
+          : deriveStatus(info)
 
       // 継続審査法案は (提出回次, 種別, 提出番号) で回次をまたいで同定する
       const proposerType = info.gianType
@@ -215,8 +226,8 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
         continue
       const billId = existing?.id ?? `bill-${session}-sangiin-${hashId(title)}`
 
-      // 官報・e-Gov 側で公布・施行まで進んでいる場合は後退させない
-      const statusRank: BillStatus[] = ["promulgated", "enforced"]
+      // 公布・施行済みや審査未了確定からは後退させない
+      const statusRank: BillStatus[] = ["promulgated", "enforced", "expired"]
       const nextStatus =
         existing &&
         statusRank.includes(existing.status) &&
@@ -395,6 +406,41 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
         if (eventResult.changed) updated += 1
       }
     }
+  }
+
+  // 明細に結果が記載されないまま会期が終わり、後続会期の議案一覧にも
+  // 現れなかった審議中法案は審査未了 (廃案) とみなす
+  const pendingStatuses: BillStatus[] = [
+    "submitted",
+    "committee_review",
+    "passed_lower_house",
+    "passed_upper_house",
+  ]
+  for (const bill of [...bills]) {
+    if (bill.dietSession === undefined) continue
+    if (!pendingStatuses.includes(bill.status)) continue
+    // 後続会期を収集できていない場合は判定しない
+    if (!processedSessions.has(bill.dietSession + 1)) continue
+    const expiredBill: Bill = {
+      ...bill,
+      status: "expired",
+      updatedAt: nowIso(),
+    }
+    const result = upsert(bills, expiredBill)
+    bills = result.collection
+    if (!result.changed) continue
+    updated += 1
+    const eventResult = upsert(events, {
+      id: `event-${bill.id}-expired`,
+      billId: bill.id,
+      type: "expired",
+      date: new Date().toISOString().slice(0, 10),
+      description: "会期終了までに議決されず審査未了",
+      sourceUrl: bill.sourceUrl,
+      createdAt: nowIso(),
+    })
+    events = eventResult.collection
+    if (eventResult.changed) updated += 1
   }
 
   saveCollection("bills.json", bills)
