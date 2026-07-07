@@ -42,15 +42,15 @@
     "title": "政治資金規正法の一部を改正する法律案",
     "createdAt": "2026-07-07T00:36:58.401Z",
     "dietSession": 220,
-    "submittedSession": 217,
-    "submittedNumber": 4,
-    "billNumber": "第217回国会 衆法第4号",
+    "submittedSession": 219,
+    "submittedNumber": 2,
+    "billNumber": "第219回国会 衆法第2号",
     "proposerType": "representative",
-    "proposerName": "大野敬太郎君 外3名",
+    "proposerName": "古川元久君 外3名",
     "status": "expired",
-    "submittedAt": "2025-01-31",
-    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/meisai/m220090217004.htm",
-    "updatedAt": "2026-07-07T00:37:55.825Z"
+    "submittedAt": "2025-11-19",
+    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/meisai/m220090219002.htm",
+    "updatedAt": "2026-07-07T04:49:33.691Z"
   },
   {
     "id": "bill-219-sangiin-6be4b454ee392ea0",
@@ -244,15 +244,15 @@
     "title": "政治資金規正法の一部を改正する法律案",
     "createdAt": "2026-07-07T00:36:49.830Z",
     "dietSession": 220,
-    "submittedSession": 219,
-    "submittedNumber": 2,
-    "billNumber": "第219回国会 衆法第2号",
+    "submittedSession": 216,
+    "submittedNumber": 9,
+    "billNumber": "第216回国会 衆法第9号",
     "proposerType": "representative",
     "status": "expired",
-    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/meisai/m220090219002.htm",
-    "updatedAt": "2026-07-07T00:37:55.824Z",
-    "proposerName": "古川元久君 外3名",
-    "submittedAt": "2025-11-19"
+    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/meisai/m220090216009.htm",
+    "updatedAt": "2026-07-07T04:48:51.649Z",
+    "proposerName": "大串博志君 外8名",
+    "submittedAt": "2024-12-09"
   },
   {
     "id": "bill-219-shugiin-36924340e628bfa4",
@@ -1818,7 +1818,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221012.htm",
-    "updatedAt": "2026-07-07T00:37:55.591Z",
+    "updatedAt": "2026-07-07T04:49:33.451Z",
     "proposerName": "石川博崇君 外3名",
     "submittedAt": "2026-06-30"
   },
@@ -2453,7 +2453,7 @@
     "proposerType": "representative",
     "status": "rejected",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221009.htm",
-    "updatedAt": "2026-07-07T00:37:48.232Z",
+    "updatedAt": "2026-07-07T04:49:26.193Z",
     "proposerName": "西村智奈美君 外3名",
     "submittedAt": "2026-05-15"
   },

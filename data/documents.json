@@ -1432,5 +1432,3725 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-16",
     "createdAt": "2026-07-07T00:38:26.330Z"
+  },
+  {
+    "id": "doc-sangiin-0194c7e7eb4cb4ae",
+    "billId": "bill-219-shugiin-ed456e1fb6bc8d63",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/58021920.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:27.795Z"
+  },
+  {
+    "id": "doc-sangiin-02c31f64fdb1f65d",
+    "billId": "bill-221-shugiin-69f00a49966571ff",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210052210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:25.237Z"
+  },
+  {
+    "id": "doc-sangiin-0400a99b6450ccd2",
+    "billId": "bill-219-cas-57f16337980bafee",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0802190052190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.514Z"
+  },
+  {
+    "id": "doc-sangiin-04462c0bc9c9751b",
+    "billId": "bill-221-shugiin-976160b83eafd7c1",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221430.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:18.664Z"
+  },
+  {
+    "id": "doc-sangiin-048674262397c77b",
+    "billId": "bill-219-shugiin-e7e70f3d8d229450",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190032190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:05.395Z"
+  },
+  {
+    "id": "doc-sangiin-0502e14e2207a999",
+    "billId": "bill-219-sangiin-6be4b454ee392ea0",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170292170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:57.509Z"
+  },
+  {
+    "id": "doc-sangiin-053b22c4a0acd9b8",
+    "billId": "bill-221-shugiin-c9c3117e102af70d",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210102210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:32.970Z"
+  },
+  {
+    "id": "doc-sangiin-057b5ae395570a3b",
+    "billId": "bill-219-shugiin-f973c97a3419d978",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170242170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:56.793Z"
+  },
+  {
+    "id": "doc-sangiin-0805f6186d0b4380",
+    "billId": "bill-221-cas-dfc6ce6332f6bfec",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210142210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:11.655Z"
+  },
+  {
+    "id": "doc-sangiin-084305a4c4048c4f",
+    "billId": "bill-219-sangiin-229a14dd24fc7402",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0902160092160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:35.715Z"
+  },
+  {
+    "id": "doc-sangiin-0918354c23b76fda",
+    "billId": "bill-221-shugiin-b09d45b89c9c7fd2",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210192210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:28.506Z"
+  },
+  {
+    "id": "doc-sangiin-09eb32c5424ec55b",
+    "billId": "bill-221-shugiin-f1e8341af1f02bd8",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/590221130.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:27.107Z"
+  },
+  {
+    "id": "doc-sangiin-09f246c655cd9a9a",
+    "billId": "bill-219-shugiin-50a9e72f4bdefc09",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170522170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:01.585Z"
+  },
+  {
+    "id": "doc-sangiin-0a0149aa6b82c006",
+    "billId": "bill-219-shugiin-5a65fc0508f8a684",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170442170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:00.155Z"
+  },
+  {
+    "id": "doc-sangiin-0a126e6b1498de1d",
+    "billId": "bill-221-shugiin-bde0688a158ba07d",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210212210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:13.320Z"
+  },
+  {
+    "id": "doc-sangiin-0bb810bc121cc4db",
+    "billId": "bill-219-shugiin-dbe2e90243f5c6f4",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/590219100.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:32.367Z"
+  },
+  {
+    "id": "doc-sangiin-0bea1b8419a282f0",
+    "billId": "bill-221-shugiin-d1825e726f9145ea",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210072210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:25.716Z"
+  },
+  {
+    "id": "doc-sangiin-0c14f5c84c9564c3",
+    "billId": "bill-219-shugiin-97c730c7eb48bb69",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0802190042190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.275Z"
+  },
+  {
+    "id": "doc-sangiin-0c658f764ee64e6e",
+    "billId": "bill-221-shugiin-72e38832cb8bde46",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210082210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:32.492Z"
+  },
+  {
+    "id": "doc-sangiin-0c7e044d186513ef",
+    "billId": "bill-219-shugiin-5a5ec28fa0326c09",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0802170212190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.963Z"
+  },
+  {
+    "id": "doc-sangiin-0cb00095e187ee14",
+    "billId": "bill-219-shugiin-5823d70eadb6c8b5",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190192190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:08.259Z"
+  },
+  {
+    "id": "doc-sangiin-0d40354022b9d39a",
+    "billId": "bill-219-shugiin-f1e8341af1f02bd8",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170582170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:02.775Z"
+  },
+  {
+    "id": "doc-sangiin-0f04d0b2e1308bb6",
+    "billId": "bill-219-shugiin-1ea907194e5c794e",
+    "title": "衆議院財務金融委員会の修正案（可決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/h0902180012190010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:49.014Z"
+  },
+  {
+    "id": "doc-sangiin-0f5b1490b96c5868",
+    "billId": "bill-221-shugiin-3bb208b3beca88ca",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221200.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:13.086Z"
+  },
+  {
+    "id": "doc-sangiin-0f6c50c89cd36b54",
+    "billId": "bill-221-shugiin-6acf47077b50e55e",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210512210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:20.886Z"
+  },
+  {
+    "id": "doc-sangiin-0fb40264f403ca0d",
+    "billId": "bill-219-shugiin-003dca6eac493f28",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170412170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:59.426Z"
+  },
+  {
+    "id": "doc-sangiin-0fb46d13dcf93917",
+    "billId": "bill-219-shugiin-08c41f1e354d346a",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0902190142190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:33.336Z"
+  },
+  {
+    "id": "doc-sangiin-0fb7b2420fb73c1c",
+    "billId": "bill-221-shugiin-4d4f27acb15d1461",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210492210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:20.404Z"
+  },
+  {
+    "id": "doc-sangiin-10d52da737756aca",
+    "billId": "bill-221-shugiin-949e8478953b2810",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210262210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.584Z"
+  },
+  {
+    "id": "doc-sangiin-1105ab089be1b716",
+    "billId": "bill-219-shugiin-9d50acc823b8ea6d",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0802190032190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.036Z"
+  },
+  {
+    "id": "doc-sangiin-11fe3550356c95f9",
+    "billId": "bill-219-sangiin-229a14dd24fc7402",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170042170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:54.397Z"
+  },
+  {
+    "id": "doc-sangiin-14c21c4b822a21c7",
+    "billId": "bill-219-shugiin-ed456e1fb6bc8d63",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0802190022190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:27.795Z"
+  },
+  {
+    "id": "doc-sangiin-156c7d6be9acbf01",
+    "billId": "bill-219-shugiin-4ea4345871e60bd4",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170422170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:59.665Z"
+  },
+  {
+    "id": "doc-sangiin-15a172bb2b262d48",
+    "billId": "bill-221-shugiin-f2949c5cdc79a147",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210342210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:16.501Z"
+  },
+  {
+    "id": "doc-sangiin-160b78e146f4d41e",
+    "billId": "bill-219-shugiin-bcf1f1dc9f4a1fa1",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190082190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:06.338Z"
+  },
+  {
+    "id": "doc-sangiin-161ead1ef2c5a983",
+    "billId": "bill-221-shugiin-6f78b160e942f61d",
+    "title": "参議院文教科学委員会の修正案（共産・否決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/h0802210082210010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.453Z"
+  },
+  {
+    "id": "doc-sangiin-16253e5b5be939d7",
+    "billId": "bill-221-shugiin-62d148d52d69e135",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221590.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:22.838Z"
+  },
+  {
+    "id": "doc-sangiin-1646d9daba135ec0",
+    "billId": "bill-221-shugiin-7d0cda2f0fd926d0",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210612210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:23.320Z"
+  },
+  {
+    "id": "doc-sangiin-17fa411592ed15f1",
+    "billId": "bill-221-shugiin-9f91fba7e5a8cf01",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210102210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.928Z"
+  },
+  {
+    "id": "doc-sangiin-1828b4b4aea166c9",
+    "billId": "bill-221-shugiin-6cad989e3dbe4ed5",
+    "title": "参議院財政金融委員会の修正案（立憲、公明、参政・否決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/h0802210012210010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:08.775Z"
+  },
+  {
+    "id": "doc-sangiin-1a0e20f329bcf80e",
+    "billId": "bill-221-shugiin-1369ec0907eddf30",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210452210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:19.445Z"
+  },
+  {
+    "id": "doc-sangiin-1a4b9dfeb253e998",
+    "billId": "bill-221-shugiin-976160b83eafd7c1",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210432210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:18.664Z"
+  },
+  {
+    "id": "doc-sangiin-1ac80e7228f3d20e",
+    "billId": "bill-219-shugiin-7dde060dacd52c39",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190072190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:06.103Z"
+  },
+  {
+    "id": "doc-sangiin-1b718df6375138db",
+    "billId": "bill-219-shugiin-589bbbad1d5f4156",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0802190072190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.994Z"
+  },
+  {
+    "id": "doc-sangiin-1c5dc09034ebd3c0",
+    "billId": "bill-221-shugiin-f1e8341af1f02bd8",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210132210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:27.107Z"
+  },
+  {
+    "id": "doc-sangiin-1c75c975536adea8",
+    "billId": "bill-219-shugiin-945d4cea9dba0679",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170112170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:55.573Z"
+  },
+  {
+    "id": "doc-sangiin-1e85a565d8e04cd9",
+    "billId": "bill-219-shugiin-9d50acc823b8ea6d",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0802190032190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.037Z"
+  },
+  {
+    "id": "doc-sangiin-1ea26c64a0d7b2b8",
+    "billId": "bill-221-shugiin-c070d1114c84d2c2",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210112210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:33.210Z"
+  },
+  {
+    "id": "doc-sangiin-1f0bb200a5009162",
+    "billId": "bill-221-shugiin-5b923d6083005566",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210582210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:22.598Z"
+  },
+  {
+    "id": "doc-sangiin-1f7d4ab8586e3c9a",
+    "billId": "bill-219-shugiin-ed456e1fb6bc8d63",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0802190022190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:27.795Z"
+  },
+  {
+    "id": "doc-sangiin-1ff801b6eaedad43",
+    "billId": "bill-219-shugiin-020c3b749f7ffa1d",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902160052160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:51.403Z"
+  },
+  {
+    "id": "doc-sangiin-210c6a748d09ff0b",
+    "billId": "bill-221-shugiin-f2949c5cdc79a147",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210342210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:16.501Z"
+  },
+  {
+    "id": "doc-sangiin-2134c27b06a3f1f8",
+    "billId": "bill-219-shugiin-4ace47251fe8ed9e",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0902190152190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:33.572Z"
+  },
+  {
+    "id": "doc-sangiin-21cb2389732245b3",
+    "billId": "bill-219-shugiin-e9a3f0516f49e37c",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902150022150.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:50.929Z"
+  },
+  {
+    "id": "doc-sangiin-241716381b0c7aa5",
+    "billId": "bill-221-shugiin-ac21fef8653bf992",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210442210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:18.906Z"
+  },
+  {
+    "id": "doc-sangiin-246f0e7e6ce40b0a",
+    "billId": "bill-219-shugiin-ed456e1fb6bc8d63",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0802190022190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:27.795Z"
+  },
+  {
+    "id": "doc-sangiin-251ff40216754956",
+    "billId": "bill-221-shugiin-b2e04dc4061d4a81",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210472210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:19.926Z"
+  },
+  {
+    "id": "doc-sangiin-261b980ac5ab9716",
+    "billId": "bill-219-shugiin-7b6320a81ee50d75",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0902160042160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:35.241Z"
+  },
+  {
+    "id": "doc-sangiin-2763f1eaba8b2fc4",
+    "billId": "bill-219-shugiin-5a5ec28fa0326c09",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0802170212170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.963Z"
+  },
+  {
+    "id": "doc-sangiin-2943ae9ba9fc502b",
+    "billId": "bill-219-shugiin-08c41f1e354d346a",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0902190142190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:33.336Z"
+  },
+  {
+    "id": "doc-sangiin-29e7b48cf06422e4",
+    "billId": "bill-219-shugiin-1ea907194e5c794e",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/59021810.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:49.014Z"
+  },
+  {
+    "id": "doc-sangiin-29f56ad08cb64f19",
+    "billId": "bill-221-shugiin-6f78b160e942f61d",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210082210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.453Z"
+  },
+  {
+    "id": "doc-sangiin-2a8957cde740c01e",
+    "billId": "bill-221-shugiin-0c539a8a81090265",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210232210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:13.805Z"
+  },
+  {
+    "id": "doc-sangiin-2ba020d952e6351e",
+    "billId": "bill-221-shugiin-2eb937a1da5faf16",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210082210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:25.956Z"
+  },
+  {
+    "id": "doc-sangiin-2bbcd620efdf1494",
+    "billId": "bill-221-shugiin-bd89e32750e1fcf0",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210122210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:11.410Z"
+  },
+  {
+    "id": "doc-sangiin-2c97903990cb5872",
+    "billId": "bill-219-shugiin-0c41b35e8e33dd19",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190172190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:07.758Z"
+  },
+  {
+    "id": "doc-sangiin-2d1fd19059c19610",
+    "billId": "bill-221-shugiin-94ca35289fa8a2ac",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210542210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:21.606Z"
+  },
+  {
+    "id": "doc-sangiin-2db123d3b2a035b6",
+    "billId": "bill-219-shugiin-36924340e628bfa4",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902160132160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:52.130Z"
+  },
+  {
+    "id": "doc-sangiin-2df39df161f7968c",
+    "billId": "bill-219-shugiin-8a920b5b5e5e6c6f",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170472170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:00.868Z"
+  },
+  {
+    "id": "doc-sangiin-2e6ad2e5870aab6a",
+    "billId": "bill-221-shugiin-976160b83eafd7c1",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210432210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:18.664Z"
+  },
+  {
+    "id": "doc-sangiin-3096f36e3af83708",
+    "billId": "bill-219-shugiin-dd01c57f8d20200e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170322170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:58.224Z"
+  },
+  {
+    "id": "doc-sangiin-31945ef41c1429f6",
+    "billId": "bill-221-shugiin-1d61dfc890624cf6",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210022210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:31.055Z"
+  },
+  {
+    "id": "doc-sangiin-31a6bf9a50caadd8",
+    "billId": "bill-219-shugiin-08c41f1e354d346a",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0902190142190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:33.335Z"
+  },
+  {
+    "id": "doc-sangiin-31c250dbc21fd30d",
+    "billId": "bill-219-shugiin-97c730c7eb48bb69",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/58021940.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.274Z"
+  },
+  {
+    "id": "doc-sangiin-3205b75a0febfa56",
+    "billId": "bill-219-shugiin-08c41f1e354d346a",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/590219140.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:33.335Z"
+  },
+  {
+    "id": "doc-sangiin-3223ff41602f77d1",
+    "billId": "bill-221-shugiin-5151a3a6ba683d23",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210502210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:20.644Z"
+  },
+  {
+    "id": "doc-sangiin-32a25932d6ceed36",
+    "billId": "bill-221-shugiin-f77c391b584d5af4",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221600.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:23.078Z"
+  },
+  {
+    "id": "doc-sangiin-32c5d122c62f4eb4",
+    "billId": "bill-221-shugiin-481e56ad85b4ecce",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210072210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.209Z"
+  },
+  {
+    "id": "doc-sangiin-32f6021d727a9c90",
+    "billId": "bill-221-shugiin-115635ee0d08d6f1",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210402210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:17.944Z"
+  },
+  {
+    "id": "doc-sangiin-33cb3dde52828ded",
+    "billId": "bill-221-shugiin-3a0b7ec63fd223f5",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210572210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:22.361Z"
+  },
+  {
+    "id": "doc-sangiin-3630fc5eb75efcb6",
+    "billId": "bill-221-shugiin-f49bb5f2fe9ce68f",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210182210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:12.609Z"
+  },
+  {
+    "id": "doc-sangiin-379c3b00a2b18c51",
+    "billId": "bill-221-shugiin-0b8a8c7f0619dce1",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:12.136Z"
+  },
+  {
+    "id": "doc-sangiin-38033602311ca7d2",
+    "billId": "bill-221-shugiin-f2949c5cdc79a147",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221340.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:16.501Z"
+  },
+  {
+    "id": "doc-sangiin-383e4943ae9b13c3",
+    "billId": "bill-221-shugiin-60cddd18e694f54d",
+    "title": "参議院財政金融委員会の修正案（立憲、公明、参政・否決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/h0802210032210010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.252Z"
+  },
+  {
+    "id": "doc-sangiin-399116194d400874",
+    "billId": "bill-219-shugiin-e0c53f273ded8377",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190062190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:05.865Z"
+  },
+  {
+    "id": "doc-sangiin-3aa15b549838d236",
+    "billId": "bill-221-shugiin-3bb208b3beca88ca",
+    "title": "参議院法務委員会の修正案（公明・否決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/h0802210202210010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:13.086Z"
+  },
+  {
+    "id": "doc-sangiin-3c61cf4c88f74e55",
+    "billId": "bill-221-shugiin-7dcb74ca384a6d94",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210622210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:23.560Z"
+  },
+  {
+    "id": "doc-sangiin-3cf0e0a493f1e24c",
+    "billId": "bill-221-shugiin-2d61e5f947844a95",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210522210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:21.130Z"
+  },
+  {
+    "id": "doc-sangiin-3d198438acd89b0b",
+    "billId": "bill-221-shugiin-483f8f170fb53b09",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210392210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:17.700Z"
+  },
+  {
+    "id": "doc-sangiin-3d3630ae3350ebb1",
+    "billId": "bill-221-shugiin-4d4f27acb15d1461",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210492210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:20.404Z"
+  },
+  {
+    "id": "doc-sangiin-3da4ecb895441b6c",
+    "billId": "bill-221-cas-36789f84bb3a795f",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221240.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.071Z"
+  },
+  {
+    "id": "doc-sangiin-3df3976f93b0435c",
+    "billId": "bill-221-shugiin-f8a7a40301921654",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210482210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:20.166Z"
+  },
+  {
+    "id": "doc-sangiin-402aff1c7c3722fd",
+    "billId": "bill-221-shugiin-ac21fef8653bf992",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221440.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:18.905Z"
+  },
+  {
+    "id": "doc-sangiin-405e387cd6444457",
+    "billId": "bill-221-shugiin-51110a2df904b47e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210132210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:33.690Z"
+  },
+  {
+    "id": "doc-sangiin-40b1a41576f89580",
+    "billId": "bill-221-shugiin-7d0cda2f0fd926d0",
+    "title": "衆議院法務委員会の修正案（可決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/h0802210612210010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:23.320Z"
+  },
+  {
+    "id": "doc-sangiin-40f738f0a1a9f8c2",
+    "billId": "bill-221-shugiin-2eb937a1da5faf16",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210082210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:25.956Z"
+  },
+  {
+    "id": "doc-sangiin-418b236f825d2df6",
+    "billId": "bill-221-shugiin-60cddd18e694f54d",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/58022130.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.252Z"
+  },
+  {
+    "id": "doc-sangiin-422c1d6278b3c295",
+    "billId": "bill-219-shugiin-e2952bfcbb1becfa",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190112190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:06.810Z"
+  },
+  {
+    "id": "doc-sangiin-42fa473b9b83c253",
+    "billId": "bill-221-shugiin-309f53132a385f85",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/58022140.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.487Z"
+  },
+  {
+    "id": "doc-sangiin-430513a6172a3d86",
+    "billId": "bill-221-shugiin-43b37848703981c2",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:13.567Z"
+  },
+  {
+    "id": "doc-sangiin-433d3d5dafb77900",
+    "billId": "bill-219-shugiin-f021c5a129a29320",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t1002190012190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:49.248Z"
+  },
+  {
+    "id": "doc-sangiin-43945a389e59075a",
+    "billId": "bill-219-shugiin-502c0481b026fd63",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170072170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:55.104Z"
+  },
+  {
+    "id": "doc-sangiin-43a14b8c092ecc9a",
+    "billId": "bill-221-shugiin-b62813a5546b98ea",
+    "title": "衆議院内閣委員会の修正案（可決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/h0802210302210010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:15.541Z"
+  },
+  {
+    "id": "doc-sangiin-4423fce89ad7aa67",
+    "billId": "bill-221-shugiin-507b23f3c61af710",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210362210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:16.977Z"
+  },
+  {
+    "id": "doc-sangiin-446aebd9e8a2f66f",
+    "billId": "bill-219-shugiin-af2da0c110d7247a",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/59021950.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:31.144Z"
+  },
+  {
+    "id": "doc-sangiin-455f305b5bcd6938",
+    "billId": "bill-221-shugiin-0c41b35e8e33dd19",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210062210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:25.478Z"
+  },
+  {
+    "id": "doc-sangiin-45af863a3eb5a54d",
+    "billId": "bill-221-shugiin-8ea2a0902c7f55ba",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/58022160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.971Z"
+  },
+  {
+    "id": "doc-sangiin-46c26f26dc4e9bb8",
+    "billId": "bill-221-shugiin-9d40d32ff479bfb5",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221110.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:11.169Z"
+  },
+  {
+    "id": "doc-sangiin-46d1859fdf2d6c73",
+    "billId": "bill-219-shugiin-95ddf2c282fc42f6",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170552170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:02.061Z"
+  },
+  {
+    "id": "doc-sangiin-47470019a8ae1a55",
+    "billId": "bill-220-shugiin-229a14dd24fc7402",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170052170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:54.633Z"
+  },
+  {
+    "id": "doc-sangiin-4772a489e5fd5aa3",
+    "billId": "bill-219-shugiin-b5349b1f70e00feb",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/58021990.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.485Z"
+  },
+  {
+    "id": "doc-sangiin-47e085890f592ab6",
+    "billId": "bill-221-shugiin-ab99b092ab2bfaf7",
+    "title": "衆議院内閣委員会の修正案（可決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/h0802210412210010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:18.183Z"
+  },
+  {
+    "id": "doc-sangiin-4862b09892687400",
+    "billId": "bill-221-shugiin-949e8478953b2810",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221260.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.584Z"
+  },
+  {
+    "id": "doc-sangiin-4b2d8cf2e2e5f873",
+    "billId": "bill-219-shugiin-4ace47251fe8ed9e",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/590219150.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:33.572Z"
+  },
+  {
+    "id": "doc-sangiin-4b42e322255de81b",
+    "billId": "bill-221-shugiin-a5ecbdfafcb05ca9",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210112210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:26.665Z"
+  },
+  {
+    "id": "doc-sangiin-4c0559b0d8ee3184",
+    "billId": "bill-221-shugiin-c2bab6c9c7d6f04d",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221350.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:16.741Z"
+  },
+  {
+    "id": "doc-sangiin-4c882f6a7f3914e8",
+    "billId": "bill-221-shugiin-01a48ba35812b8a9",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210092210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.692Z"
+  },
+  {
+    "id": "doc-sangiin-4d0ed8ad51b0cfbd",
+    "billId": "bill-219-shugiin-51110a2df904b47e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170502170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:01.106Z"
+  },
+  {
+    "id": "doc-sangiin-4d1c1017349604d6",
+    "billId": "bill-219-shugiin-0bdad7f9e0157332",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170212170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:56.051Z"
+  },
+  {
+    "id": "doc-sangiin-4d40c8b25fddd147",
+    "billId": "bill-221-shugiin-8348dfab82d9870c",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210332210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:16.260Z"
+  },
+  {
+    "id": "doc-sangiin-4d571105af440dfc",
+    "billId": "bill-219-shugiin-7ce93c6bd8bc5825",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0802190082190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.249Z"
+  },
+  {
+    "id": "doc-sangiin-4facea4a8699b849",
+    "billId": "bill-221-shugiin-2d61e5f947844a95",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210522210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:21.130Z"
+  },
+  {
+    "id": "doc-sangiin-4fb65e76d614c86b",
+    "billId": "bill-221-shugiin-5371ce93cd499661",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210382210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:17.458Z"
+  },
+  {
+    "id": "doc-sangiin-504d9bf3368cc2b8",
+    "billId": "bill-221-shugiin-d889124a4f6f1a36",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/590221150.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:27.552Z"
+  },
+  {
+    "id": "doc-sangiin-520371c8f914bcb6",
+    "billId": "bill-219-shugiin-9d50acc823b8ea6d",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0802190032190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.037Z"
+  },
+  {
+    "id": "doc-sangiin-5290aae3c711b5d0",
+    "billId": "bill-221-shugiin-9d40d32ff479bfb5",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210112210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:11.169Z"
+  },
+  {
+    "id": "doc-sangiin-53bb94da46c6d574",
+    "billId": "bill-221-shugiin-c2bab6c9c7d6f04d",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210352210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:16.741Z"
+  },
+  {
+    "id": "doc-sangiin-53e87a2f072137b8",
+    "billId": "bill-221-shugiin-bcf1f1dc9f4a1fa1",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210122210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:26.883Z"
+  },
+  {
+    "id": "doc-sangiin-541d4ac80a7c0827",
+    "billId": "bill-219-shugiin-dcaa00798790a065",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170122170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:55.812Z"
+  },
+  {
+    "id": "doc-sangiin-54760857f5fd1bad",
+    "billId": "bill-221-shugiin-1369ec0907eddf30",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221450.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:19.445Z"
+  },
+  {
+    "id": "doc-sangiin-553448b6f70bdfe1",
+    "billId": "bill-219-shugiin-dbe2e90243f5c6f4",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0902190102190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:32.367Z"
+  },
+  {
+    "id": "doc-sangiin-55e7102cb881b268",
+    "billId": "bill-221-shugiin-cdc0fddbcbe9095b",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210182210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:28.261Z"
+  },
+  {
+    "id": "doc-sangiin-565f9b981ec76c13",
+    "billId": "bill-219-cas-6307f77d6021d601",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0802190062190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.755Z"
+  },
+  {
+    "id": "doc-sangiin-568b00468383b1c7",
+    "billId": "bill-219-shugiin-b85a085a3722b651",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170392170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:58.929Z"
+  },
+  {
+    "id": "doc-sangiin-56d1500729fb1df7",
+    "billId": "bill-219-shugiin-af2da0c110d7247a",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0902190052190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:31.144Z"
+  },
+  {
+    "id": "doc-sangiin-57ee4c955122b444",
+    "billId": "bill-221-shugiin-10f985b02910d91e",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210152210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:11.898Z"
+  },
+  {
+    "id": "doc-sangiin-5915b087c0b15e56",
+    "billId": "bill-221-shugiin-f49bb5f2fe9ce68f",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221180.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:12.609Z"
+  },
+  {
+    "id": "doc-sangiin-5a654c1045c893e7",
+    "billId": "bill-221-shugiin-9e8b223ab69b0539",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210192210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:12.847Z"
+  },
+  {
+    "id": "doc-sangiin-5a8091aed9403adf",
+    "billId": "bill-219-cas-57f16337980bafee",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0802190052190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.514Z"
+  },
+  {
+    "id": "doc-sangiin-5af1b42f82bcc570",
+    "billId": "bill-221-cas-8d0bef80280e32d1",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210532210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:21.367Z"
+  },
+  {
+    "id": "doc-sangiin-5b46646d8bd8eba7",
+    "billId": "bill-219-shugiin-af2da0c110d7247a",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0902190052190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:31.144Z"
+  },
+  {
+    "id": "doc-sangiin-5ff3bacdc2043b96",
+    "billId": "bill-219-shugiin-7ce93c6bd8bc5825",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0802190082190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.249Z"
+  },
+  {
+    "id": "doc-sangiin-601b1eea4ac4a1f3",
+    "billId": "bill-221-shugiin-cbfd5f01f7cc469a",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210222210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:29.216Z"
+  },
+  {
+    "id": "doc-sangiin-6096f6f2a83c0ae8",
+    "billId": "bill-219-shugiin-c3b0904c7081e412",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0802190102190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.723Z"
+  },
+  {
+    "id": "doc-sangiin-60b2893402003f83",
+    "billId": "bill-219-shugiin-7ce93c6bd8bc5825",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0802190082190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.249Z"
+  },
+  {
+    "id": "doc-sangiin-60db8f1254ba8c5e",
+    "billId": "bill-221-shugiin-5151a3a6ba683d23",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221500.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:20.644Z"
+  },
+  {
+    "id": "doc-sangiin-6173438330c5e07f",
+    "billId": "bill-219-shugiin-97c730c7eb48bb69",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0802190042190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.274Z"
+  },
+  {
+    "id": "doc-sangiin-61a7a34004ddc51d",
+    "billId": "bill-219-shugiin-af2da0c110d7247a",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0902190052190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:31.144Z"
+  },
+  {
+    "id": "doc-sangiin-61b664bae63eddc0",
+    "billId": "bill-221-shugiin-0fc104439a54c428",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221270.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.823Z"
+  },
+  {
+    "id": "doc-sangiin-61b67afef517f308",
+    "billId": "bill-219-shugiin-8cb92bace2d63b9d",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902160172160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:52.366Z"
+  },
+  {
+    "id": "doc-sangiin-63175e831bc19b49",
+    "billId": "bill-221-shugiin-c2bab6c9c7d6f04d",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210352210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:16.741Z"
+  },
+  {
+    "id": "doc-sangiin-641430962480f3b2",
+    "billId": "bill-221-shugiin-029d887418758572",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:12.370Z"
+  },
+  {
+    "id": "doc-sangiin-6424baaf8296c851",
+    "billId": "bill-219-shugiin-b5349b1f70e00feb",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0802190092190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.485Z"
+  },
+  {
+    "id": "doc-sangiin-646fe453ead8f01e",
+    "billId": "bill-219-shugiin-5a5ec28fa0326c09",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/580217210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.963Z"
+  },
+  {
+    "id": "doc-sangiin-648126b37e40900c",
+    "billId": "bill-219-shugiin-856662d15836f364",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170302170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:57.749Z"
+  },
+  {
+    "id": "doc-sangiin-663b28fc2ba527a4",
+    "billId": "bill-219-shugiin-01ce83e3576136c9",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190122190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:07.050Z"
+  },
+  {
+    "id": "doc-sangiin-66cae0be0c2ab2e2",
+    "billId": "bill-219-shugiin-836475c4632ab9d6",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170402170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:59.191Z"
+  },
+  {
+    "id": "doc-sangiin-66e5749cbd255aac",
+    "billId": "bill-221-shugiin-dd01c57f8d20200e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210212210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:28.981Z"
+  },
+  {
+    "id": "doc-sangiin-67709f2051ab9d0b",
+    "billId": "bill-219-sangiin-229a14dd24fc7402",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0902170042170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:38.526Z"
+  },
+  {
+    "id": "doc-sangiin-67cad1b38f4d4b4c",
+    "billId": "bill-219-shugiin-7d0cda2f0fd926d0",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170612170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:03.500Z"
+  },
+  {
+    "id": "doc-sangiin-6958d05dcdc7ceb9",
+    "billId": "bill-219-shugiin-fdf3bf98cb6d5d37",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170592170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:03.022Z"
+  },
+  {
+    "id": "doc-sangiin-69a61abeb96d28e0",
+    "billId": "bill-221-shugiin-10f985b02910d91e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210152210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:11.898Z"
+  },
+  {
+    "id": "doc-sangiin-6af1746b3c6ef70a",
+    "billId": "bill-219-shugiin-5a5ec28fa0326c09",
+    "title": "衆議院厚生労働委員会の修正案（可決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/h0802170212190010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.963Z"
+  },
+  {
+    "id": "doc-sangiin-6bc771d4f4f2422d",
+    "billId": "bill-221-shugiin-d889124a4f6f1a36",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210152210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:27.552Z"
+  },
+  {
+    "id": "doc-sangiin-6bd68ff6b0a58777",
+    "billId": "bill-219-shugiin-51c5b084e9c3333c",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902160192160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:52.601Z"
+  },
+  {
+    "id": "doc-sangiin-6c6a8f1ec788f6f5",
+    "billId": "bill-221-shugiin-cf91b8d6f87f4db2",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210292210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:15.302Z"
+  },
+  {
+    "id": "doc-sangiin-6c90f8850f8ccdfd",
+    "billId": "bill-221-shugiin-75a5791173054ee8",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210172210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:28.038Z"
+  },
+  {
+    "id": "doc-sangiin-6cbba64ffa24b9e6",
+    "billId": "bill-221-shugiin-2eb937a1da5faf16",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/59022180.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:25.956Z"
+  },
+  {
+    "id": "doc-sangiin-70ead783e561e24e",
+    "billId": "bill-221-shugiin-10f985b02910d91e",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221150.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:11.897Z"
+  },
+  {
+    "id": "doc-sangiin-71b557602b69593e",
+    "billId": "bill-221-cas-36789f84bb3a795f",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210242210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.071Z"
+  },
+  {
+    "id": "doc-sangiin-7511694ad63f570c",
+    "billId": "bill-219-shugiin-1610844969b50e23",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170652170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:04.454Z"
+  },
+  {
+    "id": "doc-sangiin-758ec89cb3155ff9",
+    "billId": "bill-221-shugiin-0b8a8c7f0619dce1",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210162210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:12.136Z"
+  },
+  {
+    "id": "doc-sangiin-767a715915ecaccc",
+    "billId": "bill-221-shugiin-bde0688a158ba07d",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:13.320Z"
+  },
+  {
+    "id": "doc-sangiin-76bd8634705456a8",
+    "billId": "bill-221-shugiin-cf91b8d6f87f4db2",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210292210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:15.302Z"
+  },
+  {
+    "id": "doc-sangiin-77378cd28c64abfa",
+    "billId": "bill-220-shugiin-4a359696f73f8d3a",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t1002200012200.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:08.499Z"
+  },
+  {
+    "id": "doc-sangiin-7819e7473406a78c",
+    "billId": "bill-221-shugiin-229a14dd24fc7402",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210012210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:24.272Z"
+  },
+  {
+    "id": "doc-sangiin-78383dadea744569",
+    "billId": "bill-219-shugiin-589bbbad1d5f4156",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0802190072190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.994Z"
+  },
+  {
+    "id": "doc-sangiin-7a14886771b3f3ad",
+    "billId": "bill-221-shugiin-62d148d52d69e135",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210592210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:22.839Z"
+  },
+  {
+    "id": "doc-sangiin-7ae079bc6154ab2c",
+    "billId": "bill-221-shugiin-3f3b2d2174275f42",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210242210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:29.676Z"
+  },
+  {
+    "id": "doc-sangiin-7b095b0ea87a8a9e",
+    "billId": "bill-221-shugiin-55576ec34fbc6496",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210232210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:29.453Z"
+  },
+  {
+    "id": "doc-sangiin-7badb7ce449ba26c",
+    "billId": "bill-221-shugiin-8348dfab82d9870c",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210332210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:16.260Z"
+  },
+  {
+    "id": "doc-sangiin-7be1c13a9837fea1",
+    "billId": "bill-221-shugiin-6cad989e3dbe4ed5",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/58022110.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:08.775Z"
+  },
+  {
+    "id": "doc-sangiin-7cb96eef37448e68",
+    "billId": "bill-219-shugiin-c3b0904c7081e412",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0802190102190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.723Z"
+  },
+  {
+    "id": "doc-sangiin-7d6f1d2a2de67271",
+    "billId": "bill-221-shugiin-bd89e32750e1fcf0",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210122210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:11.410Z"
+  },
+  {
+    "id": "doc-sangiin-7e2363881af31be5",
+    "billId": "bill-221-shugiin-8ea2a0902c7f55ba",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210062210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.971Z"
+  },
+  {
+    "id": "doc-sangiin-7ef64cd6255eb0fc",
+    "billId": "bill-221-shugiin-35963f1520cd4962",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221320.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:16.021Z"
+  },
+  {
+    "id": "doc-sangiin-7f480066a562d74f",
+    "billId": "bill-221-shugiin-fd73ab4e63190c8b",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210252210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.345Z"
+  },
+  {
+    "id": "doc-sangiin-7f66b4258ada54fe",
+    "billId": "bill-221-shugiin-fd73ab4e63190c8b",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210252210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.345Z"
+  },
+  {
+    "id": "doc-sangiin-7f6aece33d506dd3",
+    "billId": "bill-219-shugiin-4ace47251fe8ed9e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0902190152190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:33.572Z"
+  },
+  {
+    "id": "doc-sangiin-7f7e142403411099",
+    "billId": "bill-221-shugiin-69f00a49966571ff",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210052210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:25.237Z"
+  },
+  {
+    "id": "doc-sangiin-7fb155342d7300dc",
+    "billId": "bill-221-shugiin-6f78b160e942f61d",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210082210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.453Z"
+  },
+  {
+    "id": "doc-sangiin-807e802fde84ce0f",
+    "billId": "bill-221-shugiin-6ad386ba34fe1f02",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210022210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.013Z"
+  },
+  {
+    "id": "doc-sangiin-80d3c4d17438fbc4",
+    "billId": "bill-221-shugiin-35963f1520cd4962",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210322210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:16.022Z"
+  },
+  {
+    "id": "doc-sangiin-81461dde23c86357",
+    "billId": "bill-221-shugiin-9f91fba7e5a8cf01",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221100.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.928Z"
+  },
+  {
+    "id": "doc-sangiin-81c28897866aca39",
+    "billId": "bill-219-shugiin-6be4b454ee392ea0",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170642170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:04.215Z"
+  },
+  {
+    "id": "doc-sangiin-8202c618e2af95c9",
+    "billId": "bill-220-shugiin-d9e3d100eba36fff",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170272170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:57.268Z"
+  },
+  {
+    "id": "doc-sangiin-82664f45ef5c9bbc",
+    "billId": "bill-221-shugiin-738becd622201f8c",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210282210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:30.609Z"
+  },
+  {
+    "id": "doc-sangiin-83c164e2523cbd9f",
+    "billId": "bill-219-shugiin-51e7f05d03620010",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0902170032170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:38.291Z"
+  },
+  {
+    "id": "doc-sangiin-840001af868437c7",
+    "billId": "bill-221-shugiin-6ad386ba34fe1f02",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210022210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.013Z"
+  },
+  {
+    "id": "doc-sangiin-847f5e310b2fcb73",
+    "billId": "bill-221-shugiin-dcb81b4d41296dfa",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210202210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:28.743Z"
+  },
+  {
+    "id": "doc-sangiin-848fb28f6b4bf06a",
+    "billId": "bill-221-shugiin-229a14dd24fc7402",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210122210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:33.452Z"
+  },
+  {
+    "id": "doc-sangiin-85a22d4eb89e7c49",
+    "billId": "bill-219-shugiin-cfd8684a9e216fa5",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170662170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:04.691Z"
+  },
+  {
+    "id": "doc-sangiin-860c578149e2d4fb",
+    "billId": "bill-221-shugiin-08c41f1e354d346a",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/590221100.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:26.429Z"
+  },
+  {
+    "id": "doc-sangiin-875dbca0d34879ec",
+    "billId": "bill-219-shugiin-cbfd5f01f7cc469a",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170602170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:03.259Z"
+  },
+  {
+    "id": "doc-sangiin-8804c1ce9f443e5d",
+    "billId": "bill-221-shugiin-69f00a49966571ff",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/59022150.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:25.236Z"
+  },
+  {
+    "id": "doc-sangiin-894005bf3d685dab",
+    "billId": "bill-219-shugiin-487416ed0ad6e379",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/58021910.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:27.554Z"
+  },
+  {
+    "id": "doc-sangiin-8b09c051c91371ed",
+    "billId": "bill-219-cas-6307f77d6021d601",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0802190062190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.755Z"
+  },
+  {
+    "id": "doc-sangiin-8b927b1e00d30be7",
+    "billId": "bill-221-shugiin-6f78b160e942f61d",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/58022180.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.453Z"
+  },
+  {
+    "id": "doc-sangiin-8bcfa9b2b5bd3a79",
+    "billId": "bill-221-shugiin-1369ec0907eddf30",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210452210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:19.445Z"
+  },
+  {
+    "id": "doc-sangiin-8bd1b8a9b6b67cbc",
+    "billId": "bill-221-shugiin-01a48ba35812b8a9",
+    "title": "参議院文教科学委員会の修正案（共産・否決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/h0802210092210010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.692Z"
+  },
+  {
+    "id": "doc-sangiin-8c0dce9ff0a2c770",
+    "billId": "bill-219-shugiin-b09d45b89c9c7fd2",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170312170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:57.989Z"
+  },
+  {
+    "id": "doc-sangiin-8c3c7a600f6367f5",
+    "billId": "bill-219-shugiin-955581e00835789e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170012170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:53.921Z"
+  },
+  {
+    "id": "doc-sangiin-8cbff96fce17b18d",
+    "billId": "bill-221-cas-36789f84bb3a795f",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210242210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.071Z"
+  },
+  {
+    "id": "doc-sangiin-8d601279afe95f0b",
+    "billId": "bill-221-shugiin-0fc104439a54c428",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210272210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.824Z"
+  },
+  {
+    "id": "doc-sangiin-8dd33597c356b4ed",
+    "billId": "bill-221-shugiin-08c41f1e354d346a",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210102210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:26.429Z"
+  },
+  {
+    "id": "doc-sangiin-8de88d6a74956d45",
+    "billId": "bill-221-shugiin-f28f90980f592a7e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210462210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:19.687Z"
+  },
+  {
+    "id": "doc-sangiin-8e7b9646d3132ce1",
+    "billId": "bill-219-shugiin-a38385127c97faf9",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170432170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:59.921Z"
+  },
+  {
+    "id": "doc-sangiin-8ee612784d97ed8c",
+    "billId": "bill-221-shugiin-9d40d32ff479bfb5",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210112210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:11.169Z"
+  },
+  {
+    "id": "doc-sangiin-8fc8f507f2091122",
+    "billId": "bill-219-shugiin-5a5ec28fa0326c09",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0802170212190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.963Z"
+  },
+  {
+    "id": "doc-sangiin-910b09ad96fb4ce3",
+    "billId": "bill-219-shugiin-1ea907194e5c794e",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0902180012190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:49.014Z"
+  },
+  {
+    "id": "doc-sangiin-917142ce72860231",
+    "billId": "bill-219-shugiin-589bbbad1d5f4156",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/58021970.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.994Z"
+  },
+  {
+    "id": "doc-sangiin-91eab8da8bb82427",
+    "billId": "bill-221-shugiin-481e56ad85b4ecce",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210072210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.209Z"
+  },
+  {
+    "id": "doc-sangiin-92288e61a0bebf25",
+    "billId": "bill-221-shugiin-60cddd18e694f54d",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210032210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.252Z"
+  },
+  {
+    "id": "doc-sangiin-928e1b97c7c88b51",
+    "billId": "bill-219-shugiin-b5349b1f70e00feb",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0802190092190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.485Z"
+  },
+  {
+    "id": "doc-sangiin-92d0978303d611c5",
+    "billId": "bill-221-shugiin-aa8e6ecb1bb1c68a",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210062210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:32.010Z"
+  },
+  {
+    "id": "doc-sangiin-939e6f9d89977a3b",
+    "billId": "bill-221-shugiin-cf712f15118a45f6",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221280.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:15.065Z"
+  },
+  {
+    "id": "doc-sangiin-93baafd9d56ea97a",
+    "billId": "bill-221-shugiin-229a14dd24fc7402",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210142210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:27.329Z"
+  },
+  {
+    "id": "doc-sangiin-94bec06bb0c91408",
+    "billId": "bill-219-shugiin-49668e9c21ae185a",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902160252160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:53.685Z"
+  },
+  {
+    "id": "doc-sangiin-951febcf35163571",
+    "billId": "bill-221-shugiin-f77c391b584d5af4",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210602210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:23.079Z"
+  },
+  {
+    "id": "doc-sangiin-95ed1207a4ec1fdb",
+    "billId": "bill-221-shugiin-6acf47077b50e55e",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221510.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:20.886Z"
+  },
+  {
+    "id": "doc-sangiin-96b971dec04c3ccc",
+    "billId": "bill-219-shugiin-589bbbad1d5f4156",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0802190072190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.994Z"
+  },
+  {
+    "id": "doc-sangiin-975a9a64cef94963",
+    "billId": "bill-221-shugiin-309f53132a385f85",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210042210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.488Z"
+  },
+  {
+    "id": "doc-sangiin-98316ce91c48591c",
+    "billId": "bill-221-shugiin-949e8478953b2810",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210262210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.585Z"
+  },
+  {
+    "id": "doc-sangiin-9b0e72a03f1682bc",
+    "billId": "bill-219-shugiin-6f78b160e942f61d",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170062170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:54.869Z"
+  },
+  {
+    "id": "doc-sangiin-9c73fcc92249457a",
+    "billId": "bill-219-shugiin-229a14dd24fc7402",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902160092160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:51.649Z"
+  },
+  {
+    "id": "doc-sangiin-9d3fefee9c48fdfa",
+    "billId": "bill-219-shugiin-dcb81b4d41296dfa",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190162190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:07.521Z"
+  },
+  {
+    "id": "doc-sangiin-9dd12e4d35ecd4fd",
+    "billId": "bill-221-shugiin-b62813a5546b98ea",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210302210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:15.541Z"
+  },
+  {
+    "id": "doc-sangiin-9e96cab2ca13295d",
+    "billId": "bill-221-shugiin-571a71dccedfd753",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221550.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:21.852Z"
+  },
+  {
+    "id": "doc-sangiin-9e98cddd0fd01b7f",
+    "billId": "bill-221-shugiin-9e8b223ab69b0539",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210192210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:12.846Z"
+  },
+  {
+    "id": "doc-sangiin-9ee18bba9d7b6d4e",
+    "billId": "bill-219-shugiin-487416ed0ad6e379",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0802190012190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:27.554Z"
+  },
+  {
+    "id": "doc-sangiin-a0271c37d69c5a7d",
+    "billId": "bill-219-shugiin-b920060b17752cd9",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902160222160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:52.973Z"
+  },
+  {
+    "id": "doc-sangiin-a1ab0850e1a08775",
+    "billId": "bill-221-shugiin-b62813a5546b98ea",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221300.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:15.541Z"
+  },
+  {
+    "id": "doc-sangiin-a2fbcaf139a16fef",
+    "billId": "bill-221-shugiin-35963f1520cd4962",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210322210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:16.022Z"
+  },
+  {
+    "id": "doc-sangiin-a3a9b4cb9c1af195",
+    "billId": "bill-219-shugiin-dbe2e90243f5c6f4",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0902190102190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:32.367Z"
+  },
+  {
+    "id": "doc-sangiin-a416f85ebea12ad9",
+    "billId": "bill-219-shugiin-7ce93c6bd8bc5825",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/58021980.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.249Z"
+  },
+  {
+    "id": "doc-sangiin-a4483472d9fe5ed9",
+    "billId": "bill-221-shugiin-01a48ba35812b8a9",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210092210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.692Z"
+  },
+  {
+    "id": "doc-sangiin-a55b5609166fefa0",
+    "billId": "bill-219-shugiin-ed662caa2334a5ae",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170542170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:01.822Z"
+  },
+  {
+    "id": "doc-sangiin-a79b6f3be8b30ea6",
+    "billId": "bill-221-shugiin-489e5a4ca1d1cf85",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221370.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:17.216Z"
+  },
+  {
+    "id": "doc-sangiin-a89ed66a9fca2650",
+    "billId": "bill-219-shugiin-b9cb0e51bff5a6bc",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190182190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:08.023Z"
+  },
+  {
+    "id": "doc-sangiin-a95e98d482c15f16",
+    "billId": "bill-221-shugiin-cf712f15118a45f6",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210282210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:15.065Z"
+  },
+  {
+    "id": "doc-sangiin-a9a1290e39671f53",
+    "billId": "bill-221-shugiin-d9e3d100eba36fff",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210042210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:31.530Z"
+  },
+  {
+    "id": "doc-sangiin-a9b9aa7c7c13a162",
+    "billId": "bill-221-shugiin-115635ee0d08d6f1",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210402210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:17.944Z"
+  },
+  {
+    "id": "doc-sangiin-aae9b98cb0d901cf",
+    "billId": "bill-221-shugiin-9f91fba7e5a8cf01",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210102210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.928Z"
+  },
+  {
+    "id": "doc-sangiin-ae0c37d99234070d",
+    "billId": "bill-221-shugiin-f49bb5f2fe9ce68f",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210182210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:12.610Z"
+  },
+  {
+    "id": "doc-sangiin-ae906a811c7098b1",
+    "billId": "bill-219-shugiin-c3b0904c7081e412",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0802190102190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.723Z"
+  },
+  {
+    "id": "doc-sangiin-af5d895ae52a3dab",
+    "billId": "bill-219-shugiin-8fde77e39f8b1b9f",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902160122160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:51.887Z"
+  },
+  {
+    "id": "doc-sangiin-b0513ac49d2b6424",
+    "billId": "bill-221-shugiin-43b37848703981c2",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210222210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:13.567Z"
+  },
+  {
+    "id": "doc-sangiin-b07ba92bd3afccb5",
+    "billId": "bill-219-shugiin-c3b0904c7081e412",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/580219100.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.723Z"
+  },
+  {
+    "id": "doc-sangiin-b0aea183687dfe61",
+    "billId": "bill-219-cas-57f16337980bafee",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/58021950.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.513Z"
+  },
+  {
+    "id": "doc-sangiin-b180c6355d3550d1",
+    "billId": "bill-220-shugiin-6be4b454ee392ea0",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170352170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:58.457Z"
+  },
+  {
+    "id": "doc-sangiin-b28e613dcba0c693",
+    "billId": "bill-221-shugiin-7dcb74ca384a6d94",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221620.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:23.560Z"
+  },
+  {
+    "id": "doc-sangiin-b3bf4eb26bb911e1",
+    "billId": "bill-219-shugiin-487416ed0ad6e379",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0802190012190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:27.554Z"
+  },
+  {
+    "id": "doc-sangiin-b3d5a32033f5131a",
+    "billId": "bill-221-shugiin-bd89e32750e1fcf0",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221120.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:11.410Z"
+  },
+  {
+    "id": "doc-sangiin-b4c0f6fd7a185d76",
+    "billId": "bill-221-shugiin-9c4ce3dbebcdbc1d",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210422210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:18.422Z"
+  },
+  {
+    "id": "doc-sangiin-b4c5d72fca506bf7",
+    "billId": "bill-219-shugiin-1109779085dc8579",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170462170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:00.632Z"
+  },
+  {
+    "id": "doc-sangiin-b51e39308cc2f237",
+    "billId": "bill-219-shugiin-c770fa6c937065aa",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170512170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:01.345Z"
+  },
+  {
+    "id": "doc-sangiin-b5e02e3c3b682c56",
+    "billId": "bill-221-shugiin-9837f6f89f23038a",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210022210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:24.511Z"
+  },
+  {
+    "id": "doc-sangiin-b6cd6ddf2236a3b9",
+    "billId": "bill-221-shugiin-9c4ce3dbebcdbc1d",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221420.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:18.422Z"
+  },
+  {
+    "id": "doc-sangiin-b6f3a89d3105e1d8",
+    "billId": "bill-221-shugiin-5823d70eadb6c8b5",
+    "title": "参議院国土交通委員会の修正案（れ新・否決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/h0902210042210010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:24.998Z"
+  },
+  {
+    "id": "doc-sangiin-b77dda57b26476f1",
+    "billId": "bill-221-shugiin-ab99b092ab2bfaf7",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210412210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:18.183Z"
+  },
+  {
+    "id": "doc-sangiin-b8499e3528c9b58e",
+    "billId": "bill-221-shugiin-bde0688a158ba07d",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210212210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:13.320Z"
+  },
+  {
+    "id": "doc-sangiin-b88745aceddb99fe",
+    "billId": "bill-221-shugiin-f021c5a129a29320",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210032210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:31.290Z"
+  },
+  {
+    "id": "doc-sangiin-b981b55da90c1f78",
+    "billId": "bill-219-shugiin-aa8e6ecb1bb1c68a",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t1002190052190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:50.188Z"
+  },
+  {
+    "id": "doc-sangiin-b9d4e528232368b6",
+    "billId": "bill-219-shugiin-9d66da4f9ba38e73",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170222170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:56.284Z"
+  },
+  {
+    "id": "doc-sangiin-ba19f051fce86b14",
+    "billId": "bill-221-shugiin-62d148d52d69e135",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210592210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:22.839Z"
+  },
+  {
+    "id": "doc-sangiin-bb6bae9952565b8c",
+    "billId": "bill-219-cas-6307f77d6021d601",
+    "title": "参議院内閣委員会の修正案（参政・否決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/h0802190062190010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.755Z"
+  },
+  {
+    "id": "doc-sangiin-bbd8dbf2c200b3f5",
+    "billId": "bill-219-shugiin-f8a7a40301921654",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170622170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:03.737Z"
+  },
+  {
+    "id": "doc-sangiin-bc202341dfaf1503",
+    "billId": "bill-221-shugiin-3f876593f937fa8c",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210052210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:31.770Z"
+  },
+  {
+    "id": "doc-sangiin-bc9884ee8b667125",
+    "billId": "bill-221-shugiin-b62813a5546b98ea",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210302210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:15.541Z"
+  },
+  {
+    "id": "doc-sangiin-bcc50a2fa2ce8d75",
+    "billId": "bill-221-shugiin-6cad989e3dbe4ed5",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210012210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:08.775Z"
+  },
+  {
+    "id": "doc-sangiin-be89c47a8072f506",
+    "billId": "bill-221-shugiin-5823d70eadb6c8b5",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/59022140.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:24.998Z"
+  },
+  {
+    "id": "doc-sangiin-bf343afdced56ff0",
+    "billId": "bill-219-shugiin-ab5ae9f1460d84d5",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170632170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:03.979Z"
+  },
+  {
+    "id": "doc-sangiin-c1060283310d6695",
+    "billId": "bill-221-shugiin-a8b4b31f9b075a52",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210632210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:23.797Z"
+  },
+  {
+    "id": "doc-sangiin-c1978293ac6f8718",
+    "billId": "bill-219-cas-57f16337980bafee",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0802190052190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.514Z"
+  },
+  {
+    "id": "doc-sangiin-c19ba08cb3488887",
+    "billId": "bill-221-shugiin-9698ac0653e46498",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210312210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:15.782Z"
+  },
+  {
+    "id": "doc-sangiin-c1a4da3db56f92a0",
+    "billId": "bill-221-shugiin-029d887418758572",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210172210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:12.370Z"
+  },
+  {
+    "id": "doc-sangiin-c1e8c6a33e1c2772",
+    "billId": "bill-219-shugiin-4ace47251fe8ed9e",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0902190152190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:33.572Z"
+  },
+  {
+    "id": "doc-sangiin-c2d51fbe35eee57c",
+    "billId": "bill-219-cas-6307f77d6021d601",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0802190062190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.755Z"
+  },
+  {
+    "id": "doc-sangiin-c385693360272ff0",
+    "billId": "bill-221-shugiin-e0c53f273ded8377",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210032210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:24.755Z"
+  },
+  {
+    "id": "doc-sangiin-c42914bbf4304105",
+    "billId": "bill-221-shugiin-cf712f15118a45f6",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210282210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:15.065Z"
+  },
+  {
+    "id": "doc-sangiin-c4f4baa3ff061f68",
+    "billId": "bill-221-shugiin-7dcb74ca384a6d94",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210622210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:23.561Z"
+  },
+  {
+    "id": "doc-sangiin-c54b3903cc4aeb48",
+    "billId": "bill-219-shugiin-8acdcb3d7d3c9cbc",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t1002190062190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:50.423Z"
+  },
+  {
+    "id": "doc-sangiin-c7445cf26fce9fae",
+    "billId": "bill-219-shugiin-866e6a80bcd62780",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t1002190072190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:50.661Z"
+  },
+  {
+    "id": "doc-sangiin-c778371c9cfe409b",
+    "billId": "bill-221-shugiin-571a71dccedfd753",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210552210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:21.852Z"
+  },
+  {
+    "id": "doc-sangiin-c811704b48b5574b",
+    "billId": "bill-221-shugiin-7d0cda2f0fd926d0",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210092210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:26.194Z"
+  },
+  {
+    "id": "doc-sangiin-c901f9ea83b371e6",
+    "billId": "bill-221-shugiin-866e6a80bcd62780",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210012210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:30.832Z"
+  },
+  {
+    "id": "doc-sangiin-ca1011a3b7b0d2b2",
+    "billId": "bill-221-shugiin-9c4ce3dbebcdbc1d",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210422210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:18.422Z"
+  },
+  {
+    "id": "doc-sangiin-ca554ba5c42e7038",
+    "billId": "bill-221-shugiin-9698ac0653e46498",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221310.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:15.781Z"
+  },
+  {
+    "id": "doc-sangiin-cbc24addaed15800",
+    "billId": "bill-221-shugiin-cf91b8d6f87f4db2",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221290.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:15.302Z"
+  },
+  {
+    "id": "doc-sangiin-cbd394a8b55fe5ea",
+    "billId": "bill-221-shugiin-0fc104439a54c428",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210272210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.824Z"
+  },
+  {
+    "id": "doc-sangiin-cc6aa3d805eee591",
+    "billId": "bill-221-shugiin-74074571e2932353",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210052210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.727Z"
+  },
+  {
+    "id": "doc-sangiin-cca585e9f865870a",
+    "billId": "bill-221-shugiin-4d4f27acb15d1461",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221490.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:20.404Z"
+  },
+  {
+    "id": "doc-sangiin-cd82b9a07e8d2ded",
+    "billId": "bill-221-shugiin-571a71dccedfd753",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210552210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:21.852Z"
+  },
+  {
+    "id": "doc-sangiin-cee174175647b275",
+    "billId": "bill-221-shugiin-43b37848703981c2",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210222210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:13.567Z"
+  },
+  {
+    "id": "doc-sangiin-cefe71a05ed76582",
+    "billId": "bill-221-shugiin-60cddd18e694f54d",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210032210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.252Z"
+  },
+  {
+    "id": "doc-sangiin-d013f7faf1a038ca",
+    "billId": "bill-219-shugiin-01afee253b85e8fc",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170252170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:57.030Z"
+  },
+  {
+    "id": "doc-sangiin-d0650488b6c196c7",
+    "billId": "bill-221-shugiin-6ad386ba34fe1f02",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/58022120.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.012Z"
+  },
+  {
+    "id": "doc-sangiin-d0f628f32de493e6",
+    "billId": "bill-221-shugiin-309f53132a385f85",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210042210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.488Z"
+  },
+  {
+    "id": "doc-sangiin-d11057d1f5cc12d5",
+    "billId": "bill-221-shugiin-0c539a8a81090265",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210232210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:13.805Z"
+  },
+  {
+    "id": "doc-sangiin-d26c72d18fd760aa",
+    "billId": "bill-221-shugiin-5151a3a6ba683d23",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210502210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:20.645Z"
+  },
+  {
+    "id": "doc-sangiin-d5a1459718c34676",
+    "billId": "bill-221-shugiin-3bb208b3beca88ca",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210202210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:13.086Z"
+  },
+  {
+    "id": "doc-sangiin-d614b1c2f2c623d9",
+    "billId": "bill-221-shugiin-9316970ee20adeec",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210072210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:32.253Z"
+  },
+  {
+    "id": "doc-sangiin-d6a81c5c4a57415e",
+    "billId": "bill-219-shugiin-8a16754522332daf",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190012190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:04.925Z"
+  },
+  {
+    "id": "doc-sangiin-d713e756db6a15cc",
+    "billId": "bill-221-shugiin-489e5a4ca1d1cf85",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210372210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:17.216Z"
+  },
+  {
+    "id": "doc-sangiin-d8004efed5c55f9d",
+    "billId": "bill-221-cas-36789f84bb3a795f",
+    "title": "参議院内閣委員会の修正案（立憲・否決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/h0802210242210010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.071Z"
+  },
+  {
+    "id": "doc-sangiin-d85dd659e7b73d41",
+    "billId": "bill-221-shugiin-6acf47077b50e55e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210512210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:20.886Z"
+  },
+  {
+    "id": "doc-sangiin-d8dbfc28b14b7708",
+    "billId": "bill-221-shugiin-08c41f1e354d346a",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210102210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:26.429Z"
+  },
+  {
+    "id": "doc-sangiin-d9aa05cffe41a21b",
+    "billId": "bill-219-shugiin-54076884b9ad5561",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902160232160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:53.212Z"
+  },
+  {
+    "id": "doc-sangiin-d9b0b65bf263444a",
+    "billId": "bill-219-shugiin-d9e3d100eba36fff",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t1002190022190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:49.482Z"
+  },
+  {
+    "id": "doc-sangiin-dad06c1e7e973e9d",
+    "billId": "bill-219-shugiin-1d61dfc890624cf6",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190092190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:06.572Z"
+  },
+  {
+    "id": "doc-sangiin-dae4b02d7bf642c3",
+    "billId": "bill-221-shugiin-f1e8341af1f02bd8",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210132210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:27.107Z"
+  },
+  {
+    "id": "doc-sangiin-daf461f111c0e47f",
+    "billId": "bill-219-shugiin-97c730c7eb48bb69",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0802190042190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.275Z"
+  },
+  {
+    "id": "doc-sangiin-dba51a8d3d3b648b",
+    "billId": "bill-221-shugiin-029d887418758572",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210172210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:12.370Z"
+  },
+  {
+    "id": "doc-sangiin-dbf34de9b70eeec9",
+    "billId": "bill-221-shugiin-fd73ab4e63190c8b",
+    "title": "参議院厚生労働委員会の修正案（立憲、公明・否決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/h0802210252210010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.345Z"
+  },
+  {
+    "id": "doc-sangiin-dc447dddb1e3138c",
+    "billId": "bill-221-shugiin-5823d70eadb6c8b5",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210042210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:24.998Z"
+  },
+  {
+    "id": "doc-sangiin-dc6950df6f491ab2",
+    "billId": "bill-221-shugiin-dc084f60bf7347d1",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210092210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:32.731Z"
+  },
+  {
+    "id": "doc-sangiin-dc87a5046dad7b2b",
+    "billId": "bill-219-cas-6307f77d6021d601",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/58021960.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.754Z"
+  },
+  {
+    "id": "doc-sangiin-dd9eb02e695eac4a",
+    "billId": "bill-221-shugiin-fd73ab4e63190c8b",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221250.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:14.344Z"
+  },
+  {
+    "id": "doc-sangiin-dea1e62be8021047",
+    "billId": "bill-221-shugiin-4700f1a7e8350247",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210162210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:27.797Z"
+  },
+  {
+    "id": "doc-sangiin-df51601086386e8a",
+    "billId": "bill-221-shugiin-41674abdb4f95582",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210562210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:22.094Z"
+  },
+  {
+    "id": "doc-sangiin-df978bd3ced81ce1",
+    "billId": "bill-221-shugiin-9e8b223ab69b0539",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:12.846Z"
+  },
+  {
+    "id": "doc-sangiin-e1718e2b26e62bc9",
+    "billId": "bill-219-shugiin-f6002b9226bb62bf",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170452170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:00.393Z"
+  },
+  {
+    "id": "doc-sangiin-e1e578c07f50f66e",
+    "billId": "bill-221-shugiin-5823d70eadb6c8b5",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210042210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:24.998Z"
+  },
+  {
+    "id": "doc-sangiin-e3537b27b8a4f6ba",
+    "billId": "bill-221-shugiin-6cad989e3dbe4ed5",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210012210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:08.775Z"
+  },
+  {
+    "id": "doc-sangiin-e43fdc1d81e3fc51",
+    "billId": "bill-221-shugiin-db693801bd5d6db5",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210262210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:30.137Z"
+  },
+  {
+    "id": "doc-sangiin-e6198999a2356e7b",
+    "billId": "bill-221-shugiin-d889124a4f6f1a36",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210152210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:27.552Z"
+  },
+  {
+    "id": "doc-sangiin-e62d231dc54a1472",
+    "billId": "bill-219-shugiin-1ea907194e5c794e",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0902180012190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:49.014Z"
+  },
+  {
+    "id": "doc-sangiin-e697b2ea231f9499",
+    "billId": "bill-219-shugiin-3f876593f937fa8c",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t1002190042190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:49.954Z"
+  },
+  {
+    "id": "doc-sangiin-e806c9c9283e6cfb",
+    "billId": "bill-221-shugiin-277efad5ec7df88c",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210272210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:30.388Z"
+  },
+  {
+    "id": "doc-sangiin-e8d678b30eff4c45",
+    "billId": "bill-221-shugiin-f77c391b584d5af4",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210602210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:23.079Z"
+  },
+  {
+    "id": "doc-sangiin-e93371d3c6ac8ab4",
+    "billId": "bill-219-shugiin-831b4e6f9b88ccca",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902160242160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:53.447Z"
+  },
+  {
+    "id": "doc-sangiin-e998987ae8b98f27",
+    "billId": "bill-219-shugiin-52241836b91df1cb",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170022170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:54.160Z"
+  },
+  {
+    "id": "doc-sangiin-eac31c1275ffb313",
+    "billId": "bill-219-shugiin-dbe2e90243f5c6f4",
+    "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
+    "type": "reason",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/k0902190102190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:32.367Z"
+  },
+  {
+    "id": "doc-sangiin-eb03f1e5ac17b0b2",
+    "billId": "bill-221-shugiin-489e5a4ca1d1cf85",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210372210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:17.216Z"
+  },
+  {
+    "id": "doc-sangiin-eb20f384b72d5b11",
+    "billId": "bill-221-shugiin-0b8a8c7f0619dce1",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210162210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:12.136Z"
+  },
+  {
+    "id": "doc-sangiin-eb650fe813774479",
+    "billId": "bill-221-shugiin-9698ac0653e46498",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210312210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:15.782Z"
+  },
+  {
+    "id": "doc-sangiin-eb69505dd593489d",
+    "billId": "bill-219-shugiin-9d50acc823b8ea6d",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/58021930.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:28.036Z"
+  },
+  {
+    "id": "doc-sangiin-ebe1e3d1468b0166",
+    "billId": "bill-219-shugiin-c9c3117e102af70d",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170562170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:02.301Z"
+  },
+  {
+    "id": "doc-sangiin-ec7435c0a3d27148",
+    "billId": "bill-219-shugiin-caeb9e707b294329",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190132190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:07.285Z"
+  },
+  {
+    "id": "doc-sangiin-ecd8ec6ba8cc8aff",
+    "billId": "bill-219-shugiin-c606f4e09b051f87",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170572170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:02.541Z"
+  },
+  {
+    "id": "doc-sangiin-efa831224903b6fa",
+    "billId": "bill-221-shugiin-3bb208b3beca88ca",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210202210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:13.086Z"
+  },
+  {
+    "id": "doc-sangiin-f00de4be9f6e1471",
+    "billId": "bill-219-shugiin-487416ed0ad6e379",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/s0802190012190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:27.554Z"
+  },
+  {
+    "id": "doc-sangiin-f0262a82d59557a0",
+    "billId": "bill-219-sangiin-229a14dd24fc7402",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190022190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:05.157Z"
+  },
+  {
+    "id": "doc-sangiin-f0642c93545406de",
+    "billId": "bill-221-shugiin-2d61e5f947844a95",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221520.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:21.130Z"
+  },
+  {
+    "id": "doc-sangiin-f0b956011fb114fa",
+    "billId": "bill-221-shugiin-0c539a8a81090265",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221230.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:13.805Z"
+  },
+  {
+    "id": "doc-sangiin-f0c5c649dc8d90b3",
+    "billId": "bill-221-shugiin-8ea2a0902c7f55ba",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210062210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.971Z"
+  },
+  {
+    "id": "doc-sangiin-f0cb7829cc2c412e",
+    "billId": "bill-219-shugiin-98dc3967b4f2c08f",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170382170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:58.693Z"
+  },
+  {
+    "id": "doc-sangiin-f11e6f25ca19634a",
+    "billId": "bill-219-shugiin-75a5791173054ee8",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902190042190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:05.630Z"
+  },
+  {
+    "id": "doc-sangiin-f293b1210f615aa7",
+    "billId": "bill-219-shugiin-fd73ab4e63190c8b",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170082170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:55.337Z"
+  },
+  {
+    "id": "doc-sangiin-f2aa438a3372349c",
+    "billId": "bill-221-shugiin-ac21fef8653bf992",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210442210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:18.906Z"
+  },
+  {
+    "id": "doc-sangiin-f3be97451700c007",
+    "billId": "bill-219-shugiin-1ea907194e5c794e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0902180012180.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:49.014Z"
+  },
+  {
+    "id": "doc-sangiin-f4ed98e28e31f713",
+    "billId": "bill-219-shugiin-4c0381ea38cccbd3",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170232170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:56.518Z"
+  },
+  {
+    "id": "doc-sangiin-f6166ff493b7a5ec",
+    "billId": "bill-221-shugiin-74074571e2932353",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0802210052210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.727Z"
+  },
+  {
+    "id": "doc-sangiin-f93d6d01c73fa9a0",
+    "billId": "bill-221-shugiin-481e56ad85b4ecce",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/58022170.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.209Z"
+  },
+  {
+    "id": "doc-sangiin-f9c75480a2deee9b",
+    "billId": "bill-219-shugiin-7c47d5add5375ba5",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902160012160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:51.166Z"
+  },
+  {
+    "id": "doc-sangiin-fbfb6f451337bc60",
+    "billId": "bill-221-shugiin-8348dfab82d9870c",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221330.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:16.260Z"
+  },
+  {
+    "id": "doc-sangiin-fc74189eb106e5cb",
+    "billId": "bill-221-shugiin-115635ee0d08d6f1",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221400.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:17.944Z"
+  },
+  {
+    "id": "doc-sangiin-fcaa348c2df5e4ba",
+    "billId": "bill-219-shugiin-9316970ee20adeec",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t1002190032190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:49.717Z"
+  },
+  {
+    "id": "doc-sangiin-fcfbe0598497c48d",
+    "billId": "bill-221-shugiin-01a48ba35812b8a9",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/58022190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:10.692Z"
+  },
+  {
+    "id": "doc-sangiin-fe808ed4462af3bc",
+    "billId": "bill-219-shugiin-b5349b1f70e00feb",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/219/pdf/t0802190092190.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:48:29.485Z"
+  },
+  {
+    "id": "doc-sangiin-ff43c6be9784945c",
+    "billId": "bill-221-shugiin-237a4a7683c70d22",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210252210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:29.897Z"
+  },
+  {
+    "id": "doc-sangiin-ffdbe7b9b6857e7f",
+    "billId": "bill-221-shugiin-74074571e2932353",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/58022150.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-07T04:49:09.727Z"
   }
 ]

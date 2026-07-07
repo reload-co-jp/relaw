@@ -1,4 +1,10 @@
-import type { Bill, BillEvent, BillStatus } from "../../lib/types.ts"
+import type {
+  Bill,
+  BillEvent,
+  BillStatus,
+  Document,
+  DocumentType,
+} from "../../lib/types.ts"
 import {
   absoluteUrl,
   fetchText,
@@ -133,6 +139,54 @@ export const parseMeisai = (html: string): MeisaiInfo => {
   }
 }
 
+/** 明細ページの「議案等のファイル」等から抽出したファイルリンク */
+export interface MeisaiFile {
+  label: string
+  url: string
+}
+
+/**
+ * 明細ページから議案要旨 PDF と「議案等のファイル」欄のリンクを抽出する。
+ * リンク文言は「提出法律案のＰＤＦファイルは、こちらで…」形式のため
+ * ファイル種別を表す先頭部分だけをラベルとして残す。
+ */
+export const parseMeisaiFiles = (
+  html: string,
+  baseUrl: string
+): MeisaiFile[] => {
+  const files: MeisaiFile[] = []
+  const push = (href: string, text: string) => {
+    const label = stripTags(text)
+      .replace(/の(?:ＰＤＦ|PDF)ファイル.*$/, "")
+      .trim()
+    if (!label) return
+    const url = absoluteUrl(baseUrl, href)
+    if (files.some((file) => file.url === url)) return
+    files.push({ label, url })
+  }
+  const yoshi = html.match(
+    /<a[^>]+href=["']([^"']+)["'][^>]*>([^<]*議案要旨の(?:ＰＤＦ|PDF)[^<]*)<\/a>/i
+  )
+  if (yoshi) push(yoshi[1], yoshi[2])
+  const section = html.match(/議案等のファイル<\/th>([\s\S]*?)<\/table>/i)?.[1]
+  if (section)
+    for (const link of section.matchAll(
+      /<a[^>]+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi
+    ))
+      push(link[1], link[2])
+  return files
+}
+
+const docTypeByFileLabel: [RegExp, DocumentType][] = [
+  [/議案要旨/, "summary"],
+  [/提出法律案|議案本文/, "bill_text"],
+  [/成立法律/, "result"],
+  [/関連資料|提案理由/, "reason"],
+]
+
+const classifyMeisaiFile = (label: string): DocumentType =>
+  docTypeByFileLabel.find(([pattern]) => pattern.test(label))?.[1] ?? "other"
+
 /** 委員会の議決・継続結果表記 → BillEventType */
 const committeeResultTypes: Record<string, BillEvent["type"]> = {
   可決: "committee_passed",
@@ -162,6 +216,7 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
   const errors: string[] = []
   let bills = loadCollection<Bill>("bills.json")
   let events = loadCollection<BillEvent>("bill-events.json")
+  let documents = loadCollection<Document>("documents.json")
   let updated = 0
   const processedSessions = new Set<number>()
 
@@ -193,8 +248,11 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
 
       const meisaiUrl = absoluteUrl(pageUrl, meisaiHref)
       let info: MeisaiInfo
+      let files: MeisaiFile[]
       try {
-        info = parseMeisai(await fetchText(meisaiUrl))
+        const meisaiHtml = await fetchText(meisaiUrl)
+        info = parseMeisai(meisaiHtml)
+        files = parseMeisaiFiles(meisaiHtml, meisaiUrl)
         await sleep(200)
       } catch (error) {
         errors.push(`meisai ${meisaiUrl}: ${String(error)}`)
@@ -274,6 +332,22 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
       const result = upsert(bills, bill)
       bills = result.collection
       if (result.changed) updated += 1
+
+      for (const file of files) {
+        const doc: Document = {
+          id: `doc-sangiin-${hashId(file.url)}`,
+          billId,
+          title: file.label,
+          type: classifyMeisaiFile(file.label),
+          url: file.url,
+          format: /\.pdf(\?|$)/i.test(file.url) ? "pdf" : "html",
+          source: "参議院",
+          createdAt: nowIso(),
+        }
+        const docResult = upsert(documents, doc)
+        documents = docResult.collection
+        if (docResult.changed) updated += 1
+      }
 
       const newEvents: BillEvent[] = []
       // 収集日を日付とした暫定イベントを、明細ページの正確な日付で置き換える
@@ -445,5 +519,6 @@ export const collectSangiin = async (): Promise<CollectorResult> => {
 
   saveCollection("bills.json", bills)
   saveCollection("bill-events.json", events)
+  saveCollection("documents.json", documents)
   return { source: "参議院 議案情報", updated, errors }
 }
