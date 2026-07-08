@@ -1,4 +1,5 @@
 import Link from "next/link"
+import Script from "next/script"
 import { siteDescription, siteName, siteUrl, websiteJsonLd } from "lib/seo"
 import { JsonLd } from "components/elements/json-ld"
 import "./reset.css"
@@ -50,10 +51,24 @@ const navLinks = [
   { href: "/public-comments/", label: "パブリックコメント" },
 ]
 
+const googleAnalyticsId = "G-2G15942RCJ"
+
 const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <html lang="ja">
       <body>
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${googleAnalyticsId}`}
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${googleAnalyticsId}');
+          `}
+        </Script>
         <JsonLd data={websiteJsonLd()} />
         <header className="site-header">
           <div className="container site-header-inner">
