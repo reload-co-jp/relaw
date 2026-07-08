@@ -57,6 +57,17 @@
     "updatedAt": "2026-07-07T00:39:11.946Z"
   },
   {
+    "id": "pc-155261027",
+    "title": "「船員法施行規則等の一部を改正する省令案」に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-07-07",
+    "endAt": "2026-08-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261027&Mode=0",
+    "createdAt": "2026-07-08T22:07:30.686Z",
+    "updatedAt": "2026-07-08T22:07:30.686Z"
+  },
+  {
     "id": "pc-155261221",
     "title": "「部品等脱落防止措置に関する技術基準細則」の一部改正に関する意見募集について",
     "status": "open",
@@ -65,6 +76,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261221&Mode=0",
     "createdAt": "2026-07-07T00:39:11.947Z",
     "updatedAt": "2026-07-07T00:39:11.947Z"
+  },
+  {
+    "id": "pc-155261222",
+    "title": "「旅客に周知すべき安全情報に関する一般指針」の一部改正に関するご意見の募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-07-08",
+    "endAt": "2026-08-07",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261222&Mode=0",
+    "createdAt": "2026-07-08T22:07:30.686Z",
+    "updatedAt": "2026-07-08T22:07:30.686Z"
   },
   {
     "id": "pc-195260024",
@@ -165,5 +187,16 @@
     "billId": "bill-221-shugiin-507b23f3c61af710",
     "createdAt": "2026-07-07T00:39:11.946Z",
     "updatedAt": "2026-07-07T00:39:11.946Z"
+  },
+  {
+    "id": "pc-595226031",
+    "title": "「一般送配電事業者が行う調整力の公募調達に係る考え方（改定案）」に対する意見募集について",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-07-07",
+    "endAt": "2026-08-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595226031&Mode=0",
+    "createdAt": "2026-07-08T22:07:30.687Z",
+    "updatedAt": "2026-07-08T22:07:30.687Z"
   }
 ]

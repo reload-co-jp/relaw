@@ -1240,12 +1240,12 @@
     "titleKana": "らんぴーすきんびょうをかちくでんせんびょうよぼうほうだいろくじゅうにじょうだいいちこうのしっぺいのしゅるいとしてしていするとうのせいれい",
     "lawNumber": "令和七年政令第二百五十六号",
     "lawType": "cabinet_order",
-    "status": "in_force",
+    "status": "repealed",
     "promulgatedAt": "2025-07-11",
     "egovLawId": "507CO0000000256",
     "sourceUrl": "https://laws.e-gov.go.jp/law/507CO0000000256",
     "createdAt": "2026-07-07T00:35:39.815Z",
-    "updatedAt": "2026-07-07T00:35:39.815Z"
+    "updatedAt": "2026-07-08T22:03:56.277Z"
   },
   {
     "id": "law-507CO0000000261",
