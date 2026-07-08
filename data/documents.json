@@ -358,7 +358,7 @@
     "source": "官報",
     "publishedAt": "2026-06-29",
     "createdAt": "2026-07-07T00:36:45.787Z",
-    "updatedAt": "2026-07-07T00:36:45.787Z"
+    "updatedAt": "2026-07-07T22:11:43.229Z"
   },
   {
     "id": "doc-kanpo-15640acca47fb576",
@@ -369,7 +369,7 @@
     "source": "官報",
     "publishedAt": "2026-07-03",
     "createdAt": "2026-07-07T00:36:44.528Z",
-    "updatedAt": "2026-07-07T00:36:44.528Z"
+    "updatedAt": "2026-07-07T22:11:41.303Z"
   },
   {
     "id": "doc-kanpo-1656145d03613e43",
@@ -420,7 +420,7 @@
     "source": "官報",
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z",
-    "updatedAt": "2026-07-07T00:36:45.475Z"
+    "updatedAt": "2026-07-07T22:11:42.749Z"
   },
   {
     "id": "doc-kanpo-534f8a677156a214",
@@ -471,7 +471,7 @@
     "source": "官報",
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z",
-    "updatedAt": "2026-07-07T00:36:45.475Z"
+    "updatedAt": "2026-07-07T22:11:42.749Z"
   },
   {
     "id": "doc-kanpo-82ca298942d7844b",
@@ -482,7 +482,7 @@
     "source": "官報",
     "publishedAt": "2026-07-01",
     "createdAt": "2026-07-07T00:36:45.158Z",
-    "updatedAt": "2026-07-07T00:36:45.158Z"
+    "updatedAt": "2026-07-07T22:11:42.265Z"
   },
   {
     "id": "doc-kanpo-974a71217d0bfcb3",
@@ -493,7 +493,7 @@
     "source": "官報",
     "publishedAt": "2026-07-01",
     "createdAt": "2026-07-07T00:36:45.158Z",
-    "updatedAt": "2026-07-07T00:36:45.158Z"
+    "updatedAt": "2026-07-07T22:11:42.265Z"
   },
   {
     "id": "doc-kanpo-9ca800f75809b238",
@@ -514,7 +514,7 @@
     "source": "官報",
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z",
-    "updatedAt": "2026-07-07T00:36:45.475Z"
+    "updatedAt": "2026-07-07T22:11:42.749Z"
   },
   {
     "id": "doc-kanpo-ad87205849e7a20c",
@@ -525,7 +525,7 @@
     "source": "官報",
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z",
-    "updatedAt": "2026-07-07T00:36:45.475Z"
+    "updatedAt": "2026-07-07T22:11:42.749Z"
   },
   {
     "id": "doc-kanpo-b9655d7c014c47bf",
@@ -576,7 +576,7 @@
     "source": "官報",
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z",
-    "updatedAt": "2026-07-07T00:36:45.475Z"
+    "updatedAt": "2026-07-07T22:11:42.749Z"
   },
   {
     "id": "doc-kanpo-d4f7802cb5f80340",
@@ -597,7 +597,7 @@
     "source": "官報",
     "publishedAt": "2026-07-01",
     "createdAt": "2026-07-07T00:36:45.158Z",
-    "updatedAt": "2026-07-07T00:36:45.158Z"
+    "updatedAt": "2026-07-07T22:11:42.265Z"
   },
   {
     "id": "doc-kanpo-daa8259fdf92d7c0",
@@ -618,7 +618,7 @@
     "source": "官報",
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z",
-    "updatedAt": "2026-07-07T00:36:45.475Z"
+    "updatedAt": "2026-07-07T22:11:42.749Z"
   },
   {
     "id": "doc-kanpo-f999d3fd7e6b5e60",
@@ -719,6 +719,17 @@
     "createdAt": "2026-07-07T00:39:08.890Z"
   },
   {
+    "id": "doc-kokkai-22f0fb9c28fa7c42",
+    "billId": "bill-221-cas-8d0bef80280e32d1",
+    "title": "第221回国会 衆議院 本会議 第20号 (2026-05-26)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122105254X02020260526",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-05-26",
+    "createdAt": "2026-07-07T22:13:46.557Z"
+  },
+  {
     "id": "doc-kokkai-26edb2ad48542d5a",
     "billId": "bill-221-shugiin-db693801bd5d6db5",
     "title": "第221回国会 衆議院 議院運営委員会 第32号 (2026-06-26)",
@@ -763,6 +774,17 @@
     "createdAt": "2026-07-07T00:38:22.786Z"
   },
   {
+    "id": "doc-kokkai-2d49f14644c5dea4",
+    "billId": "bill-221-shugiin-277efad5ec7df88c",
+    "title": "第221回国会 衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 第9号 (2026-06-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122105367X00920260630",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-06-30",
+    "createdAt": "2026-07-07T22:13:52.805Z"
+  },
+  {
     "id": "doc-kokkai-2db38d48643bbb4d",
     "billId": "bill-221-shugiin-f8a7a40301921654",
     "title": "第221回国会 衆議院 農林水産委員会 第10号 (2026-05-20)",
@@ -783,6 +805,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-04-16",
     "createdAt": "2026-07-07T00:38:34.794Z"
+  },
+  {
+    "id": "doc-kokkai-332a1ef6b8f1e2c3",
+    "billId": "bill-221-shugiin-b2e04dc4061d4a81",
+    "title": "第221回国会 衆議院 農林水産委員会 第14号 (2026-06-11)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122105007X01420260611",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-06-11",
+    "createdAt": "2026-07-07T22:14:14.048Z"
   },
   {
     "id": "doc-kokkai-3639f4684ffbe5f5",
@@ -906,6 +939,17 @@
     "createdAt": "2026-07-07T00:38:25.714Z"
   },
   {
+    "id": "doc-kokkai-4ffc50ec436b314c",
+    "billId": "bill-221-shugiin-5371ce93cd499661",
+    "title": "第221回国会 衆議院 本会議 第20号 (2026-05-26)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122105254X02020260526",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-05-26",
+    "createdAt": "2026-07-07T22:14:00.934Z"
+  },
+  {
     "id": "doc-kokkai-507453d022e12dc9",
     "billId": "bill-221-shugiin-cbfd5f01f7cc469a",
     "title": "第221回国会 衆議院 議院運営委員会 第31号 (2026-06-25)",
@@ -1016,6 +1060,17 @@
     "createdAt": "2026-07-07T00:38:01.714Z"
   },
   {
+    "id": "doc-kokkai-6d5e694335b8d1c5",
+    "billId": "bill-221-shugiin-94ca35289fa8a2ac",
+    "title": "第221回国会 衆議院 本会議 第20号 (2026-05-26)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122105254X02020260526",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-05-26",
+    "createdAt": "2026-07-07T22:14:07.818Z"
+  },
+  {
     "id": "doc-kokkai-7173cab32324594d",
     "billId": "bill-221-shugiin-08ca53339379410e",
     "title": "第221回国会 参議院 沖縄・北方問題及び地方に関する特別委員会 第5号 (2026-05-22)",
@@ -1124,6 +1179,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-04-21",
     "createdAt": "2026-07-07T00:38:00.278Z"
+  },
+  {
+    "id": "doc-kokkai-8ab9d112df68c275",
+    "billId": "bill-221-shugiin-f28f90980f592a7e",
+    "title": "第221回国会 衆議院 農林水産委員会 第14号 (2026-06-11)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122105007X01420260611",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-06-11",
+    "createdAt": "2026-07-07T22:14:25.617Z"
   },
   {
     "id": "doc-kokkai-8ea9e61b307a75e7",
@@ -1735,13 +1801,14 @@
   },
   {
     "id": "doc-sangiin-11fe3550356c95f9",
-    "billId": "bill-219-sangiin-229a14dd24fc7402",
+    "billId": "bill-219-shugiin-229a14dd24fc7402",
     "title": "提出法律案",
     "type": "bill_text",
     "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902170042170.pdf",
     "format": "pdf",
     "source": "参議院",
-    "createdAt": "2026-07-07T04:48:54.397Z"
+    "createdAt": "2026-07-07T04:48:54.397Z",
+    "updatedAt": "2026-07-07T22:12:40.000Z"
   },
   {
     "id": "doc-sangiin-14c21c4b822a21c7",
@@ -3775,13 +3842,14 @@
   },
   {
     "id": "doc-sangiin-9c73fcc92249457a",
-    "billId": "bill-219-shugiin-229a14dd24fc7402",
+    "billId": "bill-219-sangiin-229a14dd24fc7402",
     "title": "提出法律案",
     "type": "bill_text",
     "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/pdf/t0902160092160.pdf",
     "format": "pdf",
     "source": "参議院",
-    "createdAt": "2026-07-07T04:48:51.649Z"
+    "createdAt": "2026-07-07T04:48:51.649Z",
+    "updatedAt": "2026-07-07T22:12:35.604Z"
   },
   {
     "id": "doc-sangiin-9d3fefee9c48fdfa",
