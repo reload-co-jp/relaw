@@ -15,34 +15,61 @@ import { Entry, EntryList } from "components/blocks/entry-list"
 export const billEntry = (bill: Bill, latestEvent?: BillEvent): Entry => {
   const stageIndex = billStageIndex[bill.status]
   return {
-  id: bill.id,
-  title: bill.title,
-  href: `/bills/${bill.id}/`,
-  badges: [
-    {
-      label: billStatusLabels[bill.status],
-      color: billStatusColors[bill.status],
-      title: billStatusDescriptions[bill.status],
-    },
-  ],
-  stage:
-    stageIndex !== undefined
-      ? { steps: billStages, current: stageIndex }
-      : undefined,
-  summary: bill.summary,
-  meta: [
-    bill.billNumber,
-    bill.proposerName ??
-      (bill.proposerType && proposerTypeLabels[bill.proposerType]),
-    bill.ministry,
-    bill.submittedAt && `提出 ${bill.submittedAt}`,
-    bill.promulgatedAt && `公布 ${bill.promulgatedAt}`,
-    latestEvent &&
-      !["submitted", "promulgated"].includes(latestEvent.type) &&
-      `${billEventTypeLabels[latestEvent.type]} ${latestEvent.date}`,
-  ].filter(Boolean) as string[],
+    id: bill.id,
+    title: bill.title,
+    href: `/bills/${bill.id}/`,
+    badges: [
+      {
+        label: billStatusLabels[bill.status],
+        color: billStatusColors[bill.status],
+        title: billStatusDescriptions[bill.status],
+      },
+    ],
+    stage:
+      stageIndex !== undefined
+        ? { steps: billStages, current: stageIndex }
+        : undefined,
+    summary: bill.summary,
+    meta: [
+      bill.billNumber,
+      bill.proposerName ??
+        (bill.proposerType && proposerTypeLabels[bill.proposerType]),
+      bill.ministry,
+      bill.submittedAt && `提出 ${bill.submittedAt}`,
+      bill.promulgatedAt && `公布 ${bill.promulgatedAt}`,
+      latestEvent &&
+        !["submitted", "promulgated"].includes(latestEvent.type) &&
+        `${billEventTypeLabels[latestEvent.type]} ${latestEvent.date}`,
+    ].filter(Boolean) as string[],
   }
 }
+
+export const billSearchText = (bill: Bill, latestEvent?: BillEvent): string =>
+  [
+    bill.id,
+    bill.title,
+    bill.titleKana,
+    bill.billNumber,
+    bill.dietSession && `第${bill.dietSession}回`,
+    bill.proposerType && proposerTypeLabels[bill.proposerType],
+    bill.proposerName,
+    bill.ministry,
+    bill.category,
+    billStatusLabels[bill.status],
+    billStatusDescriptions[bill.status],
+    bill.summary,
+    bill.submittedAt,
+    bill.passedLowerHouseAt,
+    bill.passedUpperHouseAt,
+    bill.enactedAt,
+    bill.promulgatedAt,
+    bill.enforcedAt,
+    latestEvent && billEventTypeLabels[latestEvent.type],
+    latestEvent?.description,
+    latestEvent?.date,
+  ]
+    .filter(Boolean)
+    .join(" ")
 
 export const BillList: FC<{ bills: Bill[] }> = ({ bills }) => {
   const latestEvents = getLatestBillEvents()
