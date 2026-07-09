@@ -369,7 +369,7 @@
     "source": "官報",
     "publishedAt": "2026-07-03",
     "createdAt": "2026-07-07T00:36:44.528Z",
-    "updatedAt": "2026-07-08T22:04:47.936Z"
+    "updatedAt": "2026-07-09T22:26:18.529Z"
   },
   {
     "id": "doc-kanpo-1656145d03613e43",
@@ -451,7 +451,7 @@
     "source": "官報",
     "publishedAt": "2026-07-08",
     "createdAt": "2026-07-08T22:04:46.709Z",
-    "updatedAt": "2026-07-08T22:04:46.709Z"
+    "updatedAt": "2026-07-09T22:26:17.074Z"
   },
   {
     "id": "doc-kanpo-63e434cd56a39169",
@@ -503,7 +503,7 @@
     "source": "官報",
     "publishedAt": "2026-07-01",
     "createdAt": "2026-07-07T00:36:45.158Z",
-    "updatedAt": "2026-07-08T22:04:48.755Z"
+    "updatedAt": "2026-07-09T22:26:19.503Z"
   },
   {
     "id": "doc-kanpo-974a71217d0bfcb3",
@@ -514,7 +514,7 @@
     "source": "官報",
     "publishedAt": "2026-07-01",
     "createdAt": "2026-07-07T00:36:45.158Z",
-    "updatedAt": "2026-07-08T22:04:48.755Z"
+    "updatedAt": "2026-07-09T22:26:19.503Z"
   },
   {
     "id": "doc-kanpo-9ca800f75809b238",
@@ -597,7 +597,7 @@
     "source": "官報",
     "publishedAt": "2026-07-08",
     "createdAt": "2026-07-08T22:04:46.710Z",
-    "updatedAt": "2026-07-08T22:04:46.710Z"
+    "updatedAt": "2026-07-09T22:26:17.074Z"
   },
   {
     "id": "doc-kanpo-d4c2b224bdf128ff",
@@ -629,7 +629,7 @@
     "source": "官報",
     "publishedAt": "2026-07-01",
     "createdAt": "2026-07-07T00:36:45.158Z",
-    "updatedAt": "2026-07-08T22:04:48.755Z"
+    "updatedAt": "2026-07-09T22:26:19.503Z"
   },
   {
     "id": "doc-kanpo-daa8259fdf92d7c0",
@@ -2181,6 +2181,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:13.805Z"
+  },
+  {
+    "id": "doc-sangiin-2b728fda0cf52fa9",
+    "billId": "bill-221-sangiin-aa450085671c87c1",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210152210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-09T22:28:20.069Z"
   },
   {
     "id": "doc-sangiin-2ba020d952e6351e",
@@ -4462,6 +4472,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:28.755Z"
+  },
+  {
+    "id": "doc-sangiin-c364044fa7b5c26f",
+    "billId": "bill-221-shugiin-94ca35289fa8a2ac",
+    "title": "参議院デジタル社会の形成及び人工知能の活用等に関する特別委員会の修正案（立憲、公明、沖縄・否決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/h0802210542210010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-09T22:27:59.633Z"
   },
   {
     "id": "doc-sangiin-c385693360272ff0",

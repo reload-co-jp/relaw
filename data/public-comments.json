@@ -13,6 +13,16 @@
     "updatedAt": "2026-07-07T00:39:11.947Z"
   },
   {
+    "id": "pc-095260690",
+    "title": "JPBL014株を利用して生産されたキシラナーゼに係る食品健康影響評価に関する審議結果（案）についての意見・情報の募集について",
+    "status": "result_published",
+    "startAt": "2026-07-08",
+    "endAt": "2026-08-06",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260690&Mode=0",
+    "createdAt": "2026-07-09T22:29:13.718Z",
+    "updatedAt": "2026-07-09T22:29:13.718Z"
+  },
+  {
     "id": "pc-120260018",
     "title": "インターネット・ホットラインセンターにおける「ホットライン運用ガイドライン」の改定案に対する意見募集について",
     "ministry": "警察庁",
@@ -122,6 +132,28 @@
     "updatedAt": "2026-07-07T00:39:11.946Z"
   },
   {
+    "id": "pc-195260040",
+    "title": "「生活環境動植物の被害防止に係る農薬登録基準値（案）」に対する御意見の募集（パブリックコメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-07-09",
+    "endAt": "2026-08-08",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260040&Mode=0",
+    "createdAt": "2026-07-09T22:29:13.718Z",
+    "updatedAt": "2026-07-09T22:29:13.718Z"
+  },
+  {
+    "id": "pc-195260041",
+    "title": "「水質汚濁に係る農薬登録基準値（案）」に対する御意見の募集（パブリックコメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-07-09",
+    "endAt": "2026-08-08",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260041&Mode=0",
+    "createdAt": "2026-07-09T22:29:13.718Z",
+    "updatedAt": "2026-07-09T22:29:13.718Z"
+  },
+  {
     "id": "pc-315000136",
     "title": "「出入国管理及び難民認定法施行令及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行令の一部を改正する政令案」等に係る意見募集について",
     "ministry": "出入国在留管理庁",
@@ -177,6 +209,16 @@
     "updatedAt": "2026-07-07T00:39:11.948Z"
   },
   {
+    "id": "pc-495260105",
+    "title": "栄養士法施行規則等の一部を改正する省令案に関する御意見の募集について",
+    "status": "open",
+    "startAt": "2026-07-08",
+    "endAt": "2026-08-06",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260105&Mode=0",
+    "createdAt": "2026-07-09T22:29:13.718Z",
+    "updatedAt": "2026-07-09T22:29:13.718Z"
+  },
+  {
     "id": "pc-595126108",
     "title": "電気事業法施行規則第五十二条の二第一号ロの要件、第一号ハ及び第二号ロの機械器具並びに第一号ニ及び第二号ハの算定方法等並びに第五十三条第二項第五号の頻度に関する告示の一部改正（案）に対する意見公募",
     "ministry": "経済産業省",
@@ -198,5 +240,16 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595226031&Mode=0",
     "createdAt": "2026-07-08T22:07:30.687Z",
     "updatedAt": "2026-07-08T22:07:30.687Z"
+  },
+  {
+    "id": "pc-595226032",
+    "title": "「製造分野における熱プロセスの脱炭素化」プロジェクトに関する研究開発・社会実装計画（改定案）に対する意見公募",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-07-09",
+    "endAt": "2026-08-07",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595226032&Mode=0",
+    "createdAt": "2026-07-09T22:29:13.718Z",
+    "updatedAt": "2026-07-09T22:29:13.718Z"
   }
 ]
