@@ -201,11 +201,11 @@
     "id": "event-bill-219-sangiin-229a14dd24fc7402-expired",
     "billId": "bill-219-sangiin-229a14dd24fc7402",
     "type": "expired",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "description": "会期終了までに議決されず審査未了",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/meisai/m220090219002.htm",
     "createdAt": "2026-07-07T00:37:55.825Z",
-    "updatedAt": "2026-07-07T04:49:33.692Z"
+    "updatedAt": "2026-07-08T22:06:32.844Z"
   },
   {
     "id": "event-bill-219-sangiin-229a14dd24fc7402-submitted",
@@ -215,7 +215,7 @@
     "description": "提出",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/meisai/m220090219002.htm",
     "createdAt": "2026-07-07T00:36:58.401Z",
-    "updatedAt": "2026-07-07T22:12:58.017Z"
+    "updatedAt": "2026-07-08T22:05:52.572Z"
   },
   {
     "id": "event-bill-219-sangiin-6be4b454ee392ea0-committee-decision-lower",
@@ -588,11 +588,11 @@
     "id": "event-bill-219-shugiin-229a14dd24fc7402-expired",
     "billId": "bill-219-shugiin-229a14dd24fc7402",
     "type": "expired",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "description": "会期終了までに議決されず審査未了",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/meisai/m220090217004.htm",
     "createdAt": "2026-07-07T00:37:55.824Z",
-    "updatedAt": "2026-07-07T22:13:44.665Z"
+    "updatedAt": "2026-07-08T22:06:32.844Z"
   },
   {
     "id": "event-bill-219-shugiin-229a14dd24fc7402-submitted",
@@ -3119,6 +3119,16 @@
     "createdAt": "2026-07-07T00:37:43.497Z"
   },
   {
+    "id": "event-bill-221-cas-8d0bef80280e32d1-committee-decision-upper",
+    "billId": "bill-221-cas-8d0bef80280e32d1",
+    "type": "committee_passed",
+    "date": "2026-07-08",
+    "chamber": "upper",
+    "description": "参議院 デジタル社会の形成及び人工知能の活用等に関する特別委員会で可決",
+    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221053.htm",
+    "createdAt": "2026-07-08T22:06:14.907Z"
+  },
+  {
     "id": "event-bill-221-cas-8d0bef80280e32d1-committee-referral-lower",
     "billId": "bill-221-cas-8d0bef80280e32d1",
     "type": "committee_referral",
@@ -3205,6 +3215,15 @@
     "description": "提出",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221014.htm",
     "createdAt": "2026-07-07T00:37:34.130Z"
+  },
+  {
+    "id": "event-bill-221-sangiin-aa450085671c87c1-submitted",
+    "billId": "bill-221-sangiin-aa450085671c87c1",
+    "type": "submitted",
+    "date": "2026-07-08",
+    "description": "提出",
+    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221015.htm",
+    "createdAt": "2026-07-08T22:06:32.843Z"
   },
   {
     "id": "event-bill-221-shugiin-01a48ba35812b8a9-committee-decision-lower",
@@ -4015,7 +4034,7 @@
     "description": "提出",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221014.htm",
     "createdAt": "2026-07-07T00:37:53.244Z",
-    "updatedAt": "2026-07-07T22:13:44.665Z"
+    "updatedAt": "2026-07-08T22:06:32.510Z"
   },
   {
     "id": "event-bill-221-shugiin-229a14dd24fc7402-committee-referral-lower",
@@ -4026,7 +4045,7 @@
     "description": "衆議院 政治改革に関する特別委員会に付託",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221014.htm",
     "createdAt": "2026-07-07T00:37:46.346Z",
-    "updatedAt": "2026-07-07T22:13:33.575Z"
+    "updatedAt": "2026-07-08T22:06:23.221Z"
   },
   {
     "id": "event-bill-221-shugiin-229a14dd24fc7402-passed_lower_house-2026-07-07",
@@ -4046,7 +4065,7 @@
     "description": "提出",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221012.htm",
     "createdAt": "2026-07-07T00:37:46.346Z",
-    "updatedAt": "2026-07-07T22:13:43.877Z"
+    "updatedAt": "2026-07-08T22:06:31.849Z"
   },
   {
     "id": "event-bill-221-shugiin-237a4a7683c70d22-submitted",
@@ -5199,6 +5218,16 @@
     "createdAt": "2026-07-07T00:37:39.977Z"
   },
   {
+    "id": "event-bill-221-shugiin-5371ce93cd499661-committee-referral-upper",
+    "billId": "bill-221-shugiin-5371ce93cd499661",
+    "type": "committee_referral",
+    "date": "2026-07-08",
+    "chamber": "upper",
+    "description": "参議院 国土交通委員会に付託",
+    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221038.htm",
+    "createdAt": "2026-07-08T22:06:09.886Z"
+  },
+  {
     "id": "event-bill-221-shugiin-5371ce93cd499661-passed-lower",
     "billId": "bill-221-shugiin-5371ce93cd499661",
     "type": "passed_lower_house",
@@ -6171,7 +6200,7 @@
     "description": "衆議院 法務委員会で否決",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221009.htm",
     "createdAt": "2026-07-07T00:37:45.382Z",
-    "updatedAt": "2026-07-07T22:13:31.588Z"
+    "updatedAt": "2026-07-08T22:06:21.553Z"
   },
   {
     "id": "event-bill-221-shugiin-7d0cda2f0fd926d0-committee-referral-lower",
@@ -6182,7 +6211,7 @@
     "description": "衆議院 法務委員会に付託",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221009.htm",
     "createdAt": "2026-07-07T00:37:45.382Z",
-    "updatedAt": "2026-07-07T22:13:31.588Z"
+    "updatedAt": "2026-07-08T22:06:21.553Z"
   },
   {
     "id": "event-bill-221-shugiin-7d0cda2f0fd926d0-committee-referral-upper",
@@ -6208,10 +6237,11 @@
     "id": "event-bill-221-shugiin-7d0cda2f0fd926d0-rejected",
     "billId": "bill-221-shugiin-7d0cda2f0fd926d0",
     "type": "rejected",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "description": "否決",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221009.htm",
-    "createdAt": "2026-07-07T00:37:48.232Z"
+    "createdAt": "2026-07-07T00:37:48.232Z",
+    "updatedAt": "2026-07-08T22:06:21.553Z"
   },
   {
     "id": "event-bill-221-shugiin-7d0cda2f0fd926d0-submitted",
@@ -6221,7 +6251,7 @@
     "description": "提出",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221009.htm",
     "createdAt": "2026-07-07T00:37:45.382Z",
-    "updatedAt": "2026-07-07T22:13:31.588Z"
+    "updatedAt": "2026-07-08T22:06:21.553Z"
   },
   {
     "id": "event-bill-221-shugiin-7dcb74ca384a6d94-committee-decision-lower",
@@ -6526,6 +6556,16 @@
     "createdAt": "2026-07-07T00:36:49.945Z"
   },
   {
+    "id": "event-bill-221-shugiin-9316970ee20adeec-withdrawn-2026-07-08",
+    "billId": "bill-221-shugiin-9316970ee20adeec",
+    "type": "withdrawn",
+    "date": "2026-07-08",
+    "chamber": "lower",
+    "description": "衆議院 審議経過: 撤回",
+    "sourceUrl": "https://www.shugiin.go.jp/internet/itdb_gian.nsf/html/gian/kaiji221.htm",
+    "createdAt": "2026-07-08T22:04:57.018Z"
+  },
+  {
     "id": "event-bill-221-shugiin-949e8478953b2810-committee-decision-lower",
     "billId": "bill-221-shugiin-949e8478953b2810",
     "type": "committee_passed",
@@ -6622,6 +6662,16 @@
     "description": "衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会で可決",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221054.htm",
     "createdAt": "2026-07-07T00:37:43.731Z"
+  },
+  {
+    "id": "event-bill-221-shugiin-94ca35289fa8a2ac-committee-decision-upper",
+    "billId": "bill-221-shugiin-94ca35289fa8a2ac",
+    "type": "committee_passed",
+    "date": "2026-07-08",
+    "chamber": "upper",
+    "description": "参議院 デジタル社会の形成及び人工知能の活用等に関する特別委員会で可決",
+    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221054.htm",
+    "createdAt": "2026-07-08T22:06:15.238Z"
   },
   {
     "id": "event-bill-221-shugiin-94ca35289fa8a2ac-committee-referral-lower",
@@ -7473,6 +7523,16 @@
     "createdAt": "2026-07-07T00:37:42.079Z"
   },
   {
+    "id": "event-bill-221-shugiin-b2e04dc4061d4a81-committee-referral-upper",
+    "billId": "bill-221-shugiin-b2e04dc4061d4a81",
+    "type": "committee_referral",
+    "date": "2026-07-08",
+    "chamber": "upper",
+    "description": "参議院 農林水産委員会に付託",
+    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221047.htm",
+    "createdAt": "2026-07-08T22:06:12.869Z"
+  },
+  {
     "id": "event-bill-221-shugiin-b2e04dc4061d4a81-passed-lower",
     "billId": "bill-221-shugiin-b2e04dc4061d4a81",
     "type": "passed_lower_house",
@@ -7912,6 +7972,16 @@
     "createdAt": "2026-07-07T00:37:51.335Z"
   },
   {
+    "id": "event-bill-221-shugiin-cbfd5f01f7cc469a-passed-diet",
+    "billId": "bill-221-shugiin-cbfd5f01f7cc469a",
+    "type": "passed_diet",
+    "date": "2026-07-08",
+    "chamber": "both",
+    "description": "成立",
+    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221022.htm",
+    "createdAt": "2026-07-08T22:06:25.882Z"
+  },
+  {
     "id": "event-bill-221-shugiin-cbfd5f01f7cc469a-passed-lower",
     "billId": "bill-221-shugiin-cbfd5f01f7cc469a",
     "type": "passed_lower_house",
@@ -7920,6 +7990,16 @@
     "description": "衆議院本会議で可決 (起立)",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221022.htm",
     "createdAt": "2026-07-07T00:37:51.335Z"
+  },
+  {
+    "id": "event-bill-221-shugiin-cbfd5f01f7cc469a-passed-upper",
+    "billId": "bill-221-shugiin-cbfd5f01f7cc469a",
+    "type": "passed_upper_house",
+    "date": "2026-07-08",
+    "chamber": "upper",
+    "description": "参議院本会議で可決 (押しボタン)",
+    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221022.htm",
+    "createdAt": "2026-07-08T22:06:25.882Z"
   },
   {
     "id": "event-bill-221-shugiin-cbfd5f01f7cc469a-submitted",
@@ -8371,10 +8451,11 @@
     "id": "event-bill-221-shugiin-e0c53f273ded8377-rejected",
     "billId": "bill-221-shugiin-e0c53f273ded8377",
     "type": "rejected",
-    "date": "2026-07-07",
+    "date": "2026-07-08",
     "description": "否決",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221003.htm",
-    "createdAt": "2026-07-07T00:37:46.817Z"
+    "createdAt": "2026-07-07T00:37:46.817Z",
+    "updatedAt": "2026-07-08T22:06:19.559Z"
   },
   {
     "id": "event-bill-221-shugiin-e0c53f273ded8377-submitted",
@@ -8491,6 +8572,16 @@
     "description": "衆議院 農林水産委員会に付託",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221046.htm",
     "createdAt": "2026-07-07T00:37:41.841Z"
+  },
+  {
+    "id": "event-bill-221-shugiin-f28f90980f592a7e-committee-referral-upper",
+    "billId": "bill-221-shugiin-f28f90980f592a7e",
+    "type": "committee_referral",
+    "date": "2026-07-08",
+    "chamber": "upper",
+    "description": "参議院 農林水産委員会に付託",
+    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221046.htm",
+    "createdAt": "2026-07-08T22:06:12.536Z"
   },
   {
     "id": "event-bill-221-shugiin-f28f90980f592a7e-passed-lower",
@@ -8816,6 +8907,16 @@
     "createdAt": "2026-07-07T00:37:42.313Z"
   },
   {
+    "id": "event-bill-221-shugiin-f8a7a40301921654-passed-diet",
+    "billId": "bill-221-shugiin-f8a7a40301921654",
+    "type": "passed_diet",
+    "date": "2026-07-08",
+    "chamber": "both",
+    "description": "成立",
+    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221048.htm",
+    "createdAt": "2026-07-08T22:06:13.203Z"
+  },
+  {
     "id": "event-bill-221-shugiin-f8a7a40301921654-passed-lower",
     "billId": "bill-221-shugiin-f8a7a40301921654",
     "type": "passed_lower_house",
@@ -8824,6 +8925,16 @@
     "description": "衆議院本会議で可決 (起立)",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221048.htm",
     "createdAt": "2026-07-07T00:37:42.313Z"
+  },
+  {
+    "id": "event-bill-221-shugiin-f8a7a40301921654-passed-upper",
+    "billId": "bill-221-shugiin-f8a7a40301921654",
+    "type": "passed_upper_house",
+    "date": "2026-07-08",
+    "chamber": "upper",
+    "description": "参議院本会議で可決 (押しボタン)",
+    "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221048.htm",
+    "createdAt": "2026-07-08T22:06:13.203Z"
   },
   {
     "id": "event-bill-221-shugiin-f8a7a40301921654-submitted",
