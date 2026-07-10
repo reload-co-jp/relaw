@@ -369,7 +369,7 @@
     "source": "官報",
     "publishedAt": "2026-07-03",
     "createdAt": "2026-07-07T00:36:44.528Z",
-    "updatedAt": "2026-07-09T22:26:18.529Z"
+    "updatedAt": "2026-07-10T07:28:07.728Z"
   },
   {
     "id": "doc-kanpo-1656145d03613e43",
@@ -423,6 +423,16 @@
     "updatedAt": "2026-07-08T22:04:49.166Z"
   },
   {
+    "id": "doc-kanpo-5184c7bdb022258b",
+    "title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行規則の一部を改正する規則（国家公安委一五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260710/20260710h01745/20260710h017450001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-10",
+    "createdAt": "2026-07-10T07:28:06.112Z"
+  },
+  {
     "id": "doc-kanpo-534f8a677156a214",
     "title": "防衛省設置法等の一部を改正する法律（五三）",
     "type": "kanpo",
@@ -451,7 +461,7 @@
     "source": "官報",
     "publishedAt": "2026-07-08",
     "createdAt": "2026-07-08T22:04:46.709Z",
-    "updatedAt": "2026-07-09T22:26:17.074Z"
+    "updatedAt": "2026-07-10T07:28:06.757Z"
   },
   {
     "id": "doc-kanpo-63e434cd56a39169",
@@ -597,7 +607,7 @@
     "source": "官報",
     "publishedAt": "2026-07-08",
     "createdAt": "2026-07-08T22:04:46.710Z",
-    "updatedAt": "2026-07-09T22:26:17.074Z"
+    "updatedAt": "2026-07-10T07:28:06.758Z"
   },
   {
     "id": "doc-kanpo-d4c2b224bdf128ff",
@@ -661,6 +671,16 @@
     "source": "官報",
     "publishedAt": "2026-07-03",
     "createdAt": "2026-07-07T00:36:44.528Z"
+  },
+  {
+    "id": "doc-kanpo-fb0eb7ee465f0c04",
+    "title": "試験研究の用に供する原子炉等の設置、運転等に関する規則等の一部を改正する規則（原子力規制委六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260710/20260710g00155/20260710g001550002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-10",
+    "createdAt": "2026-07-10T07:28:06.112Z"
   },
   {
     "id": "doc-kokkai-0276399e1e74aa5c",
