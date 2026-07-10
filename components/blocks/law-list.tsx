@@ -9,6 +9,22 @@ import {
 } from "lib/labels"
 import { Entry, EntryList } from "components/blocks/entry-list"
 
+export const lawSearchText = (law: Law): string =>
+  [
+    law.id,
+    law.title,
+    law.titleKana,
+    law.lawNumber,
+    lawTypeLabels[law.lawType],
+    lawStatusLabels[law.status],
+    lawStatusDescriptions[law.status],
+    law.promulgatedAt,
+    law.enforcedAt,
+    law.repealedAt,
+  ]
+    .filter(Boolean)
+    .join(" ")
+
 export const lawEntry = (law: Law): Entry => ({
   id: law.id,
   title: law.title,

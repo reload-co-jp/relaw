@@ -178,6 +178,10 @@ body {
 
 /* ---- search ---- */
 
+.search-panel-wrap {
+  margin: 0 0 1.5rem;
+}
+
 .search-panel {
   align-items: center;
   background: rgba(21, 25, 32, 0.72);

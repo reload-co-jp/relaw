@@ -7,6 +7,21 @@ import {
 } from "lib/labels"
 import { Entry, EntryList } from "components/blocks/entry-list"
 
+export const publicCommentSearchText = (comment: PublicComment): string =>
+  [
+    comment.id,
+    comment.title,
+    comment.ministry,
+    publicCommentStatusLabels[comment.status],
+    publicCommentStatusDescriptions[comment.status],
+    comment.relatedLawTitle,
+    comment.startAt,
+    comment.endAt,
+    comment.resultPublishedAt,
+  ]
+    .filter(Boolean)
+    .join(" ")
+
 export const publicCommentEntry = (comment: PublicComment): Entry => ({
   id: comment.id,
   title: comment.title,

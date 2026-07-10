@@ -155,6 +155,21 @@ export const lawStatusLabels: Record<LawStatus, string> = {
 
 export const lawTypeColor = "#a89ec4"
 
+export const searchEntryKindLabels = {
+  bill: "法案",
+  law: "法令",
+  publicComment: "パブコメ",
+} as const
+
+export const searchEntryKindColors: Record<
+  keyof typeof searchEntryKindLabels,
+  string
+> = {
+  bill: "#8ea3bd",
+  law: "#a89ec4",
+  publicComment: "#b8a26a",
+}
+
 export const lawStatusColors: Record<LawStatus, string> = {
   in_force: "#8fbf9f",
   not_yet_enforced: "#c8a96a",

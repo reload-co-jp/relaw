@@ -1,8 +1,12 @@
 import { FC } from "react"
 import {
+  getBills,
   getBillsUnderDeliberation,
   getEnactedBills,
+  getLatestBillEvents,
+  getLaws,
   getOpenPublicComments,
+  getPublicComments,
   getRecentlyPromulgatedLaws,
   getRecentlySubmittedBills,
   getUpcomingEnforcementLaws,
@@ -10,9 +14,14 @@ import {
 import { Section } from "components/elements/section"
 import { StatTiles } from "components/elements/stat-tiles"
 import { LifecycleGuide } from "components/blocks/lifecycle-guide"
-import { BillList } from "components/blocks/bill-list"
-import { LawList } from "components/blocks/law-list"
-import { PublicCommentList } from "components/blocks/public-comment-list"
+import { BillList, billEntry, billSearchText } from "components/blocks/bill-list"
+import { LawList, lawEntry, lawSearchText } from "components/blocks/law-list"
+import {
+  PublicCommentList,
+  publicCommentEntry,
+  publicCommentSearchText,
+} from "components/blocks/public-comment-list"
+import { SiteSearch, SiteSearchEntry } from "components/blocks/site-search"
 import { pageMetadata, siteDescription } from "lib/seo"
 
 const FIRST_VIEW_LIMIT = 5
@@ -29,11 +38,35 @@ const Page: FC = () => {
   const promulgated = getRecentlyPromulgatedLaws()
   const upcoming = getUpcomingEnforcementLaws()
   const openComments = getOpenPublicComments()
+
+  const latestEvents = getLatestBillEvents()
+  const searchEntries: SiteSearchEntry[] = [
+    ...getBills().map((bill) => {
+      const latestEvent = latestEvents.get(bill.id)
+      return {
+        ...billEntry(bill, latestEvent),
+        searchText: billSearchText(bill, latestEvent),
+        kind: "bill" as const,
+      }
+    }),
+    ...getLaws().map((law) => ({
+      ...lawEntry(law),
+      searchText: lawSearchText(law),
+      kind: "law" as const,
+    })),
+    ...getPublicComments().map((comment) => ({
+      ...publicCommentEntry(comment),
+      searchText: publicCommentSearchText(comment),
+      kind: "publicComment" as const,
+    })),
+  ]
+
   return (
     <>
       <h1 className="visually-hidden">
         Relaw — 法案・法令ライフサイクルモニタリング
       </h1>
+      <SiteSearch entries={searchEntries} />
       <LifecycleGuide />
       <StatTiles
         stats={[
