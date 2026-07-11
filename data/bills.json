@@ -50,7 +50,7 @@
     "status": "expired",
     "submittedAt": "2025-11-19",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/meisai/m220090219002.htm",
-    "updatedAt": "2026-07-10T22:02:51.800Z"
+    "updatedAt": "2026-07-11T21:49:32.092Z"
   },
   {
     "id": "bill-219-sangiin-6be4b454ee392ea0",
@@ -250,7 +250,7 @@
     "proposerType": "representative",
     "status": "expired",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/meisai/m220090217004.htm",
-    "updatedAt": "2026-07-10T22:02:51.800Z",
+    "updatedAt": "2026-07-11T21:49:32.092Z",
     "proposerName": "大野敬太郎君 外3名",
     "submittedAt": "2025-01-31"
   },
@@ -1558,7 +1558,7 @@
     "status": "passed_lower_house",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221064.htm",
     "createdAt": "2026-07-07T00:36:49.742Z",
-    "updatedAt": "2026-07-10T22:02:33.866Z",
+    "updatedAt": "2026-07-11T21:49:16.962Z",
     "submittedNumber": 64,
     "billNumber": "第221回国会 閣法第64号",
     "submittedAt": "2026-06-30",
@@ -1573,7 +1573,7 @@
     "status": "passed_diet",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221053.htm",
     "createdAt": "2026-07-07T00:36:49.742Z",
-    "updatedAt": "2026-07-10T22:02:29.500Z",
+    "updatedAt": "2026-07-11T21:49:13.267Z",
     "submittedNumber": 53,
     "billNumber": "第221回国会 閣法第53号",
     "submittedAt": "2026-04-07",
@@ -1742,7 +1742,7 @@
     "proposerType": "representative",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221006.htm",
-    "updatedAt": "2026-07-10T22:02:36.275Z",
+    "updatedAt": "2026-07-11T21:49:18.979Z",
     "proposerName": "森ようすけ君 外2名",
     "submittedAt": "2026-03-27"
   },
@@ -1852,7 +1852,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221014.htm",
-    "updatedAt": "2026-07-10T22:02:50.599Z",
+    "updatedAt": "2026-07-11T21:49:31.076Z",
     "proposerName": "小西洋之君 外3名",
     "submittedAt": "2026-07-07"
   },
@@ -1867,7 +1867,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221012.htm",
-    "updatedAt": "2026-07-10T22:02:49.831Z",
+    "updatedAt": "2026-07-11T21:49:30.401Z",
     "proposerName": "石川博崇君 外3名",
     "submittedAt": "2026-06-30"
   },
@@ -1882,7 +1882,7 @@
     "proposerType": "representative",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221025.htm",
-    "updatedAt": "2026-07-10T22:02:43.849Z",
+    "updatedAt": "2026-07-11T21:49:25.365Z",
     "proposerName": "西岡義高君 外1名",
     "submittedAt": "2026-06-24"
   },
@@ -1897,7 +1897,7 @@
     "proposerType": "representative",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221027.htm",
-    "updatedAt": "2026-07-10T22:02:44.645Z",
+    "updatedAt": "2026-07-11T21:49:26.033Z",
     "proposerName": "簗和生君 外7名",
     "submittedAt": "2026-06-24"
   },
@@ -2022,7 +2022,7 @@
     "proposerType": "representative",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221024.htm",
-    "updatedAt": "2026-07-10T22:02:43.451Z",
+    "updatedAt": "2026-07-11T21:49:25.029Z",
     "proposerName": "西岡義高君 外1名",
     "submittedAt": "2026-06-24"
   },
@@ -2037,7 +2037,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221005.htm",
-    "updatedAt": "2026-07-10T22:02:47.024Z",
+    "updatedAt": "2026-07-11T21:49:28.054Z",
     "proposerName": "神谷宗幣君 外4名",
     "submittedAt": "2026-04-02"
   },
@@ -2052,7 +2052,7 @@
     "proposerType": "cabinet",
     "status": "passed_diet",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221056.htm",
-    "updatedAt": "2026-07-10T22:02:30.692Z",
+    "updatedAt": "2026-07-11T21:49:14.284Z",
     "submittedAt": "2026-04-07",
     "passedLowerHouseAt": "2026-06-02",
     "summary": "本法律案は、就業構造の変化や働き方の多様化等を踏まえ、労働災害に対する幅広いセーフティネットを整備するため、労働者災害補償保険の遺族補償年金における支給要件等の見直し、特定の事業を労働者を使用しないで行うことを常態とする者等を構成員とする団体が同保険の適用を受けるための要件の法定化、同保険の適用事業に関する暫定措置の廃止等の措置を講じようとするものであり、その主な内容は次のとおりである。 一、遺族補償年金等を受けることができる遺族の要件について、夫にのみ課された要件を削る。 二、遺族補償年金等について、遺族の人数が一人である場合の額を一律で給付基礎日額の百七十五日分とする。 三、療養補償給付等の保険給付の原因である事故に係る疾病が、その性質上、災害補償の事由に該当するものかどうか等を容易に判断することができない疾病として政令で定めるものである場合には、当該保険給付を受ける権利の消滅時効の期間を二年から五年に延長する。 四、政令で定める事業について、当分の間、労働者災害補償保険の適用事業としない暫定措置を廃止する。 五、特定の事業を労働者を使用しないで行うことを常態とする者等を構成員とする団体が労働者災害補償保険の適用を受けることにつき政府が承認するための要件として、この保険に係る保険関係に係る業務を適切に実施することができる団体として厚生労働省令で定める要件に適合するものであることを定める。 六、政府は、五の承認を受けた団体（以下「承認団体」という。）の労働者災害補償保険に係る保険関係に係る業務の運営に関し改善が必要であると認めるときは、当該承認団体に対し、その改善に必要な措置をとるべきことを命ずることができるものとするとともに、承認団体がこの命令に違反したときは、当該承認団体についての保険関係を消滅させることができるものとする。 七、社会復帰促進等事業であって政令で定める事業の実施に関する決定に不服のある者は、労働者災害補償保険審査官に対して審査請求をし、その決定に不服のある者は、労働保険審査会に対して再審査請求をすることができるものとする。 八、この法律は、一部を除き、令和九年四月一日から施行する。",
@@ -2089,7 +2089,7 @@
     "proposerType": "representative",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221016.htm",
-    "updatedAt": "2026-07-10T22:02:40.235Z",
+    "updatedAt": "2026-07-11T21:49:22.342Z",
     "proposerName": "田中健君 外2名",
     "submittedAt": "2026-06-16"
   },
@@ -2191,7 +2191,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221013.htm",
-    "updatedAt": "2026-07-10T22:02:50.223Z",
+    "updatedAt": "2026-07-11T21:49:30.739Z",
     "proposerName": "小西洋之君 外2名",
     "submittedAt": "2026-07-02"
   },
@@ -2441,7 +2441,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221008.htm",
-    "updatedAt": "2026-07-10T22:02:48.212Z",
+    "updatedAt": "2026-07-11T21:49:29.059Z",
     "proposerName": "伊藤孝恵君",
     "submittedAt": "2026-05-19"
   },
@@ -2456,7 +2456,7 @@
     "proposerType": "representative",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221028.htm",
-    "updatedAt": "2026-07-10T22:02:45.044Z",
+    "updatedAt": "2026-07-11T21:49:26.367Z",
     "proposerName": "加藤勝信君 外11名",
     "submittedAt": "2026-06-24"
   },
@@ -2490,7 +2490,7 @@
     "proposerType": "representative",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221017.htm",
-    "updatedAt": "2026-07-10T22:02:40.636Z",
+    "updatedAt": "2026-07-11T21:49:22.676Z",
     "proposerName": "田中健君 外2名",
     "submittedAt": "2026-06-16"
   },
@@ -2505,7 +2505,7 @@
     "proposerType": "representative",
     "status": "rejected",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221009.htm",
-    "updatedAt": "2026-07-10T22:02:37.480Z",
+    "updatedAt": "2026-07-11T21:49:19.991Z",
     "proposerName": "西村智奈美君 外3名",
     "submittedAt": "2026-05-15"
   },
@@ -2558,7 +2558,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221001.htm",
-    "updatedAt": "2026-07-10T22:02:45.444Z",
+    "updatedAt": "2026-07-11T21:49:26.709Z",
     "proposerName": "竹詰仁君 外1名",
     "submittedAt": "2026-03-19"
   },
@@ -2592,7 +2592,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221007.htm",
-    "updatedAt": "2026-07-10T22:02:47.813Z",
+    "updatedAt": "2026-07-11T21:49:28.725Z",
     "proposerName": "神谷宗幣君 外3名",
     "submittedAt": "2026-04-02"
   },
@@ -2626,7 +2626,7 @@
     "proposerType": "cabinet",
     "status": "passed_diet",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221054.htm",
-    "updatedAt": "2026-07-10T22:02:29.895Z",
+    "updatedAt": "2026-07-11T21:49:13.602Z",
     "submittedAt": "2026-04-07",
     "passedLowerHouseAt": "2026-05-26",
     "summary": "本法律案の主な内容は次のとおりである。 一、個人情報の保護に関する法律の一部を次のように改正する。 １ 統計等の作成を行う第三者に個人情報を提供する場合等について、統計等の作成の内容等の公表等をしているときは、本人の同意を不要とする。 ２ 十六歳未満の者の個人情報等を取り扱う場合における本人の法定代理人への通知等についての規定を整備するとともに、身体の一部の特徴に係る情報が含まれる特定生体個人情報について違法な取扱い等がなくとも本人による利用停止等の請求を可能とする。 ３ 特定の個人に対する連絡に利用することができる記述等を含む連絡可能個人関連情報について、その不適正利用及び不正取得を禁止する。 ４ 個人情報の違法な取扱い等によって財産上の利益を得た個人情報取扱事業者に対して個人情報保護委員会が課徴金納付を命ずる制度についての規定を整備するとともに、個人情報データベース等の不正な提供等を行った個人情報取扱事業者に対する罰則の法定刑を引き上げる。 二、行政手続における特定の個人を識別するための番号の利用等に関する法律及び医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律について、十六歳未満の者の個人情報等を取り扱う場合における本人の法定代理人への通知等についての規定を整備する等所要の改正を行う。 三、この法律は、一部の規定を除き、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。",
@@ -2682,7 +2682,7 @@
     "proposerType": "representative",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221002.htm",
-    "updatedAt": "2026-07-10T22:02:34.669Z",
+    "updatedAt": "2026-07-11T21:49:17.641Z",
     "proposerName": "伊佐進一君 外2名",
     "submittedAt": "2026-03-10"
   },
@@ -2804,7 +2804,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221006.htm",
-    "updatedAt": "2026-07-10T22:02:47.423Z",
+    "updatedAt": "2026-07-11T21:49:28.391Z",
     "proposerName": "神谷宗幣君 外4名",
     "submittedAt": "2026-04-02"
   },
@@ -2819,7 +2819,7 @@
     "proposerType": "cabinet",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221041.htm",
-    "updatedAt": "2026-07-10T22:02:24.698Z",
+    "updatedAt": "2026-07-11T21:49:09.183Z",
     "submittedAt": "2026-03-31"
   },
   {
@@ -2852,7 +2852,7 @@
     "proposerType": "representative",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221019.htm",
-    "updatedAt": "2026-07-10T22:02:41.437Z",
+    "updatedAt": "2026-07-11T21:49:23.347Z",
     "proposerName": "橋本幹彦君 外3名",
     "submittedAt": "2026-06-23"
   },
@@ -2899,7 +2899,7 @@
     "proposerType": "representative",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221012.htm",
-    "updatedAt": "2026-07-10T22:02:38.680Z",
+    "updatedAt": "2026-07-11T21:49:20.995Z",
     "proposerName": "長谷川淳二君 外10名",
     "submittedAt": "2026-06-10"
   },
@@ -2952,7 +2952,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221011.htm",
-    "updatedAt": "2026-07-10T22:02:49.431Z",
+    "updatedAt": "2026-07-11T21:49:30.064Z",
     "proposerName": "舟山康江君 外4名",
     "submittedAt": "2026-06-24"
   },
@@ -2985,7 +2985,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221010.htm",
-    "updatedAt": "2026-07-10T22:02:49.036Z",
+    "updatedAt": "2026-07-11T21:49:29.729Z",
     "proposerName": "高木真理君 外1名",
     "submittedAt": "2026-06-23"
   },
@@ -3072,7 +3072,7 @@
     "proposerType": "representative",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221007.htm",
-    "updatedAt": "2026-07-10T22:02:36.672Z",
+    "updatedAt": "2026-07-11T21:49:19.318Z",
     "proposerName": "濵地雅一君 外3名",
     "submittedAt": "2026-04-20"
   },
@@ -3106,7 +3106,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221004.htm",
-    "updatedAt": "2026-07-10T22:02:46.619Z",
+    "updatedAt": "2026-07-11T21:49:27.716Z",
     "proposerName": "伊藤孝恵君 外1名",
     "submittedAt": "2026-03-27"
   },
@@ -3137,7 +3137,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221009.htm",
-    "updatedAt": "2026-07-10T22:02:48.636Z",
+    "updatedAt": "2026-07-11T21:49:29.393Z",
     "proposerName": "神谷宗幣君 外3名",
     "submittedAt": "2026-06-17"
   },
@@ -3152,7 +3152,7 @@
     "proposerType": "representative",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221020.htm",
-    "updatedAt": "2026-07-10T22:02:41.839Z",
+    "updatedAt": "2026-07-11T21:49:23.679Z",
     "proposerName": "西岡義高君 外3名",
     "submittedAt": "2026-06-23"
   },
@@ -3167,7 +3167,7 @@
     "proposerType": "representative",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221021.htm",
-    "updatedAt": "2026-07-10T22:02:42.240Z",
+    "updatedAt": "2026-07-11T21:49:24.013Z",
     "proposerName": "河井昭成君 外3名",
     "submittedAt": "2026-06-23"
   },
@@ -3182,7 +3182,7 @@
     "proposerType": "representative",
     "status": "rejected",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221003.htm",
-    "updatedAt": "2026-07-10T22:02:35.068Z",
+    "updatedAt": "2026-07-11T21:49:17.975Z",
     "proposerName": "橋本幹彦君 外2名",
     "submittedAt": "2026-03-10"
   },
@@ -3197,7 +3197,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221003.htm",
-    "updatedAt": "2026-07-10T22:02:46.220Z",
+    "updatedAt": "2026-07-11T21:49:27.381Z",
     "proposerName": "伊藤孝恵君 外1名",
     "submittedAt": "2026-03-27"
   },

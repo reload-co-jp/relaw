@@ -34,6 +34,28 @@
     "updatedAt": "2026-07-07T00:39:11.947Z"
   },
   {
+    "id": "pc-145210712",
+    "title": "電波法施行規則の一部を改正する省令案等に係る意見募集 ー公共ブロードバンド移動通信システムの周波数拡張に係る制度整備ー",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-07-11",
+    "endAt": "2026-08-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210712&Mode=0",
+    "createdAt": "2026-07-11T21:50:29.550Z",
+    "updatedAt": "2026-07-11T21:50:29.550Z"
+  },
+  {
+    "id": "pc-145210733",
+    "title": "お年玉付郵便葉書等に関する法律施行令の一部を改正する政令案等に対する意見募集",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-07-11",
+    "endAt": "2026-08-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210733&Mode=0",
+    "createdAt": "2026-07-11T21:50:29.549Z",
+    "updatedAt": "2026-07-11T21:50:29.549Z"
+  },
+  {
     "id": "pc-145210737",
     "title": "「特定電気通信による情報の流通によって発生する権利侵害等への対処に関する法律第26条に関するガイドライン」（改定案）についての意見募集",
     "ministry": "総務省",
@@ -45,6 +67,17 @@
     "updatedAt": "2026-07-07T00:39:11.948Z"
   },
   {
+    "id": "pc-145210738",
+    "title": "電波法施行規則等の一部を改正する省令案等に係る意見募集\n－衛星コンステレーションによる携帯電話向け700MHz帯非静止衛星通信システムの導入に向けた制度整備－",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-07-11",
+    "endAt": "2026-08-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210738&Mode=0",
+    "createdAt": "2026-07-11T21:50:29.550Z",
+    "updatedAt": "2026-07-11T21:50:29.550Z"
+  },
+  {
     "id": "pc-145210739",
     "title": "76GHz帯小電力ミリ波レーダーの高度化のための告示改正案に係る意見募集",
     "ministry": "総務省",
@@ -54,6 +87,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210739&Mode=0",
     "createdAt": "2026-07-07T00:39:11.947Z",
     "updatedAt": "2026-07-07T00:39:11.947Z"
+  },
+  {
+    "id": "pc-145210748",
+    "title": "電波法関係審査基準の一部を改正する訓令案に係る意見募集－市町村デジタル同報系防災行政無線等に係る制度整備－",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-07-11",
+    "endAt": "2026-08-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210748&Mode=0",
+    "createdAt": "2026-07-11T21:50:29.550Z",
+    "updatedAt": "2026-07-11T21:50:29.550Z"
   },
   {
     "id": "pc-155260604",
@@ -176,6 +220,39 @@
     "updatedAt": "2026-07-09T22:29:13.718Z"
   },
   {
+    "id": "pc-225026049",
+    "title": "貸金業法施行規則の一部を改正する内閣府令（案）に対するパブリックコメントの実施について",
+    "ministry": "金融庁",
+    "status": "open",
+    "startAt": "2026-07-10",
+    "endAt": "2026-08-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=225026049&Mode=0",
+    "createdAt": "2026-07-11T21:50:29.550Z",
+    "updatedAt": "2026-07-11T21:50:29.550Z"
+  },
+  {
+    "id": "pc-225026050",
+    "title": "「連結財務諸表の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件」に対するパブリックコメントの実施について",
+    "ministry": "金融庁",
+    "status": "open",
+    "startAt": "2026-07-10",
+    "endAt": "2026-08-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=225026050&Mode=0",
+    "createdAt": "2026-07-11T21:50:29.550Z",
+    "updatedAt": "2026-07-11T21:50:29.550Z"
+  },
+  {
+    "id": "pc-225026051",
+    "title": "令和５年金融商品取引法等改正及び社債、株式等の振替に関する法律等改正（３年６月以内施行）に係る内閣府令（案）に対するパブリックコメントの実施について",
+    "ministry": "金融庁",
+    "status": "open",
+    "startAt": "2026-07-10",
+    "endAt": "2026-08-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=225026051&Mode=0",
+    "createdAt": "2026-07-11T21:50:29.550Z",
+    "updatedAt": "2026-07-11T21:50:29.550Z"
+  },
+  {
     "id": "pc-315000136",
     "title": "「出入国管理及び難民認定法施行令及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行令の一部を改正する政令案」等に係る意見募集について",
     "ministry": "出入国在留管理庁",
@@ -241,6 +318,17 @@
     "updatedAt": "2026-07-09T22:29:13.718Z"
   },
   {
+    "id": "pc-495260106",
+    "title": "化学物質による健康障害防止のための濃度の基準の適用等に関する技術上の指針の一部を改正する件（案）に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-07-10",
+    "endAt": "2026-08-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260106&Mode=0",
+    "createdAt": "2026-07-11T21:50:29.550Z",
+    "updatedAt": "2026-07-11T21:50:29.550Z"
+  },
+  {
     "id": "pc-550004376",
     "title": "農業信用保証保険法施行規則の一部を改正する命令案についての意見・情報の募集について",
     "ministry": "農林水産省",
@@ -295,5 +383,16 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620226018&Mode=0",
     "createdAt": "2026-07-10T07:30:47.032Z",
     "updatedAt": "2026-07-10T07:30:47.032Z"
+  },
+  {
+    "id": "pc-620226019",
+    "title": "一般送配電事業者８社の託送供給等に係る収入の見通しの変更承認申請に係る「国民の声」の募集について",
+    "ministry": "資源エネルギー庁",
+    "status": "open",
+    "startAt": "2026-07-10",
+    "endAt": "2026-08-08",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620226019&Mode=0",
+    "createdAt": "2026-07-11T21:50:29.550Z",
+    "updatedAt": "2026-07-11T21:50:29.550Z"
   }
 ]
