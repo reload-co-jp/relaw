@@ -1955,12 +1955,12 @@
     "titleKana": "らんぴーすきんびょうをかちくでんせんびょうよぼうほうだいろくじゅうにじょうだいいちこうのしっぺいのしゅるいとしてしていするとうのせいれいしこうきそく",
     "lawNumber": "令和七年農林水産省令第三十三号",
     "lawType": "ministerial_ordinance",
-    "status": "in_force",
+    "status": "repealed",
     "promulgatedAt": "2025-07-24",
     "egovLawId": "507M60000200033",
     "sourceUrl": "https://laws.e-gov.go.jp/law/507M60000200033",
     "createdAt": "2026-07-07T00:35:39.815Z",
-    "updatedAt": "2026-07-07T00:35:39.815Z"
+    "updatedAt": "2026-07-13T21:55:03.205Z"
   },
   {
     "id": "law-507M60000400007",
@@ -3274,6 +3274,19 @@
     "sourceUrl": "https://laws.e-gov.go.jp/law/508M60000400050",
     "createdAt": "2026-07-07T00:35:39.816Z",
     "updatedAt": "2026-07-07T00:35:39.816Z"
+  },
+  {
+    "id": "law-508M60000400058",
+    "title": "円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律施行規則",
+    "titleKana": "えんかつなじぎょうさいせいをはかるためのじぎょうしゃのきんゆうきかんとうにたいするさいむのちょうせいのてつづきとうにかんするほうりつしこうきそく",
+    "lawNumber": "令和八年経済産業省令第五十八号",
+    "lawType": "ministerial_ordinance",
+    "status": "in_force",
+    "promulgatedAt": "2026-06-30",
+    "egovLawId": "508M60000400058",
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508M60000400058",
+    "createdAt": "2026-07-13T21:55:03.207Z",
+    "updatedAt": "2026-07-13T21:55:03.207Z"
   },
   {
     "id": "law-508M60000740002",
