@@ -102,6 +102,16 @@
     "updatedAt": "2026-07-07T00:39:11.947Z"
   },
   {
+    "id": "pc-145210743",
+    "title": "基幹放送用周波数使用計画の一部を変更する告示案等に関する意見募集",
+    "status": "open",
+    "startAt": "2026-07-14",
+    "endAt": "2026-08-17",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210743&Mode=0",
+    "createdAt": "2026-07-14T21:58:43.070Z",
+    "updatedAt": "2026-07-14T21:58:43.070Z"
+  },
+  {
     "id": "pc-145210748",
     "title": "電波法関係審査基準の一部を改正する訓令案に係る意見募集－市町村デジタル同報系防災行政無線等に係る制度整備－",
     "ministry": "総務省",
@@ -340,6 +350,29 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260106&Mode=0",
     "createdAt": "2026-07-11T21:50:29.550Z",
     "updatedAt": "2026-07-11T21:50:29.550Z"
+  },
+  {
+    "id": "pc-495260107",
+    "title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令案について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-07-13",
+    "endAt": "2026-08-12",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260107&Mode=0",
+    "billId": "bill-219-shugiin-5a5ec28fa0326c09",
+    "createdAt": "2026-07-14T21:58:43.070Z",
+    "updatedAt": "2026-07-14T21:58:43.070Z"
+  },
+  {
+    "id": "pc-495260108",
+    "title": "高齢者の医療の確保に関する法律による保険者の前期高齢者交付金等の額の算定等に関する省令第四十条の三の規定に基づき厚生労働大臣が定める基準の一部を改正する件（案）に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-07-13",
+    "endAt": "2026-08-13",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260108&Mode=0",
+    "createdAt": "2026-07-14T21:58:43.070Z",
+    "updatedAt": "2026-07-14T21:58:43.070Z"
   },
   {
     "id": "pc-550004376",

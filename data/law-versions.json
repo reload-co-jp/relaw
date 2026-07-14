@@ -648,6 +648,18 @@
     "createdAt": "2026-07-07T00:35:39.814Z"
   },
   {
+    "id": "version-506M60001000033_20260701_508M60001000019",
+    "lawId": "law-506M60001000033",
+    "versionLabel": "令和八年環境省令第十九号による改正",
+    "amendmentLawNumber": "令和八年環境省令第十九号",
+    "amendmentLawTitle": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+    "promulgatedAt": "2026-06-30",
+    "enforcedAt": "2026-07-01",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/506M60001000033",
+    "createdAt": "2026-07-14T21:56:03.047Z"
+  },
+  {
     "id": "version-506M60001500001_20251217_507M60001500003",
     "lawId": "law-506M60001500001",
     "versionLabel": "令和七年厚生労働省・経済産業省・環境省令第三号による改正",
@@ -706,6 +718,18 @@
     "current": true,
     "sourceUrl": "https://laws.e-gov.go.jp/law/506M60001A00001",
     "createdAt": "2026-07-07T00:35:39.814Z"
+  },
+  {
+    "id": "version-506M60001A00001_20260701_508M60001A00001",
+    "lawId": "law-506M60001A00001",
+    "versionLabel": "令和八年農林水産省・国土交通省・環境省令第一号による改正",
+    "amendmentLawNumber": "令和八年農林水産省・国土交通省・環境省令第一号",
+    "amendmentLawTitle": "地域における生物の多様性の増進のための活動の促進等に関する法律施行規則の一部を改正する省令",
+    "promulgatedAt": "2026-06-30",
+    "enforcedAt": "2026-07-01",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/506M60001A00001",
+    "createdAt": "2026-07-14T21:56:03.047Z"
   },
   {
     "id": "version-506M60001FCA007_20240902_000000000000000",
