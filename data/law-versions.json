@@ -1512,6 +1512,18 @@
     "createdAt": "2026-07-07T00:35:39.815Z"
   },
   {
+    "id": "version-507M60000008016_20260630_508M60000008085",
+    "lawId": "law-507M60000008016",
+    "versionLabel": "令和八年総務省令第八十五号による改正",
+    "amendmentLawNumber": "令和八年総務省令第八十五号",
+    "amendmentLawTitle": "電気通信事業法施行規則及び第二号基礎的電気通信役務の提供に係る第二種交付金及び第二種負担金算定等規則の一部を改正する省令",
+    "promulgatedAt": "2026-06-30",
+    "enforcedAt": "2026-06-30",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/507M60000008016",
+    "createdAt": "2026-07-15T21:59:06.862Z"
+  },
+  {
     "id": "version-507M60000008043_20250425_000000000000000",
     "lawId": "law-507M60000008043",
     "versionLabel": "制定時",
