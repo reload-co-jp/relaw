@@ -358,7 +358,7 @@
     "source": "官報",
     "publishedAt": "2026-07-15",
     "createdAt": "2026-07-15T21:59:10.733Z",
-    "updatedAt": "2026-07-15T21:59:10.733Z"
+    "updatedAt": "2026-07-16T22:02:45.907Z"
   },
   {
     "id": "doc-kanpo-05a7da66c97e4f4e",
@@ -472,7 +472,7 @@
     "source": "官報",
     "publishedAt": "2026-07-08",
     "createdAt": "2026-07-08T22:04:46.709Z",
-    "updatedAt": "2026-07-15T21:59:13.110Z"
+    "updatedAt": "2026-07-16T22:02:47.958Z"
   },
   {
     "id": "doc-kanpo-63e434cd56a39169",
@@ -493,7 +493,7 @@
     "source": "官報",
     "publishedAt": "2026-07-14",
     "createdAt": "2026-07-14T21:56:07.192Z",
-    "updatedAt": "2026-07-15T21:59:11.210Z"
+    "updatedAt": "2026-07-16T22:02:46.318Z"
   },
   {
     "id": "doc-kanpo-674dedb219034339",
@@ -659,7 +659,7 @@
     "source": "官報",
     "publishedAt": "2026-07-08",
     "createdAt": "2026-07-08T22:04:46.710Z",
-    "updatedAt": "2026-07-15T21:59:13.110Z"
+    "updatedAt": "2026-07-16T22:02:47.959Z"
   },
   {
     "id": "doc-kanpo-d4c2b224bdf128ff",
@@ -1449,6 +1449,17 @@
     "createdAt": "2026-07-07T00:38:01.714Z"
   },
   {
+    "id": "doc-kokkai-a86cf507ac1e2b7b",
+    "billId": "bill-221-shugiin-277efad5ec7df88c",
+    "title": "第221回国会 衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 第10号 (2026-07-01)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122105367X01020260701",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-01",
+    "createdAt": "2026-07-16T22:05:00.516Z"
+  },
+  {
     "id": "doc-kokkai-a98a43a3905e837d",
     "billId": "bill-221-cas-8d0bef80280e32d1",
     "title": "第221回国会 衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 第7号 (2026-05-14)",
@@ -2193,6 +2204,16 @@
     "createdAt": "2026-07-07T04:48:55.573Z"
   },
   {
+    "id": "doc-sangiin-1e7fcdfb413e7394",
+    "billId": "bill-221-shugiin-f8a7a40301921654",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210482210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-16T22:04:11.040Z"
+  },
+  {
     "id": "doc-sangiin-1e85a565d8e04cd9",
     "billId": "bill-219-shugiin-9d50acc823b8ea6d",
     "title": "成立法律",
@@ -2321,6 +2342,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:29.963Z"
+  },
+  {
+    "id": "doc-sangiin-27dd6185da7b4880",
+    "billId": "bill-221-sangiin-1cc1962702814770",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210192210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-16T22:04:35.646Z"
   },
   {
     "id": "doc-sangiin-287da1f7bf55b1fb",
@@ -2571,6 +2602,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:22.361Z"
+  },
+  {
+    "id": "doc-sangiin-35896f8bd60b8c77",
+    "billId": "bill-221-shugiin-cbfd5f01f7cc469a",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210222210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-16T22:04:24.075Z"
   },
   {
     "id": "doc-sangiin-3630fc5eb75efcb6",
@@ -4123,6 +4164,16 @@
     "createdAt": "2026-07-07T04:49:20.886Z"
   },
   {
+    "id": "doc-sangiin-95f739cef820c770",
+    "billId": "bill-221-shugiin-237a4a7683c70d22",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210182210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-16T22:04:35.304Z"
+  },
+  {
     "id": "doc-sangiin-96b971dec04c3ccc",
     "billId": "bill-219-shugiin-589bbbad1d5f4156",
     "title": "成立法律",
@@ -4632,6 +4683,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:08.775Z"
+  },
+  {
+    "id": "doc-sangiin-bcfc88d62e6b8096",
+    "billId": "bill-221-shugiin-3f3b2d2174275f42",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t1002210202210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-16T22:04:35.982Z"
   },
   {
     "id": "doc-sangiin-be89c47a8072f506",
