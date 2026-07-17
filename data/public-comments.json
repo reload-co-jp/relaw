@@ -123,6 +123,28 @@
     "updatedAt": "2026-07-14T21:58:43.070Z"
   },
   {
+    "id": "pc-145210744",
+    "title": "恩給給与細則等の一部を改正する省令（案）に関する意見募集について",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-07-17",
+    "endAt": "2026-08-20",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210744&Mode=0",
+    "createdAt": "2026-07-17T21:55:18.289Z",
+    "updatedAt": "2026-07-17T21:55:18.289Z"
+  },
+  {
+    "id": "pc-145210747",
+    "title": "陸上無線通信委員会報告（案）に対する意見募集　－「業務用陸上無線通信の高度化等に関する技術的条件」のうち「300MHz帯無線式列車制御システムに係る技術的条件」－",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-07-17",
+    "endAt": "2026-08-20",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210747&Mode=0",
+    "createdAt": "2026-07-17T21:55:18.289Z",
+    "updatedAt": "2026-07-17T21:55:18.289Z"
+  },
+  {
     "id": "pc-145210748",
     "title": "電波法関係審査基準の一部を改正する訓令案に係る意見募集－市町村デジタル同報系防災行政無線等に係る制度整備－",
     "ministry": "総務省",
@@ -132,6 +154,19 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210748&Mode=0",
     "createdAt": "2026-07-11T21:50:29.550Z",
     "updatedAt": "2026-07-11T21:50:29.550Z"
+  },
+  {
+    "id": "pc-145210753",
+    "title": "「地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第六条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める省令の一部を改正する省令（案）等」についての意見・情報の募集について",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-07-17",
+    "endAt": "2026-08-20",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210753&Mode=0",
+    "lawId": "law-508M60000008051",
+    "relatedLawTitle": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第六条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める省令",
+    "createdAt": "2026-07-17T21:55:18.289Z",
+    "updatedAt": "2026-07-17T21:55:18.289Z"
   },
   {
     "id": "pc-155260508",
@@ -165,6 +200,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260814&Mode=0",
     "createdAt": "2026-07-10T07:30:47.032Z",
     "updatedAt": "2026-07-10T07:30:47.032Z"
+  },
+  {
+    "id": "pc-155260815",
+    "title": "くま川鉄道株式会社の鉄道事業の旅客運賃上限変更認可申請に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-07-16",
+    "endAt": "2026-07-30",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260815&Mode=0",
+    "createdAt": "2026-07-17T21:55:18.289Z",
+    "updatedAt": "2026-07-17T21:55:18.289Z"
   },
   {
     "id": "pc-155261027",
@@ -450,6 +496,17 @@
     "billId": "bill-221-shugiin-507b23f3c61af710",
     "createdAt": "2026-07-07T00:39:11.946Z",
     "updatedAt": "2026-07-07T00:39:11.946Z"
+  },
+  {
+    "id": "pc-595126109",
+    "title": "「令和８年度「いわし」「にしん」及び「さば」の輸入割当てについて（案）」に対する意見募集について",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-07-16",
+    "endAt": "2026-08-15",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595126109&Mode=0",
+    "createdAt": "2026-07-17T21:55:18.289Z",
+    "updatedAt": "2026-07-17T21:55:18.289Z"
   },
   {
     "id": "pc-595226031",
