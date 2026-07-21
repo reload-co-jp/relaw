@@ -47,6 +47,19 @@
     "updatedAt": "2026-07-15T22:02:08.953Z"
   },
   {
+    "id": "pc-095260720",
+    "title": "「重要電子計算機に対する不正な行為による被害の防止に関する法律に基づく特別社会基盤事業者による特定侵害事象等の報告等に関する命令第二条第一項ただし書の特別社会基盤事業所管大臣及び内閣総理大臣が指定するもの」（案）に関する意見の募集について",
+    "ministry": "内閣府",
+    "status": "open",
+    "startAt": "2026-07-21",
+    "endAt": "2026-08-25",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260720&Mode=0",
+    "lawId": "law-507AC0000000042",
+    "relatedLawTitle": "重要電子計算機に対する不正な行為による被害の防止に関する法律",
+    "createdAt": "2026-07-21T22:05:24.693Z",
+    "updatedAt": "2026-07-21T22:05:24.693Z"
+  },
+  {
     "id": "pc-110200065",
     "title": "「企業結合審査に関する独占禁止法の運用指針」の改定案に対する意見募集について",
     "ministry": "公正取引委員会",
@@ -320,6 +333,39 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260041&Mode=0",
     "createdAt": "2026-07-09T22:29:13.718Z",
     "updatedAt": "2026-07-09T22:29:13.718Z"
+  },
+  {
+    "id": "pc-195260042",
+    "title": "小型家電リサイクル制度の施行状況の評価・検討に関する報告書（案）（パブリックコメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-07-21",
+    "endAt": "2026-08-20",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260042&Mode=0",
+    "createdAt": "2026-07-21T22:05:24.693Z",
+    "updatedAt": "2026-07-21T22:05:24.693Z"
+  },
+  {
+    "id": "pc-195260044",
+    "title": "「日光国立公園の特別地域内において許可を受けなければ採取し、又は損傷してはならない高山植物その他これに類する植物を指定する件」（案）の意見の募集（パブリックコメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-07-21",
+    "endAt": "2026-08-21",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260044&Mode=0",
+    "createdAt": "2026-07-21T22:05:24.694Z",
+    "updatedAt": "2026-07-21T22:05:24.694Z"
+  },
+  {
+    "id": "pc-195260045",
+    "title": "「三陸復興国立公園の特別地域内において許可を受けなければ採取し、又は損傷してはならない高山植物その他これに類する植物を指定する件」（案）の意見の募集（パブリックコメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-07-21",
+    "endAt": "2026-08-21",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260045&Mode=0",
+    "createdAt": "2026-07-21T22:05:24.694Z",
+    "updatedAt": "2026-07-21T22:05:24.694Z"
   },
   {
     "id": "pc-225026049",
