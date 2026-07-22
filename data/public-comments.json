@@ -82,6 +82,17 @@
     "updatedAt": "2026-07-07T00:39:11.947Z"
   },
   {
+    "id": "pc-141000231",
+    "title": "児童福祉法施行規則及びこども家庭庁の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する内閣府令の一部を改正する内閣府令案に関する御意見の募集について",
+    "ministry": "こども家庭庁",
+    "status": "open",
+    "startAt": "2026-07-21",
+    "endAt": "2026-08-20",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=141000231&Mode=0",
+    "createdAt": "2026-07-22T22:05:42.536Z",
+    "updatedAt": "2026-07-22T22:05:42.536Z"
+  },
+  {
     "id": "pc-145210712",
     "title": "電波法施行規則の一部を改正する省令案等に係る意見募集 ー公共ブロードバンド移動通信システムの周波数拡張に係る制度整備ー",
     "ministry": "総務省",
@@ -135,6 +146,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210739&Mode=0",
     "createdAt": "2026-07-07T00:39:11.947Z",
     "updatedAt": "2026-07-07T00:39:11.947Z"
+  },
+  {
+    "id": "pc-145210740",
+    "title": "「家庭用IoT機器を悪用するレジデンシャルプロキシの対策について（提言）」（案）に対する意見募集",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-07-22",
+    "endAt": "2026-08-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210740&Mode=0",
+    "createdAt": "2026-07-22T22:05:42.536Z",
+    "updatedAt": "2026-07-22T22:05:42.536Z"
+  },
+  {
+    "id": "pc-145210741",
+    "title": "「最終保障提供責務の導入等に伴う基礎的電気通信役務制度の在り方 三次答申（案）」に対する意見募集",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-07-22",
+    "endAt": "2026-08-25",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210741&Mode=0",
+    "createdAt": "2026-07-22T22:05:42.535Z",
+    "updatedAt": "2026-07-22T22:05:42.535Z"
   },
   {
     "id": "pc-145210743",
@@ -366,6 +399,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260045&Mode=0",
     "createdAt": "2026-07-21T22:05:24.694Z",
     "updatedAt": "2026-07-21T22:05:24.694Z"
+  },
+  {
+    "id": "pc-195260046",
+    "title": "「ネイチャーファイナンス実践ガイドライン（案）」に関する意見募集（パブリック・コメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-07-21",
+    "endAt": "2026-08-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260046&Mode=0",
+    "createdAt": "2026-07-22T22:05:42.536Z",
+    "updatedAt": "2026-07-22T22:05:42.536Z"
   },
   {
     "id": "pc-225026049",

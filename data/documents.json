@@ -358,7 +358,7 @@
     "source": "官報",
     "publishedAt": "2026-07-15",
     "createdAt": "2026-07-15T21:59:10.733Z",
-    "updatedAt": "2026-07-21T22:02:25.303Z"
+    "updatedAt": "2026-07-22T22:02:44.046Z"
   },
   {
     "id": "doc-kanpo-05a7da66c97e4f4e",
@@ -473,6 +473,26 @@
     "createdAt": "2026-07-17T21:52:34.771Z"
   },
   {
+    "id": "doc-kanpo-3a40373c10dd1ac9",
+    "title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則（人事院一七－〇－一五三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260722/20260722h01752/20260722h017520001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-22",
+    "createdAt": "2026-07-22T22:02:42.349Z"
+  },
+  {
+    "id": "doc-kanpo-3bb3822f094dc749",
+    "title": "遺失物法施行規則の一部を改正する規則（国家公安委一六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260722/20260722g00162/20260722g001620001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-22",
+    "createdAt": "2026-07-22T22:02:42.349Z"
+  },
+  {
     "id": "doc-kanpo-3d49fb468d318a6e",
     "title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令（二二〇）",
     "type": "kanpo",
@@ -573,7 +593,7 @@
     "source": "官報",
     "publishedAt": "2026-07-14",
     "createdAt": "2026-07-14T21:56:07.192Z",
-    "updatedAt": "2026-07-21T22:02:25.779Z"
+    "updatedAt": "2026-07-22T22:02:44.471Z"
   },
   {
     "id": "doc-kanpo-674dedb219034339",
@@ -666,7 +686,7 @@
     "source": "官報",
     "publishedAt": "2026-07-17",
     "createdAt": "2026-07-17T21:52:34.771Z",
-    "updatedAt": "2026-07-21T22:02:24.355Z"
+    "updatedAt": "2026-07-22T22:02:43.199Z"
   },
   {
     "id": "doc-kanpo-974a71217d0bfcb3",
