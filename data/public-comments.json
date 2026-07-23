@@ -60,6 +60,19 @@
     "updatedAt": "2026-07-21T22:05:24.693Z"
   },
   {
+    "id": "pc-095260730",
+    "title": "日本学術会議法の施行に伴う関係政令の整備に関する政令案に関する意見募集について",
+    "ministry": "内閣府",
+    "status": "open",
+    "startAt": "2026-07-22",
+    "endAt": "2026-08-21",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260730&Mode=0",
+    "lawId": "law-507AC0000000070",
+    "relatedLawTitle": "日本学術会議法",
+    "createdAt": "2026-07-23T22:05:58.761Z",
+    "updatedAt": "2026-07-23T22:05:58.761Z"
+  },
+  {
     "id": "pc-110200065",
     "title": "「企業結合審査に関する独占禁止法の運用指針」の改定案に対する意見募集について",
     "ministry": "公正取引委員会",
@@ -191,6 +204,17 @@
     "updatedAt": "2026-07-17T21:55:18.289Z"
   },
   {
+    "id": "pc-145210746",
+    "title": "「公共サービス改革基本方針」の見直しに関する情報公表要請の受付について",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-07-23",
+    "endAt": "2026-08-21",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210746&Mode=0",
+    "createdAt": "2026-07-23T22:05:58.761Z",
+    "updatedAt": "2026-07-23T22:05:58.761Z"
+  },
+  {
     "id": "pc-145210747",
     "title": "陸上無線通信委員会報告（案）に対する意見募集　－「業務用陸上無線通信の高度化等に関する技術的条件」のうち「300MHz帯無線式列車制御システムに係る技術的条件」－",
     "ministry": "総務省",
@@ -213,6 +237,17 @@
     "updatedAt": "2026-07-11T21:50:29.550Z"
   },
   {
+    "id": "pc-145210750",
+    "title": "地方税共同機構による地方公金の収納事務に係る安全性及び信頼性の確保に必要な基準（案）等に対する意見募集",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-07-23",
+    "endAt": "2026-08-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210750&Mode=0",
+    "createdAt": "2026-07-23T22:05:58.761Z",
+    "updatedAt": "2026-07-23T22:05:58.761Z"
+  },
+  {
     "id": "pc-145210753",
     "title": "「地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第六条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める省令の一部を改正する省令（案）等」についての意見・情報の募集について",
     "ministry": "総務省",
@@ -224,6 +259,27 @@
     "relatedLawTitle": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第六条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める省令",
     "createdAt": "2026-07-17T21:55:18.289Z",
     "updatedAt": "2026-07-17T21:55:18.289Z"
+  },
+  {
+    "id": "pc-145210756",
+    "title": "電波利用環境委員会報告（案）に対する意見募集\n－「基地局等から発射される電波の強度等の測定方法及び算出方法」のうち「基地局等から発射される電波の評価方法の高度化に係る技術的条件」\n－「電波防護指針の在り方」のうち「局所吸収指針の主な対象の見直し」－",
+    "status": "open",
+    "startAt": "2026-07-22",
+    "endAt": "2026-08-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210756&Mode=0",
+    "createdAt": "2026-07-23T22:05:58.762Z",
+    "updatedAt": "2026-07-23T22:05:58.762Z"
+  },
+  {
+    "id": "pc-155260104",
+    "title": "「地域公共交通の活性化及び再生に関する法律施行規則の一部を改正する省令案」に関する意見募集について",
+    "status": "open",
+    "startAt": "2026-07-22",
+    "endAt": "2026-08-21",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260104&Mode=0",
+    "billId": "bill-221-shugiin-0c539a8a81090265",
+    "createdAt": "2026-07-23T22:05:58.762Z",
+    "updatedAt": "2026-07-23T22:05:58.762Z"
   },
   {
     "id": "pc-155260508",
@@ -290,6 +346,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261028&Mode=0",
     "createdAt": "2026-07-10T07:30:47.032Z",
     "updatedAt": "2026-07-10T07:30:47.032Z"
+  },
+  {
+    "id": "pc-155261029",
+    "title": "「国土交通省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令の一部を改正する省令案」に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-07-23",
+    "endAt": "2026-08-21",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261029&Mode=0",
+    "createdAt": "2026-07-23T22:05:58.761Z",
+    "updatedAt": "2026-07-23T22:05:58.761Z"
   },
   {
     "id": "pc-155261221",
@@ -410,6 +477,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260046&Mode=0",
     "createdAt": "2026-07-22T22:05:42.536Z",
     "updatedAt": "2026-07-22T22:05:42.536Z"
+  },
+  {
+    "id": "pc-195260047",
+    "title": "「国際海事機関海洋環境保護委員会の判定に基づき環境大臣が指定する物質の一部を改正する件（案）」に関する意見募集（パブリックコメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-07-23",
+    "endAt": "2026-08-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260047&Mode=0",
+    "createdAt": "2026-07-23T22:05:58.761Z",
+    "updatedAt": "2026-07-23T22:05:58.761Z"
+  },
+  {
+    "id": "pc-198026102",
+    "title": "運転責任者に係る基準等に関する規程の改正案に対する意見公募について",
+    "ministry": "原子力規制庁",
+    "status": "open",
+    "startAt": "2026-07-23",
+    "endAt": "2026-08-22",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=198026102&Mode=0",
+    "createdAt": "2026-07-23T22:05:58.761Z",
+    "updatedAt": "2026-07-23T22:05:58.761Z"
   },
   {
     "id": "pc-225026049",
@@ -587,6 +676,16 @@
     "updatedAt": "2026-07-18T21:52:50.952Z"
   },
   {
+    "id": "pc-495260114",
+    "title": "栄養士法施行令等の一部を改正する政令案に関するご意見の募集について",
+    "status": "open",
+    "startAt": "2026-07-23",
+    "endAt": "2026-08-23",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260114&Mode=0",
+    "createdAt": "2026-07-23T22:05:58.761Z",
+    "updatedAt": "2026-07-23T22:05:58.761Z"
+  },
+  {
     "id": "pc-550004376",
     "title": "農業信用保証保険法施行規則の一部を改正する命令案についての意見・情報の募集について",
     "ministry": "農林水産省",
@@ -619,6 +718,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595126109&Mode=0",
     "createdAt": "2026-07-17T21:55:18.289Z",
     "updatedAt": "2026-07-17T21:55:18.289Z"
+  },
+  {
+    "id": "pc-595126111",
+    "title": "高圧ガス保安法に基づく高圧ガス製造保安責任者試験等に関する規則及び液化石油ガスの保安の確保及び取引の適正化に関する法律施行規則の一部を改正する省令（案）等に対する意見公募",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-07-22",
+    "endAt": "2026-08-21",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595126111&Mode=0",
+    "createdAt": "2026-07-23T22:05:58.762Z",
+    "updatedAt": "2026-07-23T22:05:58.762Z"
   },
   {
     "id": "pc-595226031",

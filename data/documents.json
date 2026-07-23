@@ -358,7 +358,7 @@
     "source": "官報",
     "publishedAt": "2026-07-15",
     "createdAt": "2026-07-15T21:59:10.733Z",
-    "updatedAt": "2026-07-22T22:02:44.046Z"
+    "updatedAt": "2026-07-23T22:03:04.775Z"
   },
   {
     "id": "doc-kanpo-05a7da66c97e4f4e",
@@ -431,6 +431,16 @@
     "source": "官報",
     "publishedAt": "2026-07-17",
     "createdAt": "2026-07-17T21:52:34.771Z"
+  },
+  {
+    "id": "doc-kanpo-1c68f7ad9e39e5f7",
+    "title": "高等学校の定時制教育及び通信教育振興法の一部を改正する法律（六三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260723/20260723g00163/20260723g001630006f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-23",
+    "createdAt": "2026-07-23T22:03:02.347Z"
   },
   {
     "id": "doc-kanpo-203a600509f1703c",
@@ -513,6 +523,17 @@
     "createdAt": "2026-07-17T21:52:34.771Z"
   },
   {
+    "id": "doc-kanpo-4931c2327a731d64",
+    "title": "検疫法施行令の一部を改正する政令（二三一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260723/20260723g00163/20260723g001630088f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-23",
+    "createdAt": "2026-07-23T22:03:02.348Z",
+    "updatedAt": "2026-07-23T22:03:02.348Z"
+  },
+  {
     "id": "doc-kanpo-4c44bd5216155fad",
     "title": "電気通信事業法施行規則及び第二号基礎的電気通信役務の提供に係る第二種交付金及び第二種負担金算定等規則の一部を改正する省令（同八五）",
     "type": "kanpo",
@@ -593,7 +614,17 @@
     "source": "官報",
     "publishedAt": "2026-07-14",
     "createdAt": "2026-07-14T21:56:07.192Z",
-    "updatedAt": "2026-07-22T22:02:44.471Z"
+    "updatedAt": "2026-07-23T22:03:05.263Z"
+  },
+  {
+    "id": "doc-kanpo-66be8f35880201c2",
+    "title": "技術士法施行規則の一部を改正する省令（文部科学二六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260723/20260723g00163/20260723g001630106f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-23",
+    "createdAt": "2026-07-23T22:03:02.348Z"
   },
   {
     "id": "doc-kanpo-674dedb219034339",
@@ -686,7 +717,17 @@
     "source": "官報",
     "publishedAt": "2026-07-17",
     "createdAt": "2026-07-17T21:52:34.771Z",
-    "updatedAt": "2026-07-22T22:02:43.199Z"
+    "updatedAt": "2026-07-23T22:03:03.805Z"
+  },
+  {
+    "id": "doc-kanpo-93384122f21e6a7e",
+    "title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令（総務九〇）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260723/20260723g00163/20260723g001630089f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-23",
+    "createdAt": "2026-07-23T22:03:02.348Z"
   },
   {
     "id": "doc-kanpo-974a71217d0bfcb3",
@@ -730,6 +771,16 @@
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z",
     "updatedAt": "2026-07-08T22:04:49.166Z"
+  },
+  {
+    "id": "doc-kanpo-b30bf527f09857ff",
+    "title": "厚生労働省組織規則の一部を改正する省令（厚生労働一一五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260723/20260723g00163/20260723g001630108f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-23",
+    "createdAt": "2026-07-23T22:03:02.348Z"
   },
   {
     "id": "doc-kanpo-b9655d7c014c47bf",
@@ -845,6 +896,16 @@
     "createdAt": "2026-07-21T22:02:23.879Z"
   },
   {
+    "id": "doc-kanpo-eb40fc5c5af7712f",
+    "title": "下水道法等の一部を改正する法律（六五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260723/20260723g00163/20260723g001630084f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-23",
+    "createdAt": "2026-07-23T22:03:02.348Z"
+  },
+  {
     "id": "doc-kanpo-f678022de57a62e7",
     "title": "使用済小型電子機器等の再資源化の促進に関する法律施行規則の一部を改正する省令（経済産業・環境九）",
     "type": "kanpo",
@@ -854,6 +915,16 @@
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z",
     "updatedAt": "2026-07-08T22:04:49.166Z"
+  },
+  {
+    "id": "doc-kanpo-f8f79bd5d700538e",
+    "title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律（六四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260723/20260723g00163/20260723g001630007f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-23",
+    "createdAt": "2026-07-23T22:03:02.347Z"
   },
   {
     "id": "doc-kanpo-f999d3fd7e6b5e60",
@@ -1412,6 +1483,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-05-22",
     "createdAt": "2026-07-07T00:38:02.557Z"
+  },
+  {
+    "id": "doc-kokkai-731b5e86083e1ac6",
+    "billId": "bill-221-shugiin-277efad5ec7df88c",
+    "title": "第221回国会 衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 第12号 (2026-07-13)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122105367X01220260713",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-13",
+    "createdAt": "2026-07-23T22:05:28.498Z"
   },
   {
     "id": "doc-kokkai-74de2f4a2404db48",
