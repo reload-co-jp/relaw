@@ -358,7 +358,7 @@
     "source": "官報",
     "publishedAt": "2026-07-15",
     "createdAt": "2026-07-15T21:59:10.733Z",
-    "updatedAt": "2026-07-23T22:03:04.775Z"
+    "updatedAt": "2026-07-24T22:03:19.552Z"
   },
   {
     "id": "doc-kanpo-05a7da66c97e4f4e",
@@ -431,6 +431,16 @@
     "source": "官報",
     "publishedAt": "2026-07-17",
     "createdAt": "2026-07-17T21:52:34.771Z"
+  },
+  {
+    "id": "doc-kanpo-1b2f662013e21913",
+    "title": "電気事業法の一部を改正する法律（六八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724g00164/20260724g001640014f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.531Z"
   },
   {
     "id": "doc-kanpo-1c68f7ad9e39e5f7",
@@ -513,6 +523,16 @@
     "createdAt": "2026-07-07T00:36:44.528Z"
   },
   {
+    "id": "doc-kanpo-3fad2b3c074ef060",
+    "title": "皇室典範等の一部を改正する法律（六六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724g00164/20260724g001640008f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.531Z"
+  },
+  {
     "id": "doc-kanpo-4897ade10984b424",
     "title": "建築物用地下水の採取の規制に関する法律施行規則の一部を改正する省令（環境二〇）",
     "type": "kanpo",
@@ -531,7 +551,7 @@
     "source": "官報",
     "publishedAt": "2026-07-23",
     "createdAt": "2026-07-23T22:03:02.348Z",
-    "updatedAt": "2026-07-23T22:03:02.348Z"
+    "updatedAt": "2026-07-24T22:03:17.037Z"
   },
   {
     "id": "doc-kanpo-4c44bd5216155fad",
@@ -543,6 +563,16 @@
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z",
     "updatedAt": "2026-07-08T22:04:49.166Z"
+  },
+  {
+    "id": "doc-kanpo-4e5f759115cc9343",
+    "title": "電波法施行規則等の一部を改正する省令（総務九一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724g00164/20260724g001640041f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.531Z"
   },
   {
     "id": "doc-kanpo-5184c7bdb022258b",
@@ -657,6 +687,16 @@
     "createdAt": "2026-07-15T21:59:10.734Z"
   },
   {
+    "id": "doc-kanpo-6c65a7c3de6ef76d",
+    "title": "刑事訴訟法の一部を改正する法律（六七）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724g00164/20260724g001640010f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.531Z"
+  },
+  {
     "id": "doc-kanpo-6dbe3c9c1f53b552",
     "title": "経済産業省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者等に関する省令の一部を改正する省令（経済産業六一）",
     "type": "kanpo",
@@ -687,6 +727,17 @@
     "createdAt": "2026-07-15T21:59:10.733Z"
   },
   {
+    "id": "doc-kanpo-7a972be49fb5d235",
+    "title": "種苗法施行規則及び品種登録規則の一部を改正する省令（同五二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724g00164/20260724g001640048f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.531Z",
+    "updatedAt": "2026-07-24T22:03:16.531Z"
+  },
+  {
     "id": "doc-kanpo-7d7e83761acb2172",
     "title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令（農林水産四八）",
     "type": "kanpo",
@@ -709,6 +760,26 @@
     "updatedAt": "2026-07-09T22:26:19.503Z"
   },
   {
+    "id": "doc-kanpo-8799e6a79054cfd4",
+    "title": "国旗の損壊等の処罰に関する法律（六九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724g00164/20260724g001640020f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.531Z"
+  },
+  {
+    "id": "doc-kanpo-8e0c4b9471c91f00",
+    "title": "種苗法の一部を改正する法律（七二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724g00164/20260724g001640031f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.531Z"
+  },
+  {
     "id": "doc-kanpo-920d86b2013cd311",
     "title": "電波法関係手数料令の一部を改正する政令（二二八）",
     "type": "kanpo",
@@ -717,7 +788,7 @@
     "source": "官報",
     "publishedAt": "2026-07-17",
     "createdAt": "2026-07-17T21:52:34.771Z",
-    "updatedAt": "2026-07-23T22:03:03.805Z"
+    "updatedAt": "2026-07-24T22:03:18.546Z"
   },
   {
     "id": "doc-kanpo-93384122f21e6a7e",
@@ -803,6 +874,26 @@
     "createdAt": "2026-07-07T00:36:45.475Z"
   },
   {
+    "id": "doc-kanpo-c14ca1e5bbb26d1d",
+    "title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令（二三二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724g00164/20260724g001640034f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.531Z"
+  },
+  {
+    "id": "doc-kanpo-c491124f3060be53",
+    "title": "不正競争防止法第十六条第一項及び第三項並びに第十七条に規定する外国の国旗又は国の紋章その他の記章及び外国の政府若しくは地方公共団体の監督用若しくは証明用の印章又は記号並びに国際機関及び国際機関を表示する標章を定める省令の一部を改正する省令（経済産業六二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724g00164/20260724g001640049f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.531Z"
+  },
+  {
     "id": "doc-kanpo-c668c4f7bb4461e5",
     "title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則（人事院九－一七－一七七）",
     "type": "kanpo",
@@ -876,6 +967,26 @@
     "createdAt": "2026-07-07T00:36:45.787Z"
   },
   {
+    "id": "doc-kanpo-dbf18539ca88c138",
+    "title": "ヒトゲノム編集胚等の取扱いの規制に関する法律（七〇）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724g00164/20260724g001640021f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.531Z"
+  },
+  {
+    "id": "doc-kanpo-dcb67202e999461f",
+    "title": "地方特例交付金に関する省令の一部を改正する省令（同九三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724g00165/20260724g001650779f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.531Z"
+  },
+  {
     "id": "doc-kanpo-e3e8c6991e1ee8e7",
     "title": "国民年金法施行令等の一部を改正する政令（二二六）",
     "type": "kanpo",
@@ -886,6 +997,16 @@
     "createdAt": "2026-07-15T21:59:10.734Z"
   },
   {
+    "id": "doc-kanpo-e605a42af62d062e",
+    "title": "自衛隊法施行規則の一部を改正する省令（防衛一八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724h01754/20260724h017540002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.530Z"
+  },
+  {
     "id": "doc-kanpo-e67dd161670547a2",
     "title": "地方税法施行規則の一部を改正する省令（総務八九）",
     "type": "kanpo",
@@ -894,6 +1015,16 @@
     "source": "官報",
     "publishedAt": "2026-07-21",
     "createdAt": "2026-07-21T22:02:23.879Z"
+  },
+  {
+    "id": "doc-kanpo-e8ff59bbf3f8de74",
+    "title": "普通交付税に関する省令の一部を改正する省令（総務九二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724g00165/20260724g001650001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.531Z"
   },
   {
     "id": "doc-kanpo-eb40fc5c5af7712f",
@@ -915,6 +1046,16 @@
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z",
     "updatedAt": "2026-07-08T22:04:49.166Z"
+  },
+  {
+    "id": "doc-kanpo-f6fb1af1b8d446ee",
+    "title": "重要品種の育成及びその種苗の生産の振興に関する法律（七一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260724/20260724g00164/20260724g001640025f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-24T22:03:16.531Z"
   },
   {
     "id": "doc-kanpo-f8f79bd5d700538e",
@@ -2068,6 +2209,16 @@
     "createdAt": "2026-07-07T04:48:35.715Z"
   },
   {
+    "id": "doc-sangiin-08c083001c22da4f",
+    "billId": "bill-221-shugiin-277efad5ec7df88c",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/590221270.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:05:15.834Z"
+  },
+  {
     "id": "doc-sangiin-0918354c23b76fda",
     "billId": "bill-221-shugiin-b09d45b89c9c7fd2",
     "title": "提出法律案",
@@ -2369,6 +2520,16 @@
     "createdAt": "2026-07-07T04:49:23.320Z"
   },
   {
+    "id": "doc-sangiin-17db4dd59c27ba4d",
+    "billId": "bill-221-shugiin-5c47cfc1e5147636",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210302210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:05:17.008Z"
+  },
+  {
     "id": "doc-sangiin-17fa411592ed15f1",
     "billId": "bill-221-shugiin-9f91fba7e5a8cf01",
     "title": "提出法律案",
@@ -2549,6 +2710,16 @@
     "createdAt": "2026-07-07T04:48:50.929Z"
   },
   {
+    "id": "doc-sangiin-227589daaa1f8372",
+    "billId": "bill-221-shugiin-426ee0047ccd63e6",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210312210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:05:17.395Z"
+  },
+  {
     "id": "doc-sangiin-241716381b0c7aa5",
     "billId": "bill-221-shugiin-ac21fef8653bf992",
     "title": "提出法律案",
@@ -2607,6 +2778,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-16T22:04:35.646Z"
+  },
+  {
+    "id": "doc-sangiin-27fad52cb711588b",
+    "billId": "bill-221-shugiin-1eff17954bf8d9a4",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/590221290.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:05:16.615Z"
   },
   {
     "id": "doc-sangiin-287da1f7bf55b1fb",
@@ -2899,6 +3080,16 @@
     "createdAt": "2026-07-07T04:49:12.609Z"
   },
   {
+    "id": "doc-sangiin-36a0cc2274f19820",
+    "billId": "bill-221-shugiin-a5ecbdfafcb05ca9",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/590221110.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:05:09.610Z"
+  },
+  {
     "id": "doc-sangiin-379c3b00a2b18c51",
     "billId": "bill-221-shugiin-0b8a8c7f0619dce1",
     "title": "議案要旨",
@@ -2927,6 +3118,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:09.252Z"
+  },
+  {
+    "id": "doc-sangiin-397d8ac5ea9238e8",
+    "billId": "bill-221-shugiin-a8b4b31f9b075a52",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221630.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:05:04.940Z"
   },
   {
     "id": "doc-sangiin-399116194d400874",
@@ -3379,6 +3580,16 @@
     "createdAt": "2026-07-07T04:49:11.169Z"
   },
   {
+    "id": "doc-sangiin-531948e3ada4eb0c",
+    "billId": "bill-221-shugiin-277efad5ec7df88c",
+    "title": "衆議院地域活性化・こども政策・デジタル社会形成の修正案（可決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/h0902210272210010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:05:15.834Z"
+  },
+  {
     "id": "doc-sangiin-53bb94da46c6d574",
     "billId": "bill-221-shugiin-c2bab6c9c7d6f04d",
     "title": "提出法律案",
@@ -3719,6 +3930,16 @@
     "createdAt": "2026-07-07T04:49:07.050Z"
   },
   {
+    "id": "doc-sangiin-66473dc2edbe56f3",
+    "billId": "bill-221-shugiin-5371ce93cd499661",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210382210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:04:55.126Z"
+  },
+  {
     "id": "doc-sangiin-66cae0be0c2ab2e2",
     "billId": "bill-219-shugiin-836475c4632ab9d6",
     "title": "提出法律案",
@@ -3767,6 +3988,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:03.022Z"
+  },
+  {
+    "id": "doc-sangiin-695d4e6779c2bbd0",
+    "billId": "bill-221-shugiin-3a0b7ec63fd223f5",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210572210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:05:02.604Z"
   },
   {
     "id": "doc-sangiin-69a61abeb96d28e0",
@@ -3937,6 +4168,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:28.994Z"
+  },
+  {
+    "id": "doc-sangiin-794bcbe09bf681eb",
+    "billId": "bill-221-shugiin-55576ec34fbc6496",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210232210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:05:14.282Z"
   },
   {
     "id": "doc-sangiin-7a14886771b3f3ad",
@@ -4419,6 +4660,16 @@
     "createdAt": "2026-07-07T04:48:28.994Z"
   },
   {
+    "id": "doc-sangiin-9184c242bba9dd33",
+    "billId": "bill-221-shugiin-d0efe5e1e3022a7e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210332210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:05:18.173Z"
+  },
+  {
     "id": "doc-sangiin-91eab8da8bb82427",
     "billId": "bill-221-shugiin-481e56ad85b4ecce",
     "title": "提出法律案",
@@ -4708,6 +4959,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-17T21:53:58.336Z"
+  },
+  {
+    "id": "doc-sangiin-a6780687abfde5fc",
+    "billId": "bill-221-shugiin-237a4a7683c70d22",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/5100221180.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:05:27.092Z"
   },
   {
     "id": "doc-sangiin-a79b6f3be8b30ea6",
@@ -5440,6 +5701,16 @@
     "createdAt": "2026-07-07T04:49:20.645Z"
   },
   {
+    "id": "doc-sangiin-d3fda10dd40c0b72",
+    "billId": "bill-221-shugiin-483f8f170fb53b09",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/580221390.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:04:55.522Z"
+  },
+  {
     "id": "doc-sangiin-d5a1459718c34676",
     "billId": "bill-221-shugiin-3bb208b3beca88ca",
     "title": "提出法律案",
@@ -5668,6 +5939,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:24.998Z"
+  },
+  {
+    "id": "doc-sangiin-e35019f3e6a72087",
+    "billId": "bill-221-shugiin-c591f224038dc04b",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210322210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:05:17.782Z"
   },
   {
     "id": "doc-sangiin-e3537b27b8a4f6ba",
@@ -5938,6 +6219,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:18.906Z"
+  },
+  {
+    "id": "doc-sangiin-f2e869aeeab24550",
+    "billId": "bill-221-sangiin-3aaafb08104e214f",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/590221380.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-24T22:05:20.110Z"
   },
   {
     "id": "doc-sangiin-f3be97451700c007",
