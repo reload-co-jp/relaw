@@ -117,6 +117,30 @@
     "updatedAt": "2026-07-22T22:05:42.536Z"
   },
   {
+    "id": "pc-141000232",
+    "title": "子ども・子育て支援システムに関して内閣総理大臣が定める機能要件の標準の細目並びに実装区分及び適合基準日並びに帳票要件の標準の実装区分及び適合基準日並びに様式及び細目の一部を改正する件（案）等に関する御意見の募集について",
+    "ministry": "こども家庭庁",
+    "status": "open",
+    "startAt": "2026-07-24",
+    "endAt": "2026-08-06",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=141000232&Mode=0",
+    "createdAt": "2026-07-25T21:57:47.556Z",
+    "updatedAt": "2026-07-25T21:57:47.556Z"
+  },
+  {
+    "id": "pc-141000233",
+    "title": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第二条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める内閣府令の一部を改正する内閣府令（案）に関する御意見の募集について",
+    "ministry": "こども家庭庁",
+    "status": "open",
+    "startAt": "2026-07-24",
+    "endAt": "2026-08-06",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=141000233&Mode=0",
+    "lawId": "law-508M60000002017",
+    "relatedLawTitle": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第二条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める内閣府令",
+    "createdAt": "2026-07-25T21:57:47.556Z",
+    "updatedAt": "2026-07-25T21:57:47.556Z"
+  },
+  {
     "id": "pc-145210712",
     "title": "電波法施行規則の一部を改正する省令案等に係る意見募集 ー公共ブロードバンド移動通信システムの周波数拡張に係る制度整備ー",
     "ministry": "総務省",
@@ -523,6 +547,17 @@
     "updatedAt": "2026-07-23T22:05:58.761Z"
   },
   {
+    "id": "pc-195260048",
+    "title": "「廃棄物の処理及び清掃に関する法律施行令の一部を改正する政令案」に対する意見の募集（パブリック・コメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-07-24",
+    "endAt": "2026-08-23",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260048&Mode=0",
+    "createdAt": "2026-07-25T21:57:47.556Z",
+    "updatedAt": "2026-07-25T21:57:47.556Z"
+  },
+  {
     "id": "pc-198026102",
     "title": "運転責任者に係る基準等に関する規程の改正案に対する意見公募について",
     "ministry": "原子力規制庁",
@@ -565,6 +600,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=225026051&Mode=0",
     "createdAt": "2026-07-11T21:50:29.550Z",
     "updatedAt": "2026-07-11T21:50:29.550Z"
+  },
+  {
+    "id": "pc-225026052",
+    "title": "「金融商品取引法第二条に規定する定義に関する内閣府令等の一部を改正する内閣府令（案）」に対するパブリックコメントの実施について",
+    "ministry": "金融庁",
+    "status": "open",
+    "startAt": "2026-07-24",
+    "endAt": "2026-08-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=225026052&Mode=0",
+    "createdAt": "2026-07-25T21:57:47.556Z",
+    "updatedAt": "2026-07-25T21:57:47.556Z"
   },
   {
     "id": "pc-240000127",
@@ -752,6 +798,39 @@
     "updatedAt": "2026-07-24T22:06:14.527Z"
   },
   {
+    "id": "pc-550004381",
+    "title": "農地法施行規則及び農林漁業の健全な発展と調和のとれた再生可能エネルギー電気の発電の促進に関する法律施行規則の一部を改正する省令案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-07-24",
+    "endAt": "2026-08-22",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004381&Mode=0",
+    "createdAt": "2026-07-25T21:57:47.556Z",
+    "updatedAt": "2026-07-25T21:57:47.556Z"
+  },
+  {
+    "id": "pc-550004382",
+    "title": "農林漁業の健全な発展と調和のとれた再生可能エネルギー電気の発電の促進に関する法律に基づく設備整備計画の認定等に関する省令の一部を改正する省令案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-07-24",
+    "endAt": "2026-08-22",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004382&Mode=0",
+    "createdAt": "2026-07-25T21:57:47.557Z",
+    "updatedAt": "2026-07-25T21:57:47.557Z"
+  },
+  {
+    "id": "pc-550004383",
+    "title": "農林漁業の健全な発展と調和のとれた再生可能エネルギー電気の発電の促進による農山漁村の活性化に関する基本的な方針を改正する件の案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-07-24",
+    "endAt": "2026-08-22",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004383&Mode=0",
+    "createdAt": "2026-07-25T21:57:47.557Z",
+    "updatedAt": "2026-07-25T21:57:47.557Z"
+  },
+  {
     "id": "pc-595126108",
     "title": "電気事業法施行規則第五十二条の二第一号ロの要件、第一号ハ及び第二号ロの機械器具並びに第一号ニ及び第二号ハの算定方法等並びに第五十三条第二項第五号の頻度に関する告示の一部改正（案）に対する意見公募",
     "ministry": "経済産業省",
@@ -773,6 +852,16 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595126109&Mode=0",
     "createdAt": "2026-07-17T21:55:18.289Z",
     "updatedAt": "2026-07-17T21:55:18.289Z"
+  },
+  {
+    "id": "pc-595126110",
+    "title": "経済産業省生産動態統計調査規則の一部を改正する省令案等に対する意見募集について",
+    "status": "open",
+    "startAt": "2026-07-24",
+    "endAt": "2026-08-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595126110&Mode=0",
+    "createdAt": "2026-07-25T21:57:47.556Z",
+    "updatedAt": "2026-07-25T21:57:47.556Z"
   },
   {
     "id": "pc-595126111",
@@ -839,5 +928,16 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620226020&Mode=0",
     "createdAt": "2026-07-18T21:52:50.952Z",
     "updatedAt": "2026-07-18T21:52:50.952Z"
+  },
+  {
+    "id": "pc-620226021",
+    "title": "国際情勢を踏まえた資源・エネルギーの安定的な確保のための構造的対応に関する論点整理案について",
+    "ministry": "資源エネルギー庁",
+    "status": "open",
+    "startAt": "2026-07-24",
+    "endAt": "2026-08-22",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620226021&Mode=0",
+    "createdAt": "2026-07-25T21:57:47.556Z",
+    "updatedAt": "2026-07-25T21:57:47.556Z"
   }
 ]
