@@ -551,7 +551,7 @@
     "source": "官報",
     "publishedAt": "2026-07-23",
     "createdAt": "2026-07-23T22:03:02.348Z",
-    "updatedAt": "2026-07-26T21:58:04.592Z"
+    "updatedAt": "2026-07-27T22:05:05.288Z"
   },
   {
     "id": "doc-kanpo-4c44bd5216155fad",
@@ -735,7 +735,7 @@
     "source": "官報",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-07-24T22:03:16.531Z",
-    "updatedAt": "2026-07-26T21:58:04.179Z"
+    "updatedAt": "2026-07-27T22:05:04.788Z"
   },
   {
     "id": "doc-kanpo-7d7e83761acb2172",
@@ -788,7 +788,7 @@
     "source": "官報",
     "publishedAt": "2026-07-17",
     "createdAt": "2026-07-17T21:52:34.771Z",
-    "updatedAt": "2026-07-26T21:58:05.819Z"
+    "updatedAt": "2026-07-27T22:05:06.783Z"
   },
   {
     "id": "doc-kanpo-93384122f21e6a7e",
@@ -872,6 +872,16 @@
     "source": "官報",
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z"
+  },
+  {
+    "id": "doc-kanpo-bb25d685d7d4084f",
+    "title": "携帯音声通信事業者による契約者等の本人確認等及び携帯音声通信役務の不正な利用の防止に関する法律施行規則の一部を改正する省令（総務九四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260727/20260727g00167/20260727g001670003f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-27",
+    "createdAt": "2026-07-27T22:05:04.288Z"
   },
   {
     "id": "doc-kanpo-c14ca1e5bbb26d1d",
@@ -1035,6 +1045,16 @@
     "source": "官報",
     "publishedAt": "2026-07-23",
     "createdAt": "2026-07-23T22:03:02.348Z"
+  },
+  {
+    "id": "doc-kanpo-ef2a4e2545b78c15",
+    "title": "自動車の登録及び検査に関する申請書等の様式等を定める省令の一部を改正する省令（国土交通六九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260727/20260727g00167/20260727g001670021f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-27",
+    "createdAt": "2026-07-27T22:05:04.288Z"
   },
   {
     "id": "doc-kanpo-f678022de57a62e7",
@@ -1967,6 +1987,17 @@
     "createdAt": "2026-07-07T00:38:34.794Z"
   },
   {
+    "id": "doc-kokkai-d011a22420dffd90",
+    "billId": "bill-221-shugiin-277efad5ec7df88c",
+    "title": "第221回国会 衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 第13号 (2026-07-14)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122105367X01320260714",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-14",
+    "createdAt": "2026-07-27T22:07:47.271Z"
+  },
+  {
     "id": "doc-kokkai-daec0870601358dd",
     "billId": "bill-221-shugiin-94ca35289fa8a2ac",
     "title": "第221回国会 衆議院 本会議 第14号 (2026-04-21)",
@@ -2287,6 +2318,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:25.716Z"
+  },
+  {
+    "id": "doc-sangiin-0c0b72e3283f2283",
+    "billId": "bill-221-sangiin-7ee6e626b8ad694e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210352210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-27T22:07:14.808Z"
   },
   {
     "id": "doc-sangiin-0c14f5c84c9564c3",
@@ -3060,6 +3101,16 @@
     "createdAt": "2026-07-07T04:49:22.361Z"
   },
   {
+    "id": "doc-sangiin-347c6afda64bc632",
+    "billId": "bill-221-sangiin-fdf3bf98cb6d5d37",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210342210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-27T22:07:14.379Z"
+  },
+  {
     "id": "doc-sangiin-35896f8bd60b8c77",
     "billId": "bill-221-shugiin-cbfd5f01f7cc469a",
     "title": "成立法律",
@@ -3440,6 +3491,16 @@
     "createdAt": "2026-07-07T04:49:26.665Z"
   },
   {
+    "id": "doc-sangiin-4bc756705a261769",
+    "billId": "bill-221-shugiin-cdc0fddbcbe9095b",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210182210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-27T22:07:07.486Z"
+  },
+  {
     "id": "doc-sangiin-4c0559b0d8ee3184",
     "billId": "bill-221-shugiin-c2bab6c9c7d6f04d",
     "title": "議案要旨",
@@ -3708,6 +3769,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:12.609Z"
+  },
+  {
+    "id": "doc-sangiin-59b7b386309597c9",
+    "billId": "bill-221-sangiin-ed662caa2334a5ae",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210372210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-27T22:07:15.668Z"
   },
   {
     "id": "doc-sangiin-5a654c1045c893e7",
@@ -4881,6 +4952,16 @@
     "createdAt": "2026-07-07T04:48:27.554Z"
   },
   {
+    "id": "doc-sangiin-9ee530069b6f107a",
+    "billId": "bill-221-shugiin-5b923d6083005566",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210582210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-27T22:06:57.124Z"
+  },
+  {
     "id": "doc-sangiin-a0271c37d69c5a7d",
     "billId": "bill-219-shugiin-b920060b17752cd9",
     "title": "提出法律案",
@@ -5001,6 +5082,16 @@
     "createdAt": "2026-07-07T04:49:08.023Z"
   },
   {
+    "id": "doc-sangiin-a9308cf11904c74f",
+    "billId": "bill-221-shugiin-f28f90980f592a7e",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210462210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-27T22:06:51.885Z"
+  },
+  {
     "id": "doc-sangiin-a95e98d482c15f16",
     "billId": "bill-221-shugiin-cf712f15118a45f6",
     "title": "提出法律案",
@@ -5039,6 +5130,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:10.928Z"
+  },
+  {
+    "id": "doc-sangiin-ac65a8ec97c2b426",
+    "billId": "bill-221-cas-3d8bbc482b24dcb3",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210642210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-27T22:06:59.727Z"
   },
   {
     "id": "doc-sangiin-ae0c37d99234070d",
@@ -5101,6 +5202,16 @@
     "createdAt": "2026-07-07T04:48:28.513Z"
   },
   {
+    "id": "doc-sangiin-b1117f3be5949671",
+    "billId": "bill-221-sangiin-caeb9e707b294329",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210362210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-27T22:07:15.238Z"
+  },
+  {
     "id": "doc-sangiin-b180c6355d3550d1",
     "billId": "bill-220-shugiin-6be4b454ee392ea0",
     "title": "提出法律案",
@@ -5109,6 +5220,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:58.457Z"
+  },
+  {
+    "id": "doc-sangiin-b229b8fabf94f002",
+    "billId": "bill-221-shugiin-7d0cda2f0fd926d0",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210612210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-27T22:06:58.430Z"
   },
   {
     "id": "doc-sangiin-b28e613dcba0c693",
@@ -5339,6 +5460,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:03.979Z"
+  },
+  {
+    "id": "doc-sangiin-c0a46a81f6d23055",
+    "billId": "bill-221-shugiin-507b23f3c61af710",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210362210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-27T22:06:47.512Z"
   },
   {
     "id": "doc-sangiin-c1060283310d6695",
@@ -6269,6 +6400,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-13T21:56:29.392Z"
+  },
+  {
+    "id": "doc-sangiin-f8ed0cbd9877f29d",
+    "billId": "bill-221-shugiin-b2e04dc4061d4a81",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210472210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-27T22:06:52.320Z"
   },
   {
     "id": "doc-sangiin-f93d6d01c73fa9a0",
