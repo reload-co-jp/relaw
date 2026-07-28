@@ -1,5 +1,16 @@
 [
   {
+    "id": "pc-060260727",
+    "title": "「人身取引対策行動計画2026（仮称）」（案）に関する意見募集について",
+    "ministry": "内閣官房",
+    "status": "open",
+    "startAt": "2026-07-27",
+    "endAt": "2026-08-09",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=060260727&Mode=0",
+    "createdAt": "2026-07-28T22:06:04.359Z",
+    "updatedAt": "2026-07-28T22:06:04.359Z"
+  },
+  {
     "id": "pc-095260660",
     "title": "「重要電子計算機に対する不正な行為による被害の防止に関する法律に基づく特別社会基盤事業者による特定侵害事象等の報告等に関する命令の一部を改正する命令案」に関する意見の募集について",
     "ministry": "内閣府",
@@ -71,6 +82,28 @@
     "relatedLawTitle": "日本学術会議法",
     "createdAt": "2026-07-23T22:05:58.761Z",
     "updatedAt": "2026-07-23T22:05:58.761Z"
+  },
+  {
+    "id": "pc-095260740",
+    "title": "経済施策を一体的に講ずることによる安全保障の確保の推進に関する基本的な方針（案）等について",
+    "ministry": "内閣府",
+    "status": "open",
+    "startAt": "2026-07-28",
+    "endAt": "2026-08-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260740&Mode=0",
+    "createdAt": "2026-07-28T22:06:04.358Z",
+    "updatedAt": "2026-07-28T22:06:04.358Z"
+  },
+  {
+    "id": "pc-095260750",
+    "title": "経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定海外事業計画の認定等に関する命令案に関する御意見の募集について",
+    "ministry": "内閣府",
+    "status": "open",
+    "startAt": "2026-07-28",
+    "endAt": "2026-08-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260750&Mode=0",
+    "createdAt": "2026-07-28T22:06:04.358Z",
+    "updatedAt": "2026-07-28T22:06:04.358Z"
   },
   {
     "id": "pc-110200065",
@@ -405,6 +438,17 @@
     "updatedAt": "2026-07-23T22:05:58.761Z"
   },
   {
+    "id": "pc-155261030",
+    "title": "船舶の部品に係る安定供給確保を図るための取組方針の改定案に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-07-28",
+    "endAt": "2026-08-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261030&Mode=0",
+    "createdAt": "2026-07-28T22:06:04.358Z",
+    "updatedAt": "2026-07-28T22:06:04.358Z"
+  },
+  {
     "id": "pc-155261221",
     "title": "「部品等脱落防止措置に関する技術基準細則」の一部改正に関する意見募集について",
     "status": "open",
@@ -435,6 +479,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=185001500&Mode=0",
     "createdAt": "2026-07-24T22:06:14.526Z",
     "updatedAt": "2026-07-24T22:06:14.526Z"
+  },
+  {
+    "id": "pc-185001501",
+    "title": "第４期スポーツ基本計画（中間報告）に関する意見募集の実施について",
+    "ministry": "スポーツ庁",
+    "status": "open",
+    "startAt": "2026-07-28",
+    "endAt": "2026-08-28",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=185001501&Mode=0",
+    "createdAt": "2026-07-28T22:06:04.358Z",
+    "updatedAt": "2026-07-28T22:06:04.358Z"
   },
   {
     "id": "pc-195260024",
@@ -774,6 +829,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260114&Mode=0",
     "createdAt": "2026-07-23T22:05:58.761Z",
     "updatedAt": "2026-07-23T22:05:58.761Z"
+  },
+  {
+    "id": "pc-495260117",
+    "title": "「「化学物質ＧＬＰ査察実施要領」の留意事項（人健康影響）について」の一部改正案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-07-27",
+    "endAt": "2026-08-25",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260117&Mode=0",
+    "createdAt": "2026-07-28T22:06:04.359Z",
+    "updatedAt": "2026-07-28T22:06:04.359Z"
   },
   {
     "id": "pc-550004376",
