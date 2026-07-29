@@ -486,10 +486,10 @@
     "ministry": "スポーツ庁",
     "status": "open",
     "startAt": "2026-07-28",
-    "endAt": "2026-08-28",
+    "endAt": "2026-08-26",
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=185001501&Mode=0",
     "createdAt": "2026-07-28T22:06:04.358Z",
-    "updatedAt": "2026-07-28T22:06:04.358Z"
+    "updatedAt": "2026-07-29T22:02:59.393Z"
   },
   {
     "id": "pc-195260024",
@@ -668,6 +668,17 @@
     "updatedAt": "2026-07-25T21:57:47.556Z"
   },
   {
+    "id": "pc-225026053",
+    "title": "「投資信託及び投資法人に関する法律施行規則の一部を改正する内閣府令（案）」に対するパブリックコメントの実施について",
+    "ministry": "金融庁",
+    "status": "open",
+    "startAt": "2026-07-28",
+    "endAt": "2026-08-28",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=225026053&Mode=0",
+    "createdAt": "2026-07-29T22:02:59.393Z",
+    "updatedAt": "2026-07-29T22:02:59.393Z"
+  },
+  {
     "id": "pc-240000127",
     "title": "個人情報の保護に関する法律施行規則第八条第三項第一号及び第二号並びに第四十四条第三項並びに行政手続における特定の個人を識別するための番号の利用等に関する法律第二十九条の四第一項及び第二項に基づく特定個人情報の漏えい等に関する報告等に関する規則第三条第三項に規定する個人情報保護委員会が別に定める場合及びその方法を定める件の一部を改正する告示（案）に関する意見募集について",
     "ministry": "個人情報保護委員会",
@@ -840,6 +851,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260117&Mode=0",
     "createdAt": "2026-07-28T22:06:04.359Z",
     "updatedAt": "2026-07-28T22:06:04.359Z"
+  },
+  {
+    "id": "pc-495260118",
+    "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則の一部を改正する省令案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-07-28",
+    "endAt": "2026-08-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260118&Mode=0",
+    "createdAt": "2026-07-29T22:02:59.393Z",
+    "updatedAt": "2026-07-29T22:02:59.393Z"
+  },
+  {
+    "id": "pc-495260119",
+    "title": "医療機器に係る日本産業規格の制定案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-07-28",
+    "endAt": "2026-09-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260119&Mode=0",
+    "createdAt": "2026-07-29T22:02:59.393Z",
+    "updatedAt": "2026-07-29T22:02:59.393Z"
   },
   {
     "id": "pc-550004376",
