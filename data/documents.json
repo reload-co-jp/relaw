@@ -481,7 +481,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.600Z",
-    "updatedAt": "2026-07-29T22:00:03.600Z"
+    "updatedAt": "2026-07-30T22:04:24.199Z"
   },
   {
     "id": "doc-kanpo-293b739268f3d0be",
@@ -582,7 +582,7 @@
     "source": "官報",
     "publishedAt": "2026-07-23",
     "createdAt": "2026-07-23T22:03:02.348Z",
-    "updatedAt": "2026-07-29T22:00:05.514Z"
+    "updatedAt": "2026-07-30T22:04:25.893Z"
   },
   {
     "id": "doc-kanpo-4c44bd5216155fad",
@@ -594,6 +594,16 @@
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z",
     "updatedAt": "2026-07-08T22:04:49.166Z"
+  },
+  {
+    "id": "doc-kanpo-4dd6e851c13646f3",
+    "title": "船員保険法施行規則の一部を改正する省令（厚生労働一一八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260730/20260730g00171/20260730g001710018f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-30",
+    "createdAt": "2026-07-30T22:04:23.774Z"
   },
   {
     "id": "doc-kanpo-4e5f759115cc9343",
@@ -776,7 +786,7 @@
     "source": "官報",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-07-24T22:03:16.531Z",
-    "updatedAt": "2026-07-29T22:00:05.036Z"
+    "updatedAt": "2026-07-30T22:04:25.470Z"
   },
   {
     "id": "doc-kanpo-7d7e83761acb2172",
@@ -853,6 +863,16 @@
     "updatedAt": "2026-07-09T22:26:19.503Z"
   },
   {
+    "id": "doc-kanpo-9a335997d1864183",
+    "title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令（総務九五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260730/20260730g00171/20260730g001710002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-30",
+    "createdAt": "2026-07-30T22:04:23.774Z"
+  },
+  {
     "id": "doc-kanpo-9ca800f75809b238",
     "title": "人事院規則一一―一一（管理監督職勤務上限年齢による降任等）の一部を改正する人事院規則（同一一－一一－七）",
     "type": "kanpo",
@@ -903,7 +923,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.600Z",
-    "updatedAt": "2026-07-29T22:00:03.600Z"
+    "updatedAt": "2026-07-30T22:04:24.199Z"
   },
   {
     "id": "doc-kanpo-b9655d7c014c47bf",
@@ -974,7 +994,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.601Z",
-    "updatedAt": "2026-07-29T22:00:03.601Z"
+    "updatedAt": "2026-07-30T22:04:24.199Z"
   },
   {
     "id": "doc-kanpo-ce4a9bcc55943773",
@@ -1141,6 +1161,16 @@
     "createdAt": "2026-07-24T22:03:16.531Z"
   },
   {
+    "id": "doc-kanpo-f71545e4876d050f",
+    "title": "ポリエチレンテレフタレート製の容器であって、飲料又は特定調味料が充塡されたものの表示の標準となるべき事項を定める省令の一部を改正する省令（財務・農林水産・経済産業二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260730/20260730h01758/20260730h017580002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-30",
+    "createdAt": "2026-07-30T22:04:23.774Z"
+  },
+  {
     "id": "doc-kanpo-f8f79bd5d700538e",
     "title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律（六四）",
     "type": "kanpo",
@@ -1189,7 +1219,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.601Z",
-    "updatedAt": "2026-07-29T22:00:03.601Z"
+    "updatedAt": "2026-07-30T22:04:24.199Z"
   },
   {
     "id": "doc-kanpo-ffb6eb7805666aa4",
@@ -1200,6 +1230,17 @@
     "source": "官報",
     "publishedAt": "2026-07-17",
     "createdAt": "2026-07-17T21:52:34.771Z"
+  },
+  {
+    "id": "doc-kokkai-0240f4e135c823a7",
+    "billId": "bill-221-shugiin-9837f6f89f23038a",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:42.336Z"
   },
   {
     "id": "doc-kokkai-0276399e1e74aa5c",
@@ -1389,6 +1430,17 @@
     "createdAt": "2026-07-07T00:38:22.786Z"
   },
   {
+    "id": "doc-kokkai-2c467626258e30c5",
+    "billId": "bill-221-shugiin-dd01c57f8d20200e",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:52.576Z"
+  },
+  {
     "id": "doc-kokkai-2d49f14644c5dea4",
     "billId": "bill-221-shugiin-277efad5ec7df88c",
     "title": "第221回国会 衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 第9号 (2026-06-30)",
@@ -1420,6 +1472,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-04-16",
     "createdAt": "2026-07-07T00:38:34.794Z"
+  },
+  {
+    "id": "doc-kokkai-3161ec2ac77409b5",
+    "billId": "bill-221-shugiin-4700f1a7e8350247",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:33.997Z"
   },
   {
     "id": "doc-kokkai-321c9093215fa58c",
@@ -1455,6 +1518,17 @@
     "createdAt": "2026-07-07T00:38:52.097Z"
   },
   {
+    "id": "doc-kokkai-39d8c4ecf47e8075",
+    "billId": "bill-221-shugiin-229a14dd24fc7402",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:29.917Z"
+  },
+  {
     "id": "doc-kokkai-39e48e752cfe2c00",
     "billId": "bill-221-cas-dfc6ce6332f6bfec",
     "title": "第221回国会 衆議院 災害対策特別委員会 第7号 (2026-04-28)",
@@ -1464,6 +1538,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-04-28",
     "createdAt": "2026-07-07T00:38:01.714Z"
+  },
+  {
+    "id": "doc-kokkai-3ca21d522a5c177d",
+    "billId": "bill-221-shugiin-5c47cfc1e5147636",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:36.586Z"
   },
   {
     "id": "doc-kokkai-3ecf50c2c12507f4",
@@ -1486,6 +1571,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-04-23",
     "createdAt": "2026-07-07T00:38:01.714Z"
+  },
+  {
+    "id": "doc-kokkai-3f5b6ef9bd0fe3f9",
+    "billId": "bill-221-shugiin-d0efe5e1e3022a7e",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:47.587Z"
   },
   {
     "id": "doc-kokkai-3fbac33c8f5b6a6c",
@@ -1598,6 +1694,17 @@
     "createdAt": "2026-07-07T00:38:57.011Z"
   },
   {
+    "id": "doc-kokkai-5098d4ceb73a51cc",
+    "billId": "bill-221-shugiin-bcf1f1dc9f4a1fa1",
+    "title": "第221回国会 衆議院 政治改革に関する特別委員会 第6号 (2026-06-22)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104575X00620260622",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-06-22",
+    "createdAt": "2026-07-30T22:06:44.972Z"
+  },
+  {
     "id": "doc-kokkai-51c56dc0b538ae8a",
     "billId": "bill-221-cas-dfc6ce6332f6bfec",
     "title": "第221回国会 衆議院 本会議 第19号 (2026-05-19)",
@@ -1631,6 +1738,17 @@
     "createdAt": "2026-07-07T00:39:11.823Z"
   },
   {
+    "id": "doc-kokkai-557871e53712c582",
+    "billId": "bill-221-shugiin-0c41b35e8e33dd19",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:27.600Z"
+  },
+  {
     "id": "doc-kokkai-564e5b8f9b5bf68b",
     "billId": "bill-221-shugiin-b2e04dc4061d4a81",
     "title": "第221回国会 衆議院 議院運営委員会 第30号 (2026-06-19)",
@@ -1640,6 +1758,28 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-19",
     "createdAt": "2026-07-07T00:38:52.096Z"
+  },
+  {
+    "id": "doc-kokkai-57d6e4e2477b4cf3",
+    "billId": "bill-221-shugiin-75a5791173054ee8",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:38.989Z"
+  },
+  {
+    "id": "doc-kokkai-5a772475ff8de27f",
+    "billId": "bill-221-shugiin-bcf1f1dc9f4a1fa1",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:44.972Z"
   },
   {
     "id": "doc-kokkai-5b3ab95c4ef03f24",
@@ -1673,6 +1813,50 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-26",
     "createdAt": "2026-07-07T00:38:11.403Z"
+  },
+  {
+    "id": "doc-kokkai-63a5dabba3bdd88d",
+    "billId": "bill-221-sangiin-ed662caa2334a5ae",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:25.107Z"
+  },
+  {
+    "id": "doc-kokkai-63ab3093fd52b06f",
+    "billId": "bill-221-shugiin-c591f224038dc04b",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:45.867Z"
+  },
+  {
+    "id": "doc-kokkai-63bd4f0540961077",
+    "billId": "bill-221-shugiin-d1825e726f9145ea",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:48.836Z"
+  },
+  {
+    "id": "doc-kokkai-652cfd9be61dd329",
+    "billId": "bill-221-shugiin-277efad5ec7df88c",
+    "title": "第221回国会 衆議院 議院運営委員会 第36号 (2026-07-15)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03620260715",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-15",
+    "createdAt": "2026-07-30T22:06:31.425Z"
   },
   {
     "id": "doc-kokkai-67c19698a67660fc",
@@ -1728,6 +1912,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-05-22",
     "createdAt": "2026-07-07T00:38:02.557Z"
+  },
+  {
+    "id": "doc-kokkai-727c3a9e74736c7e",
+    "billId": "bill-221-sangiin-fdf3bf98cb6d5d37",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:26.387Z"
   },
   {
     "id": "doc-kokkai-731b5e86083e1ac6",
@@ -1862,6 +2057,17 @@
     "createdAt": "2026-07-07T00:38:01.714Z"
   },
   {
+    "id": "doc-kokkai-9098e88e64b28492",
+    "billId": "bill-221-shugiin-738becd622201f8c",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:38.267Z"
+  },
+  {
     "id": "doc-kokkai-920f515e338f42bc",
     "billId": "bill-221-shugiin-a5ecbdfafcb05ca9",
     "title": "第221回国会 衆議院 憲法審査会 第9号 (2026-06-11)",
@@ -1871,6 +2077,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-11",
     "createdAt": "2026-07-07T00:38:39.501Z"
+  },
+  {
+    "id": "doc-kokkai-9c8a7f3edadf66ca",
+    "billId": "bill-221-shugiin-b09d45b89c9c7fd2",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:43.856Z"
   },
   {
     "id": "doc-kokkai-9f173b929e37582e",
@@ -2016,6 +2233,17 @@
     "createdAt": "2026-07-07T00:39:11.823Z"
   },
   {
+    "id": "doc-kokkai-ba73f934e4bf63c6",
+    "billId": "bill-221-sangiin-7ee6e626b8ad694e",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:16.553Z"
+  },
+  {
     "id": "doc-kokkai-ba91997efef76883",
     "billId": "bill-221-shugiin-f8a7a40301921654",
     "title": "第221回国会 衆議院 農林水産委員会 第9号 (2026-05-13)",
@@ -2025,6 +2253,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-05-13",
     "createdAt": "2026-07-07T00:39:11.823Z"
+  },
+  {
+    "id": "doc-kokkai-bc55f630a2beccda",
+    "billId": "bill-221-shugiin-426ee0047ccd63e6",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:33.216Z"
   },
   {
     "id": "doc-kokkai-c2f059916adfc2de",
@@ -2126,6 +2365,17 @@
     "createdAt": "2026-07-29T22:02:47.431Z"
   },
   {
+    "id": "doc-kokkai-e8bdd7fe52542d18",
+    "billId": "bill-221-shugiin-dcb81b4d41296dfa",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:51.706Z"
+  },
+  {
     "id": "doc-kokkai-ebf41683261d1a2e",
     "billId": "bill-221-shugiin-bcf1f1dc9f4a1fa1",
     "title": "第221回国会 衆議院 政治改革に関する特別委員会 第4号 (2026-06-16)",
@@ -2179,6 +2429,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-19",
     "createdAt": "2026-07-07T00:38:39.501Z"
+  },
+  {
+    "id": "doc-kokkai-ef39c3e7ad5c4f73",
+    "billId": "bill-221-sangiin-caeb9e707b294329",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-07-30T22:06:19.760Z"
   },
   {
     "id": "doc-kokkai-f0db5cfd95b8ed59",
@@ -2836,6 +3097,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:51.403Z"
+  },
+  {
+    "id": "doc-sangiin-20594adcbd15c243",
+    "billId": "bill-221-sangiin-3aaafb08104e214f",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/t0902210382210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-07-30T22:06:02.574Z"
   },
   {
     "id": "doc-sangiin-210c6a748d09ff0b",
