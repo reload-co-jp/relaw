@@ -372,6 +372,16 @@
     "updatedAt": "2026-07-07T22:11:43.229Z"
   },
   {
+    "id": "doc-kanpo-07643a6a45adce99",
+    "title": "日本国憲法の改正手続に関する法律の一部を改正する法律（七三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720011f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
     "id": "doc-kanpo-0789d1dbf0fee274",
     "title": "科学技術・イノベーション創出の活性化に関する法律の一部を改正する法律（五九）",
     "type": "kanpo",
@@ -400,6 +410,26 @@
     "source": "官報",
     "publishedAt": "2026-07-17",
     "createdAt": "2026-07-17T21:52:34.771Z"
+  },
+  {
+    "id": "doc-kanpo-0f217694cb6504bb",
+    "title": "自衛官等に対する療養の給付等に関する省令の一部を改正する省令（防衛一九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720154f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-1408dff1da229f0c",
+    "title": "医療的ケア児及びその家族に対する支援に関する法律の一部を改正する法律（七七）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720021f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
     "id": "doc-kanpo-15640acca47fb576",
@@ -463,6 +493,16 @@
     "createdAt": "2026-07-23T22:03:02.347Z"
   },
   {
+    "id": "doc-kanpo-1da5ad29c5ee581e",
+    "title": "株式会社日本貿易保険の会計に関する省令の一部を改正する省令（同六五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720096f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
     "id": "doc-kanpo-203a600509f1703c",
     "title": "地方自治法施行規則の一部を改正する省令（同八六）",
     "type": "kanpo",
@@ -481,7 +521,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.600Z",
-    "updatedAt": "2026-07-30T22:04:24.199Z"
+    "updatedAt": "2026-07-31T22:03:59.710Z"
   },
   {
     "id": "doc-kanpo-293b739268f3d0be",
@@ -502,6 +542,16 @@
     "source": "官報",
     "publishedAt": "2026-07-17",
     "createdAt": "2026-07-17T21:52:34.771Z"
+  },
+  {
+    "id": "doc-kanpo-300fd910ff4c2899",
+    "title": "建築士法の一部を改正する法律（七四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720012f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
     "id": "doc-kanpo-35345cd923bbdcfe",
@@ -574,6 +624,16 @@
     "createdAt": "2026-07-17T21:52:34.771Z"
   },
   {
+    "id": "doc-kanpo-48fefd7f61aac59d",
+    "title": "農業協同組合法施行規則の一部を改正する省令（同五四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720084f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
     "id": "doc-kanpo-4931c2327a731d64",
     "title": "検疫法施行令の一部を改正する政令（二三一）",
     "type": "kanpo",
@@ -582,7 +642,7 @@
     "source": "官報",
     "publishedAt": "2026-07-23",
     "createdAt": "2026-07-23T22:03:02.348Z",
-    "updatedAt": "2026-07-30T22:04:25.893Z"
+    "updatedAt": "2026-07-31T22:04:01.602Z"
   },
   {
     "id": "doc-kanpo-4c44bd5216155fad",
@@ -644,6 +704,26 @@
     "source": "官報",
     "publishedAt": "2026-06-29",
     "createdAt": "2026-07-07T00:36:45.787Z"
+  },
+  {
+    "id": "doc-kanpo-56fe6fae2b5e9c5d",
+    "title": "地方独立行政法人法別表及び地方独立行政法人法施行令第五条第一項の総務省令で定める事務を定める省令の一部を改正する省令（総務九六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720045f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-58cb7db2fa174a52",
+    "title": "予防接種法の一部を改正する法律（七六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720020f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
     "id": "doc-kanpo-59897ece27f22816",
@@ -738,6 +818,27 @@
     "createdAt": "2026-07-15T21:59:10.734Z"
   },
   {
+    "id": "doc-kanpo-6960553141aaf4a2",
+    "title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令（二四四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720028f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-6a10cbd5c549f1e7",
+    "title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律の施行期日を定める政令（二四三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720027f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z",
+    "updatedAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
     "id": "doc-kanpo-6c65a7c3de6ef76d",
     "title": "刑事訴訟法の一部を改正する法律（六七）",
     "type": "kanpo",
@@ -778,6 +879,17 @@
     "createdAt": "2026-07-15T21:59:10.733Z"
   },
   {
+    "id": "doc-kanpo-7a1c3a0076354880",
+    "title": "国民年金法施行規則の一部を改正する省令（同一二一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720080f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z",
+    "updatedAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
     "id": "doc-kanpo-7a972be49fb5d235",
     "title": "種苗法施行規則及び品種登録規則の一部を改正する省令（同五二）",
     "type": "kanpo",
@@ -786,7 +898,7 @@
     "source": "官報",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-07-24T22:03:16.531Z",
-    "updatedAt": "2026-07-30T22:04:25.470Z"
+    "updatedAt": "2026-07-31T22:04:01.129Z"
   },
   {
     "id": "doc-kanpo-7d7e83761acb2172",
@@ -894,6 +1006,46 @@
     "updatedAt": "2026-07-08T22:04:49.166Z"
   },
   {
+    "id": "doc-kanpo-9fc07eeabfb0ad80",
+    "title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則（人事院九－三〇－一一五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720159f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-a5ffe16eb307e880",
+    "title": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律（七八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720023f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-a968fdd314149dbe",
+    "title": "経済産業省関係産業競争力強化法施行規則及び株式会社東日本大震災事業者再生支援機構法第五十九条第一項の要件を定める省令の一部を改正する省令（経済産業六三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720086f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-a9fe29a8bc65c5c6",
+    "title": "環境省組織規則の一部を改正する省令（環境二一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720151f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
     "id": "doc-kanpo-ad87205849e7a20c",
     "title": "円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律施行規則（経済産業五八）",
     "type": "kanpo",
@@ -903,6 +1055,16 @@
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z",
     "updatedAt": "2026-07-08T22:04:49.166Z"
+  },
+  {
+    "id": "doc-kanpo-aeca6e8cb8373dac",
+    "title": "医療法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令（厚生労働一一九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720068f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
     "id": "doc-kanpo-b30bf527f09857ff",
@@ -915,6 +1077,16 @@
     "createdAt": "2026-07-23T22:03:02.348Z"
   },
   {
+    "id": "doc-kanpo-b34a75bb744714aa",
+    "title": "建築物のエネルギー消費性能の向上等に関する法律の一部を改正する法律（七五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720013f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
     "id": "doc-kanpo-b6b1f3a7f5e30cdc",
     "title": "令和六年能登半島地震による災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令の一部を改正する政令（二三七）",
     "type": "kanpo",
@@ -923,7 +1095,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.600Z",
-    "updatedAt": "2026-07-30T22:04:24.199Z"
+    "updatedAt": "2026-07-31T22:03:59.710Z"
   },
   {
     "id": "doc-kanpo-b9655d7c014c47bf",
@@ -994,7 +1166,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.601Z",
-    "updatedAt": "2026-07-30T22:04:24.199Z"
+    "updatedAt": "2026-07-31T22:03:59.711Z"
   },
   {
     "id": "doc-kanpo-ce4a9bcc55943773",
@@ -1016,6 +1188,26 @@
     "publishedAt": "2026-07-08",
     "createdAt": "2026-07-08T22:04:46.710Z",
     "updatedAt": "2026-07-16T22:02:47.959Z"
+  },
+  {
+    "id": "doc-kanpo-d346384005ba4a68",
+    "title": "法務省定員規則の一部を改正する省令（法務四五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720049f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-d3941468cfa218ae",
+    "title": "貿易保険法施行規則の一部を改正する省令（同六四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720095f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
     "id": "doc-kanpo-d4c2b224bdf128ff",
@@ -1080,6 +1272,16 @@
     "createdAt": "2026-07-24T22:03:16.531Z"
   },
   {
+    "id": "doc-kanpo-e09994623142b6ba",
+    "title": "種苗法施行規則の一部を改正する省令（農林水産五三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720083f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
     "id": "doc-kanpo-e3e8c6991e1ee8e7",
     "title": "国民年金法施行令等の一部を改正する政令（二二六）",
     "type": "kanpo",
@@ -1088,6 +1290,16 @@
     "source": "官報",
     "publishedAt": "2026-07-15",
     "createdAt": "2026-07-15T21:59:10.734Z"
+  },
+  {
+    "id": "doc-kanpo-e43b899c1460ccd2",
+    "title": "国家公務員共済組合法施行規則の一部を改正する省令（同五二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720051f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
     "id": "doc-kanpo-e605a42af62d062e",
@@ -1120,6 +1332,17 @@
     "createdAt": "2026-07-24T22:03:16.531Z"
   },
   {
+    "id": "doc-kanpo-e96c116ce81d974a",
+    "title": "私立学校教職員共済法施行規則の一部を改正する省令（文部科学二七）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720059f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z",
+    "updatedAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
     "id": "doc-kanpo-eb40fc5c5af7712f",
     "title": "下水道法等の一部を改正する法律（六五）",
     "type": "kanpo",
@@ -1138,6 +1361,37 @@
     "source": "官報",
     "publishedAt": "2026-07-27",
     "createdAt": "2026-07-27T22:05:04.288Z"
+  },
+  {
+    "id": "doc-kanpo-f1e3f2ecb73dc051",
+    "title": "株式会社日本貿易保険に交付される国債の発行等に関する省令（財務五〇）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731h01759/20260731h017590002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.763Z",
+    "updatedAt": "2026-07-31T22:03:58.763Z"
+  },
+  {
+    "id": "doc-kanpo-f2ef1b56deb89213",
+    "title": "租税特別措置法施行規則及び法人税法施行規則の一部を改正する省令（財務五一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720050f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-f4dc3de1d0d9d6a2",
+    "title": "地方公務員等共済組合法施行規則の一部を改正する省令（同九七）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720046f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
     "id": "doc-kanpo-f678022de57a62e7",
@@ -1201,6 +1455,16 @@
     "createdAt": "2026-07-10T07:28:06.112Z"
   },
   {
+    "id": "doc-kanpo-fb2e16d44d55afc6",
+    "title": "マンションの管理の適正化の推進に関する法律施行規則及び長期優良住宅の普及の促進に関する法律施行規則の一部を改正する省令（国土交通七〇）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260731/20260731g00172/20260731g001720110f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-07-31",
+    "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
     "id": "doc-kanpo-fcbb4de22e28ead8",
     "title": "健康保険法施行令等の一部を改正する政令（二四〇）",
     "type": "kanpo",
@@ -1219,7 +1483,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.601Z",
-    "updatedAt": "2026-07-30T22:04:24.199Z"
+    "updatedAt": "2026-07-31T22:03:59.710Z"
   },
   {
     "id": "doc-kanpo-ffb6eb7805666aa4",
@@ -1472,6 +1736,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-04-16",
     "createdAt": "2026-07-07T00:38:34.794Z"
+  },
+  {
+    "id": "doc-kokkai-30d4eb793b7269c5",
+    "billId": "bill-221-shugiin-bcf1f1dc9f4a1fa1",
+    "title": "第221回国会 衆議院 政治改革に関する特別委員会 第7号 (2026-06-23)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104575X00720260623",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-06-23",
+    "createdAt": "2026-07-31T22:06:47.948Z"
   },
   {
     "id": "doc-kokkai-3161ec2ac77409b5",
