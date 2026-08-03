@@ -422,6 +422,16 @@
     "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
+    "id": "doc-kanpo-1239a1e982744f1a",
+    "title": "厚生労働省組織規則の一部を改正する省令（厚生労働一二二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260803/20260803g00174/20260803g001740004f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-03",
+    "createdAt": "2026-08-03T22:07:53.359Z"
+  },
+  {
     "id": "doc-kanpo-1408dff1da229f0c",
     "title": "医療的ケア児及びその家族に対する支援に関する法律の一部を改正する法律（七七）",
     "type": "kanpo",
@@ -461,6 +471,17 @@
     "source": "官報",
     "publishedAt": "2026-07-17",
     "createdAt": "2026-07-17T21:52:34.771Z"
+  },
+  {
+    "id": "doc-kanpo-1a011d4addec7db5",
+    "title": "農薬取締法施行規則の一部を改正する省令（同五六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260803/20260803h01760/20260803h017600002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-03",
+    "createdAt": "2026-08-03T22:07:53.358Z",
+    "updatedAt": "2026-08-03T22:07:53.358Z"
   },
   {
     "id": "doc-kanpo-1b2f662013e21913",
@@ -521,7 +542,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.600Z",
-    "updatedAt": "2026-08-02T21:54:26.973Z"
+    "updatedAt": "2026-08-03T22:07:54.789Z"
   },
   {
     "id": "doc-kanpo-293b739268f3d0be",
@@ -532,6 +553,16 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.601Z"
+  },
+  {
+    "id": "doc-kanpo-2c76e1649aae2ba5",
+    "title": "厚生労働省組織令及び社会保障審議会令の一部を改正する政令（二四五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260803/20260803g00174/20260803g001740002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-03",
+    "createdAt": "2026-08-03T22:07:53.359Z"
   },
   {
     "id": "doc-kanpo-2dd7888301b27f33",
@@ -836,7 +867,7 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z",
-    "updatedAt": "2026-08-02T21:54:26.132Z"
+    "updatedAt": "2026-08-03T22:07:53.840Z"
   },
   {
     "id": "doc-kanpo-6c65a7c3de6ef76d",
@@ -887,7 +918,7 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z",
-    "updatedAt": "2026-08-02T21:54:26.132Z"
+    "updatedAt": "2026-08-03T22:07:53.840Z"
   },
   {
     "id": "doc-kanpo-7a972be49fb5d235",
@@ -898,7 +929,7 @@
     "source": "官報",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-07-24T22:03:16.531Z",
-    "updatedAt": "2026-08-02T21:54:28.234Z"
+    "updatedAt": "2026-08-03T22:07:56.210Z"
   },
   {
     "id": "doc-kanpo-7d7e83761acb2172",
@@ -1095,7 +1126,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.600Z",
-    "updatedAt": "2026-08-02T21:54:26.973Z"
+    "updatedAt": "2026-08-03T22:07:54.789Z"
   },
   {
     "id": "doc-kanpo-b9655d7c014c47bf",
@@ -1166,7 +1197,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.601Z",
-    "updatedAt": "2026-08-02T21:54:26.974Z"
+    "updatedAt": "2026-08-03T22:07:54.789Z"
   },
   {
     "id": "doc-kanpo-ce4a9bcc55943773",
@@ -1340,7 +1371,7 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z",
-    "updatedAt": "2026-08-02T21:54:26.132Z"
+    "updatedAt": "2026-08-03T22:07:53.840Z"
   },
   {
     "id": "doc-kanpo-eb40fc5c5af7712f",
@@ -1371,7 +1402,7 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.763Z",
-    "updatedAt": "2026-08-02T21:54:26.132Z"
+    "updatedAt": "2026-08-03T22:07:53.840Z"
   },
   {
     "id": "doc-kanpo-f2ef1b56deb89213",
@@ -1483,7 +1514,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.601Z",
-    "updatedAt": "2026-08-02T21:54:26.974Z"
+    "updatedAt": "2026-08-03T22:07:54.789Z"
   },
   {
     "id": "doc-kanpo-ffb6eb7805666aa4",
@@ -1637,6 +1668,28 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-05-26",
     "createdAt": "2026-07-07T22:13:46.557Z"
+  },
+  {
+    "id": "doc-kokkai-231b710adbc9ddbb",
+    "billId": "bill-221-shugiin-9837f6f89f23038a",
+    "title": "第221回国会 衆議院 財務金融委員会 第13号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104376X01320260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-03T22:10:39.779Z"
+  },
+  {
+    "id": "doc-kokkai-239128736a7c935e",
+    "billId": "bill-221-shugiin-5c47cfc1e5147636",
+    "title": "第221回国会 衆議院 財務金融委員会 第13号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104376X01320260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-03T22:10:33.943Z"
   },
   {
     "id": "doc-kokkai-26edb2ad48542d5a",
@@ -2253,6 +2306,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-04-21",
     "createdAt": "2026-07-07T00:38:00.278Z"
+  },
+  {
+    "id": "doc-kokkai-7aa1770b2653184b",
+    "billId": "bill-221-shugiin-75a5791173054ee8",
+    "title": "第221回国会 衆議院 財務金融委員会 第13号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104376X01320260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-03T22:10:36.874Z"
   },
   {
     "id": "doc-kokkai-81e66b0a128a7570",
@@ -3242,6 +3306,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:08.775Z"
+  },
+  {
+    "id": "doc-sangiin-18aeb7aca9606ac4",
+    "billId": "bill-221-shugiin-1eff17954bf8d9a4",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210292210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-08-03T22:09:51.505Z"
   },
   {
     "id": "doc-sangiin-1a0e20f329bcf80e",
@@ -5805,6 +5879,16 @@
     "createdAt": "2026-07-27T22:06:59.727Z"
   },
   {
+    "id": "doc-sangiin-ac77957ae24729d5",
+    "billId": "bill-221-shugiin-a5ecbdfafcb05ca9",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210112210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-08-03T22:09:44.498Z"
+  },
+  {
     "id": "doc-sangiin-ae0c37d99234070d",
     "billId": "bill-221-shugiin-f49bb5f2fe9ce68f",
     "title": "成立法律",
@@ -5863,6 +5947,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:28.513Z"
+  },
+  {
+    "id": "doc-sangiin-b0afb65f56758e78",
+    "billId": "bill-221-sangiin-3aaafb08104e214f",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210382210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-08-03T22:09:54.997Z"
   },
   {
     "id": "doc-sangiin-b1117f3be5949671",
@@ -6013,6 +6107,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:31.290Z"
+  },
+  {
+    "id": "doc-sangiin-b90f2c785616a1c8",
+    "billId": "bill-221-shugiin-a8b4b31f9b075a52",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210632210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-08-03T22:09:39.824Z"
   },
   {
     "id": "doc-sangiin-b981b55da90c1f78",
@@ -6253,6 +6357,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:50.423Z"
+  },
+  {
+    "id": "doc-sangiin-c5af54d21b132b71",
+    "billId": "bill-221-shugiin-277efad5ec7df88c",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210272210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-08-03T22:09:50.725Z"
   },
   {
     "id": "doc-sangiin-c7445cf26fce9fae",
@@ -6713,6 +6827,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:12.846Z"
+  },
+  {
+    "id": "doc-sangiin-e0df8dfea800c769",
+    "billId": "bill-221-shugiin-483f8f170fb53b09",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0802210392210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-08-03T22:09:30.365Z"
   },
   {
     "id": "doc-sangiin-e1718e2b26e62bc9",

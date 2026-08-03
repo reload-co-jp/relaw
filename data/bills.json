@@ -50,7 +50,7 @@
     "status": "expired",
     "submittedAt": "2025-11-19",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/meisai/m220090219002.htm",
-    "updatedAt": "2026-08-02T21:56:11.746Z"
+    "updatedAt": "2026-08-03T22:10:03.166Z"
   },
   {
     "id": "bill-219-sangiin-6be4b454ee392ea0",
@@ -250,7 +250,7 @@
     "proposerType": "representative",
     "status": "expired",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/meisai/m220090217004.htm",
-    "updatedAt": "2026-08-02T21:56:11.746Z",
+    "updatedAt": "2026-08-03T22:10:03.166Z",
     "proposerName": "大野敬太郎君 外3名",
     "submittedAt": "2025-01-31"
   },
@@ -1619,7 +1619,7 @@
     "status": "committee_review",
     "submittedAt": "2026-07-10",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221017.htm",
-    "updatedAt": "2026-08-02T21:56:10.483Z"
+    "updatedAt": "2026-08-03T22:10:01.617Z"
   },
   {
     "id": "bill-221-sangiin-1cc1962702814770",
@@ -1634,7 +1634,7 @@
     "status": "committee_review",
     "submittedAt": "2026-07-15",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221019.htm",
-    "updatedAt": "2026-08-02T21:56:11.112Z"
+    "updatedAt": "2026-08-03T22:10:02.390Z"
   },
   {
     "id": "bill-221-sangiin-3aaafb08104e214f",
@@ -1645,14 +1645,15 @@
     "submittedNumber": 38,
     "billNumber": "第221回国会 衆法第38号",
     "proposerType": "representative",
-    "status": "passed_diet",
+    "status": "promulgated",
     "submittedAt": "2026-07-22",
     "passedLowerHouseAt": "2026-07-22",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221038.htm",
-    "updatedAt": "2026-07-26T21:59:48.363Z",
+    "updatedAt": "2026-08-03T22:09:54.997Z",
     "summary": "本法律案の主な内容は次のとおりである。 一 二級建築士が一級建築士の免許を受けるために必要となる二級建築士としての実務の経験の期間について、二級建築士になる前の実務の経験を含めた実務の経験を八年以上有する者又は高等学校等において建築科目を修めて卒業した者であって、二級建築士になる前の実務の経験を含めた実務の経験を卒業後六年以上有するものであることを要件として、現行の四年を二年に短縮する。 二 大学等に在学する者のうち、一級建築士試験が行われる日の属する年度の末日までに当該大学等を卒業する見込みがある者であって、当該大学等において国土交通大臣の指定する建築科目の単位を修得しているものは、一級建築士試験を受けることができる。 三 二級建築士又は木造建築士の免許を受けるために必要な実務の経験の期間について、現行の七年から四年に短縮する。 四 大学等又は高等学校等に在学する者のうち、二級建築士試験又は木造建築士試験が行われる日の属する年度の末日までに当該大学等又は高等学校等を卒業する見込みがある者であって、当該大学等又は高等学校等において国土交通大臣の指定する建築科目の単位を修得しているものは、二級建築士試験及び木造建築士試験を受けることができる。 五 二級建築士試験又は木造建築士試験を受けるために必要とされる実務の経験の期間について、現行の七年から二年に短縮する。 六 「建築設備士」の定義に、国土交通大臣が定める機関に登録されたものであることを追加する。 七 建築士が行う設計又は工事監理に係る「設計受託契約又は工事監理受託契約」の全てについて、当事者による契約書の相互交付義務の対象とする。 八 設計受託契約又は工事監理受託契約を締結しようとする者は、九の見積書の内容その他の契約に係る事情を考慮して、その委託内容に応じた適正な委託代金で契約を締結するよう努めなければならない。 九 建築士事務所の開設者は、設計等の業務に係る契約を締結しようとするときは、報酬の算定の根拠を明らかにするための見積書を作成するよう努めなければならない。 十 この法律は、一部の規定を除き、公布の日から三年以内の政令で定める日から施行する。",
     "passedUpperHouseAt": "2026-07-24",
-    "enactedAt": "2026-07-24"
+    "enactedAt": "2026-07-24",
+    "promulgatedAt": "2026-07-31"
   },
   {
     "id": "bill-221-sangiin-7ee6e626b8ad694e",
@@ -1682,7 +1683,7 @@
     "status": "committee_review",
     "submittedAt": "2026-07-08",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221015.htm",
-    "updatedAt": "2026-08-02T21:56:09.854Z"
+    "updatedAt": "2026-08-03T22:10:00.833Z"
   },
   {
     "id": "bill-221-sangiin-caeb9e707b294329",
@@ -1712,7 +1713,7 @@
     "status": "committee_review",
     "submittedAt": "2026-07-09",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221016.htm",
-    "updatedAt": "2026-08-02T21:56:10.168Z"
+    "updatedAt": "2026-08-03T22:10:01.227Z"
   },
   {
     "id": "bill-221-sangiin-e7cb2492d1d5bd65",
@@ -1727,7 +1728,7 @@
     "status": "committee_review",
     "submittedAt": "2026-07-16",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221021.htm",
-    "updatedAt": "2026-08-02T21:56:11.745Z"
+    "updatedAt": "2026-08-03T22:10:03.165Z"
   },
   {
     "id": "bill-221-sangiin-ed662caa2334a5ae",
@@ -1969,7 +1970,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221014.htm",
-    "updatedAt": "2026-08-02T21:56:09.540Z",
+    "updatedAt": "2026-08-03T22:10:00.445Z",
     "proposerName": "小西洋之君 外3名",
     "submittedAt": "2026-07-07"
   },
@@ -1982,14 +1983,15 @@
     "submittedNumber": 29,
     "billNumber": "第221回国会 衆法第29号",
     "proposerType": "representative",
-    "status": "passed_diet",
+    "status": "promulgated",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221029.htm",
-    "updatedAt": "2026-07-26T21:59:45.345Z",
+    "updatedAt": "2026-08-03T22:09:51.505Z",
     "submittedAt": "2026-07-10",
     "passedLowerHouseAt": "2026-07-14",
     "summary": "本法律案の主な内容は次のとおりである。 一、支援対象の拡大及びこれに伴う題名の改正 支援の対象について、成年に達した医療的ケア児及び十八歳以上で医療的ケアが不可欠であり、これにより自立した生活を営むことが困難な状態にある者並びに重症心身障害者を追加し、これに伴い、題名を「医療的ケア児等及び重症心身障害者並びにそれらの家族に対する支援に関する法律」に改める。 二、基本理念の充実 基本理念に、医療的ケア児等及び重症心身障害者が基本的人権を享有する個人としてその尊厳が重んぜられ、その尊厳にふさわしい生活を営むことができるようにすること等を明記する。 三、支援施策の充実 １ 保育・教育等に係る施策として、喀(かく)痰(たん)吸引等を行うことができる介護従事者を保育所や学校等に配置すること、社会的養護が必要な医療的ケア児及び重症心身障害児のための体制を整備すること並びに医療的ケア児等及び重症心身障害者のための生涯学習を推進することを新たに定める。 ２ 生活・就労等に係る施策として、日常生活における支援を充実させるほか、切れ目のない医療の提供、就労の支援、住居の確保及びピアサポート（医療的ケア児等及び重症心身障害者並びにそれらの家族が互いに支え合うために交流する活動に対する支援等）に係る施策を新たに定める。 ３ 人材確保等に係る施策として、医療的ケア等の支援に係る研修の実施方法の見直し及び医療的ケアの提供の在り方の見直しに係る施策を新たに定める。 四、医療的ケア児等支援センター等 １ 医療的ケア児等支援センターについて、指定都市、中核市、特別区等の長も設置を可能とし、その業務として、進行性の疾病を有する者等も相談支援の対象とするほか、災害時の情報提供等を追加する。 ２ 都道府県等は、支援体制の整備を図るための関係者等による協議の場として、医療的ケア児等支援地域協議会を置くことができ、その構成員は、協議の結果を尊重するものとすること等を定める。 五、この法律は、令和九年四月一日から施行する。",
     "passedUpperHouseAt": "2026-07-24",
-    "enactedAt": "2026-07-24"
+    "enactedAt": "2026-07-24",
+    "promulgatedAt": "2026-07-31"
   },
   {
     "id": "bill-221-shugiin-229a14dd24fc7402",
@@ -2002,7 +2004,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221012.htm",
-    "updatedAt": "2026-08-02T21:56:08.901Z",
+    "updatedAt": "2026-08-03T22:09:59.668Z",
     "proposerName": "石川博崇君 外3名",
     "submittedAt": "2026-06-30"
   },
@@ -2017,7 +2019,7 @@
     "proposerType": "councillor",
     "status": "rejected",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221018.htm",
-    "updatedAt": "2026-08-02T21:56:10.796Z",
+    "updatedAt": "2026-08-03T22:10:02.004Z",
     "proposerName": "奥村祥大君 外3名",
     "submittedAt": "2026-07-15",
     "summary": "本法律案の内容は次のとおりである。 一、特別区の設置についての住民投票の期日の告示の日から当該期日までの期間と関係市町村及び関係道府県の議会の議員の一般選挙及び長の選挙（以下「特定選挙」という。）の期日の告示の日から当該期日までの期間とは、重複してはならないものとし、そのために必要な事項は、政令で定める。 二、一の政令は、特定選挙が公職選挙法の規定により選挙を行うべき期間内に必ず行われ、かつ、特別区の設置についての住民投票ができる限り住民投票を行うべき期間内に行われるよう定める。 三、この法律は、公布日から起算して三箇月以内で政令で定める日から施行する。"
@@ -2031,13 +2033,14 @@
     "submittedNumber": 27,
     "billNumber": "第221回国会 衆法第27号",
     "proposerType": "representative",
-    "status": "passed_upper_house",
+    "status": "promulgated",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221027.htm",
-    "updatedAt": "2026-08-02T21:56:01.670Z",
+    "updatedAt": "2026-08-03T22:09:50.724Z",
     "proposerName": "簗和生君 外7名",
     "submittedAt": "2026-06-24",
     "summary": "本法律案の主な内容は次のとおりである。 一、本法律は、大規模災害に備え、副首都の整備に係る施策その他国家社会機能の継続性が確保された国土の形成を図るための施策を推進し、公共の福祉の確保、国民生活の向上、多極分散型経済圏の形成を通じた我が国経済の成長に資することを目的とする。また、東京圏との同時被災の可能性が低いことを要件とする、大規模災害時に一定期間、首都中枢機能の一部を代替する機能を担う「首都中枢機能代替地域」並びに大規模災害時に一定期間、首都中枢機能の全部又は大部分を代替する機能及び多極分散型経済圏の形成の中核となる機能を担う道府県として「副首都」を設ける。 二、政府は、施策の総合的・計画的な推進を図るための基本方針を策定し、施策の意義・目標等の施策の推進のために必要な事項を定める。 三、基本理念として、人口・国家社会機能の分散的配置、首都中枢機能のバックアップ、災害時の地方公共団体・民間事業者等のＢＣＰの支援、情報通信技術その他の先端的な技術の活用を図りつつ行う多重性・代替性が確保された交通通信体系の整備等を掲げ、これに対応した基本的施策について定め、首都中枢機能代替地域に係る基本的施策として、首都中枢機能を代替する上で国の機関等に必要とされる機能の整備、官民データの円滑な流通の確保を図るために必要な基盤の整備等の施策を講ずる。 四、内閣総理大臣は、首都中枢機能代替地域、国の行政機構の立地状況、人口・経済の集積状況、必要な地方行政体制に係る要件を定め、いずれにも該当する地域を含む道府県を「副首都」と指定する。 五、内閣総理大臣を本部長とする「国家社会機能継続性確保施策・副首都整備推進本部」を内閣に設置し、基本方針の案の作成等をつかさどることとする。 六、政府は、毎年の副首都の整備に係る施策その他国家社会機能継続性確保施策の実施状況及び集中推進期間における同施策の実施状況の検証の結果について、国会に報告しなければならない。 七、特別区を設ける道府県である副首都の名称を「都」に変更する手続について定めるため、「大都市地域における特別区の設置に関する法律」の改正を行う。 八、この法律は、公布日から起算して三箇月以内で政令で定める日から施行する。",
-    "passedUpperHouseAt": "2026-07-24"
+    "passedUpperHouseAt": "2026-07-24",
+    "promulgatedAt": "2026-07-31"
   },
   {
     "id": "bill-221-shugiin-2d61e5f947844a95",
@@ -2164,7 +2167,7 @@
     "proposerType": "councillor",
     "status": "expired",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221020.htm",
-    "updatedAt": "2026-08-02T21:56:11.426Z",
+    "updatedAt": "2026-08-03T22:10:02.777Z",
     "proposerName": "奥村祥大君 外1名",
     "submittedAt": "2026-07-15"
   },
@@ -2179,7 +2182,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221005.htm",
-    "updatedAt": "2026-08-02T21:56:06.701Z",
+    "updatedAt": "2026-08-03T22:09:56.942Z",
     "proposerName": "神谷宗幣君 外4名",
     "submittedAt": "2026-04-02"
   },
@@ -2279,14 +2282,15 @@
     "submittedNumber": 39,
     "billNumber": "第221回国会 閣法第39号",
     "proposerType": "cabinet",
-    "status": "passed_diet",
+    "status": "promulgated",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221039.htm",
-    "updatedAt": "2026-07-26T21:59:27.200Z",
+    "updatedAt": "2026-08-03T22:09:30.365Z",
     "submittedAt": "2026-03-27",
     "passedLowerHouseAt": "2026-06-04",
     "summary": "本法律案の主な内容は次のとおりである。 一 国土交通大臣は、構造・設備について規格化された住宅を年間に一定の戸数以上供給する事業者のうち、住宅市場に占める割合が特に大きいものを、エネルギー消費性能の一層の向上に特に寄与する必要がある者として指定するものとする。当該指定を受けた者は、建築物のエネルギー消費性能の一層の向上に係る目標及びその達成のために取り組む事項を定めた中長期的な計画を作成し、同計画で定めた事項及び取組状況を国土交通大臣に毎年度報告しなければならない。国土交通大臣は、その取組状況等が著しく不十分と認めるときは、必要な措置をとるべき旨の勧告等をすることができる。 二 建築物エネルギー消費性能誘導基準に適合する建築物と同等以上のエネルギー消費性能を有することを国土交通大臣が認定した建築物について、通常の建築物の床面積を超えることとなる場合における一定の床面積を、容積率の算定の基礎となる延べ面積に算入しないものとする。 三 建築主等にあっては建築物通算炭素排出量（建築生産等の各段階において排出される炭素量を通算した量）の削減に、建築士及び建設業者にあってはその削減に資する事項の説明に、建築材料等製造等事業者にあってはその製造等する建築材料等の炭素排出量原単位の表示に努めなければならない。 四 建築主は、一定規模以上の特定用途の建築物を建築（新築・増築・改築）しようとするときは、設計段階における建築物通算炭素排出量の削減のための建築物の構造方法及び当該建築物における建築材料等の使用又は設置に関する計画を作成し、当該建築物について設計段階における建築物通算炭素排出量評価（建築物通算炭素排出量を算定し、当該算定に係る建築物の環境への負荷について評価すること）を行い、当該計画及び当該評価の結果を国土交通大臣に届出又は通知しなければならない。国土交通大臣は、届出等の内容が著しく不十分と認めるときは、必要な措置をとるべき旨の勧告をすること等ができる。 五 建築主等は、国土交通大臣の登録を受けた機関に対し、建築物環境性能（建築物のエネルギー消費性能又は四の評価等において評価された環境への負荷の低減の程度）の認証を申請することができ、認証書の交付を受けた建築主等は、認証を受けた建築物等にその認証書に係る標章を付することができる。 六 この法律は、一部の規定を除き、公布の日から二年以内の政令で定める日から施行する。",
     "passedUpperHouseAt": "2026-07-24",
-    "enactedAt": "2026-07-24"
+    "enactedAt": "2026-07-24",
+    "promulgatedAt": "2026-07-31"
   },
   {
     "id": "bill-221-shugiin-489e5a4ca1d1cf85",
@@ -2356,7 +2360,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221013.htm",
-    "updatedAt": "2026-08-02T21:56:09.215Z",
+    "updatedAt": "2026-08-03T22:10:00.057Z",
     "proposerName": "小西洋之君 外2名",
     "submittedAt": "2026-07-02"
   },
@@ -2633,7 +2637,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221008.htm",
-    "updatedAt": "2026-08-02T21:56:07.642Z",
+    "updatedAt": "2026-08-03T22:09:58.109Z",
     "proposerName": "伊藤孝恵君",
     "submittedAt": "2026-05-19"
   },
@@ -2697,7 +2701,7 @@
     "proposerType": "representative",
     "status": "promulgated",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221009.htm",
-    "updatedAt": "2026-08-02T21:55:55.979Z",
+    "updatedAt": "2026-08-03T22:09:43.714Z",
     "proposerName": "西村智奈美君 外3名",
     "submittedAt": "2026-05-15",
     "summary": "本法律案は、近年における刑事事件の再審の手続をめぐる諸事情に鑑み、同手続が非常救済手続としてより適切に機能するようにするため、再審の手続等に関する規定の整備を行おうとするものであり、その主な内容は次のとおりである。 一、審判開始の決定をした裁判所は、一定の要件の下で、検察官に対し、再審の請求の理由に関連すると認められる証拠の提出を命じなければならないこととするとともに、再審の請求の手続において謄写された検察官提出証拠の複製等の適正管理及び目的外使用の禁止に関する規定を整備する。 二、再審開始の決定等に対しては、当該決定等が取り消されるべきものと認めるに足りる十分な根拠がある場合に限り、即時抗告等をすることができることとするとともに、政府は、再審開始の決定等があったときは、遅滞なく、その旨並びに検察官が当該決定等に対する即時抗告等をしたかどうか及び当該即時抗告等をした場合におけるその理由を公表する。 三、通常審における判決等に関与した裁判官を一定の範囲で再審の請求の手続及び再審公判から除斥するとともに、再審の請求についての決定に関与した裁判官を一定の範囲で再審公判から除斥する。 四、再審の請求を受けた裁判所は、遅滞なく、その請求について調査しなければならないこととし、当該裁判所は、調査の結果に基づいて、再審の請求を棄却する決定若しくは再審開始の決定又は審判開始の決定をしなければならないこととするとともに、再審請求者等は、審判開始の決定をした裁判所に対し、事実の取調べを請求することができることとし、当該裁判所は、審理終結日及び決定日を定めた上、それらの日を再審請求者等に通知しなければならない。 五、再審開始の決定が確定した事件について、無罪の判決が確定したときは、一定の範囲で、その再審の請求の手続に要した費用の補償をする。 六、この法律は、一部の規定を除き、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。 なお、本法律案は、衆議院において、この法律の施行後に行われる検討の対象に例示として「再審の請求の手続における証拠の目的外使用の禁止に関する制度及び検察官が保管する証拠の一覧表に関する制度」を追加し、任意での証拠の提出又は開示に係る運用上の措置の適切な実施を附則に追加する修正が行われた。",
@@ -2753,7 +2757,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221001.htm",
-    "updatedAt": "2026-08-02T21:56:05.444Z",
+    "updatedAt": "2026-08-03T22:09:55.384Z",
     "proposerName": "竹詰仁君 外1名",
     "submittedAt": "2026-03-19"
   },
@@ -2787,7 +2791,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221007.htm",
-    "updatedAt": "2026-08-02T21:56:07.330Z",
+    "updatedAt": "2026-08-03T22:09:57.722Z",
     "proposerName": "神谷宗幣君 外3名",
     "submittedAt": "2026-04-02"
   },
@@ -2967,15 +2971,16 @@
     "submittedNumber": 11,
     "billNumber": "第221回国会 衆法第11号",
     "proposerType": "representative",
-    "status": "passed_diet",
+    "status": "promulgated",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221011.htm",
-    "updatedAt": "2026-07-26T21:59:39.307Z",
+    "updatedAt": "2026-08-03T22:09:44.497Z",
     "proposerName": "新藤義孝君 外8名",
     "submittedAt": "2026-06-05",
     "passedLowerHouseAt": "2026-06-19",
     "summary": "本法律案は、憲法改正国民投票の投票人の投票しやすい環境を整えるため、必要な措置を講じようとするものであり、その内容は次のとおりである。 一、開票立会人の選任に係る規定の整備 １ 政党等は、開票立会人を、開票区の投票人名簿に登録された者に限らず、当該開票区の区域の全部又は一部をその区域に含む市町村の投票人名簿に登録された者の中から届け出ることができるものとする。 ２ 都道府県の選挙管理委員会が市町村の区域を分けて、又は数市町村の区域の全部若しくは一部を合わせて、開票区を設ける場合において、当該開票区を国民投票の期日前二日から国民投票の期日の前日までの間に設けたときは市町村の選挙管理委員会において、当該開票区を国民投票の期日以後に設けたときは開票管理者において、当該開票区の区域の全部又は一部をその区域に含む市町村の投票人名簿に登録された者の中から三人以上十人以下の開票立会人を選任し、直ちにこれを本人に通知し、開票に立ち会わせなければならないものとする。 二、投票立会人の選任要件の緩和 市町村の選挙管理委員会は、投票立会人を、投票区の投票人名簿に登録された者に限らず、国民投票の投票権を有する者の中から選任することができるものとする。 三、超短波放送の放送設備による憲法改正案の広報のための放送の追加 現行の中波放送の放送設備に加えて、超短波放送の放送設備によっても憲法改正案の広報のための放送をすることができるものとする。 四、施行期日等 １ この法律は、公布の日から起算して三月を経過した日から施行する。 ２ その他所要の規定を整備する。",
     "passedUpperHouseAt": "2026-07-24",
-    "enactedAt": "2026-07-24"
+    "enactedAt": "2026-07-24",
+    "promulgatedAt": "2026-07-31"
   },
   {
     "id": "bill-221-shugiin-a8b4b31f9b075a52",
@@ -2986,14 +2991,15 @@
     "submittedNumber": 63,
     "billNumber": "第221回国会 閣法第63号",
     "proposerType": "cabinet",
-    "status": "passed_diet",
+    "status": "promulgated",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221080221063.htm",
-    "updatedAt": "2026-07-26T21:59:35.289Z",
+    "updatedAt": "2026-08-03T22:09:39.824Z",
     "submittedAt": "2026-06-09",
     "passedLowerHouseAt": "2026-06-30",
     "summary": "本法律案は、近年における医薬品技術の高度化を踏まえ、単クローン抗体を有効成分として含有し、かつ、ワクチンと同程度にその効果が長期間にわたる医薬品を予防接種法に基づく予防接種に用いることができることとしようとするものであり、その主な内容は次のとおりである。 一、「予防接種」の定義について、人体に注射し、又は接種する医薬品として、疾病の予防に有効であることが確認されているワクチンに加え、単クローン抗体を有効成分として含有し、かつ、ワクチンと同程度にその効果が長期間にわたる医薬品を含むものとする。 二、この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。",
     "passedUpperHouseAt": "2026-07-24",
-    "enactedAt": "2026-07-24"
+    "enactedAt": "2026-07-24",
+    "promulgatedAt": "2026-07-31"
   },
   {
     "id": "bill-221-shugiin-aa8e6ecb1bb1c68a",
@@ -3006,7 +3012,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221006.htm",
-    "updatedAt": "2026-08-02T21:56:07.015Z",
+    "updatedAt": "2026-08-03T22:09:57.330Z",
     "proposerName": "神谷宗幣君 外4名",
     "submittedAt": "2026-04-02"
   },
@@ -3210,7 +3216,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221010.htm",
-    "updatedAt": "2026-08-02T21:56:08.273Z",
+    "updatedAt": "2026-08-03T22:09:58.892Z",
     "proposerName": "高木真理君 外1名",
     "submittedAt": "2026-06-23"
   },
@@ -3351,7 +3357,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221004.htm",
-    "updatedAt": "2026-08-02T21:56:06.387Z",
+    "updatedAt": "2026-08-03T22:09:56.555Z",
     "proposerName": "伊藤孝恵君 外1名",
     "submittedAt": "2026-03-27"
   },
@@ -3386,7 +3392,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221009.htm",
-    "updatedAt": "2026-08-02T21:56:07.959Z",
+    "updatedAt": "2026-08-03T22:09:58.495Z",
     "proposerName": "神谷宗幣君 外3名",
     "submittedAt": "2026-06-17"
   },
@@ -3431,7 +3437,7 @@
     "proposerType": "representative",
     "status": "rejected",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221003.htm",
-    "updatedAt": "2026-08-02T21:55:54.086Z",
+    "updatedAt": "2026-08-03T22:09:41.384Z",
     "proposerName": "橋本幹彦君 外2名",
     "submittedAt": "2026-03-10"
   },
@@ -3446,7 +3452,7 @@
     "proposerType": "councillor",
     "status": "committee_review",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221003.htm",
-    "updatedAt": "2026-08-02T21:56:06.073Z",
+    "updatedAt": "2026-08-03T22:09:56.158Z",
     "proposerName": "伊藤孝恵君 外1名",
     "submittedAt": "2026-03-27"
   },
