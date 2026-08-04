@@ -481,7 +481,7 @@
     "source": "官報",
     "publishedAt": "2026-08-03",
     "createdAt": "2026-08-03T22:07:53.358Z",
-    "updatedAt": "2026-08-03T22:07:53.358Z"
+    "updatedAt": "2026-08-04T22:09:53.186Z"
   },
   {
     "id": "doc-kanpo-1b2f662013e21913",
@@ -542,7 +542,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.600Z",
-    "updatedAt": "2026-08-03T22:07:54.789Z"
+    "updatedAt": "2026-08-04T22:09:54.636Z"
   },
   {
     "id": "doc-kanpo-293b739268f3d0be",
@@ -867,7 +867,7 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z",
-    "updatedAt": "2026-08-03T22:07:53.840Z"
+    "updatedAt": "2026-08-04T22:09:53.674Z"
   },
   {
     "id": "doc-kanpo-6c65a7c3de6ef76d",
@@ -918,7 +918,7 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z",
-    "updatedAt": "2026-08-03T22:07:53.840Z"
+    "updatedAt": "2026-08-04T22:09:53.674Z"
   },
   {
     "id": "doc-kanpo-7a972be49fb5d235",
@@ -1126,7 +1126,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.600Z",
-    "updatedAt": "2026-08-03T22:07:54.789Z"
+    "updatedAt": "2026-08-04T22:09:54.636Z"
   },
   {
     "id": "doc-kanpo-b9655d7c014c47bf",
@@ -1179,6 +1179,16 @@
     "createdAt": "2026-07-24T22:03:16.531Z"
   },
   {
+    "id": "doc-kanpo-c5df618e7c167fd8",
+    "title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則（人事院九－一七－一七八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260804/20260804g00175/20260804g001750003f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-04",
+    "createdAt": "2026-08-04T22:09:52.704Z"
+  },
+  {
     "id": "doc-kanpo-c668c4f7bb4461e5",
     "title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則（人事院九－一七－一七七）",
     "type": "kanpo",
@@ -1197,7 +1207,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.601Z",
-    "updatedAt": "2026-08-03T22:07:54.789Z"
+    "updatedAt": "2026-08-04T22:09:54.636Z"
   },
   {
     "id": "doc-kanpo-ce4a9bcc55943773",
@@ -1239,6 +1249,16 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-d3d03357539ea4f1",
+    "title": "総務省組織規則の一部を改正する省令（総務九八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260804/20260804g00175/20260804g001750001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-04",
+    "createdAt": "2026-08-04T22:09:52.704Z"
   },
   {
     "id": "doc-kanpo-d4c2b224bdf128ff",
@@ -1371,7 +1391,7 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z",
-    "updatedAt": "2026-08-03T22:07:53.840Z"
+    "updatedAt": "2026-08-04T22:09:53.674Z"
   },
   {
     "id": "doc-kanpo-eb40fc5c5af7712f",
@@ -1402,7 +1422,7 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.763Z",
-    "updatedAt": "2026-08-03T22:07:53.840Z"
+    "updatedAt": "2026-08-04T22:09:53.674Z"
   },
   {
     "id": "doc-kanpo-f2ef1b56deb89213",
@@ -1514,7 +1534,7 @@
     "source": "官報",
     "publishedAt": "2026-07-29",
     "createdAt": "2026-07-29T22:00:03.601Z",
-    "updatedAt": "2026-08-03T22:07:54.789Z"
+    "updatedAt": "2026-08-04T22:09:54.636Z"
   },
   {
     "id": "doc-kanpo-ffb6eb7805666aa4",
