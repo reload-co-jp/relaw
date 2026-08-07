@@ -11,6 +11,17 @@
     "updatedAt": "2026-07-28T22:06:04.359Z"
   },
   {
+    "id": "pc-060260805",
+    "title": "「安全基準等策定ガイドライン（案）」に関する意見の募集について",
+    "ministry": "内閣官房",
+    "status": "open",
+    "startAt": "2026-08-05",
+    "endAt": "2026-08-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=060260805&Mode=0",
+    "createdAt": "2026-08-07T01:03:39.484Z",
+    "updatedAt": "2026-08-07T01:03:39.484Z"
+  },
+  {
     "id": "pc-095260660",
     "title": "「重要電子計算機に対する不正な行為による被害の防止に関する法律に基づく特別社会基盤事業者による特定侵害事象等の報告等に関する命令の一部を改正する命令案」に関する意見の募集について",
     "ministry": "内閣府",
@@ -106,6 +117,16 @@
     "updatedAt": "2026-07-28T22:06:04.358Z"
   },
   {
+    "id": "pc-095260760",
+    "title": "フルインダピルに係る食品健康影響評価に関する審議結果（案）についての意見・情報の募集について",
+    "status": "result_published",
+    "startAt": "2026-08-05",
+    "endAt": "2026-09-03",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260760&Mode=0",
+    "createdAt": "2026-08-07T01:03:39.484Z",
+    "updatedAt": "2026-08-07T01:03:39.484Z"
+  },
+  {
     "id": "pc-110200065",
     "title": "「企業結合審査に関する独占禁止法の運用指針」の改定案に対する意見募集について",
     "ministry": "公正取引委員会",
@@ -137,6 +158,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=120260021&Mode=0",
     "createdAt": "2026-07-24T22:06:14.526Z",
     "updatedAt": "2026-07-24T22:06:14.526Z"
+  },
+  {
+    "id": "pc-120260022",
+    "title": "「警備業法施行規則の一部を改正する内閣府令案」等に対する意見の募集について",
+    "ministry": "警察庁",
+    "status": "open",
+    "startAt": "2026-08-07",
+    "endAt": "2026-09-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=120260022&Mode=0",
+    "createdAt": "2026-08-07T01:03:39.483Z",
+    "updatedAt": "2026-08-07T01:03:39.483Z"
   },
   {
     "id": "pc-141000231",
@@ -325,6 +357,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210748&Mode=0",
     "createdAt": "2026-07-11T21:50:29.550Z",
     "updatedAt": "2026-07-11T21:50:29.550Z"
+  },
+  {
+    "id": "pc-145210749",
+    "title": "電波法関係審査基準の一部を改正する訓令案に係る意見募集\n－グローバルスターシステムの新方式に向けた制度整備－",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-08-07",
+    "endAt": "2026-09-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210749&Mode=0",
+    "createdAt": "2026-08-07T01:03:39.483Z",
+    "updatedAt": "2026-08-07T01:03:39.483Z"
   },
   {
     "id": "pc-145210750",
@@ -634,6 +677,30 @@
     "updatedAt": "2026-08-05T22:14:17.631Z"
   },
   {
+    "id": "pc-155261227",
+    "title": "「東京国際空港外７か所機械設備保全業務における民間競争入札実施要項（案）」\nに係る意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-08-07",
+    "endAt": "2026-08-21",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261227&Mode=0",
+    "createdAt": "2026-08-07T01:03:39.483Z",
+    "updatedAt": "2026-08-07T01:03:39.483Z"
+  },
+  {
+    "id": "pc-170000250",
+    "title": "予備自衛官等の職務の円滑な遂行を図るための国家公務員及び地方公務員の兼業の特例に関する法律第三条第一項の規定による予備自衛官等の兼業に関する規則案に関する意見の募集について",
+    "ministry": "防衛省",
+    "status": "open",
+    "startAt": "2026-08-07",
+    "endAt": "2026-09-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=170000250&Mode=0",
+    "lawId": "law-508AC0000000040",
+    "relatedLawTitle": "予備自衛官等の職務の円滑な遂行を図るための国家公務員及び地方公務員の兼業の特例に関する法律",
+    "createdAt": "2026-08-07T01:03:39.483Z",
+    "updatedAt": "2026-08-07T01:03:39.483Z"
+  },
+  {
     "id": "pc-185001500",
     "title": "令和９年度医学部定員増に係る省令等の一部改正に関するパブリックコメント（意見公募手続）の実施について",
     "ministry": "文部科学省",
@@ -654,6 +721,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=185001501&Mode=0",
     "createdAt": "2026-07-28T22:06:04.358Z",
     "updatedAt": "2026-07-29T22:02:59.393Z"
+  },
+  {
+    "id": "pc-185001503",
+    "title": "スポーツ振興投票の実施等に関する法律施行規則（平成十年文部省令第三十九号）の一部を改正する省令案及びスポーツ振興投票の実施等に関する法律（平成十年法律第六十三号）第５条の２の組織を指定する告示の一部を改正する告示案に関するパブリックコメント（意見公募手続）の実施について",
+    "ministry": "スポーツ庁",
+    "status": "open",
+    "startAt": "2026-08-06",
+    "endAt": "2026-09-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=185001503&Mode=0",
+    "createdAt": "2026-08-07T01:03:39.483Z",
+    "updatedAt": "2026-08-07T01:03:39.483Z"
   },
   {
     "id": "pc-195260024",
@@ -1008,6 +1086,50 @@
     "updatedAt": "2026-07-07T00:39:11.948Z"
   },
   {
+    "id": "pc-395122515",
+    "title": "「株式会社国際協力銀行法施行令の一部を改正する政令案」に対する意見募集について",
+    "ministry": "財務省",
+    "status": "open",
+    "startAt": "2026-08-06",
+    "endAt": "2026-09-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=395122515&Mode=0",
+    "createdAt": "2026-08-07T01:03:39.483Z",
+    "updatedAt": "2026-08-07T01:03:39.483Z"
+  },
+  {
+    "id": "pc-395122516",
+    "title": "「株式会社国際協力銀行法施行規則案」に対する意見募集について",
+    "ministry": "財務省",
+    "status": "open",
+    "startAt": "2026-08-06",
+    "endAt": "2026-09-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=395122516&Mode=0",
+    "createdAt": "2026-08-07T01:03:39.483Z",
+    "updatedAt": "2026-08-07T01:03:39.483Z"
+  },
+  {
+    "id": "pc-395122517",
+    "title": "「認定特定海外事業促進業務指針（案）」に対する意見募集について",
+    "ministry": "財務省",
+    "status": "open",
+    "startAt": "2026-08-06",
+    "endAt": "2026-09-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=395122517&Mode=0",
+    "createdAt": "2026-08-07T01:03:39.483Z",
+    "updatedAt": "2026-08-07T01:03:39.483Z"
+  },
+  {
+    "id": "pc-395122518",
+    "title": "「株式会社国際協力銀行法施行令第五条の二第四号に規定する主務大臣が定める基準を定める件（案）」に対する意見募集について",
+    "ministry": "財務省",
+    "status": "open",
+    "startAt": "2026-08-06",
+    "endAt": "2026-09-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=395122518&Mode=0",
+    "createdAt": "2026-08-07T01:03:39.483Z",
+    "updatedAt": "2026-08-07T01:03:39.483Z"
+  },
+  {
     "id": "pc-495260102",
     "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第四十三条第一項の規定に基づき検査を要するものとして厚生労働大臣の指定する医薬品等の一部を改正する件（案）に関する御意見の募集について",
     "ministry": "厚生労働省",
@@ -1182,6 +1304,17 @@
     "updatedAt": "2026-08-01T21:56:33.979Z"
   },
   {
+    "id": "pc-495260126",
+    "title": "「ＯＴＣ類似薬の保険給付の見直しの実施に向けた中間とりまとめ」に関する意見公募の実施について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-06",
+    "endAt": "2026-08-20",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260126&Mode=0",
+    "createdAt": "2026-08-07T01:03:39.483Z",
+    "updatedAt": "2026-08-07T01:03:39.483Z"
+  },
+  {
     "id": "pc-495260127",
     "title": "医薬品の臨床試験の実施の基準に関する省令等の一部を改正する省令（案）に関する御意見の募集について",
     "ministry": "厚生労働省",
@@ -1191,6 +1324,16 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260127&Mode=0",
     "createdAt": "2026-08-01T21:56:33.979Z",
     "updatedAt": "2026-08-01T21:56:33.979Z"
+  },
+  {
+    "id": "pc-495260135",
+    "title": "国立研究開発法人医薬基盤・健康・栄養研究所法施行令等の一部を改正する政令案に関する御意見の募集について",
+    "status": "open",
+    "startAt": "2026-08-06",
+    "endAt": "2026-09-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260135&Mode=0",
+    "createdAt": "2026-08-07T01:03:39.483Z",
+    "updatedAt": "2026-08-07T01:03:39.483Z"
   },
   {
     "id": "pc-550004376",
@@ -1436,5 +1579,16 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620226021&Mode=0",
     "createdAt": "2026-07-25T21:57:47.556Z",
     "updatedAt": "2026-07-25T21:57:47.556Z"
+  },
+  {
+    "id": "pc-860202605",
+    "title": "救助隊の編成、装備及び配置の基準を定める省令の一部を改正する省令（案）等について",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-08-05",
+    "endAt": "2026-09-08",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=860202605&Mode=0",
+    "createdAt": "2026-08-07T01:03:39.484Z",
+    "updatedAt": "2026-08-07T01:03:39.484Z"
   }
 ]
