@@ -535,6 +535,18 @@
     "updatedAt": "2026-07-31T22:06:59.067Z"
   },
   {
+    "id": "pc-155260719",
+    "title": "建築物のエネルギー消費性能の向上等に関する法律施行令の一部を改正する政令案に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-08-07",
+    "endAt": "2026-09-06",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260719&Mode=0",
+    "billId": "bill-221-shugiin-483f8f170fb53b09",
+    "createdAt": "2026-08-08T21:30:50.831Z",
+    "updatedAt": "2026-08-08T21:30:50.831Z"
+  },
+  {
     "id": "pc-155260814",
     "title": "筑波観光鉄道株式会社の鉄道事業の旅客運賃上限変更認可申請について",
     "ministry": "国土交通省",
@@ -997,6 +1009,17 @@
     "updatedAt": "2026-08-01T21:56:33.979Z"
   },
   {
+    "id": "pc-225026060",
+    "title": "「主要行等向けの総合的な監督指針」等の一部改正（案）の公表について",
+    "ministry": "金融庁",
+    "status": "open",
+    "startAt": "2026-08-07",
+    "endAt": "2026-09-07",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=225026060&Mode=0",
+    "createdAt": "2026-08-08T21:30:50.831Z",
+    "updatedAt": "2026-08-08T21:30:50.831Z"
+  },
+  {
     "id": "pc-240000127",
     "title": "個人情報の保護に関する法律施行規則第八条第三項第一号及び第二号並びに第四十四条第三項並びに行政手続における特定の個人を識別するための番号の利用等に関する法律第二十九条の四第一項及び第二項に基づく特定個人情報の漏えい等に関する報告等に関する規則第三条第三項に規定する個人情報保護委員会が別に定める場合及びその方法を定める件の一部を改正する告示（案）に関する意見募集について",
     "ministry": "個人情報保護委員会",
@@ -1227,6 +1250,17 @@
     "updatedAt": "2026-07-18T21:52:50.952Z"
   },
   {
+    "id": "pc-495260112",
+    "title": "第二十改正日本薬局方作成基本方針(案)に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-08",
+    "endAt": "2026-09-07",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260112&Mode=0",
+    "createdAt": "2026-08-08T21:30:50.831Z",
+    "updatedAt": "2026-08-08T21:30:50.831Z"
+  },
+  {
     "id": "pc-495260114",
     "title": "栄養士法施行令等の一部を改正する政令案に関するご意見の募集について",
     "status": "open",
@@ -1326,6 +1360,18 @@
     "updatedAt": "2026-08-01T21:56:33.979Z"
   },
   {
+    "id": "pc-495260131",
+    "title": "健康保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令案に関するご意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-07",
+    "endAt": "2026-09-06",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260131&Mode=0",
+    "billId": "bill-219-shugiin-fd73ab4e63190c8b",
+    "createdAt": "2026-08-08T21:30:50.831Z",
+    "updatedAt": "2026-08-08T21:30:50.831Z"
+  },
+  {
     "id": "pc-495260135",
     "title": "国立研究開発法人医薬基盤・健康・栄養研究所法施行令等の一部を改正する政令案に関する御意見の募集について",
     "status": "open",
@@ -1334,6 +1380,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260135&Mode=0",
     "createdAt": "2026-08-07T01:03:39.483Z",
     "updatedAt": "2026-08-07T01:03:39.483Z"
+  },
+  {
+    "id": "pc-495260143",
+    "title": "化学物質による健康障害防止のための濃度の基準の適用等に関する技術上の指針の一部を改正する件（案）に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-07",
+    "endAt": "2026-09-06",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260143&Mode=0",
+    "createdAt": "2026-08-08T21:30:50.832Z",
+    "updatedAt": "2026-08-08T21:30:50.832Z"
   },
   {
     "id": "pc-550004376",
@@ -1535,6 +1592,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595226032&Mode=0",
     "createdAt": "2026-07-09T22:29:13.718Z",
     "updatedAt": "2026-07-09T22:29:13.718Z"
+  },
+  {
+    "id": "pc-595320005",
+    "title": "J－クレジット制度文書の改定案に対する意見の募集について",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-08-07",
+    "endAt": "2026-08-21",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320005&Mode=0",
+    "createdAt": "2026-08-08T21:30:50.831Z",
+    "updatedAt": "2026-08-08T21:30:50.831Z"
   },
   {
     "id": "pc-620226018",
