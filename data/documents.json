@@ -380,7 +380,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-09T21:30:15.304Z"
+    "updatedAt": "2026-08-10T21:39:15.017Z"
   },
   {
     "id": "doc-kanpo-0758b663678e3fe8",
@@ -391,7 +391,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.129Z",
-    "updatedAt": "2026-08-09T21:30:14.507Z"
+    "updatedAt": "2026-08-10T21:39:13.997Z"
   },
   {
     "id": "doc-kanpo-07643a6a45adce99",
@@ -442,7 +442,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.129Z",
-    "updatedAt": "2026-08-09T21:30:14.506Z"
+    "updatedAt": "2026-08-10T21:39:13.997Z"
   },
   {
     "id": "doc-kanpo-0f217694cb6504bb",
@@ -514,7 +514,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.130Z",
-    "updatedAt": "2026-08-09T21:30:14.507Z"
+    "updatedAt": "2026-08-10T21:39:13.997Z"
   },
   {
     "id": "doc-kanpo-1a011d4addec7db5",
@@ -525,7 +525,7 @@
     "source": "官報",
     "publishedAt": "2026-08-03",
     "createdAt": "2026-08-03T22:07:53.358Z",
-    "updatedAt": "2026-08-09T21:30:16.098Z"
+    "updatedAt": "2026-08-10T21:39:16.032Z"
   },
   {
     "id": "doc-kanpo-1b2f662013e21913",
@@ -597,7 +597,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.129Z",
-    "updatedAt": "2026-08-09T21:30:14.506Z"
+    "updatedAt": "2026-08-10T21:39:13.997Z"
   },
   {
     "id": "doc-kanpo-293b739268f3d0be",
@@ -708,7 +708,17 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-09T21:30:15.304Z"
+    "updatedAt": "2026-08-10T21:39:15.017Z"
+  },
+  {
+    "id": "doc-kanpo-40c77fddf8ffe0b7",
+    "title": "動物用医薬品等取締規則の一部を改正する省令（農林水産六四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260810/20260810h01765/20260810h017650002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-10",
+    "createdAt": "2026-08-10T21:39:13.483Z"
   },
   {
     "id": "doc-kanpo-47f6479ab9dea4f5",
@@ -892,7 +902,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.129Z",
-    "updatedAt": "2026-08-09T21:30:14.506Z"
+    "updatedAt": "2026-08-10T21:39:13.997Z"
   },
   {
     "id": "doc-kanpo-63e434cd56a39169",
@@ -974,7 +984,7 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z",
-    "updatedAt": "2026-08-09T21:30:16.500Z"
+    "updatedAt": "2026-08-10T21:39:16.550Z"
   },
   {
     "id": "doc-kanpo-6c65a7c3de6ef76d",
@@ -1025,7 +1035,7 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z",
-    "updatedAt": "2026-08-09T21:30:16.500Z"
+    "updatedAt": "2026-08-10T21:39:16.550Z"
   },
   {
     "id": "doc-kanpo-7a972be49fb5d235",
@@ -1047,7 +1057,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.129Z",
-    "updatedAt": "2026-08-09T21:30:14.507Z"
+    "updatedAt": "2026-08-10T21:39:13.997Z"
   },
   {
     "id": "doc-kanpo-7d7e83761acb2172",
@@ -1080,7 +1090,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.130Z",
-    "updatedAt": "2026-08-09T21:30:14.507Z"
+    "updatedAt": "2026-08-10T21:39:13.997Z"
   },
   {
     "id": "doc-kanpo-8799e6a79054cfd4",
@@ -1111,7 +1121,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-09T21:30:15.304Z"
+    "updatedAt": "2026-08-10T21:39:15.017Z"
   },
   {
     "id": "doc-kanpo-920d86b2013cd311",
@@ -1265,7 +1275,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-09T21:30:15.304Z"
+    "updatedAt": "2026-08-10T21:39:15.017Z"
   },
   {
     "id": "doc-kanpo-a9fe29a8bc65c5c6",
@@ -1286,7 +1296,17 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-09T21:30:15.304Z"
+    "updatedAt": "2026-08-10T21:39:15.017Z"
+  },
+  {
+    "id": "doc-kanpo-ab4bfac625df4376",
+    "title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整理に関する規則（国家公安委一七）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260810/20260810g00179/20260810g001790057f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-10",
+    "createdAt": "2026-08-10T21:39:13.483Z"
   },
   {
     "id": "doc-kanpo-ad87205849e7a20c",
@@ -1389,7 +1409,17 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-09T21:30:15.304Z"
+    "updatedAt": "2026-08-10T21:39:15.017Z"
+  },
+  {
+    "id": "doc-kanpo-be30c4d3d93202c9",
+    "title": "電気通信事業法施行規則等の一部を改正する省令（総務一〇七）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260810/20260810g00179/20260810g001790001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-10",
+    "createdAt": "2026-08-10T21:39:13.483Z"
   },
   {
     "id": "doc-kanpo-c14ca1e5bbb26d1d",
@@ -1494,6 +1524,17 @@
     "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
+    "id": "doc-kanpo-d3c91f347dd0137f",
+    "title": "独立行政法人国際交流基金に関する省令の一部を改正する省令（同二三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260810/20260810h01765/20260810h017650001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-10",
+    "createdAt": "2026-08-10T21:39:13.482Z",
+    "updatedAt": "2026-08-10T21:39:13.483Z"
+  },
+  {
     "id": "doc-kanpo-d3d03357539ea4f1",
     "title": "総務省組織規則の一部を改正する省令（総務九八）",
     "type": "kanpo",
@@ -1544,7 +1585,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-09T21:30:15.304Z"
+    "updatedAt": "2026-08-10T21:39:15.017Z"
   },
   {
     "id": "doc-kanpo-daa8259fdf92d7c0",
@@ -1575,7 +1616,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.055Z",
-    "updatedAt": "2026-08-09T21:30:15.304Z"
+    "updatedAt": "2026-08-10T21:39:15.017Z"
   },
   {
     "id": "doc-kanpo-dcb67202e999461f",
@@ -1596,7 +1637,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.130Z",
-    "updatedAt": "2026-08-09T21:30:14.507Z"
+    "updatedAt": "2026-08-10T21:39:13.997Z"
   },
   {
     "id": "doc-kanpo-e09994623142b6ba",
@@ -1617,7 +1658,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-09T21:30:15.304Z"
+    "updatedAt": "2026-08-10T21:39:15.017Z"
   },
   {
     "id": "doc-kanpo-e3e8c6991e1ee8e7",
@@ -1658,7 +1699,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T21:37:14.552Z",
-    "updatedAt": "2026-08-09T21:30:14.507Z"
+    "updatedAt": "2026-08-10T21:39:13.997Z"
   },
   {
     "id": "doc-kanpo-e67dd161670547a2",
@@ -1689,7 +1730,7 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z",
-    "updatedAt": "2026-08-09T21:30:16.500Z"
+    "updatedAt": "2026-08-10T21:39:16.550Z"
   },
   {
     "id": "doc-kanpo-eb40fc5c5af7712f",
@@ -1720,7 +1761,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.129Z",
-    "updatedAt": "2026-08-09T21:30:14.506Z"
+    "updatedAt": "2026-08-10T21:39:13.997Z"
   },
   {
     "id": "doc-kanpo-ef2a4e2545b78c15",
@@ -1741,7 +1782,7 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.763Z",
-    "updatedAt": "2026-08-09T21:30:16.500Z"
+    "updatedAt": "2026-08-10T21:39:16.550Z"
   },
   {
     "id": "doc-kanpo-f2ef1b56deb89213",
