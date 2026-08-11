@@ -127,6 +127,17 @@
     "updatedAt": "2026-08-07T01:03:39.484Z"
   },
   {
+    "id": "pc-095260770",
+    "title": "「特定重要物資の安定的な供給の確保に関する基本指針の変更案」の一部修正に関する御意見の募集について",
+    "ministry": "内閣府",
+    "status": "open",
+    "startAt": "2026-08-11",
+    "endAt": "2026-08-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260770&Mode=0",
+    "createdAt": "2026-08-11T21:45:54.263Z",
+    "updatedAt": "2026-08-11T21:45:54.263Z"
+  },
+  {
     "id": "pc-110200065",
     "title": "「企業結合審査に関する独占禁止法の運用指針」の改定案に対する意見募集について",
     "ministry": "公正取引委員会",
@@ -580,6 +591,17 @@
     "updatedAt": "2026-07-17T21:55:18.289Z"
   },
   {
+    "id": "pc-155260816",
+    "title": "南阿蘇鉄道株式会社の鉄道事業の旅客運賃上限変更認可申請に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-08-10",
+    "endAt": "2026-08-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260816&Mode=0",
+    "createdAt": "2026-08-11T21:45:54.264Z",
+    "updatedAt": "2026-08-11T21:45:54.264Z"
+  },
+  {
     "id": "pc-155260924",
     "title": "道路運送法等違反に対する行政処分等の基準の改正案に関する意見募集について",
     "ministry": "国土交通省",
@@ -687,6 +709,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261224&Mode=0",
     "createdAt": "2026-08-01T21:56:33.979Z",
     "updatedAt": "2026-08-01T21:56:33.979Z"
+  },
+  {
+    "id": "pc-155261225",
+    "title": "「無人航空機の飛行に関する許可・承認の審査要領（カテゴリーII飛行）」の一部改正（案）に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-08-10",
+    "endAt": "2026-09-09",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261225&Mode=0",
+    "createdAt": "2026-08-11T21:45:54.264Z",
+    "updatedAt": "2026-08-11T21:45:54.264Z"
   },
   {
     "id": "pc-155261226",
@@ -1416,14 +1449,14 @@
   },
   {
     "id": "pc-495260144",
-    "title": "医療法施行規則第三十条の三十三の六第一項の規定に基づき厚生労働大臣が定める方法等の一部を改正する告示案について",
+    "title": "医療法施行規則第三十条の三十三の六第一項の規定に基づき厚生労働大臣が定 める方法等の一部を改正する告示案に関する御意見の募集について",
     "ministry": "厚生労働省",
     "status": "open",
     "startAt": "2026-08-08",
     "endAt": "2026-09-07",
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260144&Mode=0",
     "createdAt": "2026-08-09T21:32:43.567Z",
-    "updatedAt": "2026-08-09T21:32:43.567Z"
+    "updatedAt": "2026-08-11T21:45:54.264Z"
   },
   {
     "id": "pc-550004376",
@@ -1638,6 +1671,17 @@
     "updatedAt": "2026-08-08T21:30:50.831Z"
   },
   {
+    "id": "pc-595320006",
+    "title": "「ワシントン条約に基づく輸入許可書の申請手続等について」等の一部改正案等（ヨーロッパウナギの取扱い変更に伴う改正等）に対する意見募集について",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-08-10",
+    "endAt": "2026-09-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320006&Mode=0",
+    "createdAt": "2026-08-11T21:45:54.264Z",
+    "updatedAt": "2026-08-11T21:45:54.264Z"
+  },
+  {
     "id": "pc-620226018",
     "title": "ベースロード市場ガイドライン（案）に対する意見募集",
     "ministry": "経済産業省",
@@ -1680,6 +1724,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620226021&Mode=0",
     "createdAt": "2026-07-25T21:57:47.556Z",
     "updatedAt": "2026-07-25T21:57:47.556Z"
+  },
+  {
+    "id": "pc-620340000",
+    "title": "「経済産業省特定業種石油等消費統計調査票の様式を定める件の一部を改正する告示（案）」に対する意見募集について",
+    "ministry": "資源エネルギー庁",
+    "status": "open",
+    "startAt": "2026-08-10",
+    "endAt": "2026-09-09",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340000&Mode=0",
+    "createdAt": "2026-08-11T21:45:54.264Z",
+    "updatedAt": "2026-08-11T21:45:54.264Z"
+  },
+  {
+    "id": "pc-630300000",
+    "title": "「審判便覧」改定案に対する意見募集の実施について",
+    "ministry": "特許庁",
+    "status": "open",
+    "startAt": "2026-08-10",
+    "endAt": "2026-09-11",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=630300000&Mode=0",
+    "createdAt": "2026-08-11T21:45:54.264Z",
+    "updatedAt": "2026-08-11T21:45:54.264Z"
   },
   {
     "id": "pc-860202605",
