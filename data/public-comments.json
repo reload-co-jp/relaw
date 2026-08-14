@@ -679,6 +679,17 @@
     "updatedAt": "2026-07-28T22:06:04.358Z"
   },
   {
+    "id": "pc-155261031",
+    "title": "先進船舶の導入等の促進に関する基本方針の一部を改正する告示案に対する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-08-13",
+    "endAt": "2026-09-14",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261031&Mode=0",
+    "createdAt": "2026-08-14T21:25:49.984Z",
+    "updatedAt": "2026-08-14T21:25:49.984Z"
+  },
+  {
     "id": "pc-155261221",
     "title": "「部品等脱落防止措置に関する技術基準細則」の一部改正に関する意見募集について",
     "status": "open",
@@ -1436,6 +1447,18 @@
     "billId": "bill-219-shugiin-fd73ab4e63190c8b",
     "createdAt": "2026-08-08T21:30:50.831Z",
     "updatedAt": "2026-08-08T21:30:50.831Z"
+  },
+  {
+    "id": "pc-495260132",
+    "title": "健康保険法等の一部を改正する法律の一部の施行に伴う関係省令の整備に関する省令案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-13",
+    "endAt": "2026-09-12",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260132&Mode=0",
+    "billId": "bill-219-shugiin-fd73ab4e63190c8b",
+    "createdAt": "2026-08-14T21:25:49.983Z",
+    "updatedAt": "2026-08-14T21:25:49.983Z"
   },
   {
     "id": "pc-495260135",

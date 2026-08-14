@@ -380,7 +380,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-13T21:42:22.212Z"
+    "updatedAt": "2026-08-14T21:23:00.997Z"
   },
   {
     "id": "doc-kanpo-0758b663678e3fe8",
@@ -391,7 +391,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.129Z",
-    "updatedAt": "2026-08-13T21:42:21.375Z"
+    "updatedAt": "2026-08-14T21:23:00.034Z"
   },
   {
     "id": "doc-kanpo-07643a6a45adce99",
@@ -442,7 +442,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.129Z",
-    "updatedAt": "2026-08-13T21:42:21.375Z"
+    "updatedAt": "2026-08-14T21:23:00.034Z"
   },
   {
     "id": "doc-kanpo-0f217694cb6504bb",
@@ -514,7 +514,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.130Z",
-    "updatedAt": "2026-08-13T21:42:21.375Z"
+    "updatedAt": "2026-08-14T21:23:00.034Z"
   },
   {
     "id": "doc-kanpo-1a011d4addec7db5",
@@ -597,7 +597,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.129Z",
-    "updatedAt": "2026-08-13T21:42:21.375Z"
+    "updatedAt": "2026-08-14T21:23:00.034Z"
   },
   {
     "id": "doc-kanpo-293b739268f3d0be",
@@ -708,7 +708,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-13T21:42:22.212Z"
+    "updatedAt": "2026-08-14T21:23:00.997Z"
   },
   {
     "id": "doc-kanpo-40c77fddf8ffe0b7",
@@ -902,7 +902,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.129Z",
-    "updatedAt": "2026-08-13T21:42:21.375Z"
+    "updatedAt": "2026-08-14T21:23:00.034Z"
   },
   {
     "id": "doc-kanpo-63e434cd56a39169",
@@ -1027,6 +1027,16 @@
     "createdAt": "2026-07-15T21:59:10.733Z"
   },
   {
+    "id": "doc-kanpo-7262b3b009e493b4",
+    "title": "広域的運営推進機関に関する省令の一部を改正する省令（経済産業六九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260814/20260814h01768/20260814h017680002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-14",
+    "createdAt": "2026-08-14T21:22:58.107Z"
+  },
+  {
     "id": "doc-kanpo-7a1c3a0076354880",
     "title": "国民年金法施行規則の一部を改正する省令（同一二一）",
     "type": "kanpo",
@@ -1057,7 +1067,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.129Z",
-    "updatedAt": "2026-08-13T21:42:21.375Z"
+    "updatedAt": "2026-08-14T21:23:00.034Z"
   },
   {
     "id": "doc-kanpo-7d7e83761acb2172",
@@ -1090,7 +1100,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.130Z",
-    "updatedAt": "2026-08-13T21:42:21.375Z"
+    "updatedAt": "2026-08-14T21:23:00.034Z"
   },
   {
     "id": "doc-kanpo-8799e6a79054cfd4",
@@ -1121,7 +1131,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-13T21:42:22.212Z"
+    "updatedAt": "2026-08-14T21:23:00.997Z"
   },
   {
     "id": "doc-kanpo-920d86b2013cd311",
@@ -1275,7 +1285,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-13T21:42:22.212Z"
+    "updatedAt": "2026-08-14T21:23:00.997Z"
   },
   {
     "id": "doc-kanpo-a9fe29a8bc65c5c6",
@@ -1296,7 +1306,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-13T21:42:22.212Z"
+    "updatedAt": "2026-08-14T21:23:00.997Z"
   },
   {
     "id": "doc-kanpo-ab4bfac625df4376",
@@ -1409,7 +1419,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-13T21:42:22.212Z"
+    "updatedAt": "2026-08-14T21:23:00.997Z"
   },
   {
     "id": "doc-kanpo-be30c4d3d93202c9",
@@ -1430,6 +1440,16 @@
     "source": "官報",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-07-24T22:03:16.531Z"
+  },
+  {
+    "id": "doc-kanpo-c1be267bf3dbe4cb",
+    "title": "医師法施行規則等の一部を改正する省令（厚生労働一二八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260814/20260814g00182/20260814g001820001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-14",
+    "createdAt": "2026-08-14T21:22:58.108Z"
   },
   {
     "id": "doc-kanpo-c491124f3060be53",
@@ -1532,7 +1552,7 @@
     "source": "官報",
     "publishedAt": "2026-08-10",
     "createdAt": "2026-08-10T21:39:13.482Z",
-    "updatedAt": "2026-08-13T21:42:20.953Z"
+    "updatedAt": "2026-08-14T21:22:59.549Z"
   },
   {
     "id": "doc-kanpo-d3d03357539ea4f1",
@@ -1585,7 +1605,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-13T21:42:22.212Z"
+    "updatedAt": "2026-08-14T21:23:00.997Z"
   },
   {
     "id": "doc-kanpo-daa8259fdf92d7c0",
@@ -1626,7 +1646,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.055Z",
-    "updatedAt": "2026-08-13T21:42:22.212Z"
+    "updatedAt": "2026-08-14T21:23:00.997Z"
   },
   {
     "id": "doc-kanpo-dcb67202e999461f",
@@ -1647,7 +1667,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.130Z",
-    "updatedAt": "2026-08-13T21:42:21.375Z"
+    "updatedAt": "2026-08-14T21:23:00.034Z"
   },
   {
     "id": "doc-kanpo-e09994623142b6ba",
@@ -1668,7 +1688,7 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
-    "updatedAt": "2026-08-13T21:42:22.212Z"
+    "updatedAt": "2026-08-14T21:23:00.997Z"
   },
   {
     "id": "doc-kanpo-e3e8c6991e1ee8e7",
@@ -1709,7 +1729,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T21:37:14.552Z",
-    "updatedAt": "2026-08-13T21:42:21.375Z"
+    "updatedAt": "2026-08-14T21:23:00.034Z"
   },
   {
     "id": "doc-kanpo-e67dd161670547a2",
@@ -1771,7 +1791,7 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.129Z",
-    "updatedAt": "2026-08-13T21:42:21.375Z"
+    "updatedAt": "2026-08-14T21:23:00.034Z"
   },
   {
     "id": "doc-kanpo-ef2a4e2545b78c15",
