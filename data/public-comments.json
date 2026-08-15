@@ -635,6 +635,17 @@
     "updatedAt": "2026-07-31T22:06:59.067Z"
   },
   {
+    "id": "pc-155260926",
+    "title": "「旅客自動車運送事業運輸規則及び国土交通省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令案」に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-08-14",
+    "endAt": "2026-09-13",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260926&Mode=0",
+    "createdAt": "2026-08-15T21:21:43.250Z",
+    "updatedAt": "2026-08-15T21:21:43.250Z"
+  },
+  {
     "id": "pc-155261027",
     "title": "「船員法施行規則等の一部を改正する省令案」に関する意見募集について",
     "ministry": "国土交通省",
@@ -1493,6 +1504,17 @@
     "updatedAt": "2026-08-11T21:45:54.264Z"
   },
   {
+    "id": "pc-495260147",
+    "title": "雇用保険法施行規則の一部を改正する省令案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-15",
+    "endAt": "2026-09-13",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260147&Mode=0",
+    "createdAt": "2026-08-15T21:21:43.250Z",
+    "updatedAt": "2026-08-15T21:21:43.250Z"
+  },
+  {
     "id": "pc-550004376",
     "title": "農業信用保証保険法施行規則の一部を改正する命令案についての意見・情報の募集について",
     "ministry": "農林水産省",
@@ -1769,6 +1791,39 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340000&Mode=0",
     "createdAt": "2026-08-11T21:45:54.264Z",
     "updatedAt": "2026-08-11T21:45:54.264Z"
+  },
+  {
+    "id": "pc-620340003",
+    "title": "ガスシステム改革の検証結果と今後の方向性（案）に対する意見公募について",
+    "ministry": "資源エネルギー庁",
+    "status": "result_published",
+    "startAt": "2026-08-14",
+    "endAt": "2026-09-15",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340003&Mode=0",
+    "createdAt": "2026-08-15T21:21:43.251Z",
+    "updatedAt": "2026-08-15T21:21:43.251Z"
+  },
+  {
+    "id": "pc-620340004",
+    "title": "再生可能エネルギー電気の利用の促進に関する特別措置法施行規則の改正案に対する意見公募について",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-08-14",
+    "endAt": "2026-09-12",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340004&Mode=0",
+    "createdAt": "2026-08-15T21:21:43.250Z",
+    "updatedAt": "2026-08-15T21:21:43.250Z"
+  },
+  {
+    "id": "pc-620340005",
+    "title": "事業計画策定ガイドライン（風力発電）の改正案に対する意見公募について",
+    "ministry": "資源エネルギー庁",
+    "status": "open",
+    "startAt": "2026-08-14",
+    "endAt": "2026-09-12",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340005&Mode=0",
+    "createdAt": "2026-08-15T21:21:43.251Z",
+    "updatedAt": "2026-08-15T21:21:43.251Z"
   },
   {
     "id": "pc-630300000",
