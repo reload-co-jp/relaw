@@ -1582,7 +1582,7 @@
     "source": "官報",
     "publishedAt": "2026-08-10",
     "createdAt": "2026-08-10T21:39:13.482Z",
-    "updatedAt": "2026-08-18T21:21:46.863Z"
+    "updatedAt": "2026-08-19T21:23:08.125Z"
   },
   {
     "id": "doc-kanpo-d3d03357539ea4f1",
@@ -2129,6 +2129,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-08-03T22:10:39.779Z"
+  },
+  {
+    "id": "doc-kokkai-2381011e0af8fc00",
+    "billId": "bill-221-shugiin-d1825e726f9145ea",
+    "title": "第221回国会 衆議院 厚生労働委員会 第20号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104260X02020260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-19T21:25:47.144Z"
   },
   {
     "id": "doc-kokkai-239128736a7c935e",
