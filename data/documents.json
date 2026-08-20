@@ -1896,6 +1896,16 @@
     "createdAt": "2026-07-30T22:04:23.774Z"
   },
   {
+    "id": "doc-kanpo-f7402388a67b37cc",
+    "title": "栄養士法施行規則等の一部を改正する省令（厚生労働一三二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260820/20260820g00186/20260820g001860001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-20",
+    "createdAt": "2026-08-20T21:25:41.812Z"
+  },
+  {
     "id": "doc-kanpo-f8f79bd5d700538e",
     "title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律（六四）",
     "type": "kanpo",
@@ -2063,6 +2073,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-19",
     "createdAt": "2026-07-07T00:39:09.916Z"
+  },
+  {
+    "id": "doc-kokkai-1a7ccbd0cb51d3d5",
+    "billId": "bill-221-sangiin-caeb9e707b294329",
+    "title": "第221回国会 衆議院 国土交通委員会 第14号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104319X01420260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-20T21:27:52.605Z"
   },
   {
     "id": "doc-kokkai-1c7dfc83e700ae5a",
@@ -2305,6 +2326,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-09",
     "createdAt": "2026-07-07T00:38:52.097Z"
+  },
+  {
+    "id": "doc-kokkai-3863d90139da1fac",
+    "billId": "bill-221-shugiin-738becd622201f8c",
+    "title": "第221回国会 衆議院 政治改革に関する特別委員会 第9号 (2026-06-29)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104575X00920260629",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-06-29",
+    "createdAt": "2026-08-20T21:28:10.196Z"
   },
   {
     "id": "doc-kokkai-39d8c4ecf47e8075",

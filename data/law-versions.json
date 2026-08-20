@@ -2664,6 +2664,18 @@
     "createdAt": "2026-07-17T21:52:24.257Z"
   },
   {
+    "id": "version-508CO0000000254_20260808_000000000000000",
+    "lawId": "law-508CO0000000254",
+    "versionLabel": "制定時",
+    "amendmentLawNumber": null,
+    "amendmentLawTitle": null,
+    "promulgatedAt": "2026-08-07",
+    "enforcedAt": "2026-08-08",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508CO0000000254",
+    "createdAt": "2026-08-20T21:25:38.859Z"
+  },
+  {
     "id": "version-508M60000002016_20261001_000000000000000",
     "lawId": "law-508M60000002016",
     "versionLabel": "制定時",

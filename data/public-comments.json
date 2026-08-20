@@ -460,6 +460,28 @@
     "updatedAt": "2026-08-01T21:56:33.978Z"
   },
   {
+    "id": "pc-145210765",
+    "title": "郵便法施行規則等の一部を改正する省令案等に対する意見募集",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-08-20",
+    "endAt": "2026-09-18",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210765&Mode=0",
+    "createdAt": "2026-08-20T21:28:30.647Z",
+    "updatedAt": "2026-08-20T21:28:30.647Z"
+  },
+  {
+    "id": "pc-145210767",
+    "title": "利用者情報ワーキンググループ第２次報告書（案）（利用者情報に係る外部送信規律の遵守に係る方策について）",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-08-20",
+    "endAt": "2026-09-18",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210767&Mode=0",
+    "createdAt": "2026-08-20T21:28:30.647Z",
+    "updatedAt": "2026-08-20T21:28:30.647Z"
+  },
+  {
     "id": "pc-155260103",
     "title": "「地域公共交通の活性化及び再生の促進に関する基本方針」の一部変更案に関する意見募集について",
     "status": "open",
@@ -1108,6 +1130,17 @@
     "updatedAt": "2026-08-08T21:30:50.831Z"
   },
   {
+    "id": "pc-235110033",
+    "title": "「食品、添加物等の規格基準の一部を改正する告示（案）」（農薬等（イミダクロプリド等５品目）の残留基準の改正）に関する御意見の募集について",
+    "ministry": "消費者庁",
+    "status": "open",
+    "startAt": "2026-08-20",
+    "endAt": "2026-09-18",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=235110033&Mode=0",
+    "createdAt": "2026-08-20T21:28:30.647Z",
+    "updatedAt": "2026-08-20T21:28:30.647Z"
+  },
+  {
     "id": "pc-240000127",
     "title": "個人情報の保護に関する法律施行規則第八条第三項第一号及び第二号並びに第四十四条第三項並びに行政手続における特定の個人を識別するための番号の利用等に関する法律第二十九条の四第一項及び第二項に基づく特定個人情報の漏えい等に関する報告等に関する規則第三条第三項に規定する個人情報保護委員会が別に定める場合及びその方法を定める件の一部を改正する告示（案）に関する意見募集について",
     "ministry": "個人情報保護委員会",
@@ -1504,6 +1537,17 @@
     "updatedAt": "2026-08-11T21:45:54.264Z"
   },
   {
+    "id": "pc-495260146",
+    "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第四条第五項第三号の規定に基づき厚生労働大臣が指定する要指導医薬品の一部を改正する件（案）に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-20",
+    "endAt": "2026-09-20",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260146&Mode=0",
+    "createdAt": "2026-08-20T21:28:30.648Z",
+    "updatedAt": "2026-08-20T21:28:30.648Z"
+  },
+  {
     "id": "pc-495260147",
     "title": "雇用保険法施行規則の一部を改正する省令案に関する御意見の募集について",
     "ministry": "厚生労働省",
@@ -1649,6 +1693,28 @@
     "billId": "bill-221-shugiin-cf91b8d6f87f4db2",
     "createdAt": "2026-08-17T21:26:06.221Z",
     "updatedAt": "2026-08-17T21:26:06.221Z"
+  },
+  {
+    "id": "pc-550004393",
+    "title": "租税特別措置法施行令第二十五条の十七第七項第二号イ、ロ⑵、ホ及びヘの規定に基づき、 内閣総理大臣、総務大臣、財務大臣、文部科学大臣、厚生労働大臣、農林水産大臣、経済産業大臣、国土交通大臣及び環境大臣が財務大臣と協議して定める業務、事業、事務、方法及び所轄庁を定める件の一部を改正する告示案についての意見・情報の募集について",
+    "status": "open",
+    "startAt": "2026-08-20",
+    "endAt": "2026-09-18",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004393&Mode=0",
+    "createdAt": "2026-08-20T21:28:30.648Z",
+    "updatedAt": "2026-08-20T21:28:30.648Z"
+  },
+  {
+    "id": "pc-550004394",
+    "title": "平成十四年農林水産省告示第千百八十四号（農業近代化資金融通法施行令第一条第九号の規定に基づき、同号の農林水産大臣の定める事項及び農林水産大臣の定める基準を定める件）等の一部を改正する告示案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-08-20",
+    "endAt": "2026-09-06",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004394&Mode=0",
+    "billId": "bill-221-shugiin-cf91b8d6f87f4db2",
+    "createdAt": "2026-08-20T21:28:30.647Z",
+    "updatedAt": "2026-08-20T21:28:30.647Z"
   },
   {
     "id": "pc-595126108",
