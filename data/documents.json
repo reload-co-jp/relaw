@@ -2042,6 +2042,17 @@
     "createdAt": "2026-07-07T00:38:02.557Z"
   },
   {
+    "id": "doc-kokkai-0e438c66fb46a04d",
+    "billId": "bill-221-shugiin-738becd622201f8c",
+    "title": "第221回国会 衆議院 本会議 第35号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122105254X03520260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-21T21:24:08.878Z"
+  },
+  {
     "id": "doc-kokkai-10a6b4eeeeefb9fc",
     "billId": "bill-221-shugiin-b2e04dc4061d4a81",
     "title": "第221回国会 衆議院 農林水産委員会 第15号 (2026-06-16)",
