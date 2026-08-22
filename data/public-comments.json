@@ -482,6 +482,17 @@
     "updatedAt": "2026-08-20T21:28:30.647Z"
   },
   {
+    "id": "pc-145210769",
+    "title": "IPネットワーク設備委員会報告（案）に対する意見募集－「ネットワークのIP化に対応した電気通信設備に係る技術的条件」のうち「仮想化・他者設備利用の進展に対応した電気通信設備に係る技術的条件」－",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-08-22",
+    "endAt": "2026-09-25",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210769&Mode=0",
+    "createdAt": "2026-08-22T21:22:27.336Z",
+    "updatedAt": "2026-08-22T21:22:27.336Z"
+  },
+  {
     "id": "pc-155260103",
     "title": "「地域公共交通の活性化及び再生の促進に関する基本方針」の一部変更案に関する意見募集について",
     "status": "open",
@@ -666,6 +677,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260926&Mode=0",
     "createdAt": "2026-08-15T21:21:43.250Z",
     "updatedAt": "2026-08-15T21:21:43.250Z"
+  },
+  {
+    "id": "pc-155260927",
+    "title": "道路運送車両の保安基準等の一部を改正する省令案及び道路運送車両の保安基準の細目を定める告示等の一部を改正する告示案について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-08-21",
+    "endAt": "2026-09-20",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260927&Mode=0",
+    "createdAt": "2026-08-22T21:22:27.337Z",
+    "updatedAt": "2026-08-22T21:22:27.337Z"
   },
   {
     "id": "pc-155260928",
@@ -1602,6 +1624,17 @@
     "updatedAt": "2026-08-15T21:21:43.250Z"
   },
   {
+    "id": "pc-495260158",
+    "title": "事業場における労働者の健康保持増進のための指針の一部を改正する件（案）に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-21",
+    "endAt": "2026-09-20",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260158&Mode=0",
+    "createdAt": "2026-08-22T21:22:27.337Z",
+    "updatedAt": "2026-08-22T21:22:27.337Z"
+  },
+  {
     "id": "pc-550004376",
     "title": "農業信用保証保険法施行規則の一部を改正する命令案についての意見・情報の募集について",
     "ministry": "農林水産省",
@@ -1879,6 +1912,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320008&Mode=0",
     "createdAt": "2026-08-21T21:24:24.928Z",
     "updatedAt": "2026-08-21T21:24:24.928Z"
+  },
+  {
+    "id": "pc-595320010",
+    "title": "経済産業省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令の一部を改正する省令案について（案）",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-08-21",
+    "endAt": "2026-09-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320010&Mode=0",
+    "createdAt": "2026-08-22T21:22:27.337Z",
+    "updatedAt": "2026-08-22T21:22:27.337Z"
   },
   {
     "id": "pc-620226018",
