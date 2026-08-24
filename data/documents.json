@@ -1287,6 +1287,16 @@
     "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
+    "id": "doc-kanpo-a8628ee82c45cf67",
+    "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則の一部を改正する省令（厚生労働一三三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260824/20260824h01774/20260824h017740001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-24",
+    "createdAt": "2026-08-24T21:26:27.338Z"
+  },
+  {
     "id": "doc-kanpo-a968fdd314149dbe",
     "title": "経済産業省関係産業競争力強化法施行規則及び株式会社東日本大震災事業者再生支援機構法第五十九条第一項の要件を定める省令の一部を改正する省令（経済産業六三）",
     "type": "kanpo",
@@ -2042,6 +2052,17 @@
     "createdAt": "2026-07-07T00:38:02.557Z"
   },
   {
+    "id": "doc-kokkai-0d6bc24ed6371f25",
+    "billId": "bill-221-shugiin-738becd622201f8c",
+    "title": "第221回国会 衆議院 政治改革に関する特別委員会 第12号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104575X01220260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-24T21:29:02.682Z"
+  },
+  {
     "id": "doc-kokkai-0e438c66fb46a04d",
     "billId": "bill-221-shugiin-738becd622201f8c",
     "title": "第221回国会 衆議院 本会議 第35号 (2026-07-24)",
@@ -2073,6 +2094,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-05-12",
     "createdAt": "2026-07-07T00:38:01.714Z"
+  },
+  {
+    "id": "doc-kokkai-17a709619cd4276b",
+    "billId": "bill-221-shugiin-426ee0047ccd63e6",
+    "title": "第221回国会 衆議院 総務委員会 第15号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104601X01520260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-24T21:28:56.841Z"
   },
   {
     "id": "doc-kokkai-19002c0339150d3f",
@@ -2713,6 +2745,17 @@
     "createdAt": "2026-07-07T00:38:01.714Z"
   },
   {
+    "id": "doc-kokkai-6bf9ac412e29e249",
+    "billId": "bill-221-sangiin-7ee6e626b8ad694e",
+    "title": "第221回国会 衆議院 政治改革に関する特別委員会 第12号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104575X01220260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-24T21:28:41.061Z"
+  },
+  {
     "id": "doc-kokkai-6d5e694335b8d1c5",
     "billId": "bill-221-shugiin-94ca35289fa8a2ac",
     "title": "第221回国会 衆議院 本会議 第20号 (2026-05-26)",
@@ -2922,6 +2965,17 @@
     "createdAt": "2026-07-07T00:38:39.501Z"
   },
   {
+    "id": "doc-kokkai-96ad7a1601b33b99",
+    "billId": "bill-221-shugiin-bcf1f1dc9f4a1fa1",
+    "title": "第221回国会 衆議院 政治改革に関する特別委員会 第12号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104575X01220260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-24T21:29:11.392Z"
+  },
+  {
     "id": "doc-kokkai-9c8a7f3edadf66ca",
     "billId": "bill-221-shugiin-b09d45b89c9c7fd2",
     "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
@@ -2931,6 +2985,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-07-30T22:06:43.856Z"
+  },
+  {
+    "id": "doc-kokkai-9df919749940e5e9",
+    "billId": "bill-221-shugiin-4700f1a7e8350247",
+    "title": "第221回国会 衆議院 総務委員会 第15号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104601X01520260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-24T21:28:58.188Z"
   },
   {
     "id": "doc-kokkai-9f173b929e37582e",
@@ -3109,6 +3174,17 @@
     "createdAt": "2026-07-30T22:06:33.216Z"
   },
   {
+    "id": "doc-kokkai-be1c87480a728ee5",
+    "billId": "bill-221-shugiin-738becd622201f8c",
+    "title": "第221回国会 衆議院 政治改革に関する特別委員会 第11号 (2026-07-01)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104575X01120260701",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-01",
+    "createdAt": "2026-08-24T21:29:02.682Z"
+  },
+  {
     "id": "doc-kokkai-c2f059916adfc2de",
     "billId": "bill-221-cas-dfc6ce6332f6bfec",
     "title": "第221回国会 衆議院 議院運営委員会 第16号 (2026-04-14)",
@@ -3129,6 +3205,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-05-21",
     "createdAt": "2026-07-07T00:38:34.794Z"
+  },
+  {
+    "id": "doc-kokkai-c6513aa5284fa01e",
+    "billId": "bill-221-shugiin-738becd622201f8c",
+    "title": "第221回国会 衆議院 政治改革に関する特別委員会 第10号 (2026-06-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104575X01020260630",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-06-30",
+    "createdAt": "2026-08-24T21:29:02.682Z"
   },
   {
     "id": "doc-kokkai-c93d02248f00ffe3",
@@ -3349,6 +3436,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-10",
     "createdAt": "2026-07-17T21:54:49.854Z"
+  },
+  {
+    "id": "doc-kokkai-f747f498dd156ce3",
+    "billId": "bill-221-shugiin-229a14dd24fc7402",
+    "title": "第221回国会 衆議院 政治改革に関する特別委員会 第12号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104575X01220260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-24T21:28:54.802Z"
   },
   {
     "id": "doc-kokkai-fce7989d26e4996d",
