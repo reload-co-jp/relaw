@@ -460,6 +460,17 @@
     "updatedAt": "2026-08-01T21:56:33.978Z"
   },
   {
+    "id": "pc-145210763",
+    "title": "「消費者保護ルール実施状況のモニタリング2026年度調査計画」（案）に対する意見募集",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-08-25",
+    "endAt": "2026-09-25",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210763&Mode=0",
+    "createdAt": "2026-08-25T21:28:15.784Z",
+    "updatedAt": "2026-08-25T21:28:15.784Z"
+  },
+  {
     "id": "pc-145210765",
     "title": "郵便法施行規則等の一部を改正する省令案等に対する意見募集",
     "ministry": "総務省",
@@ -483,14 +494,14 @@
   },
   {
     "id": "pc-145210769",
-    "title": "IPネットワーク設備委員会報告（案）に対する意見募集－「ネットワークのIP化に対応した電気通信設備に係る技術的条件」のうち「仮想化・他者設備利用の進展に対応した電気通信設備に係る技術的条件」－",
+    "title": "IPネットワーク設備委員会報告（案）に対する意見募集-「ネットワークのIP化に対応した電気通信設備に係る技術的条件」のうち「仮想化・他者設備利用の進展に対応した電気通信設備に係る技術的条件」-",
     "ministry": "総務省",
     "status": "open",
     "startAt": "2026-08-22",
     "endAt": "2026-09-25",
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210769&Mode=0",
     "createdAt": "2026-08-22T21:22:27.336Z",
-    "updatedAt": "2026-08-22T21:22:27.336Z"
+    "updatedAt": "2026-08-25T21:28:15.785Z"
   },
   {
     "id": "pc-155260103",
@@ -831,6 +842,17 @@
     "updatedAt": "2026-08-07T01:03:39.483Z"
   },
   {
+    "id": "pc-155261228",
+    "title": "「事業場認定に関する一般方針」等の一部改正に対する意見公募について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-08-25",
+    "endAt": "2026-09-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261228&Mode=0",
+    "createdAt": "2026-08-25T21:28:15.785Z",
+    "updatedAt": "2026-08-25T21:28:15.785Z"
+  },
+  {
     "id": "pc-170000250",
     "title": "予備自衛官等の職務の円滑な遂行を図るための国家公務員及び地方公務員の兼業の特例に関する法律第三条第一項の規定による予備自衛官等の兼業に関する規則案に関する意見の募集について",
     "ministry": "防衛省",
@@ -1040,6 +1062,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260050&Mode=0",
     "createdAt": "2026-08-24T21:29:20.778Z",
     "updatedAt": "2026-08-24T21:29:20.778Z"
+  },
+  {
+    "id": "pc-195260051",
+    "title": "「環境影響評価法施行令の一部を改正する政令案」等に関する意見の募集（パブリックコメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-08-25",
+    "endAt": "2026-09-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260051&Mode=0",
+    "createdAt": "2026-08-25T21:28:15.785Z",
+    "updatedAt": "2026-08-25T21:28:15.785Z"
   },
   {
     "id": "pc-198026102",
@@ -1657,6 +1690,51 @@
     "updatedAt": "2026-08-15T21:21:43.250Z"
   },
   {
+    "id": "pc-495260150",
+    "title": "「厚生労働省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令の一部を改正する省令案」に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-24",
+    "endAt": "2026-09-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260150&Mode=0",
+    "createdAt": "2026-08-25T21:28:15.785Z",
+    "updatedAt": "2026-08-25T21:28:15.785Z"
+  },
+  {
+    "id": "pc-495260154",
+    "title": "労働安全衛生規則の一部を改正する省令案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-24",
+    "endAt": "2026-09-23",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260154&Mode=0",
+    "createdAt": "2026-08-25T21:28:15.785Z",
+    "updatedAt": "2026-08-25T21:28:15.785Z"
+  },
+  {
+    "id": "pc-495260155",
+    "title": "「厚生労働省・経済産業省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令の一部を改正する省令案」に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-24",
+    "endAt": "2026-09-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260155&Mode=0",
+    "lawId": "law-507M60000500001",
+    "relatedLawTitle": "厚生労働省・経済産業省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令",
+    "createdAt": "2026-08-25T21:28:15.785Z",
+    "updatedAt": "2026-08-25T21:28:15.785Z"
+  },
+  {
+    "id": "pc-495260156",
+    "title": "「医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第三十六条の七第一項第一号及び第二号の規定に基づき厚生労働大臣が指定する第一類医薬品及び第二類医薬品の一部を改正する件（案）」及び「医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則第一条の二第三項第五号の規定に基づき特別の注意を要するものとして厚生労働大臣が指定する第二類医薬品の一部を改正する件（案）」に関する御意見の募集について",
+    "status": "open",
+    "startAt": "2026-08-25",
+    "endAt": "2026-09-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260156&Mode=0",
+    "createdAt": "2026-08-25T21:28:15.785Z",
+    "updatedAt": "2026-08-25T21:28:15.785Z"
+  },
+  {
     "id": "pc-495260158",
     "title": "事業場における労働者の健康保持増進のための指針の一部を改正する件（案）に関する御意見の募集について",
     "ministry": "厚生労働省",
@@ -1666,6 +1744,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260158&Mode=0",
     "createdAt": "2026-08-22T21:22:27.337Z",
     "updatedAt": "2026-08-22T21:22:27.337Z"
+  },
+  {
+    "id": "pc-495260160",
+    "title": "令和９年度厚生労働科学研究に対する御意見募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-25",
+    "endAt": "2026-09-25",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260160&Mode=0",
+    "createdAt": "2026-08-25T21:28:15.784Z",
+    "updatedAt": "2026-08-25T21:28:15.784Z"
   },
   {
     "id": "pc-550004376",

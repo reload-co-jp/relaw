@@ -2676,6 +2676,42 @@
     "createdAt": "2026-08-20T21:25:38.859Z"
   },
   {
+    "id": "version-508CO0000000259_20260807_000000000000000",
+    "lawId": "law-508CO0000000259",
+    "versionLabel": "制定時",
+    "amendmentLawNumber": null,
+    "amendmentLawTitle": null,
+    "promulgatedAt": "2026-08-07",
+    "enforcedAt": "2026-08-07",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508CO0000000259",
+    "createdAt": "2026-08-25T21:25:42.955Z"
+  },
+  {
+    "id": "version-508CO0000000260_20260807_000000000000000",
+    "lawId": "law-508CO0000000260",
+    "versionLabel": "制定時",
+    "amendmentLawNumber": null,
+    "amendmentLawTitle": null,
+    "promulgatedAt": "2026-08-07",
+    "enforcedAt": "2026-08-07",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508CO0000000260",
+    "createdAt": "2026-08-25T21:25:42.955Z"
+  },
+  {
+    "id": "version-508CO0000000261_20260807_000000000000000",
+    "lawId": "law-508CO0000000261",
+    "versionLabel": "制定時",
+    "amendmentLawNumber": null,
+    "amendmentLawTitle": null,
+    "promulgatedAt": "2026-08-07",
+    "enforcedAt": "2026-08-07",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508CO0000000261",
+    "createdAt": "2026-08-25T21:25:42.955Z"
+  },
+  {
     "id": "version-508M60000002016_20261001_000000000000000",
     "lawId": "law-508M60000002016",
     "versionLabel": "制定時",
