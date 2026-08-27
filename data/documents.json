@@ -711,6 +711,16 @@
     "updatedAt": "2026-08-16T21:17:35.614Z"
   },
   {
+    "id": "doc-kanpo-4084c9d0ba7b33d1",
+    "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令（厚生労働一三五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260827/20260827h01777/20260827h017770001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-27",
+    "createdAt": "2026-08-27T00:27:10.062Z"
+  },
+  {
     "id": "doc-kanpo-40c77fddf8ffe0b7",
     "title": "動物用医薬品等取締規則の一部を改正する省令（農林水産六四）",
     "type": "kanpo",
@@ -2985,6 +2995,17 @@
     "createdAt": "2026-07-07T00:38:39.501Z"
   },
   {
+    "id": "doc-kokkai-9232cb33b9e8dce3",
+    "billId": "bill-221-shugiin-d0efe5e1e3022a7e",
+    "title": "第221回国会 衆議院 経済産業委員会 第17号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104080X01720260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-27T00:30:01.569Z"
+  },
+  {
     "id": "doc-kokkai-96ad7a1601b33b99",
     "billId": "bill-221-shugiin-bcf1f1dc9f4a1fa1",
     "title": "第221回国会 衆議院 政治改革に関する特別委員会 第12号 (2026-07-24)",
@@ -3203,6 +3224,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-01",
     "createdAt": "2026-08-24T21:29:02.682Z"
+  },
+  {
+    "id": "doc-kokkai-c293b2a14c866061",
+    "billId": "bill-221-sangiin-ed662caa2334a5ae",
+    "title": "第221回国会 衆議院 経済産業委員会 第17号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104080X01720260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-27T00:29:35.705Z"
   },
   {
     "id": "doc-kokkai-c2f059916adfc2de",
@@ -3478,6 +3510,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-16",
     "createdAt": "2026-07-07T00:38:26.330Z"
+  },
+  {
+    "id": "doc-kokkai-fe1aebc581b2dd4c",
+    "billId": "bill-221-shugiin-c591f224038dc04b",
+    "title": "第221回国会 衆議院 経済産業委員会 第17号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104080X01720260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-08-27T00:29:59.397Z"
   },
   {
     "id": "doc-sangiin-0194c7e7eb4cb4ae",
