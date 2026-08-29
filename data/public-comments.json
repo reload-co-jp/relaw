@@ -357,6 +357,17 @@
     "updatedAt": "2026-07-22T22:05:42.535Z"
   },
   {
+    "id": "pc-145210742",
+    "title": "電気通信事業法施行規則等の一部を改正する省令案等（新たなユニバーサルサービス制度に係る規定の整備）に対する意見募集",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-08-29",
+    "endAt": "2026-10-02",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210742&Mode=0",
+    "createdAt": "2026-08-29T03:07:18.758Z",
+    "updatedAt": "2026-08-29T03:07:18.759Z"
+  },
+  {
     "id": "pc-145210743",
     "title": "基幹放送用周波数使用計画の一部を変更する告示案等に関する意見募集",
     "status": "open",
@@ -1437,6 +1448,17 @@
     "updatedAt": "2026-08-21T21:24:24.928Z"
   },
   {
+    "id": "pc-395081962",
+    "title": "国家公務員共済組合法等の運用方針の一部を改正する案に対する意見募集について",
+    "ministry": "財務省",
+    "status": "open",
+    "startAt": "2026-08-28",
+    "endAt": "2026-09-27",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=395081962&Mode=0",
+    "createdAt": "2026-08-29T03:07:18.760Z",
+    "updatedAt": "2026-08-29T03:07:18.760Z"
+  },
+  {
     "id": "pc-395122514",
     "title": "外国為替及び外国貿易法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令（案）等に対する意見募集",
     "ministry": "財務省",
@@ -1924,6 +1946,28 @@
     "updatedAt": "2026-08-28T05:09:23.465Z"
   },
   {
+    "id": "pc-495260168",
+    "title": "「地域における医療及び介護の総合的な確保の促進に関する法律施行規則の一部を改正する省令案」に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-28",
+    "endAt": "2026-09-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260168&Mode=0",
+    "createdAt": "2026-08-29T03:07:18.760Z",
+    "updatedAt": "2026-08-29T03:07:18.760Z"
+  },
+  {
+    "id": "pc-495260169",
+    "title": "健康保険法施行規則等の一部を改正する省令案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-08-29",
+    "endAt": "2026-09-27",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260169&Mode=0",
+    "createdAt": "2026-08-29T03:07:18.759Z",
+    "updatedAt": "2026-08-29T03:07:18.759Z"
+  },
+  {
     "id": "pc-495260170",
     "title": "令和九年度の献血の推進に関する計画を定める件（案）に関する意見募集について",
     "ministry": "厚生労働省",
@@ -2388,6 +2432,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=630300000&Mode=0",
     "createdAt": "2026-08-11T21:45:54.264Z",
     "updatedAt": "2026-08-11T21:45:54.264Z"
+  },
+  {
+    "id": "pc-640230000",
+    "title": "小規模企業共済法施行規則及び中小企業倒産防止共済法施行規則の一部を改正する省令の一部を改正する省令（案）に対する意見公募について",
+    "ministry": "中小企業庁",
+    "status": "open",
+    "startAt": "2026-08-28",
+    "endAt": "2026-10-07",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=640230000&Mode=0",
+    "createdAt": "2026-08-29T03:07:18.760Z",
+    "updatedAt": "2026-08-29T03:07:18.760Z"
   },
   {
     "id": "pc-860202605",
