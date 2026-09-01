@@ -424,6 +424,16 @@
     "createdAt": "2026-07-17T21:52:34.771Z"
   },
   {
+    "id": "doc-kanpo-09ad9becd2a368e2",
+    "title": "環境省関係浄化槽法施行規則の一部を改正する省令（環境二三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260831/20260831g00193/20260831g001930031f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-31",
+    "createdAt": "2026-09-01T00:23:10.823Z"
+  },
+  {
     "id": "doc-kanpo-0cd21cd543ba0d3d",
     "title": "情報通信技術を活用した行政の推進等に関する法律及び情報処理の促進に関する法律の一部を改正する法律（五七）",
     "type": "kanpo",
@@ -700,6 +710,16 @@
     "createdAt": "2026-07-22T22:02:42.349Z"
   },
   {
+    "id": "doc-kanpo-3cc683e2fe2b5c51",
+    "title": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第六条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める省令の一部を改正する省令（総務一〇八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260831/20260831g00193/20260831g001930005f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-31",
+    "createdAt": "2026-09-01T00:23:10.823Z"
+  },
+  {
     "id": "doc-kanpo-3d49fb468d318a6e",
     "title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令（二二〇）",
     "type": "kanpo",
@@ -749,6 +769,16 @@
     "source": "官報",
     "publishedAt": "2026-08-10",
     "createdAt": "2026-08-10T21:39:13.483Z"
+  },
+  {
+    "id": "doc-kanpo-4472d37fb175bafc",
+    "title": "人事院規則九―五五（特地勤務手当等）の一部を改正する人事院規則（同九－五五－一五八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260901/20260901g00195/20260901g001950006f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-01",
+    "createdAt": "2026-09-01T00:23:10.342Z"
   },
   {
     "id": "doc-kanpo-47f6479ab9dea4f5",
@@ -1297,6 +1327,16 @@
     "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
+    "id": "doc-kanpo-a1acee33d6b9e113",
+    "title": "国家公安委員会行政文書管理規則の一部を改正する規則（国家公安委一八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260901/20260901g00195/20260901g001950007f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-01",
+    "createdAt": "2026-09-01T00:23:10.342Z"
+  },
+  {
     "id": "doc-kanpo-a283a7285f945f04",
     "title": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第十一条に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める省令（同一二六）",
     "type": "kanpo",
@@ -1418,7 +1458,7 @@
     "source": "官報",
     "publishedAt": "2026-08-28",
     "createdAt": "2026-08-28T05:06:28.172Z",
-    "updatedAt": "2026-08-30T23:10:45.999Z"
+    "updatedAt": "2026-09-01T00:23:11.305Z"
   },
   {
     "id": "doc-kanpo-b30bf527f09857ff",
@@ -1571,7 +1611,7 @@
     "source": "官報",
     "publishedAt": "2026-08-28",
     "createdAt": "2026-08-28T05:06:28.172Z",
-    "updatedAt": "2026-08-30T23:10:45.999Z"
+    "updatedAt": "2026-09-01T00:23:11.305Z"
   },
   {
     "id": "doc-kanpo-c5df618e7c167fd8",
@@ -1675,6 +1715,16 @@
     "source": "官報",
     "publishedAt": "2026-08-04",
     "createdAt": "2026-08-04T22:09:52.704Z"
+  },
+  {
+    "id": "doc-kanpo-d46f3293d95675e4",
+    "title": "人事院規則九―二四（通勤手当）の一部を改正する人事院規則（人事院九－二四－二四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260901/20260901g00195/20260901g001950002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-01",
+    "createdAt": "2026-09-01T00:23:10.342Z"
   },
   {
     "id": "doc-kanpo-d4c2b224bdf128ff",
@@ -1790,6 +1840,17 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-e15d98339d43fad3",
+    "title": "予防接種実施規則の一部を改正する省令（厚生労働一三六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260901/20260901h01780/20260901h017800002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-01",
+    "createdAt": "2026-09-01T00:23:10.341Z",
+    "updatedAt": "2026-09-01T00:23:10.342Z"
   },
   {
     "id": "doc-kanpo-e2183f082cf79c32",
@@ -2026,6 +2087,17 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-fc094e1f5d7153ae",
+    "title": "自衛隊法施行規則の一部を改正する省令（同二一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260831/20260831h01779/20260831h017790002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-08-31",
+    "createdAt": "2026-09-01T00:23:10.823Z",
+    "updatedAt": "2026-09-01T00:23:10.823Z"
   },
   {
     "id": "doc-kanpo-fcbb4de22e28ead8",
