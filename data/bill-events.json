@@ -215,7 +215,7 @@
     "description": "提出",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/220/meisai/m220090219002.htm",
     "createdAt": "2026-07-07T00:36:58.401Z",
-    "updatedAt": "2026-09-01T00:24:28.695Z"
+    "updatedAt": "2026-09-01T23:01:35.437Z"
   },
   {
     "id": "event-bill-219-sangiin-6be4b454ee392ea0-committee-decision-lower",
@@ -4481,7 +4481,7 @@
     "description": "提出",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221014.htm",
     "createdAt": "2026-07-07T00:37:53.244Z",
-    "updatedAt": "2026-09-01T00:25:20.450Z"
+    "updatedAt": "2026-09-01T23:02:21.184Z"
   },
   {
     "id": "event-bill-221-shugiin-1eff17954bf8d9a4-committee-decision-upper",
@@ -4560,7 +4560,7 @@
     "description": "衆議院 政治改革に関する特別委員会で継続審査",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221014.htm",
     "createdAt": "2026-07-24T22:05:05.719Z",
-    "updatedAt": "2026-09-01T00:25:05.302Z"
+    "updatedAt": "2026-09-01T23:02:07.832Z"
   },
   {
     "id": "event-bill-221-shugiin-229a14dd24fc7402-committee-referral-lower",
@@ -4571,7 +4571,7 @@
     "description": "衆議院 政治改革に関する特別委員会に付託",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221014.htm",
     "createdAt": "2026-07-07T00:37:46.346Z",
-    "updatedAt": "2026-09-01T00:25:05.302Z"
+    "updatedAt": "2026-09-01T23:02:07.832Z"
   },
   {
     "id": "event-bill-221-shugiin-229a14dd24fc7402-passed_lower_house-2026-07-07",
@@ -4591,7 +4591,7 @@
     "description": "提出",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221012.htm",
     "createdAt": "2026-07-07T00:37:46.346Z",
-    "updatedAt": "2026-09-01T00:25:19.660Z"
+    "updatedAt": "2026-09-01T23:02:20.481Z"
   },
   {
     "id": "event-bill-221-shugiin-237a4a7683c70d22-committee-decision-lower",
@@ -4661,7 +4661,7 @@
     "description": "提出",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221018.htm",
     "createdAt": "2026-07-07T00:37:52.062Z",
-    "updatedAt": "2026-09-01T00:25:22.027Z"
+    "updatedAt": "2026-09-01T23:02:22.591Z"
   },
   {
     "id": "event-bill-221-shugiin-277efad5ec7df88c-committee-decision-lower",
@@ -5307,7 +5307,7 @@
     "description": "提出",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221100221020.htm",
     "createdAt": "2026-07-07T00:37:51.803Z",
-    "updatedAt": "2026-09-01T00:25:22.813Z"
+    "updatedAt": "2026-09-01T23:02:23.295Z"
   },
   {
     "id": "event-bill-221-shugiin-3f876593f937fa8c-passed_lower_house-2026-07-07",
@@ -7308,7 +7308,7 @@
     "description": "衆議院 法務委員会で否決",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221009.htm",
     "createdAt": "2026-07-07T00:37:45.382Z",
-    "updatedAt": "2026-09-01T00:25:03.264Z"
+    "updatedAt": "2026-09-01T23:02:06.068Z"
   },
   {
     "id": "event-bill-221-shugiin-7d0cda2f0fd926d0-committee-decision-upper",
@@ -7329,7 +7329,7 @@
     "description": "衆議院 法務委員会に付託",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221009.htm",
     "createdAt": "2026-07-07T00:37:45.382Z",
-    "updatedAt": "2026-09-01T00:25:03.264Z"
+    "updatedAt": "2026-09-01T23:02:06.068Z"
   },
   {
     "id": "event-bill-221-shugiin-7d0cda2f0fd926d0-committee-referral-upper",
@@ -7398,7 +7398,7 @@
     "description": "提出",
     "sourceUrl": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221009.htm",
     "createdAt": "2026-07-07T00:37:45.382Z",
-    "updatedAt": "2026-09-01T00:25:03.264Z"
+    "updatedAt": "2026-09-01T23:02:06.068Z"
   },
   {
     "id": "event-bill-221-shugiin-7dcb74ca384a6d94-committee-decision-lower",
