@@ -622,6 +622,16 @@
     "updatedAt": "2026-08-01T21:56:33.978Z"
   },
   {
+    "id": "pc-155260107",
+    "title": "「今後のインフラのマネジメントのあり方について 中間とりまとめ」に対する意見募集について",
+    "status": "open",
+    "startAt": "2026-09-03",
+    "endAt": "2026-09-16",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260107&Mode=0",
+    "createdAt": "2026-09-04T22:49:44.498Z",
+    "updatedAt": "2026-09-04T22:49:44.498Z"
+  },
+  {
     "id": "pc-155260309",
     "title": "「建設業者の不正行為等に対する監督処分の基準について」の一部改正案に関する意見募集について",
     "ministry": "国土交通省",
@@ -2510,6 +2520,27 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320017&Mode=0",
     "createdAt": "2026-09-03T23:01:26.141Z",
     "updatedAt": "2026-09-03T23:01:26.141Z"
+  },
+  {
+    "id": "pc-595320018",
+    "title": "重要鉱物に係る安定供給確保を図るための取組方針の改正案に対する意見公募",
+    "status": "open",
+    "startAt": "2026-09-04",
+    "endAt": "2026-10-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320018&Mode=0",
+    "createdAt": "2026-09-04T22:49:44.497Z",
+    "updatedAt": "2026-09-04T22:49:44.497Z"
+  },
+  {
+    "id": "pc-595320021",
+    "title": "経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく、蓄電池に係る安定供給確保を図るための取組方針の改正案に対する意見の公募について",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-09-04",
+    "endAt": "2026-10-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320021&Mode=0",
+    "createdAt": "2026-09-04T22:49:44.498Z",
+    "updatedAt": "2026-09-04T22:49:44.498Z"
   },
   {
     "id": "pc-620226018",
