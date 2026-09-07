@@ -728,7 +728,7 @@
     "source": "官報",
     "publishedAt": "2026-09-04",
     "createdAt": "2026-09-04T22:46:40.508Z",
-    "updatedAt": "2026-09-06T22:41:39.517Z"
+    "updatedAt": "2026-09-07T23:16:38.660Z"
   },
   {
     "id": "doc-kanpo-3d49fb468d318a6e",
@@ -1479,7 +1479,7 @@
     "source": "官報",
     "publishedAt": "2026-08-28",
     "createdAt": "2026-08-28T05:06:28.172Z",
-    "updatedAt": "2026-09-06T22:41:41.566Z"
+    "updatedAt": "2026-09-07T23:16:40.762Z"
   },
   {
     "id": "doc-kanpo-b30bf527f09857ff",
@@ -1632,7 +1632,7 @@
     "source": "官報",
     "publishedAt": "2026-08-28",
     "createdAt": "2026-08-28T05:06:28.172Z",
-    "updatedAt": "2026-09-06T22:41:41.566Z"
+    "updatedAt": "2026-09-07T23:16:40.762Z"
   },
   {
     "id": "doc-kanpo-c5df618e7c167fd8",
@@ -1871,7 +1871,7 @@
     "source": "官報",
     "publishedAt": "2026-09-01",
     "createdAt": "2026-09-01T00:23:10.341Z",
-    "updatedAt": "2026-09-06T22:41:40.745Z"
+    "updatedAt": "2026-09-07T23:16:39.920Z"
   },
   {
     "id": "doc-kanpo-e2183f082cf79c32",
@@ -1893,7 +1893,7 @@
     "source": "官報",
     "publishedAt": "2026-09-04",
     "createdAt": "2026-09-04T22:46:40.508Z",
-    "updatedAt": "2026-09-06T22:41:39.517Z"
+    "updatedAt": "2026-09-07T23:16:38.660Z"
   },
   {
     "id": "doc-kanpo-e3e8c6991e1ee8e7",
@@ -2129,7 +2129,7 @@
     "source": "官報",
     "publishedAt": "2026-08-31",
     "createdAt": "2026-09-01T00:23:10.823Z",
-    "updatedAt": "2026-09-06T22:41:41.156Z"
+    "updatedAt": "2026-09-07T23:16:40.341Z"
   },
   {
     "id": "doc-kanpo-fcbb4de22e28ead8",
@@ -2446,6 +2446,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-25",
     "createdAt": "2026-07-07T00:38:22.786Z"
+  },
+  {
+    "id": "doc-kokkai-2c43f22b718ba3f0",
+    "billId": "bill-221-shugiin-b09d45b89c9c7fd2",
+    "title": "第221回国会 衆議院 内閣委員会 第27号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104889X02720260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-09-07T23:19:05.232Z"
   },
   {
     "id": "doc-kokkai-2c467626258e30c5",
@@ -2853,6 +2864,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-26",
     "createdAt": "2026-07-07T00:38:11.403Z"
+  },
+  {
+    "id": "doc-kokkai-60ab6c4856411387",
+    "billId": "bill-221-shugiin-dcb81b4d41296dfa",
+    "title": "第221回国会 衆議院 内閣委員会 第27号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104889X02720260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-09-07T23:19:13.656Z"
   },
   {
     "id": "doc-kokkai-63a5dabba3bdd88d",
