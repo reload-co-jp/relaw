@@ -728,7 +728,7 @@
     "source": "官報",
     "publishedAt": "2026-09-04",
     "createdAt": "2026-09-04T22:46:40.508Z",
-    "updatedAt": "2026-09-08T23:11:21.336Z"
+    "updatedAt": "2026-09-09T22:55:36.873Z"
   },
   {
     "id": "doc-kanpo-3d49fb468d318a6e",
@@ -922,6 +922,16 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-58edd3f102b1bf25",
+    "title": "予備自衛官等の職務の円滑な遂行を図るための国家公務員及び地方公務員の兼業の特例に関する法律の施行期日を定める政令（二七三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260909/20260909h01786/20260909h017860002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-09",
+    "createdAt": "2026-09-09T22:55:35.597Z"
   },
   {
     "id": "doc-kanpo-5927a44b975d8f68",
@@ -1871,7 +1881,7 @@
     "source": "官報",
     "publishedAt": "2026-09-01",
     "createdAt": "2026-09-01T00:23:10.341Z",
-    "updatedAt": "2026-09-08T23:11:22.690Z"
+    "updatedAt": "2026-09-09T22:55:38.150Z"
   },
   {
     "id": "doc-kanpo-e2183f082cf79c32",
@@ -1893,7 +1903,7 @@
     "source": "官報",
     "publishedAt": "2026-09-04",
     "createdAt": "2026-09-04T22:46:40.508Z",
-    "updatedAt": "2026-09-08T23:11:21.336Z"
+    "updatedAt": "2026-09-09T22:55:36.873Z"
   },
   {
     "id": "doc-kanpo-e3e8c6991e1ee8e7",
