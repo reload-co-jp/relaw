@@ -728,7 +728,7 @@
     "source": "官報",
     "publishedAt": "2026-09-04",
     "createdAt": "2026-09-04T22:46:40.508Z",
-    "updatedAt": "2026-09-09T22:55:36.873Z"
+    "updatedAt": "2026-09-10T22:56:16.921Z"
   },
   {
     "id": "doc-kanpo-3d49fb468d318a6e",
@@ -800,6 +800,16 @@
     "source": "官報",
     "publishedAt": "2026-08-06",
     "createdAt": "2026-08-07T01:00:33.612Z"
+  },
+  {
+    "id": "doc-kanpo-488743919a8c6bca",
+    "title": "国の会計帳簿及び書類の様式等に関する省令等の一部を改正する省令（財務五九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260910/20260910g00202/20260910g002020001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-10",
+    "createdAt": "2026-09-10T22:56:15.036Z"
   },
   {
     "id": "doc-kanpo-4897ade10984b424",
@@ -1126,6 +1136,16 @@
     "source": "官報",
     "publishedAt": "2026-08-17",
     "createdAt": "2026-08-17T21:23:30.643Z"
+  },
+  {
+    "id": "doc-kanpo-6fbb4e96b285b187",
+    "title": "動物用医薬品及び医薬品の使用の規制に関する省令の一部を改正する省令（農林水産六六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260910/20260910g00202/20260910g002020046f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-10",
+    "createdAt": "2026-09-10T22:56:15.036Z"
   },
   {
     "id": "doc-kanpo-71cc4c2c0813b08b",
@@ -1903,7 +1923,7 @@
     "source": "官報",
     "publishedAt": "2026-09-04",
     "createdAt": "2026-09-04T22:46:40.508Z",
-    "updatedAt": "2026-09-09T22:55:36.873Z"
+    "updatedAt": "2026-09-10T22:56:16.921Z"
   },
   {
     "id": "doc-kanpo-e3e8c6991e1ee8e7",

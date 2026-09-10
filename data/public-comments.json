@@ -168,6 +168,56 @@
     "updatedAt": "2026-08-27T00:30:09.634Z"
   },
   {
+    "id": "pc-095260810",
+    "title": "Escherichia coli K-12 DH1 MDO MAP1001h株を利用して生産された２’-フコシルラクトースに係る食品健康影響評価に関する審議結果（案）についての意見・情報の募集について",
+    "status": "result_published",
+    "startAt": "2026-09-09",
+    "endAt": "2026-10-08",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260810&Mode=0",
+    "createdAt": "2026-09-10T22:59:05.909Z",
+    "updatedAt": "2026-09-10T22:59:05.909Z"
+  },
+  {
+    "id": "pc-095260820",
+    "title": "H-ELP株を利用して生産されたα-アミラーゼに係る食品健康影響評価に関する審議結果（案）についての意見・情報の募集について",
+    "status": "result_published",
+    "startAt": "2026-09-09",
+    "endAt": "2026-10-08",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260820&Mode=0",
+    "createdAt": "2026-09-10T22:59:05.909Z",
+    "updatedAt": "2026-09-10T22:59:05.909Z"
+  },
+  {
+    "id": "pc-095260830",
+    "title": "JPAN013株を利用して生産されたα-ガラクトシダーゼに係る食品健康影響評価に関する審議結果（案）についての意見・情報の募集について",
+    "status": "result_published",
+    "startAt": "2026-09-09",
+    "endAt": "2026-10-08",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260830&Mode=0",
+    "createdAt": "2026-09-10T22:59:05.909Z",
+    "updatedAt": "2026-09-10T22:59:05.909Z"
+  },
+  {
+    "id": "pc-095260840",
+    "title": "ブロマシルに係る食品健康影響評価に関する審議結果（案）についての意見・情報の募集について",
+    "status": "result_published",
+    "startAt": "2026-09-09",
+    "endAt": "2026-10-08",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260840&Mode=0",
+    "createdAt": "2026-09-10T22:59:05.909Z",
+    "updatedAt": "2026-09-10T22:59:05.909Z"
+  },
+  {
+    "id": "pc-095260850",
+    "title": "メタミトロンに係る食品健康影響評価に関する審議結果（案）についての意見・情報の募集について",
+    "status": "result_published",
+    "startAt": "2026-09-09",
+    "endAt": "2026-10-08",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260850&Mode=0",
+    "createdAt": "2026-09-10T22:59:05.909Z",
+    "updatedAt": "2026-09-10T22:59:05.909Z"
+  },
+  {
     "id": "pc-110200065",
     "title": "「企業結合審査に関する独占禁止法の運用指針」の改定案に対する意見募集について",
     "ministry": "公正取引委員会",
@@ -654,6 +704,17 @@
     "updatedAt": "2026-08-01T21:56:33.979Z"
   },
   {
+    "id": "pc-155260311",
+    "title": "「国土交通大臣が認める登録基幹技能者講習を定める件」の一部改正案に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-09-09",
+    "endAt": "2026-10-09",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260311&Mode=0",
+    "createdAt": "2026-09-10T22:59:05.909Z",
+    "updatedAt": "2026-09-10T22:59:05.909Z"
+  },
+  {
     "id": "pc-155260405",
     "title": "土地区画整理法施行令の一部を改正する政令案に関する意見募集について",
     "ministry": "国土交通省",
@@ -741,6 +802,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260720&Mode=0",
     "createdAt": "2026-09-08T23:14:05.748Z",
     "updatedAt": "2026-09-08T23:14:05.748Z"
+  },
+  {
+    "id": "pc-155260721",
+    "title": "公営住宅法施行令の一部を改正する政令案に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-09-10",
+    "endAt": "2026-10-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260721&Mode=0",
+    "createdAt": "2026-09-10T22:59:05.908Z",
+    "updatedAt": "2026-09-10T22:59:05.908Z"
   },
   {
     "id": "pc-155260814",
@@ -2211,6 +2283,16 @@
     "updatedAt": "2026-09-08T23:14:05.749Z"
   },
   {
+    "id": "pc-495260181",
+    "title": "「医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第三十六条の七第一項第一号及び第二号の規定に基づき厚生労働大臣が指定する第一類医薬品及び第二類医薬品の一部を改正する件（案）及び医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則第一条の二第三項第五号の規定に基づき特別の注意を要するものとして厚生労働大臣が指定する第二類医薬品の一部を改正する件（案）」に関する御意見の募集について",
+    "status": "open",
+    "startAt": "2026-09-09",
+    "endAt": "2026-10-09",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260181&Mode=0",
+    "createdAt": "2026-09-10T22:59:05.909Z",
+    "updatedAt": "2026-09-10T22:59:05.909Z"
+  },
+  {
     "id": "pc-550004376",
     "title": "農業信用保証保険法施行規則の一部を改正する命令案についての意見・情報の募集について",
     "ministry": "農林水産省",
@@ -2456,6 +2538,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004402&Mode=0",
     "createdAt": "2026-09-05T22:40:51.634Z",
     "updatedAt": "2026-09-05T22:40:51.634Z"
+  },
+  {
+    "id": "pc-550004403",
+    "title": "「「飼料添加物の動物試験の実施に関する基準について」、「飼料添加物の動物試験の実施に関する基準に基づく査察実施要領の制定について」及び「飼料添加物の評価基準の制定について」の一部改正案」についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-09-09",
+    "endAt": "2026-10-08",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004403&Mode=0",
+    "createdAt": "2026-09-10T22:59:05.909Z",
+    "updatedAt": "2026-09-10T22:59:05.909Z"
   },
   {
     "id": "pc-595126108",
@@ -2746,11 +2839,22 @@
     "title": "生活維持物品役務需要減等事業適応の実施に関する指針（案）に対する意見募集",
     "ministry": "経済産業省",
     "status": "open",
-    "startAt": "2026-09-08",
-    "endAt": "2026-10-07",
+    "startAt": "2026-09-09",
+    "endAt": "2026-10-08",
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320026&Mode=0",
     "createdAt": "2026-09-09T22:58:23.285Z",
-    "updatedAt": "2026-09-09T22:58:23.285Z"
+    "updatedAt": "2026-09-10T22:59:05.908Z"
+  },
+  {
+    "id": "pc-595320027",
+    "title": "産業競争力強化法第百四十条の二第三項ただし書の経済産業省令・農林水産省令・国土交通省令で定める軽微な変更を定める省令（案）等に対する意見募集",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-09-09",
+    "endAt": "2026-10-08",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320027&Mode=0",
+    "createdAt": "2026-09-10T22:59:05.909Z",
+    "updatedAt": "2026-09-10T22:59:05.909Z"
   },
   {
     "id": "pc-620226018",
