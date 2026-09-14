@@ -22,6 +22,17 @@
     "updatedAt": "2026-08-07T01:03:39.484Z"
   },
   {
+    "id": "pc-060260914",
+    "title": "防災庁の設置に伴う防災庁令、告示等の制定及び改正に関する御意見募集（パブリックコメント）について",
+    "ministry": "内閣官房",
+    "status": "open",
+    "startAt": "2026-09-14",
+    "endAt": "2026-10-13",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=060260914&Mode=0",
+    "createdAt": "2026-09-14T23:43:55.590Z",
+    "updatedAt": "2026-09-14T23:43:55.590Z"
+  },
+  {
     "id": "pc-095260660",
     "title": "「重要電子計算機に対する不正な行為による被害の防止に関する法律に基づく特別社会基盤事業者による特定侵害事象等の報告等に関する命令の一部を改正する命令案」に関する意見の募集について",
     "ministry": "内閣府",
@@ -2603,6 +2614,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004403&Mode=0",
     "createdAt": "2026-09-10T22:59:05.909Z",
     "updatedAt": "2026-09-10T22:59:05.909Z"
+  },
+  {
+    "id": "pc-550004404",
+    "title": "「漁協等の共済事業向けの総合的な監督指針」の一部改正案についての意見・情報の募集について",
+    "ministry": "水産庁",
+    "status": "open",
+    "startAt": "2026-09-14",
+    "endAt": "2026-10-13",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004404&Mode=0",
+    "createdAt": "2026-09-14T23:43:55.590Z",
+    "updatedAt": "2026-09-14T23:43:55.590Z"
+  },
+  {
+    "id": "pc-550004405",
+    "title": "「森林組合、生産森林組合及び森林組合連合会向けの総合的な監督指針」についての意見・情報の募集について",
+    "ministry": "林野庁",
+    "status": "open",
+    "startAt": "2026-09-14",
+    "endAt": "2026-10-13",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004405&Mode=0",
+    "createdAt": "2026-09-14T23:43:55.590Z",
+    "updatedAt": "2026-09-14T23:43:55.590Z"
   },
   {
     "id": "pc-595126108",
