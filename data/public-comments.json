@@ -992,6 +992,18 @@
     "updatedAt": "2026-09-05T22:40:51.633Z"
   },
   {
+    "id": "pc-155260933",
+    "title": "国土交通省関係物資の流通の効率化に関する法律施行規則第四条の四第六号の国土交通大臣の定める基準に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-09-14",
+    "endAt": "2026-10-14",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260933&Mode=0",
+    "billId": "bill-221-shugiin-0b8a8c7f0619dce1",
+    "createdAt": "2026-09-15T23:26:41.204Z",
+    "updatedAt": "2026-09-15T23:26:41.204Z"
+  },
+  {
     "id": "pc-155261027",
     "title": "「船員法施行規則等の一部を改正する省令案」に関する意見募集について",
     "ministry": "国土交通省",
@@ -1398,6 +1410,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260056&Mode=0",
     "createdAt": "2026-09-03T23:01:26.141Z",
     "updatedAt": "2026-09-03T23:01:26.141Z"
+  },
+  {
+    "id": "pc-195260057",
+    "title": "「環境影響評価法の経過措置に係る書類であってその作成の根拠が条例又は地方公共団体に係る行政指導等であるものを指定する件」に関する意見の募集（パブリックコメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-09-15",
+    "endAt": "2026-10-15",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260057&Mode=0",
+    "createdAt": "2026-09-15T23:26:41.204Z",
+    "updatedAt": "2026-09-15T23:26:41.204Z"
   },
   {
     "id": "pc-198026102",
@@ -2953,6 +2976,26 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320027&Mode=0",
     "createdAt": "2026-09-10T22:59:05.909Z",
     "updatedAt": "2026-09-10T22:59:05.909Z"
+  },
+  {
+    "id": "pc-595320028",
+    "title": "旧一般ガスみなしガス小売事業者の指定旧供給区域等の指定の解除（関東経済産業局所管分・令和８年８月報告分）に対する意見の募集について",
+    "status": "open",
+    "startAt": "2026-09-15",
+    "endAt": "2026-10-15",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320028&Mode=0",
+    "createdAt": "2026-09-15T23:26:41.203Z",
+    "updatedAt": "2026-09-15T23:26:41.203Z"
+  },
+  {
+    "id": "pc-595320029",
+    "title": "旧簡易ガスみなしガス小売事業者の指定旧供給地点の指定の解除（関東経済産業局所管分・令和８年８月報告分）に対する意見の募集について",
+    "status": "open",
+    "startAt": "2026-09-15",
+    "endAt": "2026-10-15",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320029&Mode=0",
+    "createdAt": "2026-09-15T23:26:41.204Z",
+    "updatedAt": "2026-09-15T23:26:41.204Z"
   },
   {
     "id": "pc-595320030",
