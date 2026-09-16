@@ -1,5 +1,16 @@
 [
   {
+    "id": "pc-050202606",
+    "title": "「人事院規則８―１２（職員の任免）の一部を改正する人事院規則案」の概要に対するパブリックコメント（意見公募手続）の実施について",
+    "ministry": "人事院",
+    "status": "open",
+    "startAt": "2026-09-16",
+    "endAt": "2026-10-15",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=050202606&Mode=0",
+    "createdAt": "2026-09-16T23:35:26.453Z",
+    "updatedAt": "2026-09-16T23:35:26.453Z"
+  },
+  {
     "id": "pc-060260727",
     "title": "「人身取引対策行動計画2026（仮称）」（案）に関する意見募集について",
     "ministry": "内閣官房",
@@ -683,6 +694,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210771&Mode=0",
     "createdAt": "2026-09-12T22:52:47.583Z",
     "updatedAt": "2026-09-12T22:52:47.583Z"
+  },
+  {
+    "id": "pc-145210772",
+    "title": "固定資産評価基準の一部を改正する告示案に係る意見募集",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-09-16",
+    "endAt": "2026-10-21",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210772&Mode=0",
+    "createdAt": "2026-09-16T23:35:26.452Z",
+    "updatedAt": "2026-09-16T23:35:26.452Z"
   },
   {
     "id": "pc-155260103",
@@ -1587,6 +1609,39 @@
     "updatedAt": "2026-09-12T22:52:47.583Z"
   },
   {
+    "id": "pc-225026064",
+    "title": "「財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令（案）」等の公表について",
+    "ministry": "金融庁",
+    "status": "open",
+    "startAt": "2026-09-15",
+    "endAt": "2026-10-16",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=225026064&Mode=0",
+    "createdAt": "2026-09-16T23:35:26.453Z",
+    "updatedAt": "2026-09-16T23:35:26.453Z"
+  },
+  {
+    "id": "pc-235030052",
+    "title": "「現代社会における消費者取引の在り方を踏まえた消費者契約法検討会 中間取りまとめ」 に関する意見公募について",
+    "ministry": "消費者庁",
+    "status": "open",
+    "startAt": "2026-09-16",
+    "endAt": "2026-10-31",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=235030052&Mode=0",
+    "createdAt": "2026-09-16T23:35:26.453Z",
+    "updatedAt": "2026-09-16T23:35:26.453Z"
+  },
+  {
+    "id": "pc-235060029",
+    "title": "「デジタル取引・特定商取引法等検討会中間取りまとめ」に関する意見募集について",
+    "ministry": "消費者庁",
+    "status": "open",
+    "startAt": "2026-09-16",
+    "endAt": "2026-10-31",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=235060029&Mode=0",
+    "createdAt": "2026-09-16T23:35:26.453Z",
+    "updatedAt": "2026-09-16T23:35:26.453Z"
+  },
+  {
     "id": "pc-235110033",
     "title": "「食品、添加物等の規格基準の一部を改正する告示（案）」（農薬等（イミダクロプリド等５品目）の残留基準の改正）に関する御意見の募集について",
     "ministry": "消費者庁",
@@ -1717,6 +1772,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=315000144&Mode=0",
     "createdAt": "2026-08-24T21:29:20.778Z",
     "updatedAt": "2026-08-24T21:29:20.778Z"
+  },
+  {
+    "id": "pc-315000145",
+    "title": "「出入国管理及び難民認定法第７条第１項第２号の基準を定める省令及び出入国管理及び難民認定法施行規則の一部を改正する省令案」に係る意見公募手続の実施について",
+    "ministry": "出入国在留管理庁",
+    "status": "open",
+    "startAt": "2026-09-16",
+    "endAt": "2026-10-16",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=315000145&Mode=0",
+    "createdAt": "2026-09-16T23:35:26.452Z",
+    "updatedAt": "2026-09-16T23:35:26.452Z"
   },
   {
     "id": "pc-395081961",
@@ -2381,6 +2447,17 @@
     "updatedAt": "2026-09-12T22:52:47.584Z"
   },
   {
+    "id": "pc-495260188",
+    "title": "建築物における衛生的環境の確保に関する法律施行規則の一部を改正する省令案に関する意見募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-09-16",
+    "endAt": "2026-10-16",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260188&Mode=0",
+    "createdAt": "2026-09-16T23:35:26.452Z",
+    "updatedAt": "2026-09-16T23:35:26.452Z"
+  },
+  {
     "id": "pc-550004376",
     "title": "農業信用保証保険法施行規則の一部を改正する命令案についての意見・情報の募集について",
     "ministry": "農林水産省",
@@ -2659,6 +2736,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004405&Mode=0",
     "createdAt": "2026-09-14T23:43:55.590Z",
     "updatedAt": "2026-09-14T23:43:55.590Z"
+  },
+  {
+    "id": "pc-550004406",
+    "title": "農地法施行規則の一部を改正する省令案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-09-16",
+    "endAt": "2026-10-15",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004406&Mode=0",
+    "createdAt": "2026-09-16T23:35:26.452Z",
+    "updatedAt": "2026-09-16T23:35:26.452Z"
+  },
+  {
+    "id": "pc-550004408",
+    "title": "動物用生物学的製剤基準の一部改正案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-09-16",
+    "endAt": "2026-10-16",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004408&Mode=0",
+    "createdAt": "2026-09-16T23:35:26.453Z",
+    "updatedAt": "2026-09-16T23:35:26.453Z"
   },
   {
     "id": "pc-595126108",
