@@ -251,6 +251,17 @@
     "updatedAt": "2026-09-11T23:01:24.184Z"
   },
   {
+    "id": "pc-095260870",
+    "title": "都市再生基本方針（一部変更案）に関する意見募集について",
+    "ministry": "内閣府",
+    "status": "open",
+    "startAt": "2026-09-17",
+    "endAt": "2026-09-30",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260870&Mode=0",
+    "createdAt": "2026-09-17T23:24:52.524Z",
+    "updatedAt": "2026-09-17T23:24:52.524Z"
+  },
+  {
     "id": "pc-110200065",
     "title": "「企業結合審査に関する独占禁止法の運用指針」の改定案に対する意見募集について",
     "ministry": "公正取引委員会",
@@ -350,6 +361,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=141000238&Mode=0",
     "createdAt": "2026-08-27T00:30:09.635Z",
     "updatedAt": "2026-08-27T00:30:09.635Z"
+  },
+  {
+    "id": "pc-141000239",
+    "title": "学校設置者等及び民間教育保育等事業者による児童対象性暴力等の防止等のための措置に関する法律の施行に伴う関係政令の整備に関する政令（案）に関する御意見の募集について",
+    "ministry": "こども家庭庁",
+    "status": "open",
+    "startAt": "2026-09-16",
+    "endAt": "2026-10-15",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=141000239&Mode=0",
+    "createdAt": "2026-09-17T23:24:52.525Z",
+    "updatedAt": "2026-09-17T23:24:52.525Z"
   },
   {
     "id": "pc-145210712",
@@ -3205,6 +3227,18 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340006&Mode=0",
     "createdAt": "2026-08-27T00:30:09.634Z",
     "updatedAt": "2026-08-27T00:30:09.634Z"
+  },
+  {
+    "id": "pc-620340007",
+    "title": "電気事業法施行規則等の一部を改正する省令案等に対する意見公募",
+    "ministry": "資源エネルギー庁",
+    "status": "open",
+    "startAt": "2026-09-16",
+    "endAt": "2026-10-15",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340007&Mode=0",
+    "billId": "bill-221-shugiin-507b23f3c61af710",
+    "createdAt": "2026-09-17T23:24:52.525Z",
+    "updatedAt": "2026-09-17T23:24:52.525Z"
   },
   {
     "id": "pc-630300000",
