@@ -306,6 +306,17 @@
     "updatedAt": "2026-08-07T01:03:39.483Z"
   },
   {
+    "id": "pc-120260026",
+    "title": "「道路交通法施行規則の一部を改正する内閣府令案」に対する意見の募集について",
+    "ministry": "警察庁",
+    "status": "open",
+    "startAt": "2026-09-18",
+    "endAt": "2026-10-18",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=120260026&Mode=0",
+    "createdAt": "2026-09-18T23:03:42.934Z",
+    "updatedAt": "2026-09-18T23:03:42.934Z"
+  },
+  {
     "id": "pc-141000231",
     "title": "児童福祉法施行規則及びこども家庭庁の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する内閣府令の一部を改正する内閣府令案に関する御意見の募集について",
     "ministry": "こども家庭庁",
@@ -768,6 +779,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260107&Mode=0",
     "createdAt": "2026-09-04T22:49:44.498Z",
     "updatedAt": "2026-09-04T22:49:44.498Z"
+  },
+  {
+    "id": "pc-155260203",
+    "title": "奄美群島振興開発特別措置法施行規則及び半島振興法施行規則の一部を改正する省令案に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-09-18",
+    "endAt": "2026-10-19",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260203&Mode=0",
+    "createdAt": "2026-09-18T23:03:42.934Z",
+    "updatedAt": "2026-09-18T23:03:42.934Z"
+  },
+  {
+    "id": "pc-155260204",
+    "title": "小笠原諸島振興開発特別措置法施行規則の一部を改正する省令案に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-09-18",
+    "endAt": "2026-10-19",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260204&Mode=0",
+    "createdAt": "2026-09-18T23:03:42.934Z",
+    "updatedAt": "2026-09-18T23:03:42.934Z"
   },
   {
     "id": "pc-155260309",
@@ -1269,6 +1302,16 @@
     "updatedAt": "2026-08-21T21:24:24.928Z"
   },
   {
+    "id": "pc-185001508",
+    "title": "中央教育審議会初等中等教育分科会教員養成部会「多様な専門性を有する質の高い教職員集団の形成を加速するための方策について（審議のまとめ）」に関する意見募集の実施について",
+    "status": "open",
+    "startAt": "2026-09-17",
+    "endAt": "2026-10-19",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=185001508&Mode=0",
+    "createdAt": "2026-09-18T23:03:42.934Z",
+    "updatedAt": "2026-09-18T23:03:42.934Z"
+  },
+  {
     "id": "pc-195260024",
     "title": "令和８年度国指定鳥獣保護区の変更等に関する意見の募集（パブリック・コメント）について",
     "ministry": "環境省",
@@ -1498,6 +1541,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=198026104&Mode=0",
     "createdAt": "2026-09-03T23:01:26.141Z",
     "updatedAt": "2026-09-03T23:01:26.141Z"
+  },
+  {
+    "id": "pc-198026105",
+    "title": "核原料物質、核燃料物質及び原子炉の規制に関する法律施行令等の改正案に対する意見公募について",
+    "ministry": "原子力規制庁",
+    "status": "open",
+    "startAt": "2026-09-18",
+    "endAt": "2026-10-18",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=198026105&Mode=0",
+    "createdAt": "2026-09-18T23:03:42.934Z",
+    "updatedAt": "2026-09-18T23:03:42.934Z"
   },
   {
     "id": "pc-198026201",
@@ -2771,6 +2825,18 @@
     "updatedAt": "2026-09-16T23:35:26.452Z"
   },
   {
+    "id": "pc-550004407",
+    "title": "重要品種の育成及びその種苗の生産の振興に関する法律施行令案についての意見・情報の募集について",
+    "status": "open",
+    "startAt": "2026-09-18",
+    "endAt": "2026-10-17",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004407&Mode=0",
+    "lawId": "law-508AC0000000071",
+    "relatedLawTitle": "重要品種の育成及びその種苗の生産の振興に関する法律",
+    "createdAt": "2026-09-18T23:03:42.933Z",
+    "updatedAt": "2026-09-18T23:03:42.933Z"
+  },
+  {
     "id": "pc-550004408",
     "title": "動物用生物学的製剤基準の一部改正案についての意見・情報の募集について",
     "ministry": "農林水産省",
@@ -2780,6 +2846,29 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004408&Mode=0",
     "createdAt": "2026-09-16T23:35:26.453Z",
     "updatedAt": "2026-09-16T23:35:26.453Z"
+  },
+  {
+    "id": "pc-550004409",
+    "title": "「種苗法施行令及び個人情報の保護に関する法律施行令の一部を改正する政令案」及び「種苗法施行規則及び品種登録規則の一部を改正する省令案」についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-09-18",
+    "endAt": "2026-10-17",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004409&Mode=0",
+    "billId": "bill-221-shugiin-b2e04dc4061d4a81",
+    "createdAt": "2026-09-18T23:03:42.934Z",
+    "updatedAt": "2026-09-18T23:03:42.934Z"
+  },
+  {
+    "id": "pc-550004410",
+    "title": "平成15年農林水産省告示第1833号（農業経営統計調査規則第５条の農林水産大臣が定める調査客体の抽出方法等を定める等の件）の一部改正案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-09-18",
+    "endAt": "2026-10-17",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004410&Mode=0",
+    "createdAt": "2026-09-18T23:03:42.934Z",
+    "updatedAt": "2026-09-18T23:03:42.934Z"
   },
   {
     "id": "pc-595126108",
@@ -3130,6 +3219,16 @@
     "updatedAt": "2026-09-12T22:52:47.584Z"
   },
   {
+    "id": "pc-595320031",
+    "title": "旧簡易ガスみなしガス小売事業者の指定旧供給地点の指定の解除（近畿経済産業局所管分）に関する意見の募集について（令和８年８月報告分）",
+    "status": "open",
+    "startAt": "2026-09-18",
+    "endAt": "2026-10-18",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320031&Mode=0",
+    "createdAt": "2026-09-18T23:03:42.934Z",
+    "updatedAt": "2026-09-18T23:03:42.934Z"
+  },
+  {
     "id": "pc-620226018",
     "title": "ベースロード市場ガイドライン（案）に対する意見募集",
     "ministry": "経済産業省",
@@ -3250,6 +3349,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=630300000&Mode=0",
     "createdAt": "2026-08-11T21:45:54.264Z",
     "updatedAt": "2026-08-11T21:45:54.264Z"
+  },
+  {
+    "id": "pc-630300001",
+    "title": "「類似商品・役務審査基準〔国際分類第13-2027版対応〕（案）」に対する意見募集について",
+    "ministry": "特許庁",
+    "status": "open",
+    "startAt": "2026-09-18",
+    "endAt": "2026-10-19",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=630300001&Mode=0",
+    "createdAt": "2026-09-18T23:03:42.934Z",
+    "updatedAt": "2026-09-18T23:03:42.934Z"
+  },
+  {
+    "id": "pc-630300002",
+    "title": "「商標法施行規則の一部を改正する省令案」に対する意見募集について",
+    "ministry": "特許庁",
+    "status": "open",
+    "startAt": "2026-09-18",
+    "endAt": "2026-10-19",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=630300002&Mode=0",
+    "createdAt": "2026-09-18T23:03:42.933Z",
+    "updatedAt": "2026-09-18T23:03:42.934Z"
   },
   {
     "id": "pc-640230000",
