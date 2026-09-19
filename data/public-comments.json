@@ -740,6 +740,39 @@
     "updatedAt": "2026-09-16T23:35:26.452Z"
   },
   {
+    "id": "pc-145210774",
+    "title": "電波有効利用の推進に係る検討課題に対する意見募集",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-09-19",
+    "endAt": "2026-10-19",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210774&Mode=0",
+    "createdAt": "2026-09-19T22:42:50.545Z",
+    "updatedAt": "2026-09-19T22:42:50.545Z"
+  },
+  {
+    "id": "pc-145210775",
+    "title": "「電波有効利用委員会報告（案）」に対する意見募集",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-09-19",
+    "endAt": "2026-10-19",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210775&Mode=0",
+    "createdAt": "2026-09-19T22:42:50.545Z",
+    "updatedAt": "2026-09-19T22:42:50.545Z"
+  },
+  {
+    "id": "pc-145210777",
+    "title": "周波数再編アクションプラン（令和８年度版）（案）に対する意見募集",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-09-19",
+    "endAt": "2026-10-23",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210777&Mode=0",
+    "createdAt": "2026-09-19T22:42:50.545Z",
+    "updatedAt": "2026-09-19T22:42:50.545Z"
+  },
+  {
     "id": "pc-155260103",
     "title": "「地域公共交通の活性化及び再生の促進に関する基本方針」の一部変更案に関する意見募集について",
     "status": "open",
@@ -1773,6 +1806,17 @@
     "updatedAt": "2026-07-24T22:06:14.526Z"
   },
   {
+    "id": "pc-300110056",
+    "title": "「保護司及び保護司会連合会に関する規則の一部を改正する省令案」に関する意見募集について",
+    "ministry": "法務省",
+    "status": "open",
+    "startAt": "2026-09-18",
+    "endAt": "2026-10-17",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=300110056&Mode=0",
+    "createdAt": "2026-09-19T22:42:50.546Z",
+    "updatedAt": "2026-09-19T22:42:50.546Z"
+  },
+  {
     "id": "pc-315000136",
     "title": "「出入国管理及び難民認定法施行令及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行令の一部を改正する政令案」等に係る意見募集について",
     "ministry": "出入国在留管理庁",
@@ -1937,6 +1981,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=395122518&Mode=0",
     "createdAt": "2026-08-07T01:03:39.483Z",
     "updatedAt": "2026-08-07T01:03:39.483Z"
+  },
+  {
+    "id": "pc-410080055",
+    "title": "「貸付用不動産の評価について」の法令解釈通達（案）に対する意見公募手続の実施について",
+    "ministry": "国税庁",
+    "status": "open",
+    "startAt": "2026-09-18",
+    "endAt": "2026-10-18",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=410080055&Mode=0",
+    "createdAt": "2026-09-19T22:42:50.546Z",
+    "updatedAt": "2026-09-19T22:42:50.546Z"
   },
   {
     "id": "pc-495260102",
@@ -2532,6 +2587,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260188&Mode=0",
     "createdAt": "2026-09-16T23:35:26.452Z",
     "updatedAt": "2026-09-16T23:35:26.452Z"
+  },
+  {
+    "id": "pc-495260190",
+    "title": "厚生労働省組織令及び厚生科学審議会令の一部を改正する政令案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-09-19",
+    "endAt": "2026-10-19",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260190&Mode=0",
+    "createdAt": "2026-09-19T22:42:50.545Z",
+    "updatedAt": "2026-09-19T22:42:50.545Z"
+  },
+  {
+    "id": "pc-495260192",
+    "title": "難病の患者に対する医療等に関する法律施行規則第十五条第一項第一号イに規定する厚生労働大臣が定める認定機関が認定する専門医の資格及び児童福祉法施行規則第七条の十第一項第一号に規定する厚生労働大臣が定める認定機関が認定する専門医の資格の一部を改正する告示案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-09-19",
+    "endAt": "2026-10-19",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260192&Mode=0",
+    "createdAt": "2026-09-19T22:42:50.545Z",
+    "updatedAt": "2026-09-19T22:42:50.545Z"
   },
   {
     "id": "pc-550004376",
@@ -3227,6 +3304,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320031&Mode=0",
     "createdAt": "2026-09-18T23:03:42.934Z",
     "updatedAt": "2026-09-18T23:03:42.934Z"
+  },
+  {
+    "id": "pc-595320032",
+    "title": "ガス事業法施行規則の一部を改正する省令（案）等に対する意見募集について",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-09-18",
+    "endAt": "2026-10-19",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320032&Mode=0",
+    "createdAt": "2026-09-19T22:42:50.546Z",
+    "updatedAt": "2026-09-19T22:42:50.546Z"
   },
   {
     "id": "pc-620226018",
