@@ -444,6 +444,16 @@
     "createdAt": "2026-09-01T00:23:10.823Z"
   },
   {
+    "id": "doc-kanpo-0bb3d0cde236bf36",
+    "title": "対象債権者集会決議関連事件に関する手続等に関する規則（最高裁一二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260925/20260925g00212/20260925g002120001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-25",
+    "createdAt": "2026-09-24T23:45:35.194Z"
+  },
+  {
     "id": "doc-kanpo-0cd21cd543ba0d3d",
     "title": "情報通信技術を活用した行政の推進等に関する法律及び情報処理の促進に関する法律の一部を改正する法律（五七）",
     "type": "kanpo",
@@ -629,6 +639,16 @@
     "createdAt": "2026-07-07T00:36:45.475Z"
   },
   {
+    "id": "doc-kanpo-21b815f6ed6148d0",
+    "title": "農林水産省関係福島復興再生特別措置法施行規則の一部を改正する省令（農林水産六八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260924/20260924g00211/20260924g002110004f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-24",
+    "createdAt": "2026-09-24T23:45:35.591Z"
+  },
+  {
     "id": "doc-kanpo-21fd7fbcde5dca31",
     "title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令（二三四）",
     "type": "kanpo",
@@ -772,6 +792,17 @@
     "createdAt": "2026-09-16T23:32:22.074Z"
   },
   {
+    "id": "doc-kanpo-39b7b22e7856c469",
+    "title": "警察官職務執行法第六条の二第八項の規定に基づく管理者への通知等に関する規則（国家公安委一九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260925/20260925h01795/20260925h017950002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-25",
+    "createdAt": "2026-09-24T23:45:35.194Z",
+    "updatedAt": "2026-09-24T23:45:35.194Z"
+  },
+  {
     "id": "doc-kanpo-3a40373c10dd1ac9",
     "title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則（人事院一七－〇－一五三）",
     "type": "kanpo",
@@ -841,7 +872,7 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.551Z",
-    "updatedAt": "2026-09-23T23:25:29.807Z"
+    "updatedAt": "2026-09-24T23:45:36.786Z"
   },
   {
     "id": "doc-kanpo-3fad2b3c074ef060",
@@ -933,7 +964,7 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.551Z",
-    "updatedAt": "2026-09-23T23:25:29.807Z"
+    "updatedAt": "2026-09-24T23:45:36.786Z"
   },
   {
     "id": "doc-kanpo-48fefd7f61aac59d",
@@ -1350,7 +1381,7 @@
     "source": "官報",
     "publishedAt": "2026-09-15",
     "createdAt": "2026-09-14T23:41:17.427Z",
-    "updatedAt": "2026-09-23T23:25:30.297Z"
+    "updatedAt": "2026-09-24T23:45:37.184Z"
   },
   {
     "id": "doc-kanpo-6fbb4e96b285b187",
@@ -1643,6 +1674,16 @@
     "createdAt": "2026-08-07T01:00:33.130Z"
   },
   {
+    "id": "doc-kanpo-a537256bddebae57",
+    "title": "地方自治法施行規則の一部を改正する省令（総務一一二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260924/20260924g00211/20260924g002110002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-24",
+    "createdAt": "2026-09-24T23:45:35.591Z"
+  },
+  {
     "id": "doc-kanpo-a5ffe16eb307e880",
     "title": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律（七八）",
     "type": "kanpo",
@@ -1795,7 +1836,7 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.551Z",
-    "updatedAt": "2026-09-23T23:25:29.807Z"
+    "updatedAt": "2026-09-24T23:45:36.786Z"
   },
   {
     "id": "doc-kanpo-b6b1f3a7f5e30cdc",
@@ -1890,6 +1931,16 @@
     "createdAt": "2026-08-10T21:39:13.483Z"
   },
   {
+    "id": "doc-kanpo-c0cc931b39cadb3d",
+    "title": "経済産業省特定業種石油等消費統計調査規則の一部を改正する省令（経済産業七一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260924/20260924g00211/20260924g002110005f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-24",
+    "createdAt": "2026-09-24T23:45:35.591Z"
+  },
+  {
     "id": "doc-kanpo-c14ca1e5bbb26d1d",
     "title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令（二三二）",
     "type": "kanpo",
@@ -1969,7 +2020,7 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.550Z",
-    "updatedAt": "2026-09-23T23:25:29.807Z"
+    "updatedAt": "2026-09-24T23:45:36.786Z"
   },
   {
     "id": "doc-kanpo-ce1e79f6cef6aadf",
@@ -2282,7 +2333,7 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.551Z",
-    "updatedAt": "2026-09-23T23:25:29.807Z"
+    "updatedAt": "2026-09-24T23:45:36.786Z"
   },
   {
     "id": "doc-kanpo-e8f4c6f9138929dd",
@@ -2334,6 +2385,16 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z"
+  },
+  {
+    "id": "doc-kanpo-ee2afabd8042600a",
+    "title": "端末設備等規則の一部を改正する省令（総務一一一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260924/20260924h01794/20260924h017940002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-24",
+    "createdAt": "2026-09-24T23:45:35.591Z"
   },
   {
     "id": "doc-kanpo-eea7a10d44010469",
