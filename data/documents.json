@@ -800,7 +800,7 @@
     "source": "官報",
     "publishedAt": "2026-09-25",
     "createdAt": "2026-09-24T23:45:35.194Z",
-    "updatedAt": "2026-09-26T23:22:30.864Z"
+    "updatedAt": "2026-09-27T23:39:14.980Z"
   },
   {
     "id": "doc-kanpo-3a40373c10dd1ac9",
@@ -872,7 +872,7 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.551Z",
-    "updatedAt": "2026-09-26T23:22:32.817Z"
+    "updatedAt": "2026-09-27T23:39:16.657Z"
   },
   {
     "id": "doc-kanpo-3fad2b3c074ef060",
@@ -964,7 +964,7 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.551Z",
-    "updatedAt": "2026-09-26T23:22:32.817Z"
+    "updatedAt": "2026-09-27T23:39:16.657Z"
   },
   {
     "id": "doc-kanpo-48fefd7f61aac59d",
@@ -1252,6 +1252,16 @@
     "updatedAt": "2026-07-23T22:03:05.263Z"
   },
   {
+    "id": "doc-kanpo-6622adf8217f1b23",
+    "title": "統合作戦司令部組織規則の一部を改正する省令（防衛二二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260928/20260928h01796/20260928h017960002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-28",
+    "createdAt": "2026-09-27T23:39:14.562Z"
+  },
+  {
     "id": "doc-kanpo-66be8f35880201c2",
     "title": "技術士法施行規則の一部を改正する省令（文部科学二六）",
     "type": "kanpo",
@@ -1381,7 +1391,7 @@
     "source": "官報",
     "publishedAt": "2026-09-15",
     "createdAt": "2026-09-14T23:41:17.427Z",
-    "updatedAt": "2026-09-26T23:22:33.306Z"
+    "updatedAt": "2026-09-27T23:39:17.077Z"
   },
   {
     "id": "doc-kanpo-6fbb4e96b285b187",
@@ -1828,6 +1838,16 @@
     "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
+    "id": "doc-kanpo-b67916ba21453256",
+    "title": "農林水産省関係福島復興再生特別措置法施行規則及び農地中間管理事業の推進に関する法律施行規則の一部を改正する省令（農林水産六九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260928/20260928g00213/20260928g002130005f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-28",
+    "createdAt": "2026-09-27T23:39:14.562Z"
+  },
+  {
     "id": "doc-kanpo-b6a5fe7ffa37b3b1",
     "title": "建築物のエネルギー消費性能の向上等に関する法律の一部を改正する法律の一部の施行期日を定める政令（二九一）",
     "type": "kanpo",
@@ -1836,7 +1856,17 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.551Z",
-    "updatedAt": "2026-09-26T23:22:32.817Z"
+    "updatedAt": "2026-09-27T23:39:16.657Z"
+  },
+  {
+    "id": "doc-kanpo-b6af5fc6a39e6d0f",
+    "title": "予備自衛官等の職務の円滑な遂行を図るための国家公務員及び地方公務員の兼業の特例に関する法律第三条第一項の規定による予備自衛官等の兼業に関する規則（内閣官房・防衛一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260928/20260928h01796/20260928h017960001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-28",
+    "createdAt": "2026-09-27T23:39:14.562Z"
   },
   {
     "id": "doc-kanpo-b6b1f3a7f5e30cdc",
@@ -2012,6 +2042,16 @@
     "createdAt": "2026-07-07T00:36:45.158Z"
   },
   {
+    "id": "doc-kanpo-c7ac647f2aca29f4",
+    "title": "道路運送車両法施行規則の一部を改正する省令（国土交通七六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260928/20260928g00213/20260928g002130006f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-28",
+    "createdAt": "2026-09-27T23:39:14.562Z"
+  },
+  {
     "id": "doc-kanpo-c92c2e6d126f2b8b",
     "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則の一部を改正する省令（厚生労働一三九）",
     "type": "kanpo",
@@ -2020,7 +2060,7 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.550Z",
-    "updatedAt": "2026-09-26T23:22:32.817Z"
+    "updatedAt": "2026-09-27T23:39:16.657Z"
   },
   {
     "id": "doc-kanpo-ce1e79f6cef6aadf",
@@ -2333,7 +2373,7 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.551Z",
-    "updatedAt": "2026-09-26T23:22:32.817Z"
+    "updatedAt": "2026-09-27T23:39:16.657Z"
   },
   {
     "id": "doc-kanpo-e8f4c6f9138929dd",
@@ -2468,6 +2508,17 @@
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z",
     "updatedAt": "2026-07-08T22:04:49.166Z"
+  },
+  {
+    "id": "doc-kanpo-f6b105f177586b7a",
+    "title": "放送法施行規則及び基幹放送の業務に係る特定役員及び支配関係の定義並びに表現の自由享有基準の特例に関する省令の一部を改正する省令（総務一一三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260928/20260928g00213/20260928g002130002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-28",
+    "createdAt": "2026-09-27T23:39:14.562Z",
+    "updatedAt": "2026-09-27T23:39:14.562Z"
   },
   {
     "id": "doc-kanpo-f6fb1af1b8d446ee",
