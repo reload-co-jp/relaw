@@ -371,6 +371,28 @@
     "updatedAt": "2026-07-26T21:58:06.637Z"
   },
   {
+    "id": "doc-kanpo-045e5be38dcc2d6e",
+    "title": "地方航空局組織規則の一部を改正する省令（同七九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930h01798/20260930h017980002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.553Z",
+    "updatedAt": "2026-09-30T00:03:53.553Z"
+  },
+  {
+    "id": "doc-kanpo-046aaab45727fd39",
+    "title": "自衛官等に対する療養の給付等に関する省令の一部を改正する省令（防衛二三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930h01798/20260930h017980004f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.553Z",
+    "updatedAt": "2026-09-30T00:03:53.553Z"
+  },
+  {
     "id": "doc-kanpo-05a7da66c97e4f4e",
     "title": "感染症の予防及び感染症の患者に対する医療に関する法律施行規則の一部を改正する省令（同一〇九）",
     "type": "kanpo",
@@ -454,6 +476,16 @@
     "createdAt": "2026-09-24T23:45:35.194Z"
   },
   {
+    "id": "doc-kanpo-0c43cefeb19f2d04",
+    "title": "国家公務員共済組合法施行規則の一部を改正する省令（財務六一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150062f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
     "id": "doc-kanpo-0cd21cd543ba0d3d",
     "title": "情報通信技術を活用した行政の推進等に関する法律及び情報処理の促進に関する法律の一部を改正する法律（五七）",
     "type": "kanpo",
@@ -516,6 +548,17 @@
     "updatedAt": "2026-07-13T21:55:09.197Z"
   },
   {
+    "id": "doc-kanpo-1622dd0ae80f76ee",
+    "title": "防衛省設置法等の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令（三〇八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150012f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.553Z",
+    "updatedAt": "2026-09-30T00:03:53.553Z"
+  },
+  {
     "id": "doc-kanpo-1656145d03613e43",
     "title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の一部の施行に伴う関係省令の整備等及び経過措置に関する省令（同一一一）",
     "type": "kanpo",
@@ -546,6 +589,16 @@
     "createdAt": "2026-09-18T23:00:47.240Z"
   },
   {
+    "id": "doc-kanpo-17148ca81d144784",
+    "title": "財務省・農林水産省関係主要食糧の需給及び価格の安定に関する法律施行規則（財務・農林水産四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150065f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
     "id": "doc-kanpo-1778351418578711",
     "title": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第十四条に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める省令（厚生労働一二四）",
     "type": "kanpo",
@@ -565,6 +618,16 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.551Z"
+  },
+  {
+    "id": "doc-kanpo-19a51eac82950980",
+    "title": "道路運送車両の保安基準等の一部を改正する省令（国土交通八〇）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150270f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
   },
   {
     "id": "doc-kanpo-1a011d4addec7db5",
@@ -637,6 +700,17 @@
     "source": "官報",
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z"
+  },
+  {
+    "id": "doc-kanpo-20dca28b70ebc806",
+    "title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令（三〇五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150007f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.553Z",
+    "updatedAt": "2026-09-30T00:03:53.553Z"
   },
   {
     "id": "doc-kanpo-21b815f6ed6148d0",
@@ -722,6 +796,16 @@
     "createdAt": "2026-08-03T22:07:53.359Z"
   },
   {
+    "id": "doc-kanpo-2ce6952c1f32c7b7",
+    "title": "主要食糧の需給及び価格の安定に関する法律施行規則等の一部を改正する省令（同七一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150227f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
     "id": "doc-kanpo-2dd7888301b27f33",
     "title": "社会福祉士及び介護福祉士法施行令及び精神保健福祉士法施行令の一部を改正する政令（二二九）",
     "type": "kanpo",
@@ -800,7 +884,7 @@
     "source": "官報",
     "publishedAt": "2026-09-25",
     "createdAt": "2026-09-24T23:45:35.194Z",
-    "updatedAt": "2026-09-29T00:49:08.146Z"
+    "updatedAt": "2026-09-30T00:03:55.021Z"
   },
   {
     "id": "doc-kanpo-3a40373c10dd1ac9",
@@ -916,6 +1000,16 @@
     "createdAt": "2026-08-10T21:39:13.483Z"
   },
   {
+    "id": "doc-kanpo-427a6caf080346fa",
+    "title": "サイバー通信情報監理委員会事務局組織令の一部を改正する政令（三〇六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150011f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.553Z"
+  },
+  {
     "id": "doc-kanpo-4472d37fb175bafc",
     "title": "人事院規則九―五五（特地勤務手当等）の一部を改正する人事院規則（同九－五五－一五八）",
     "type": "kanpo",
@@ -1029,6 +1123,16 @@
     "updatedAt": "2026-07-08T22:04:49.166Z"
   },
   {
+    "id": "doc-kanpo-4d6d4c4e7f2f9c02",
+    "title": "私立学校教職員共済法施行令等の一部を改正する政令（三一二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150020f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.553Z"
+  },
+  {
     "id": "doc-kanpo-4dd6e851c13646f3",
     "title": "船員保険法施行規則の一部を改正する省令（厚生労働一一八）",
     "type": "kanpo",
@@ -1057,6 +1161,16 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.053Z"
+  },
+  {
+    "id": "doc-kanpo-515c04da1ea32251",
+    "title": "国立研究開発法人医薬基盤・健康・栄養研究所法施行令等の一部を改正する政令（三〇九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150013f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.553Z"
   },
   {
     "id": "doc-kanpo-5184c7bdb022258b",
@@ -1097,6 +1211,26 @@
     "source": "官報",
     "publishedAt": "2026-06-29",
     "createdAt": "2026-07-07T00:36:45.787Z"
+  },
+  {
+    "id": "doc-kanpo-55b7997f75d82cb5",
+    "title": "高圧ガス保安法に基づく高圧ガス製造保安責任者試験等に関する規則及び液化石油ガスの保安の確保及び取引の適正化に関する法律施行規則の一部を改正する省令（経済産業七二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150245f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
+    "id": "doc-kanpo-55ca2eed9e973bb4",
+    "title": "地方公務員等共済組合法施行令及び地方公務員等共済組合法施行令及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律及び地方公務員等共済組合法及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の一部を改正する法律の施行に伴う地方公務員等共済組合法による長期給付等に関する経過措置に関する政令の一部を改正する政令の一部を改正する政令（三一一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150017f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.553Z"
   },
   {
     "id": "doc-kanpo-56fe6fae2b5e9c5d",
@@ -1147,6 +1281,16 @@
     "source": "官報",
     "publishedAt": "2026-09-02",
     "createdAt": "2026-09-02T22:58:24.317Z"
+  },
+  {
+    "id": "doc-kanpo-597428df437bff0d",
+    "title": "地方公務員等共済組合法施行規則の一部を改正する省令（総務一一四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150058f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
   },
   {
     "id": "doc-kanpo-59897ece27f22816",
@@ -1373,6 +1517,16 @@
     "createdAt": "2026-07-07T00:36:45.474Z"
   },
   {
+    "id": "doc-kanpo-6ea29e0a0882f7e9",
+    "title": "特定技能雇用契約及び一号特定技能外国人支援計画の基準等を定める省令の一部を改正する省令（法務五〇）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150059f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
     "id": "doc-kanpo-6f55694159038a48",
     "title": "令和八年熊本地震による災害に対処するための要介護認定有効期間及び要支援認定有効期間の特例に関する省令（厚生労働一三〇）",
     "type": "kanpo",
@@ -1442,6 +1596,16 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.551Z"
+  },
+  {
+    "id": "doc-kanpo-781256eae4df3a53",
+    "title": "保険医療機関及び保険医療養担当規則及び保険薬局及び保険薬剤師療養担当規則の一部を改正する省令（同一四三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150172f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
   },
   {
     "id": "doc-kanpo-7a1c3a0076354880",
@@ -1530,6 +1694,16 @@
     "createdAt": "2026-07-24T22:03:16.531Z"
   },
   {
+    "id": "doc-kanpo-8f5651d7415ddd72",
+    "title": "国家公務員共済組合法施行令及び国家公務員共済組合法施行令及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の施行及び国家公務員の退職給付の給付水準の見直し等のための国家公務員退職手当法等の一部を改正する法律の一部の施行に伴う国家公務員共済組合法による長期給付等に関する経過措置に関する政令の一部を改正する政令の一部を改正する政令（三一〇）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150014f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.553Z"
+  },
+  {
     "id": "doc-kanpo-9054ea19373e161b",
     "title": "厚生労働省・経済産業省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令の一部を改正する省令（厚生労働・経済産業一）",
     "type": "kanpo",
@@ -1562,6 +1736,17 @@
     "updatedAt": "2026-07-28T22:03:15.044Z"
   },
   {
+    "id": "doc-kanpo-927c86d08d6437ef",
+    "title": "内閣府本府組織令の一部を改正する政令（三〇二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150006f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.553Z",
+    "updatedAt": "2026-09-30T00:03:53.553Z"
+  },
+  {
     "id": "doc-kanpo-93384122f21e6a7e",
     "title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令（総務九〇）",
     "type": "kanpo",
@@ -1591,6 +1776,16 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z"
+  },
+  {
+    "id": "doc-kanpo-99b163a59ed09c45",
+    "title": "再生可能エネルギー電気の利用の促進に関する特別措置法施行規則の一部を改正する省令（同七三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150249f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
   },
   {
     "id": "doc-kanpo-9a335997d1864183",
@@ -1807,6 +2002,26 @@
     "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
+    "id": "doc-kanpo-b1d86379b77c81d6",
+    "title": "私立学校教職員共済法施行規則の一部を改正する省令（同三一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150072f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
+    "id": "doc-kanpo-b1fc6740d3f4422d",
+    "title": "農林水産省組織規則の一部を改正する省令（農林水産七〇）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150223f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
     "id": "doc-kanpo-b24c31f194250264",
     "title": "科学技術・イノベーション創出の活性化に関する法律施行令の一部を改正する政令（二六五）",
     "type": "kanpo",
@@ -1951,6 +2166,16 @@
     "updatedAt": "2026-08-16T21:17:35.614Z"
   },
   {
+    "id": "doc-kanpo-bd530371f34e634e",
+    "title": "文部科学省組織規則の一部を改正する省令（文部科学三〇）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150071f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
     "id": "doc-kanpo-be30c4d3d93202c9",
     "title": "電気通信事業法施行規則等の一部を改正する省令（総務一〇七）",
     "type": "kanpo",
@@ -2063,6 +2288,16 @@
     "updatedAt": "2026-09-29T00:49:09.871Z"
   },
   {
+    "id": "doc-kanpo-cc7687e73b97224f",
+    "title": "防衛省設置法等の一部を改正する法律の一部の施行に伴う関係省令の整理に関する省令（防衛二四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150282f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
     "id": "doc-kanpo-ce1e79f6cef6aadf",
     "title": "内閣情報調査室に内閣情報分析官等を置く規則を廃止する規則（同）",
     "type": "kanpo",
@@ -2113,6 +2348,16 @@
     "source": "官報",
     "publishedAt": "2026-09-17",
     "createdAt": "2026-09-16T23:32:22.075Z"
+  },
+  {
+    "id": "doc-kanpo-d25ab177fa7c4856",
+    "title": "財務省及び農林水産省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則（同五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150070f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
   },
   {
     "id": "doc-kanpo-d346384005ba4a68",
@@ -2166,6 +2411,16 @@
     "createdAt": "2026-09-01T00:23:10.342Z"
   },
   {
+    "id": "doc-kanpo-d48d7d3b5a634ec2",
+    "title": "医療法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令（同一四四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150182f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
     "id": "doc-kanpo-d4c2b224bdf128ff",
     "title": "環境教育等による環境保全の取組の促進に関する法律施行規則の一部を改正する省令（文部科学・農林水産・経済産業・国土交通・環境一）",
     "type": "kanpo",
@@ -2198,6 +2453,17 @@
     "updatedAt": "2026-07-09T22:26:19.503Z"
   },
   {
+    "id": "doc-kanpo-d7c08e990e6bea20",
+    "title": "健康保険法等の一部を改正する法律の一部の施行期日を定める政令（三二〇）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150025f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.553Z",
+    "updatedAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
     "id": "doc-kanpo-d8276b90930fff3e",
     "title": "独立行政法人農業者年金基金の業務運営、財務及び会計並びに人事管理に関する省令の一部を改正する省令（同五九）",
     "type": "kanpo",
@@ -2207,6 +2473,16 @@
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
     "updatedAt": "2026-08-16T21:17:35.614Z"
+  },
+  {
+    "id": "doc-kanpo-d83cb6629a110be6",
+    "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令（厚生労働一四二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150075f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
   },
   {
     "id": "doc-kanpo-daa8259fdf92d7c0",
@@ -2344,6 +2620,16 @@
     "createdAt": "2026-07-24T22:03:16.530Z"
   },
   {
+    "id": "doc-kanpo-e61ebeeeb25ef091",
+    "title": "一般送配電事業託送供給等約款料金算定規則の一部を改正する省令（同七四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150269f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
     "id": "doc-kanpo-e631d53bcceb5c83",
     "title": "令和八年熊本地震による災害についての特定非常災害及びこれに対し適用すべき措置の指定に関する政令（二六〇）",
     "type": "kanpo",
@@ -2374,6 +2660,16 @@
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.551Z",
     "updatedAt": "2026-09-29T00:49:09.871Z"
+  },
+  {
+    "id": "doc-kanpo-e6e44489c0d284ef",
+    "title": "労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律等の一部を改正する法律の施行に伴う法務省・厚生労働省関係省令の整備に関する省令（法務・厚生労働六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150060f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
   },
   {
     "id": "doc-kanpo-e8b2bcc70eb31a69",
@@ -2468,6 +2764,17 @@
     "updatedAt": "2026-08-18T21:21:47.338Z"
   },
   {
+    "id": "doc-kanpo-ef1f47939b2cf4d4",
+    "title": "予防接種実施規則の一部を改正する省令（同一四六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150222f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z",
+    "updatedAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
     "id": "doc-kanpo-ef2a4e2545b78c15",
     "title": "自動車の登録及び検査に関する申請書等の様式等を定める省令の一部を改正する省令（国土交通六九）",
     "type": "kanpo",
@@ -2476,6 +2783,26 @@
     "source": "官報",
     "publishedAt": "2026-07-27",
     "createdAt": "2026-07-27T22:05:04.288Z"
+  },
+  {
+    "id": "doc-kanpo-efbe8e3c25bebefc",
+    "title": "警備員指導教育責任者及び機械警備業務管理者に係る講習等に関する規則等の一部を改正する規則（国家公安委二一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150291f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
+    "id": "doc-kanpo-f1dc88080860bf34",
+    "title": "国家公務員共済組合法施行規則の一部を改正する省令（同六二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150064f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.554Z"
   },
   {
     "id": "doc-kanpo-f1e3f2ecb73dc051",
@@ -2487,6 +2814,17 @@
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.763Z",
     "updatedAt": "2026-08-11T21:43:23.537Z"
+  },
+  {
+    "id": "doc-kanpo-f1e43bc76437d1ac",
+    "title": "主要食糧の需給及び価格の安定に関する法律の一部を改正する法律の施行に伴う経過措置に関する政令（三一六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150023f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.553Z",
+    "updatedAt": "2026-09-30T00:03:53.553Z"
   },
   {
     "id": "doc-kanpo-f2ef1b56deb89213",
@@ -2528,7 +2866,7 @@
     "source": "官報",
     "publishedAt": "2026-09-28",
     "createdAt": "2026-09-27T23:39:14.562Z",
-    "updatedAt": "2026-09-29T00:49:07.715Z"
+    "updatedAt": "2026-09-30T00:03:54.532Z"
   },
   {
     "id": "doc-kanpo-f6fb1af1b8d446ee",
@@ -2579,6 +2917,17 @@
     "source": "官報",
     "publishedAt": "2026-07-03",
     "createdAt": "2026-07-07T00:36:44.528Z"
+  },
+  {
+    "id": "doc-kanpo-fa018b2a64c089d3",
+    "title": "雇用保険法施行令の一部を改正する政令（三一八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20260930/20260930g00215/20260930g002150024f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-09-30",
+    "createdAt": "2026-09-30T00:03:53.553Z",
+    "updatedAt": "2026-09-30T00:03:53.553Z"
   },
   {
     "id": "doc-kanpo-fb0eb7ee465f0c04",

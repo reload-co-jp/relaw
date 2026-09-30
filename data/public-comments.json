@@ -902,6 +902,17 @@
     "updatedAt": "2026-09-29T00:51:52.201Z"
   },
   {
+    "id": "pc-155260409",
+    "title": "地域における歴史的風致の維持及び向上に関する基本的な方針の一部改正（案）について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-09-29",
+    "endAt": "2026-10-28",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260409&Mode=0",
+    "createdAt": "2026-09-30T00:06:49.912Z",
+    "updatedAt": "2026-09-30T00:06:49.912Z"
+  },
+  {
     "id": "pc-155260507",
     "title": "水道法施行規則の一部を改正する省令案に関する意見募集について",
     "ministry": "国土交通省",
@@ -1607,6 +1618,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260058&Mode=0",
     "createdAt": "2026-09-24T23:48:09.171Z",
     "updatedAt": "2026-09-24T23:48:09.171Z"
+  },
+  {
+    "id": "pc-195260059",
+    "title": "海域が該当する環境基準の水域類型の指定に関する件（平成21年３月環境省告示第15号）の一部を改正する案に対する意見の募集について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-09-30",
+    "endAt": "2026-10-30",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260059&Mode=0",
+    "createdAt": "2026-09-30T00:06:49.911Z",
+    "updatedAt": "2026-09-30T00:06:49.911Z"
   },
   {
     "id": "pc-198026102",
@@ -2708,6 +2730,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260198&Mode=0",
     "createdAt": "2026-09-29T00:51:52.201Z",
     "updatedAt": "2026-09-29T00:51:52.201Z"
+  },
+  {
+    "id": "pc-495260199",
+    "title": "医療機器に係る日本産業規格の改正案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-09-29",
+    "endAt": "2026-11-28",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260199&Mode=0",
+    "createdAt": "2026-09-30T00:06:49.912Z",
+    "updatedAt": "2026-09-30T00:06:49.912Z"
+  },
+  {
+    "id": "pc-495260200",
+    "title": "社会福祉法施行令の一部を改正する政令案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-09-30",
+    "endAt": "2026-10-30",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260200&Mode=0",
+    "createdAt": "2026-09-30T00:06:49.911Z",
+    "updatedAt": "2026-09-30T00:06:49.911Z"
   },
   {
     "id": "pc-550004376",
