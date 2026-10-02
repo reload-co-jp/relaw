@@ -1,9 +1,10 @@
 import { FC } from "react"
-import { getBills, getLatestBillEvents } from "lib/data"
+import { getBills, getLatestBillEvents, getSessions } from "lib/data"
 import { Section } from "components/elements/section"
 import { billEntry, billSearchText } from "components/blocks/bill-list"
 import { BillSearchList } from "components/blocks/bill-search-list"
 import { pageMetadata } from "lib/seo"
+import { Breadcrumbs, LinkChips } from "components/elements/breadcrumbs"
 
 export const metadata = pageMetadata({
   title: "法案一覧",
@@ -23,9 +24,18 @@ const Page: FC = () => {
     }
   })
   return (
-    <Section title="法案一覧" count={bills.length} titleAs="h1">
-      <BillSearchList entries={entries} />
-    </Section>
+    <>
+      <Breadcrumbs items={[{ name: "法案一覧", path: "/bills/" }]} />
+      <Section title="法案一覧" count={bills.length} titleAs="h1">
+        <LinkChips
+          links={getSessions().map((session) => ({
+            label: `第${session}回国会`,
+            href: `/bills/${session}/`,
+          }))}
+        />
+        <BillSearchList entries={entries} />
+      </Section>
+    </>
   )
 }
 

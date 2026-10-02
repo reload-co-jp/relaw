@@ -3,6 +3,7 @@ import { getPublicComments } from "lib/data"
 import { Section } from "components/elements/section"
 import { PublicCommentList } from "components/blocks/public-comment-list"
 import { pageMetadata } from "lib/seo"
+import { Breadcrumbs } from "components/elements/breadcrumbs"
 
 export const metadata = pageMetadata({
   title: "パブリックコメント",
@@ -14,9 +15,14 @@ export const metadata = pageMetadata({
 const Page: FC = () => {
   const comments = getPublicComments()
   return (
-    <Section title="パブリックコメント" count={comments.length} titleAs="h1">
-      <PublicCommentList comments={comments} />
-    </Section>
+    <>
+      <Breadcrumbs
+        items={[{ name: "パブリックコメント", path: "/public-comments/" }]}
+      />
+      <Section title="パブリックコメント" count={comments.length} titleAs="h1">
+        <PublicCommentList comments={comments} />
+      </Section>
+    </>
   )
 }
 

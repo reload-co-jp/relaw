@@ -8,3 +8,9 @@ export const formatSummary = (text: string): string =>
     .replace(/ (?=[一二三四五六七八九十]+、)/g, "\n\n")
     .replace(/ (?=[０-９][０-９]? )/g, "\n")
     .replace(/ (?=[イロハニホヘトチリヌルヲ] )/g, "\n")
+
+/** "2024-10-17" → "2024年10月17日" */
+export const formatDate = (date: string): string => {
+  const [year, month, day] = date.split("-").map(Number)
+  return `${year}年${month}月${day}日`
+}

@@ -112,3 +112,21 @@ export const legislationJsonLd = ({
   if (sourceUrl) data.sameAs = sourceUrl
   return data
 }
+
+export const webPageJsonLd = ({
+  name,
+  path,
+  description,
+}: {
+  name: string
+  path: string
+  description?: string
+}): Record<string, unknown> => ({
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  name,
+  url: absoluteUrl(path),
+  inLanguage: "ja",
+  ...(description && { description }),
+  isPartOf: { "@type": "WebSite", name: siteName, url: `${siteUrl}/` },
+})

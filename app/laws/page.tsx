@@ -3,6 +3,7 @@ import { getLaws } from "lib/data"
 import { Section } from "components/elements/section"
 import { LawList } from "components/blocks/law-list"
 import { pageMetadata } from "lib/seo"
+import { Breadcrumbs, LinkChips } from "components/elements/breadcrumbs"
 
 export const metadata = pageMetadata({
   title: "法令一覧",
@@ -14,9 +15,20 @@ export const metadata = pageMetadata({
 const Page: FC = () => {
   const laws = getLaws()
   return (
-    <Section title="法令一覧" count={laws.length} titleAs="h1">
-      <LawList laws={laws} />
-    </Section>
+    <>
+      <Breadcrumbs items={[{ name: "法令一覧", path: "/laws/" }]} />
+      <Section title="法令一覧" count={laws.length} titleAs="h1">
+        <LinkChips
+          links={[
+            { label: "公布年別", href: "/laws/enacted/" },
+            { label: "施行月別", href: "/laws/enforced/" },
+            { label: "施行予定", href: "/laws/upcoming/" },
+            { label: "テーマ別", href: "/themes/" },
+          ]}
+        />
+        <LawList laws={laws} />
+      </Section>
+    </>
   )
 }
 
