@@ -6,6 +6,7 @@ import { billStatusLabels } from "lib/labels"
 import { Section } from "components/elements/section"
 import { LifecycleGuide } from "components/blocks/lifecycle-guide"
 import { pageMetadata } from "lib/seo"
+import { Breadcrumbs } from "components/elements/breadcrumbs"
 
 export const metadata = pageMetadata({
   title: "ガントチャート",
@@ -40,9 +41,7 @@ interface Segment {
 const billSegments = (bill: Bill, fallbackEnd: string): Segment[] => {
   if (!bill.submittedAt) return []
   if (TERMINAL_STATUSES.includes(bill.status))
-    return [
-      { from: bill.submittedAt, to: fallbackEnd, phase: "terminated" },
-    ]
+    return [{ from: bill.submittedAt, to: fallbackEnd, phase: "terminated" }]
   const boundaries: { at: string; phase: keyof typeof PHASE_COLORS }[] = [
     { at: bill.submittedAt, phase: "deliberation" },
   ]
@@ -99,10 +98,12 @@ const Page: FC = () => {
   const ticks: { position: number; label: string; isYearStart: boolean }[] = []
   const cursor = new Date(rangeStart)
   cursor.setUTCDate(1)
-  if (cursor.getTime() < rangeStart) cursor.setUTCMonth(cursor.getUTCMonth() + 1)
+  if (cursor.getTime() < rangeStart)
+    cursor.setUTCMonth(cursor.getUTCMonth() + 1)
   while (cursor.getTime() <= rangeEnd) {
     ticks.push({
-      position: ((cursor.getTime() - rangeStart) / (rangeEnd - rangeStart)) * 100,
+      position:
+        ((cursor.getTime() - rangeStart) / (rangeEnd - rangeStart)) * 100,
       label:
         cursor.getUTCMonth() === 0
           ? `${cursor.getUTCFullYear()}年1月`
@@ -115,90 +116,91 @@ const Page: FC = () => {
 
   return (
     <>
+      <Breadcrumbs items={[{ name: "ガントチャート", path: "/gantt/" }]} />
       <LifecycleGuide />
       <Section title="法案ガントチャート" count={bills.length} titleAs="h1">
-      <div className="gantt-legend">
-        {(
-          Object.keys(PHASE_COLORS) as (keyof typeof PHASE_COLORS)[]
-        ).map((phase) => (
-          <span key={phase} className="gantt-legend-item">
-            <span
-              className="gantt-legend-swatch"
-              style={{ backgroundColor: PHASE_COLORS[phase] }}
-            />
-            {PHASE_LABELS[phase]}
+        <div className="gantt-legend">
+          {(Object.keys(PHASE_COLORS) as (keyof typeof PHASE_COLORS)[]).map(
+            (phase) => (
+              <span key={phase} className="gantt-legend-item">
+                <span
+                  className="gantt-legend-swatch"
+                  style={{ backgroundColor: PHASE_COLORS[phase] }}
+                />
+                {PHASE_LABELS[phase]}
+              </span>
+            )
+          )}
+          <span className="gantt-legend-item">
+            <span className="gantt-legend-today" />
+            今日
           </span>
-        ))}
-        <span className="gantt-legend-item">
-          <span className="gantt-legend-today" />
-          今日
-        </span>
-      </div>
-      <div className="gantt">
-        <div className="gantt-labels">
-          <div className="gantt-axis-spacer" />
-          {bills.map((bill) => (
-            <Link
-              key={bill.id}
-              href={`/bills/${bill.id}/`}
-              className="gantt-label"
-              title={bill.title}
-            >
-              {bill.title}
-            </Link>
-          ))}
         </div>
-        <div className="gantt-plot">
-          <div className="gantt-axis">
-            {ticks.map(
-              (tick, index) =>
-                (tick.isYearStart ||
-                  (index % labelStep === 0 &&
-                    !ticks[index - 1]?.isYearStart &&
-                    !ticks[index + 1]?.isYearStart)) && (
-                  <span
-                    key={tick.label + index}
-                    className="gantt-axis-label"
-                    style={{ left: `${tick.position}%` }}
-                  >
-                    {tick.label}
-                  </span>
-                )
-            )}
-          </div>
-          <div className="gantt-body">
-            {ticks.map((tick, index) => (
-              <span
-                key={`grid-${index}`}
-                className="gantt-gridline"
-                style={{ left: `${tick.position}%` }}
-              />
-            ))}
-            <span
-              className="gantt-today"
-              style={{ left: `${position(today)}%` }}
-            />
+        <div className="gantt">
+          <div className="gantt-labels">
+            <div className="gantt-axis-spacer" />
             {bills.map((bill) => (
-              <div key={bill.id} className="gantt-row" title={tooltip(bill)}>
-                {billSegments(bill, fallbackEnd(bill)).map((segment) => (
-                  <span
-                    key={segment.phase}
-                    className="gantt-seg"
-                    style={{
-                      backgroundColor: PHASE_COLORS[segment.phase],
-                      left: `${position(segment.from)}%`,
-                      width: `${Math.max(
-                        position(segment.to) - position(segment.from),
-                        0.15
-                      )}%`,
-                    }}
-                  />
-                ))}
-              </div>
+              <Link
+                key={bill.id}
+                href={`/bills/${bill.id}/`}
+                className="gantt-label"
+                title={bill.title}
+              >
+                {bill.title}
+              </Link>
             ))}
           </div>
+          <div className="gantt-plot">
+            <div className="gantt-axis">
+              {ticks.map(
+                (tick, index) =>
+                  (tick.isYearStart ||
+                    (index % labelStep === 0 &&
+                      !ticks[index - 1]?.isYearStart &&
+                      !ticks[index + 1]?.isYearStart)) && (
+                    <span
+                      key={tick.label + index}
+                      className="gantt-axis-label"
+                      style={{ left: `${tick.position}%` }}
+                    >
+                      {tick.label}
+                    </span>
+                  )
+              )}
+            </div>
+            <div className="gantt-body">
+              {ticks.map((tick, index) => (
+                <span
+                  key={`grid-${index}`}
+                  className="gantt-gridline"
+                  style={{ left: `${tick.position}%` }}
+                />
+              ))}
+              <span
+                className="gantt-today"
+                style={{ left: `${position(today)}%` }}
+              />
+              {bills.map((bill) => (
+                <div key={bill.id} className="gantt-row" title={tooltip(bill)}>
+                  {billSegments(bill, fallbackEnd(bill)).map((segment) => (
+                    <span
+                      key={segment.phase}
+                      className="gantt-seg"
+                      style={{
+                        backgroundColor: PHASE_COLORS[segment.phase],
+                        left: `${position(segment.from)}%`,
+                        width: `${Math.max(
+                          position(segment.to) - position(segment.from),
+                          0.15
+                        )}%`,
+                      }}
+                    />
+                  ))}
+                </div>
+              ))}
+            </div>
+          </div>
         </div>
-      </div>
       </Section>
     </>
   )
