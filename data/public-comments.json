@@ -341,6 +341,17 @@
     "updatedAt": "2026-09-18T23:03:42.934Z"
   },
   {
+    "id": "pc-120260028",
+    "title": "「指定自動車教習所等の教習の基準の細目に関する規則及び指定自動車教習所等の教習の基準の細目に関する規則の一部を改正する規則の一部を改正する規則案」に対する意見の募集について",
+    "ministry": "警察庁",
+    "status": "open",
+    "startAt": "2026-10-02",
+    "endAt": "2026-11-01",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=120260028&Mode=0",
+    "createdAt": "2026-10-02T00:33:55.980Z",
+    "updatedAt": "2026-10-02T00:33:55.980Z"
+  },
+  {
     "id": "pc-141000231",
     "title": "児童福祉法施行規則及びこども家庭庁の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する内閣府令の一部を改正する内閣府令案に関する御意見の募集について",
     "ministry": "こども家庭庁",
@@ -959,6 +970,18 @@
     "updatedAt": "2026-08-13T21:45:00.766Z"
   },
   {
+    "id": "pc-155260407",
+    "title": "「地方税法施行規則附則第６条第30 項に基づく国土交通大臣の証明について」及び「申請書兼証明書」の案に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-10-01",
+    "endAt": "2026-10-30",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260407&Mode=0",
+    "billId": "bill-219-shugiin-d9e3d100eba36fff",
+    "createdAt": "2026-10-02T00:33:55.981Z",
+    "updatedAt": "2026-10-02T00:33:55.981Z"
+  },
+  {
     "id": "pc-155260408",
     "title": "景観再生事業指針（案）の制定について",
     "ministry": "国土交通省",
@@ -1490,6 +1513,16 @@
     "updatedAt": "2026-09-18T23:03:42.934Z"
   },
   {
+    "id": "pc-185001510",
+    "title": "文化審議会文化財分科会企画調査会による答申（素案）に関する意見募集の実施について",
+    "status": "open",
+    "startAt": "2026-10-01",
+    "endAt": "2026-10-30",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=185001510&Mode=0",
+    "createdAt": "2026-10-02T00:33:55.981Z",
+    "updatedAt": "2026-10-02T00:33:55.981Z"
+  },
+  {
     "id": "pc-195260024",
     "title": "令和８年度国指定鳥獣保護区の変更等に関する意見の募集（パブリック・コメント）について",
     "ministry": "環境省",
@@ -1906,6 +1939,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=225026064&Mode=0",
     "createdAt": "2026-09-16T23:35:26.453Z",
     "updatedAt": "2026-09-16T23:35:26.453Z"
+  },
+  {
+    "id": "pc-225026066",
+    "title": "「経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者の指定等に関する内閣府令の一部を改正する内閣府令（案）」等の公表について",
+    "ministry": "金融庁",
+    "status": "open",
+    "startAt": "2026-10-01",
+    "endAt": "2026-10-31",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=225026066&Mode=0",
+    "createdAt": "2026-10-02T00:33:55.981Z",
+    "updatedAt": "2026-10-02T00:33:55.981Z"
   },
   {
     "id": "pc-235030052",
@@ -3226,6 +3270,28 @@
     "updatedAt": "2026-09-25T23:52:17.917Z"
   },
   {
+    "id": "pc-550004414",
+    "title": "現場技術業務民間競争入札実施要項案及び発注者支援業務（監督支援業務）民間競争入札実施要項案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-10-02",
+    "endAt": "2026-10-15",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004414&Mode=0",
+    "createdAt": "2026-10-02T00:33:55.980Z",
+    "updatedAt": "2026-10-02T00:33:55.980Z"
+  },
+  {
+    "id": "pc-550004415",
+    "title": "内閣府・財務省・農林水産省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者の指定等に関する命令の一部を改正する命令案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-10-01",
+    "endAt": "2026-10-31",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004415&Mode=0",
+    "createdAt": "2026-10-02T00:33:55.980Z",
+    "updatedAt": "2026-10-02T00:33:55.980Z"
+  },
+  {
     "id": "pc-595126108",
     "title": "電気事業法施行規則第五十二条の二第一号ロの要件、第一号ハ及び第二号ロの機械器具並びに第一号ニ及び第二号ハの算定方法等並びに第五十三条第二項第五号の頻度に関する告示の一部改正（案）に対する意見公募",
     "ministry": "経済産業省",
@@ -3615,6 +3681,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320034&Mode=0",
     "createdAt": "2026-09-26T23:25:18.743Z",
     "updatedAt": "2026-09-26T23:25:18.743Z"
+  },
+  {
+    "id": "pc-595320036",
+    "title": "経済産業省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者等に関する省令の一部を改正する省令（案）について",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-10-01",
+    "endAt": "2026-10-31",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320036&Mode=0",
+    "createdAt": "2026-10-02T00:33:55.982Z",
+    "updatedAt": "2026-10-02T00:33:55.982Z"
   },
   {
     "id": "pc-620226018",
