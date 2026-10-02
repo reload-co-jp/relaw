@@ -23,6 +23,7 @@ const Page: FC = () => {
             { label: "公布年別", href: "/laws/enacted/" },
             { label: "施行月別", href: "/laws/enforced/" },
             { label: "施行予定", href: "/laws/upcoming/" },
+            { label: "テーマ別", href: "/themes/" },
           ]}
         />
         <LawList laws={laws} />

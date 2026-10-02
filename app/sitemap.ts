@@ -6,6 +6,7 @@ import {
   getLawsByPromulgationYear,
   getSessions,
 } from "lib/data"
+import { themes } from "lib/themes"
 import { absoluteUrl } from "lib/seo"
 
 export const dynamic = "force-static"
@@ -19,10 +20,12 @@ const staticRoutes = [
   "/laws/enforced/",
   "/laws/upcoming/",
   "/public-comments/",
+  "/themes/",
 ]
 
 const listRoutes = (): string[] => [
   ...getSessions().map((session) => `/bills/${session}/`),
+  ...themes.map((theme) => `/themes/${theme.slug}/`),
   ...[...getLawsByPromulgationYear().keys()].map(
     (year) => `/laws/enacted/${year}/`
   ),

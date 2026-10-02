@@ -44,12 +44,13 @@ export const Breadcrumbs: FC<{ items: Crumb[]; description?: string }> = ({
 /** 一覧ページ間の内部リンク */
 export const LinkChips: FC<{ links: { label: string; href: string }[] }> = ({
   links,
-}) => (
-  <ul className="link-chips">
-    {links.map((link) => (
-      <li key={link.href}>
-        <Link href={link.href}>{link.label}</Link>
-      </li>
-    ))}
-  </ul>
-)
+}) =>
+  links.length === 0 ? null : (
+    <ul className="link-chips">
+      {links.map((link) => (
+        <li key={link.href}>
+          <Link href={link.href}>{link.label}</Link>
+        </li>
+      ))}
+    </ul>
+  )

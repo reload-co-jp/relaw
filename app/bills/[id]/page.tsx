@@ -22,6 +22,7 @@ import {
 import { formatSummary } from "lib/format"
 import { billDescription, billOverview } from "lib/overview"
 import { getBillRelations } from "lib/relations"
+import { matchThemes } from "lib/themes"
 import { compactText, legislationJsonLd, pageMetadata } from "lib/seo"
 import { JsonLd } from "components/elements/json-ld"
 import { Breadcrumbs, LinkChips } from "components/elements/breadcrumbs"
@@ -209,6 +210,12 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
         )}
         <p className="status-note">{billStatusDescriptions[bill.status]}</p>
       </div>
+      <LinkChips
+        links={matchThemes(bill.title).map((theme) => ({
+          label: `テーマ: ${theme.name}`,
+          href: `/themes/${theme.slug}/`,
+        }))}
+      />
       <Section title="概要" id="overview">
         <div className="detail-panel">
           <p className="detail-summary">{billOverview(bill).join("")}</p>

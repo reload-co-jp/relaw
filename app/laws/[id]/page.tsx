@@ -28,10 +28,11 @@ import {
   getLawRelations,
   getPurposeArticle,
 } from "lib/relations"
+import { matchThemes } from "lib/themes"
 import { compactText, legislationJsonLd, pageMetadata } from "lib/seo"
 import { JsonLd } from "components/elements/json-ld"
 import { Badge } from "components/elements/badge"
-import { Breadcrumbs } from "components/elements/breadcrumbs"
+import { Breadcrumbs, LinkChips } from "components/elements/breadcrumbs"
 import { EmptyMessage, Section } from "components/elements/section"
 import { LawLinkList } from "components/blocks/law-list"
 import { PublicCommentList } from "components/blocks/public-comment-list"
@@ -164,6 +165,12 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
         <h1 className="detail-title">{law.title}</h1>
         <p className="status-note">{lawStatusDescriptions[law.status]}</p>
       </div>
+      <LinkChips
+        links={matchThemes(law.title).map((theme) => ({
+          label: `テーマ: ${theme.name}`,
+          href: `/themes/${theme.slug}/`,
+        }))}
+      />
       <Section title={`${law.title}とは`} id="overview">
         <div className="detail-panel">
           <p className="detail-summary">{lawOverview(law).join("")}</p>

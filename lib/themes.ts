@@ -44,16 +44,25 @@ export const themes: Theme[] = [
   },
 ]
 
-export const matchThemes = (title: string): Theme[] =>
-  themes.filter((theme) =>
-    theme.keywords.some((keyword) => title.includes(keyword))
+// 府省名 (厚生労働省の「労働」など) に一致させない
+const stripMinistries = (title: string): string =>
+  title.replace(/厚生労働省/g, "")
+
+export const matchThemes = (title: string): Theme[] => {
+  const target = stripMinistries(title)
+  return themes.filter((theme) =>
+    theme.keywords.some((keyword) => target.includes(keyword))
   )
+}
+
+export const getTheme = (slug: string): Theme | undefined =>
+  themes.find((theme) => theme.slug === slug)
 
 export const getThemeItems = <T extends Law | Bill>(
   slug: string,
   items: T[]
 ): T[] => {
-  const theme = themes.find((item) => item.slug === slug)
+  const theme = getTheme(slug)
   if (!theme) return []
   return items.filter((item) => matchThemes(item.title).includes(theme))
 }

@@ -49,6 +49,7 @@ const navLinks = [
   { href: "/gantt/", label: "ガントチャート" },
   { href: "/laws/", label: "法令" },
   { href: "/public-comments/", label: "パブリックコメント" },
+  { href: "/themes/", label: "テーマ" },
 ]
 
 const googleAnalyticsId = "G-2G15942RCJ"
