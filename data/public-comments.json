@@ -55,6 +55,19 @@
     "updatedAt": "2026-10-01T00:24:02.568Z"
   },
   {
+    "id": "pc-060261003",
+    "title": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律施行令等（案）に関する意見募集",
+    "ministry": "内閣官房",
+    "status": "open",
+    "startAt": "2026-10-03",
+    "endAt": "2026-10-16",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=060261003&Mode=0",
+    "lawId": "law-508AC1000000078",
+    "relatedLawTitle": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律",
+    "createdAt": "2026-10-03T00:12:45.880Z",
+    "updatedAt": "2026-10-03T00:12:45.880Z"
+  },
+  {
     "id": "pc-095260660",
     "title": "「重要電子計算機に対する不正な行為による被害の防止に関する法律に基づく特別社会基盤事業者による特定侵害事象等の報告等に関する命令の一部を改正する命令案」に関する意見の募集について",
     "ministry": "内閣府",
@@ -3803,6 +3816,28 @@
     "billId": "bill-221-shugiin-507b23f3c61af710",
     "createdAt": "2026-09-17T23:24:52.525Z",
     "updatedAt": "2026-09-17T23:24:52.525Z"
+  },
+  {
+    "id": "pc-620340010",
+    "title": "二酸化炭素の貯留事業に関する法律に基づく経済産業大臣の処分に係る審査基準等の一部を改正する訓令案に対する意見公募",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-10-02",
+    "endAt": "2026-10-31",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340010&Mode=0",
+    "createdAt": "2026-10-03T00:12:45.881Z",
+    "updatedAt": "2026-10-03T00:12:45.881Z"
+  },
+  {
+    "id": "pc-620340011",
+    "title": "二酸化炭素の貯留事業に関する法律に基づく貯留事業の実施に係るガイドライン（案）に対する意見公募",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-10-02",
+    "endAt": "2026-10-31",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340011&Mode=0",
+    "createdAt": "2026-10-03T00:12:45.881Z",
+    "updatedAt": "2026-10-03T00:12:45.881Z"
   },
   {
     "id": "pc-630300000",

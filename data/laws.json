@@ -3042,6 +3042,19 @@
     "updatedAt": "2026-09-18T23:00:43.457Z"
   },
   {
+    "id": "law-508CO0000000287",
+    "title": "日本学術会議評価委員会令",
+    "titleKana": "にほんがくじゅつかいぎひょうかいいんかいれい",
+    "lawNumber": "令和八年政令第二百八十七号",
+    "lawType": "cabinet_order",
+    "status": "in_force",
+    "promulgatedAt": "2026-09-16",
+    "egovLawId": "508CO0000000287",
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508CO0000000287",
+    "createdAt": "2026-10-03T00:09:48.892Z",
+    "updatedAt": "2026-10-03T00:09:48.892Z"
+  },
+  {
     "id": "law-508M60000002016",
     "title": "一時保護委託者の登録等に関する基準",
     "titleKana": "いちじほごいたくしゃのとうろくとうにかんするきじゅん",
