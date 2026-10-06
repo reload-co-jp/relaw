@@ -2052,6 +2052,18 @@
     "createdAt": "2026-07-07T00:35:39.816Z"
   },
   {
+    "id": "version-507M60000500001_20260918_508M60000500001",
+    "lawId": "law-507M60000500001",
+    "versionLabel": "令和八年厚生労働省・経済産業省令第一号による改正",
+    "amendmentLawNumber": "令和八年厚生労働省・経済産業省令第一号",
+    "amendmentLawTitle": "厚生労働省・経済産業省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令の一部を改正する省令",
+    "promulgatedAt": "2026-09-18",
+    "enforcedAt": "2026-09-18",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/507M60000500001",
+    "createdAt": "2026-10-06T01:39:42.476Z"
+  },
+  {
     "id": "version-507M60000502001_20251226_000000000000000",
     "lawId": "law-507M60000502001",
     "versionLabel": "制定時",
@@ -2952,6 +2964,18 @@
     "createdAt": "2026-09-14T23:41:14.221Z"
   },
   {
+    "id": "version-508CO0000000259_20260917_508CO0000000298",
+    "lawId": "law-508CO0000000259",
+    "versionLabel": "令和八年政令第二百九十八号による改正",
+    "amendmentLawNumber": "令和八年政令第二百九十八号",
+    "amendmentLawTitle": "令和八年熊本地震による災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令の一部を改正する政令",
+    "promulgatedAt": "2026-09-17",
+    "enforcedAt": "2026-09-17",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508CO0000000259",
+    "createdAt": "2026-10-06T01:39:42.477Z"
+  },
+  {
     "id": "version-508CO0000000260_20260807_000000000000000",
     "lawId": "law-508CO0000000260",
     "versionLabel": "制定時",
@@ -3394,6 +3418,42 @@
     "current": true,
     "sourceUrl": "https://laws.e-gov.go.jp/law/508M60000040050",
     "createdAt": "2026-08-17T21:23:27.975Z"
+  },
+  {
+    "id": "version-508M60000042005_20260918_000000000000000",
+    "lawId": "law-508M60000042005",
+    "versionLabel": "制定時",
+    "amendmentLawNumber": null,
+    "amendmentLawTitle": null,
+    "promulgatedAt": "2026-09-16",
+    "enforcedAt": "2026-09-18",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508M60000042005",
+    "createdAt": "2026-10-06T01:39:42.478Z"
+  },
+  {
+    "id": "version-508M60000042006_20260918_000000000000000",
+    "lawId": "law-508M60000042006",
+    "versionLabel": "制定時",
+    "amendmentLawNumber": null,
+    "amendmentLawTitle": null,
+    "promulgatedAt": "2026-09-16",
+    "enforcedAt": "2026-09-18",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508M60000042006",
+    "createdAt": "2026-10-06T01:39:42.478Z"
+  },
+  {
+    "id": "version-508M60000042007_20260918_000000000000000",
+    "lawId": "law-508M60000042007",
+    "versionLabel": "制定時",
+    "amendmentLawNumber": null,
+    "amendmentLawTitle": null,
+    "promulgatedAt": "2026-09-18",
+    "enforcedAt": "2026-09-18",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508M60000042007",
+    "createdAt": "2026-10-06T01:39:42.478Z"
   },
   {
     "id": "version-508M60000048001_20260401_000000000000000",
@@ -3898,6 +3958,18 @@
     "current": true,
     "sourceUrl": "https://laws.e-gov.go.jp/law/508M60001500003",
     "createdAt": "2026-07-07T00:35:39.817Z"
+  },
+  {
+    "id": "version-508M60001500006_20261122_000000000000000",
+    "lawId": "law-508M60001500006",
+    "versionLabel": "制定時",
+    "amendmentLawNumber": null,
+    "amendmentLawTitle": null,
+    "promulgatedAt": "2026-09-18",
+    "enforcedAt": "2026-11-22",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508M60001500006",
+    "createdAt": "2026-10-06T01:39:42.479Z"
   },
   {
     "id": "version-508M60001540001_20260401_000000000000000",

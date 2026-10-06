@@ -865,6 +865,17 @@
     "updatedAt": "2026-10-01T00:24:02.569Z"
   },
   {
+    "id": "pc-145210782",
+    "title": "「公共サービス改革基本方針」の見直しに関する意見募集について",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-10-06",
+    "endAt": "2026-11-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210782&Mode=0",
+    "createdAt": "2026-10-06T01:42:11.084Z",
+    "updatedAt": "2026-10-06T01:42:11.084Z"
+  },
+  {
     "id": "pc-155260103",
     "title": "「地域公共交通の活性化及び再生の促進に関する基本方針」の一部変更案に関する意見募集について",
     "status": "open",
@@ -1271,6 +1282,28 @@
     "billId": "bill-221-shugiin-0b8a8c7f0619dce1",
     "createdAt": "2026-09-15T23:26:41.204Z",
     "updatedAt": "2026-09-15T23:26:41.204Z"
+  },
+  {
+    "id": "pc-155260934",
+    "title": "道路運送車両の保安基準の細目を定める告示等の一部を改正する告示案について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-10-05",
+    "endAt": "2026-11-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260934&Mode=0",
+    "createdAt": "2026-10-06T01:42:11.085Z",
+    "updatedAt": "2026-10-06T01:42:11.085Z"
+  },
+  {
+    "id": "pc-155260935",
+    "title": "一般乗用旅客自動車運送事業標準運送約款等の一部を改正する告示案に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-10-05",
+    "endAt": "2026-11-03",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260935&Mode=0",
+    "createdAt": "2026-10-06T01:42:11.085Z",
+    "updatedAt": "2026-10-06T01:42:11.085Z"
   },
   {
     "id": "pc-155261027",
@@ -1766,6 +1799,28 @@
     "billId": "bill-221-shugiin-2d61e5f947844a95",
     "createdAt": "2026-10-01T00:24:02.569Z",
     "updatedAt": "2026-10-01T00:24:02.569Z"
+  },
+  {
+    "id": "pc-195260061",
+    "title": "「水質汚濁に係る農薬登録基準値（案）」に対する御意見の募集（パブリック・コメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-10-06",
+    "endAt": "2026-11-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260061&Mode=0",
+    "createdAt": "2026-10-06T01:42:11.084Z",
+    "updatedAt": "2026-10-06T01:42:11.084Z"
+  },
+  {
+    "id": "pc-195260062",
+    "title": "「生活環境動植物の被害防止に係る農薬登録基準値（案）」に対する御意見の募集（パブリック・コメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-10-06",
+    "endAt": "2026-11-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260062&Mode=0",
+    "createdAt": "2026-10-06T01:42:11.085Z",
+    "updatedAt": "2026-10-06T01:42:11.085Z"
   },
   {
     "id": "pc-198026102",
@@ -2880,6 +2935,17 @@
     "updatedAt": "2026-09-19T22:42:50.545Z"
   },
   {
+    "id": "pc-495260193",
+    "title": "日本薬局方外生薬規格2026（案）に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-10-06",
+    "endAt": "2026-11-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260193&Mode=0",
+    "createdAt": "2026-10-06T01:42:11.084Z",
+    "updatedAt": "2026-10-06T01:42:11.084Z"
+  },
+  {
     "id": "pc-495260195",
     "title": "社会福祉法施行令等の一部を改正する政令案に関する御意見の募集について",
     "ministry": "厚生労働省",
@@ -3694,6 +3760,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320034&Mode=0",
     "createdAt": "2026-09-26T23:25:18.743Z",
     "updatedAt": "2026-09-26T23:25:18.743Z"
+  },
+  {
+    "id": "pc-595320035",
+    "title": "無人航空機に係る安定供給確保を図るための取組方針の改正案に対する意見公募",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-10-05",
+    "endAt": "2026-11-03",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320035&Mode=0",
+    "createdAt": "2026-10-06T01:42:11.085Z",
+    "updatedAt": "2026-10-06T01:42:11.085Z"
   },
   {
     "id": "pc-595320036",
