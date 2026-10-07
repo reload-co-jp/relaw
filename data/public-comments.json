@@ -433,6 +433,17 @@
     "updatedAt": "2026-09-17T23:24:52.525Z"
   },
   {
+    "id": "pc-141000241",
+    "title": "幼児教育WG・保育専門委員会取りまとめ（案）に関する御意見の募集について",
+    "ministry": "こども家庭庁",
+    "status": "open",
+    "startAt": "2026-10-06",
+    "endAt": "2026-11-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=141000241&Mode=0",
+    "createdAt": "2026-10-07T00:23:39.223Z",
+    "updatedAt": "2026-10-07T00:23:39.223Z"
+  },
+  {
     "id": "pc-145210712",
     "title": "電波法施行規則の一部を改正する省令案等に係る意見募集 ー公共ブロードバンド移動通信システムの周波数拡張に係る制度整備ー",
     "ministry": "総務省",
@@ -1028,6 +1039,18 @@
     "updatedAt": "2026-09-30T00:06:49.912Z"
   },
   {
+    "id": "pc-155260410",
+    "title": "都市再生特別措置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令案に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-10-06",
+    "endAt": "2026-11-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260410&Mode=0",
+    "billId": "bill-221-shugiin-43b37848703981c2",
+    "createdAt": "2026-10-07T00:23:39.223Z",
+    "updatedAt": "2026-10-07T00:23:39.223Z"
+  },
+  {
     "id": "pc-155260507",
     "title": "水道法施行規則の一部を改正する省令案に関する意見募集について",
     "ministry": "国土交通省",
@@ -1567,6 +1590,16 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=185001510&Mode=0",
     "createdAt": "2026-10-02T00:33:55.981Z",
     "updatedAt": "2026-10-02T00:33:55.981Z"
+  },
+  {
+    "id": "pc-185001511",
+    "title": "「次期学習指導要領等に向けた審議まとめ」に関するパブリック・コメント（意見公募手続）の実施について",
+    "status": "open",
+    "startAt": "2026-10-05",
+    "endAt": "2026-11-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=185001511&Mode=0",
+    "createdAt": "2026-10-07T00:23:39.223Z",
+    "updatedAt": "2026-10-07T00:23:39.223Z"
   },
   {
     "id": "pc-195260024",
@@ -3915,6 +3948,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340011&Mode=0",
     "createdAt": "2026-10-03T00:12:45.881Z",
     "updatedAt": "2026-10-03T00:12:45.881Z"
+  },
+  {
+    "id": "pc-620340012",
+    "title": "「電力品質確保に係る系統連系技術要件ガイドライン」改定案に対する意見公募",
+    "ministry": "資源エネルギー庁",
+    "status": "open",
+    "startAt": "2026-10-06",
+    "endAt": "2026-11-06",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340012&Mode=0",
+    "createdAt": "2026-10-07T00:23:39.223Z",
+    "updatedAt": "2026-10-07T00:23:39.223Z"
   },
   {
     "id": "pc-630300000",
