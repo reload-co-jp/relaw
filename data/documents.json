@@ -638,7 +638,7 @@
     "source": "官報",
     "publishedAt": "2026-10-01",
     "createdAt": "2026-10-01T00:21:24.636Z",
-    "updatedAt": "2026-10-08T00:42:47.846Z"
+    "updatedAt": "2026-10-09T00:58:32.334Z"
   },
   {
     "id": "doc-kanpo-1a011d4addec7db5",
@@ -1577,7 +1577,7 @@
     "source": "官報",
     "publishedAt": "2026-10-01",
     "createdAt": "2026-10-01T00:21:24.636Z",
-    "updatedAt": "2026-10-08T00:42:47.846Z"
+    "updatedAt": "2026-10-09T00:58:32.334Z"
   },
   {
     "id": "doc-kanpo-6fbb4e96b285b187",
@@ -1683,6 +1683,16 @@
     "updatedAt": "2026-08-18T21:21:47.338Z"
   },
   {
+    "id": "doc-kanpo-7c92e7e063f11aed",
+    "title": "輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令の一部を改正する省令（経済産業七六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261009/20261009g00223/20261009g002230030f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-09",
+    "createdAt": "2026-10-09T00:58:29.463Z"
+  },
+  {
     "id": "doc-kanpo-7d7e83761acb2172",
     "title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令（農林水産四八）",
     "type": "kanpo",
@@ -1703,6 +1713,16 @@
     "publishedAt": "2026-07-01",
     "createdAt": "2026-07-07T00:36:45.158Z",
     "updatedAt": "2026-07-09T22:26:19.503Z"
+  },
+  {
+    "id": "doc-kanpo-8666a9d6e5b4a6b4",
+    "title": "農林漁業の健全な発展と調和のとれた再生可能エネルギー電気の発電の促進に関する法律に基づく設備整備計画の認定等に関する省令の一部を改正する省令（農林水産・環境八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261009/20261009g00223/20261009g002230009f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-09",
+    "createdAt": "2026-10-09T00:58:29.463Z"
   },
   {
     "id": "doc-kanpo-86d6e1d946b86b74",
@@ -1734,6 +1754,16 @@
     "source": "官報",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-07-24T22:03:16.531Z"
+  },
+  {
+    "id": "doc-kanpo-8f1f1201f75b5806",
+    "title": "救助隊の編成、装備及び配置の基準を定める省令の一部を改正する省令（総務一一六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261009/20261009g00223/20261009g002230003f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-09",
+    "createdAt": "2026-10-09T00:58:29.463Z"
   },
   {
     "id": "doc-kanpo-8f5651d7415ddd72",
@@ -1797,6 +1827,17 @@
     "source": "官報",
     "publishedAt": "2026-07-23",
     "createdAt": "2026-07-23T22:03:02.348Z"
+  },
+  {
+    "id": "doc-kanpo-959b371c04e4f79f",
+    "title": "輸出貿易管理令の一部を改正する政令（三二五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261009/20261009g00223/20261009g002230002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-09",
+    "createdAt": "2026-10-09T00:58:29.463Z",
+    "updatedAt": "2026-10-09T00:58:29.463Z"
   },
   {
     "id": "doc-kanpo-974a71217d0bfcb3",
@@ -2329,6 +2370,16 @@
     "createdAt": "2026-09-27T23:39:14.562Z"
   },
   {
+    "id": "doc-kanpo-c819a43fdd7cd418",
+    "title": "農地法施行規則及び農林漁業の健全な発展と調和のとれた再生可能エネルギー電気の発電の促進に関する法律施行規則の一部を改正する省令（農林水産七二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261009/20261009g00223/20261009g002230005f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-09",
+    "createdAt": "2026-10-09T00:58:29.463Z"
+  },
+  {
     "id": "doc-kanpo-c92c2e6d126f2b8b",
     "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則の一部を改正する省令（厚生労働一三九）",
     "type": "kanpo",
@@ -2358,7 +2409,7 @@
     "source": "官報",
     "publishedAt": "2026-10-01",
     "createdAt": "2026-10-01T00:21:24.636Z",
-    "updatedAt": "2026-10-08T00:42:47.846Z"
+    "updatedAt": "2026-10-09T00:58:32.334Z"
   },
   {
     "id": "doc-kanpo-ce1e79f6cef6aadf",
@@ -2502,7 +2553,7 @@
     "source": "官報",
     "publishedAt": "2026-10-01",
     "createdAt": "2026-10-01T00:21:24.637Z",
-    "updatedAt": "2026-10-08T00:42:47.846Z"
+    "updatedAt": "2026-10-09T00:58:32.334Z"
   },
   {
     "id": "doc-kanpo-d4c2b224bdf128ff",
@@ -3063,7 +3114,7 @@
     "source": "官報",
     "publishedAt": "2026-10-01",
     "createdAt": "2026-10-01T00:21:24.637Z",
-    "updatedAt": "2026-10-08T00:42:47.846Z"
+    "updatedAt": "2026-10-09T00:58:32.334Z"
   },
   {
     "id": "doc-kanpo-fcbb4de22e28ead8",
@@ -3271,6 +3322,17 @@
     "createdAt": "2026-08-20T21:27:52.605Z"
   },
   {
+    "id": "doc-kokkai-1b83b309e6dd647d",
+    "billId": "bill-222-shugiin-229a14dd24fc7402",
+    "title": "第222回国会 衆議院 政治改革に関する特別委員会 第1号 (2026-10-05)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204575X00120261005",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-05",
+    "createdAt": "2026-10-09T01:01:05.063Z"
+  },
+  {
     "id": "doc-kokkai-1c7dfc83e700ae5a",
     "billId": "bill-221-cas-8d0bef80280e32d1",
     "title": "第221回国会 衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 第8号 (2026-05-21)",
@@ -3412,6 +3474,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-10",
     "createdAt": "2026-07-17T21:54:46.872Z"
+  },
+  {
+    "id": "doc-kokkai-297b5e56270c33fa",
+    "billId": "bill-222-shugiin-3f3b2d2174275f42",
+    "title": "第222回国会 衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 第1号 (2026-10-05)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122205367X00120261005",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-05",
+    "createdAt": "2026-10-09T01:01:06.028Z"
   },
   {
     "id": "doc-kokkai-2a79d3b34e5fba73",
@@ -3698,6 +3771,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-03-12",
     "createdAt": "2026-07-07T00:38:02.557Z"
+  },
+  {
+    "id": "doc-kokkai-4ac92255b31d0b1f",
+    "billId": "bill-221-shugiin-bcf1f1dc9f4a1fa1",
+    "title": "第222回国会 衆議院 政治改革に関する特別委員会 第1号 (2026-10-05)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204575X00120261005",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-05",
+    "createdAt": "2026-10-09T01:00:53.681Z"
   },
   {
     "id": "doc-kokkai-4b5e0129bbaa143e",
@@ -4525,6 +4609,17 @@
     "createdAt": "2026-08-24T21:29:02.682Z"
   },
   {
+    "id": "doc-kokkai-c7a11a1f3dae809d",
+    "billId": "bill-221-shugiin-738becd622201f8c",
+    "title": "第222回国会 衆議院 政治改革に関する特別委員会 第1号 (2026-10-05)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204575X00120261005",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-05",
+    "createdAt": "2026-10-09T01:00:49.609Z"
+  },
+  {
     "id": "doc-kokkai-c8394305ce81f190",
     "billId": "bill-222-shugiin-3f3b2d2174275f42",
     "title": "第221回国会 衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 第14号 (2026-07-15)",
@@ -4534,6 +4629,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-15",
     "createdAt": "2026-10-06T01:42:10.567Z"
+  },
+  {
+    "id": "doc-kokkai-c87c1425d9ceb46c",
+    "billId": "bill-221-sangiin-7ee6e626b8ad694e",
+    "title": "第222回国会 衆議院 政治改革に関する特別委員会 第1号 (2026-10-05)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204575X00120261005",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-05",
+    "createdAt": "2026-10-09T01:00:23.816Z"
   },
   {
     "id": "doc-kokkai-c93d02248f00ffe3",
