@@ -1104,6 +1104,18 @@
     "createdAt": "2026-07-07T00:35:39.815Z"
   },
   {
+    "id": "version-507CO0000000134_20260401_508CO0000000105",
+    "lawId": "law-507CO0000000134",
+    "versionLabel": "令和八年政令第百五号による改正",
+    "amendmentLawNumber": "令和八年政令第百五号",
+    "amendmentLawTitle": "防衛特別法人税に関する政令の一部を改正する政令",
+    "promulgatedAt": "2026-03-31",
+    "enforcedAt": "2026-04-01",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/507CO0000000134",
+    "createdAt": "2026-10-10T00:29:10.765Z"
+  },
+  {
     "id": "version-507CO0000000135_20260401_000000000000000",
     "lawId": "law-507CO0000000135",
     "versionLabel": "制定時",
@@ -4008,6 +4020,18 @@
     "createdAt": "2026-07-07T00:35:39.817Z"
   },
   {
+    "id": "version-508M60002001001_20270401_000000000000000",
+    "lawId": "law-508M60002001001",
+    "versionLabel": "制定時",
+    "amendmentLawNumber": null,
+    "amendmentLawTitle": null,
+    "promulgatedAt": "2026-09-28",
+    "enforcedAt": "2027-04-01",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508M60002001001",
+    "createdAt": "2026-10-10T00:29:10.772Z"
+  },
+  {
     "id": "version-508M60004008008_20260401_000000000000000",
     "lawId": "law-508M60004008008",
     "versionLabel": "制定時",
@@ -4078,6 +4102,18 @@
     "current": true,
     "sourceUrl": "https://laws.e-gov.go.jp/law/508M60400000008",
     "createdAt": "2026-07-07T00:35:39.817Z"
+  },
+  {
+    "id": "version-508M60400000019_20261001_000000000000000",
+    "lawId": "law-508M60400000019",
+    "versionLabel": "制定時",
+    "amendmentLawNumber": null,
+    "amendmentLawTitle": null,
+    "promulgatedAt": "2026-09-25",
+    "enforcedAt": "2026-10-01",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508M60400000019",
+    "createdAt": "2026-10-10T00:29:10.773Z"
   },
   {
     "id": "version-508M62000000001_20260302_000000000000000",
