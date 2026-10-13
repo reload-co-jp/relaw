@@ -2664,6 +2664,18 @@
     "createdAt": "2026-07-07T00:35:39.816Z"
   },
   {
+    "id": "version-508CO0000000091_20261001_508CO0000000306",
+    "lawId": "law-508CO0000000091",
+    "versionLabel": "令和八年政令第三百六号による改正",
+    "amendmentLawNumber": "令和八年政令第三百六号",
+    "amendmentLawTitle": "サイバー通信情報監理委員会事務局組織令の一部を改正する政令",
+    "promulgatedAt": "2026-09-30",
+    "enforcedAt": "2026-10-01",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508CO0000000091",
+    "createdAt": "2026-10-13T02:24:53.541Z"
+  },
+  {
     "id": "version-508CO0000000106_20270101_000000000000000",
     "lawId": "law-508CO0000000106",
     "versionLabel": "制定時",
