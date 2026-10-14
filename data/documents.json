@@ -2057,7 +2057,7 @@
     "source": "官報",
     "publishedAt": "2026-10-09",
     "createdAt": "2026-10-09T00:58:29.463Z",
-    "updatedAt": "2026-10-14T00:08:32.710Z"
+    "updatedAt": "2026-10-14T23:41:07.464Z"
   },
   {
     "id": "doc-kanpo-974a71217d0bfcb3",
@@ -2303,6 +2303,16 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-af046c90e57a6061",
+    "title": "第一種動物取扱業者及び第二種動物取扱業者が取り扱う動物の管理の方法等の基準を定める省令の一部を改正する省令（環境二八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261015/20261015g00226/20261015g002260008f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-15",
+    "createdAt": "2026-10-14T23:41:06.068Z"
   },
   {
     "id": "doc-kanpo-b1d86379b77c81d6",
@@ -2899,6 +2909,17 @@
     "source": "官報",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-07-24T22:03:16.531Z"
+  },
+  {
+    "id": "doc-kanpo-dd9e3186c56384ac",
+    "title": "環境影響評価法施行令の一部を改正する政令（三二七）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261015/20261015g00226/20261015g002260002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-15",
+    "createdAt": "2026-10-14T23:41:06.068Z",
+    "updatedAt": "2026-10-14T23:41:06.068Z"
   },
   {
     "id": "doc-kanpo-ddb5a2179957ccb8",
@@ -3991,6 +4012,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-03-12",
     "createdAt": "2026-07-07T00:38:02.557Z"
+  },
+  {
+    "id": "doc-kokkai-42d3c7c49d4769a6",
+    "billId": "bill-221-sangiin-fdf3bf98cb6d5d37",
+    "title": "第222回国会 衆議院 議院運営委員会 第1号 (2026-10-05)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00120261005",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-05",
+    "createdAt": "2026-10-14T23:43:06.033Z"
   },
   {
     "id": "doc-kokkai-4ac92255b31d0b1f",
