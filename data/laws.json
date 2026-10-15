@@ -3055,6 +3055,32 @@
     "updatedAt": "2026-10-03T00:09:48.892Z"
   },
   {
+    "id": "law-508CO0000000304",
+    "title": "防災庁組織令",
+    "titleKana": "ぼうさいちょうそしきれい",
+    "lawNumber": "令和八年政令第三百四号",
+    "lawType": "cabinet_order",
+    "status": "in_force",
+    "promulgatedAt": "2026-09-30",
+    "egovLawId": "508CO0000000304",
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508CO0000000304",
+    "createdAt": "2026-10-15T23:32:27.607Z",
+    "updatedAt": "2026-10-15T23:32:27.607Z"
+  },
+  {
+    "id": "law-508CO0000000316",
+    "title": "主要食糧の需給及び価格の安定に関する法律の一部を改正する法律の施行に伴う経過措置に関する政令",
+    "titleKana": "しゅようしょくりょうのじゅきゅうおよびかかくのあんていにかんするほうりつのいちぶをかいせいするほうりつのしこうにともなうけいかそちにかんするせいれい",
+    "lawNumber": "令和八年政令第三百十六号",
+    "lawType": "cabinet_order",
+    "status": "in_force",
+    "promulgatedAt": "2026-09-30",
+    "egovLawId": "508CO0000000316",
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508CO0000000316",
+    "createdAt": "2026-10-15T23:32:27.607Z",
+    "updatedAt": "2026-10-15T23:32:27.607Z"
+  },
+  {
     "id": "law-508M60000002016",
     "title": "一時保護委託者の登録等に関する基準",
     "titleKana": "いちじほごいたくしゃのとうろくとうにかんするきじゅん",
