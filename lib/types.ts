@@ -170,3 +170,14 @@ export interface PublicComment {
   createdAt: string
   updatedAt: string
 }
+
+/** 収集時に検出した値の変更 (scripts/collect/changes.ts が記録) */
+export interface Change {
+  id: string
+  entityType: "bill" | "law" | "public_comment"
+  entityId: string
+  field: string
+  before: string | null
+  after: string | null
+  detectedAt: string
+}

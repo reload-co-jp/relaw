@@ -108,7 +108,10 @@ export const billTimeline = (bill: Bill): TimelineItem[] => {
     date: event.date,
     label: billEventTypeLabels[event.type],
     description: billEventTypeDescriptions[event.type],
-    note: event.description,
+    note:
+      event.description === billEventTypeLabels[event.type]
+        ? undefined
+        : event.description,
     state: "done",
     source: sourceOf(event.sourceUrl),
   }))

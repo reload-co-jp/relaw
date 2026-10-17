@@ -35,7 +35,11 @@ export const DaysLeft: FC<{ date: string; label: string; builtOn: string }> = ({
         {css}
       </style>
       <span className="days-left" data-urgent={urgent ? "" : undefined}>
-        {urgent && <span className="days-left-flag">期限間近</span>}
+        {urgent && (
+          <span className="days-left-flag">
+            {label === "締切" ? "締切間近" : `まもなく${label}`}
+          </span>
+        )}
         <span className="days-left-date">
           {label} <time dateTime={date}>{formatDate(date)}</time>
         </span>

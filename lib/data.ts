@@ -2,6 +2,7 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import type {
   Bill,
+  Change,
   BillEvent,
   Document,
   Law,
@@ -52,6 +53,26 @@ export const getSessionBills = (session: number): Bill[] =>
     (bill) => bill.submittedSession === session || bill.dietSession === session
   )
 
+/** 同日のイベントを手続きの順に並べるための順位 */
+const EVENT_ORDER: BillEvent["type"][] = [
+  "public_comment_started",
+  "public_comment_closed",
+  "submitted",
+  "committee_referral",
+  "committee_passed",
+  "amended",
+  "passed_lower_house",
+  "passed_upper_house",
+  "passed_diet",
+  "promulgated",
+  "enforced",
+  "continued",
+  "withdrawn",
+  "rejected",
+  "expired",
+  "other",
+]
+
 export const getBillEvents = (billId: string): BillEvent[] => {
   const events = readJson<BillEvent>("bill-events.json").filter(
     (event) => event.billId === billId
@@ -66,7 +87,11 @@ export const getBillEvents = (billId: string): BillEvent[] => {
       sourceUrl: bill.sourceUrl,
       createdAt: bill.createdAt,
     })
-  return events.sort((a, b) => a.date.localeCompare(b.date))
+  return events.sort(
+    (a, b) =>
+      a.date.localeCompare(b.date) ||
+      EVENT_ORDER.indexOf(a.type) - EVENT_ORDER.indexOf(b.type)
+  )
 }
 
 export const getLatestBillEvents = (): Map<string, BillEvent> => {
@@ -222,3 +247,8 @@ export const getDataUpdatedAt = (): string =>
     ...getLaws().map((law) => law.updatedAt),
     ...getPublicComments().map((comment) => comment.updatedAt),
   ].reduce((a, b) => (a > b ? a : b), "")
+
+export const getChanges = (entityId: string): Change[] =>
+  readJson<Change>("changes.json")
+    .filter((change) => change.entityId === entityId)
+    .sort((a, b) => b.detectedAt.localeCompare(a.detectedAt))

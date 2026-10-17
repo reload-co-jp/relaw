@@ -6,6 +6,7 @@ import { collectShugiin } from "./shugiin.ts"
 import { collectSangiin } from "./sangiin.ts"
 import { collectKokkai } from "./kokkai.ts"
 import { collectPublicComments } from "./public-comments.ts"
+import { recordChanges, snapshot } from "./changes.ts"
 import type { CollectorResult } from "./lib.ts"
 
 const collectors: (() => Promise<CollectorResult>)[] = [
@@ -20,6 +21,7 @@ const collectors: (() => Promise<CollectorResult>)[] = [
 ]
 
 const main = async () => {
+  const before = snapshot()
   const results: CollectorResult[] = []
   for (const collector of collectors) {
     try {
@@ -32,6 +34,8 @@ const main = async () => {
       })
     }
   }
+
+  console.log(`[changes] recorded: ${recordChanges(before)}`)
 
   let hasError = false
   for (const result of results) {

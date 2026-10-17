@@ -35,7 +35,17 @@ import { JsonLd } from "components/elements/json-ld"
 import { Badge } from "components/elements/badge"
 import { Breadcrumbs, LinkChips } from "components/elements/breadcrumbs"
 import { EmptyMessage, Section } from "components/elements/section"
-import { LawLinkList } from "components/blocks/law-list"
+import { lawNode } from "components/blocks/law-list"
+import { Timeline } from "components/elements/timeline"
+import { ChangeHistory } from "components/elements/change-history"
+import { RelationGraph } from "components/elements/relation-graph"
+import { WatchButton } from "components/elements/watch-button"
+import {
+  lawTimeline,
+  nextStep,
+  sourceOf,
+  TimelineItem,
+} from "lib/lifecycle"
 import { PublicCommentList } from "components/blocks/public-comment-list"
 
 export const generateStaticParams = () =>
@@ -73,12 +83,6 @@ const DetailGrid: FC<{ rows: [string, string | undefined][] }> = ({ rows }) => (
   </dl>
 )
 
-interface LifecycleItem {
-  date: string
-  label: string
-  note?: string
-}
-
 const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
   const law = getLaw((await params).id)
   if (!law) notFound()
@@ -92,7 +96,7 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
   const description = compactText(lawDescription(law))
   const year = law.promulgatedAt?.slice(0, 4)
 
-  const lifecycle = [
+  const lifecycle: TimelineItem[] = [
     ...relations.bills.flatMap((bill) =>
       getBillEvents(bill.id)
         .filter((event) =>
@@ -103,25 +107,34 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
             "passed_diet",
           ].includes(event.type)
         )
-        .map((event) => ({
-          date: event.date,
-          label: `法案${billEventTypeLabels[event.type]}`,
-          note: bill.title,
-        }))
+        .map(
+          (event): TimelineItem => ({
+            key: event.id,
+            date: event.date,
+            label: `法案${billEventTypeLabels[event.type]}`,
+            note: bill.title,
+            state: "done",
+            source: sourceOf(event.sourceUrl),
+          })
+        )
     ),
-    { date: law.promulgatedAt, label: "公布", note: law.lawNumber },
-    {
-      date: law.enforcedAt,
-      label: law.enforcedAt && law.enforcedAt > today() ? "施行予定" : "施行",
-    },
-    ...relations.amendedBy.map(({ version }) => ({
-      date: version.promulgatedAt,
-      label: "改正公布",
-      note: version.amendmentLawTitle ?? version.amendmentLawNumber,
-    })),
-  ]
-    .filter((item): item is LifecycleItem => Boolean(item.date))
-    .sort((a, b) => a.date.localeCompare(b.date))
+    ...lawTimeline(law),
+    ...relations.amendedBy.flatMap(({ version }): TimelineItem[] =>
+      version.promulgatedAt
+        ? [
+            {
+              key: `amended-${version.id}`,
+              date: version.promulgatedAt,
+              label: "改正法令の公布",
+              note: version.amendmentLawTitle ?? version.amendmentLawNumber,
+              state: "done",
+              source: sourceOf(version.sourceUrl),
+            },
+          ]
+        : []
+    ),
+  ].sort((a, b) => (a.date ?? "9999").localeCompare(b.date ?? "9999"))
+  const next = nextStep(lifecycle)
 
   const hasRelated =
     relations.basis.length +
@@ -162,6 +175,9 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
             color={lawStatusColors[law.status]}
             title={lawStatusDescriptions[law.status]}
           />
+          <WatchButton
+            item={{ id: law.id, kind: "law", title: law.title, href: path }}
+          />
         </div>
         <h1 className="detail-title">{law.title}</h1>
         <p className="status-note">{lawStatusDescriptions[law.status]}</p>
@@ -172,9 +188,35 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
           href: `/themes/${theme.slug}/`,
         }))}
       />
+      <Section title="現在の状況" id="status">
+        <div className="detail-panel">
+          <dl className="detail-grid">
+            <dt>ステータス</dt>
+            <dd>{lawStatusLabels[law.status]}</dd>
+            <dt>次の手続き</dt>
+            <dd>
+              {next
+                ? `${next.label} ${formatDate(next.date as string)}`
+                : "公的データ上で日程が確定した予定はありません"}
+            </dd>
+            <dt>データ更新日</dt>
+            <dd>
+              {formatDate(today(Date.parse(law.updatedAt)))}
+              （Relaw が出典から取得した内容に変化があった日）
+            </dd>
+          </dl>
+        </div>
+      </Section>
       <Section title={`${law.title}とは`} id="overview">
         <div className="detail-panel">
+          <h3 className="related-heading">Relaw による整理</h3>
           <p className="detail-summary">{lawOverview(law).join("")}</p>
+          <p className="status-note">
+            公的データの値を組み合わせて自動作成した文章です。法的な解釈や判断を示すものではありません。
+          </p>
+          {(purpose || enactmentClause) && (
+            <h3 className="related-heading">条文からの引用（原文・e-Gov 法令検索）</h3>
+          )}
           {purpose && (
             <blockquote className="detail-quote">
               第一条（目的）: {purpose}
@@ -190,7 +232,10 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
               rows={[
                 ["法令名", law.title],
                 ["公布日", law.promulgatedAt && formatDate(law.promulgatedAt)],
-                ["施行日", law.enforcedAt && formatDate(law.enforcedAt)],
+                [
+                  "施行日",
+                  law.enforcedAt ? formatDate(law.enforcedAt) : "未確認",
+                ],
                 ["法令番号", law.lawNumber],
                 ["所管", getIssuingBody(law)],
                 ["現在の状態", lawStatusLabels[law.status]],
@@ -223,22 +268,8 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
           )}
         </div>
       </Section>
-      <Section title="ライフサイクル" id="lifecycle">
-        {lifecycle.length === 0 ? (
-          <EmptyMessage>イベントなし</EmptyMessage>
-        ) : (
-          <ol className="timeline">
-            {lifecycle.map((item, index) => (
-              <li key={index}>
-                <time dateTime={item.date}>{item.date}</time>
-                <span className="timeline-label">{item.label}</span>
-                {item.note && (
-                  <p className="timeline-description">{item.note}</p>
-                )}
-              </li>
-            ))}
-          </ol>
-        )}
+      <Section title="経過・今後の予定" id="lifecycle">
+        <Timeline items={lifecycle} />
       </Section>
       <Section title={`${law.title}の改正履歴`} id="history">
         {versions.length === 0 ? (
@@ -285,33 +316,41 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
           <EmptyMessage>公的データ上で確認できる関連法令なし</EmptyMessage>
         ) : (
           <div className="detail-panel">
-            {relations.bills.length > 0 && (
-              <>
-                <h3 className="related-heading">成立前の法案</h3>
-                <ul className="document-list">
-                  {relations.bills.map((bill) => (
-                    <li key={bill.id}>
-                      <Link href={`/bills/${bill.id}/`} className="text-link">
-                        {bill.title}
-                      </Link>
-                      <span className="document-note">
-                        {[bill.billNumber, billStatusLabels[bill.status]]
-                          .filter(Boolean)
-                          .join(" / ")}
-                      </span>
-                    </li>
-                  ))}
-                </ul>
-              </>
-            )}
-            <LawLinkList heading="根拠法令" laws={relations.basis} />
-            <LawLinkList
-              heading="この法令に基づく政令・省令（施行令・施行規則等）"
-              laws={relations.delegated}
-            />
-            <LawLinkList
-              heading="この法令が改正した法令"
-              laws={relations.amends}
+            <RelationGraph
+              center={{ label: law.title, kind: lawTypeLabels[law.lawType] }}
+              groups={[
+                {
+                  relation: "成立前の法案",
+                  basis: "法案名（「案」を除く）または改正法令名と公布日が一致",
+                  side: "in",
+                  nodes: relations.bills.map((bill) => ({
+                    id: bill.id,
+                    title: bill.title,
+                    href: `/bills/${bill.id}/`,
+                    note: [bill.billNumber, billStatusLabels[bill.status]]
+                      .filter(Boolean)
+                      .join(" / "),
+                  })),
+                },
+                {
+                  relation: "根拠法令",
+                  basis: "制定文に法令番号が明記",
+                  side: "in",
+                  nodes: relations.basis.map(lawNode),
+                },
+                {
+                  relation: "この法令に基づく政令・省令（施行令・施行規則等）",
+                  basis: "政令・省令の制定文に法令番号が明記",
+                  side: "out",
+                  nodes: relations.delegated.map(lawNode),
+                },
+                {
+                  relation: "この法令が改正した法令",
+                  basis: "e-Gov 改正履歴の改正法令番号が一致",
+                  side: "out",
+                  nodes: relations.amends.map(lawNode),
+                },
+              ]}
             />
           </div>
         )}
@@ -342,6 +381,9 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
           </ul>
         </Section>
       )}
+      <Section title="変更履歴" id="changes">
+        <ChangeHistory entityId={law.id} />
+      </Section>
       <Section title="条文" id="text">
         {!lawText || lawText.blocks.length === 0 ? (
           <EmptyMessage>条文データなし</EmptyMessage>

@@ -30,6 +30,13 @@ const Page: FC = () => {
               `法令 ${getThemeItems(theme.slug, laws).length} 件`,
               `法案 ${getThemeItems(theme.slug, bills).length} 件`,
             ],
+            links: [
+              {
+                label: "RSS",
+                href: `/themes/${theme.slug}/rss.xml`,
+                external: true,
+              },
+            ],
           }))}
         />
       </Section>

@@ -10,6 +10,7 @@ import {
 } from "lib/labels"
 import { Entry, EntryList } from "components/blocks/entry-list"
 import { Section } from "components/elements/section"
+import type { RelationNode } from "components/elements/relation-graph"
 
 export const lawSearchText = (law: Law): string =>
   [
@@ -44,6 +45,13 @@ export const lawEntry = (law: Law): Entry => ({
     law.promulgatedAt && `公布 ${law.promulgatedAt}`,
     law.enforcedAt && `施行 ${law.enforcedAt}`,
   ].filter(Boolean) as string[],
+})
+
+export const lawNode = (law: Law): RelationNode => ({
+  id: law.id,
+  title: law.title,
+  href: `/laws/${law.id}/`,
+  note: [lawTypeLabels[law.lawType], law.lawNumber].filter(Boolean).join(" / "),
 })
 
 export const LawList: FC<{ laws: Law[] }> = ({ laws }) => (
