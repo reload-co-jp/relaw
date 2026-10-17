@@ -111,3 +111,39 @@ Next.js build: lib/data.ts が data/*.json を読み、全ページを SSG
 - `pnpm typecheck`: 成功 / `pnpm lint`: 成功 / `pnpm build`: 成功 (約 16 秒)
 - テスト: 存在しない
 - 出力: `out/` 127MB, `index.html` 1.36MB, `bills/index.html` 0.97MB, `public-comments/index.html` 0.71MB
+
+## 9. 実装結果 (2026-10-18)
+
+| 課題 # | 対応                                                                                                             |
+| ------ | ---------------------------------------------------------------------------------------------------------------- |
+| 1      | `lib/data.ts` で締切日 (JST) を過ぎた `open` を `closed` に再判定                                                |
+| 2      | `today()` を JST 化 (`lib/format.ts`)、日数は日付差で計算。表示時はクライアントでも再計算 (`DaysLeft`)           |
+| 3      | `deploy.yml` に `workflow_run` (Collect data 完了時) を追加                                                      |
+| 4      | トップの全件埋め込みを廃止 (1.36MB → 0.14MB)。検索は `/search-index.json` (gzip 約 137KB) を検索ページでのみ取得 |
+| 5      | `/search/` (URL 同期・チップ・個別/全解除・件数・並び順・ページネーション・空/読込/エラー状態)                   |
+| 6      | トップの件数は `lib/search` の同一条件で計算し、遷移先 URL も同条件                                              |
+| 7      | 近日施行に残り日数、パブコメを締切順に。7 日以内を「締切間近」等で強調 (色 + 文字)                               |
+| 8      | 「Relaw による整理」と「議案要旨（原文）」「条文からの引用」を見出しで分離、出典リンク                           |
+| 9      | e-Gov の版データから施行日を取得 (11/93 件)。それ以外は「未確認」と明示                                          |
+| 10     | `scripts/collect/changes.ts` が値の変化を `data/changes.json` に記録。過去分は作らない                           |
+| 11     | 未確認区間を斜線＋破線で区別。状態・テーマ・期間の絞り込み、マーカー → 詳細パネル、時系列リスト、法案名列固定    |
+| 12     | sitemap の lastModified を収集データの最終更新日時に                                                             |
+| 13     | `/themes/{slug}/rss.xml`、`/watchlist/`                                                                          |
+| 14     | ライトテーマ。状態色を意味ごとに統一 (`lib/design.ts`)                                                           |
+| 15     | ガントのマーカーはボタン (キーボード・タッチ可)、`:focus-visible` を全体に設定                                   |
+
+### 検証
+
+- `pnpm typecheck` / `pnpm lint` / `pnpm test` (11 件) / `pnpm build`: 成功
+- 静的出力をローカル配信し、トップ・検索 (URL 復元・戻る/進む・チップ解除・debounce)・法案/法令詳細・ガント (絞り込み・詳細パネル・500px 幅) を確認
+- 全 590 ページの JSON-LD をパース (エラー 0)、canonical (404 以外すべて)、sitemap 586 URL がすべて実在、検索・ウォッチリストは `noindex, follow`
+- RSS 9 フィードを `xmllint` で検証
+
+### 既知の制約・未実装
+
+- 法案の所管省庁・対象者は元データに無いため未実装
+- 次の手続きは施行予定日のみ (国会の審議日程は未収集)
+- `/bills/` `/public-comments/` は全件を静的出力 (約 1MB / 0.8MB)。ページ分割は未実施
+- GitHub Pages は拡張子で Content-Type を決めるため RSS は `application/xml` で配信される
+- ガントの「選択した法案だけを比較」(チェックボックス選択) は未実装。絞り込み結果を比較する方式
+- `/search/` 内のページ番号リンクは通常遷移 (インデックスはブラウザキャッシュから再取得)

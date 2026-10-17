@@ -121,9 +121,11 @@ const Page: FC = () => {
                     title: billEventTypeDescriptions[event.type],
                   },
                 ],
-                meta: [formatDate(event.date), event.description].filter(
-                  Boolean
-                ) as string[],
+                meta: [
+                  formatDate(event.date),
+                  bill.billNumber,
+                  event.description,
+                ].filter(Boolean) as string[],
               },
             ]
           })}

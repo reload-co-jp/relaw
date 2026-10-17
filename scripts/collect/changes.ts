@@ -62,9 +62,7 @@ export const snapshot = (): Snapshot =>
   )
 
 const asValue = (value: unknown): string | null =>
-  value === undefined || value === null || value === ""
-    ? null
-    : String(value)
+  value === undefined || value === null || value === "" ? null : String(value)
 
 export const recordChanges = (before: Snapshot): number => {
   const after = snapshot()

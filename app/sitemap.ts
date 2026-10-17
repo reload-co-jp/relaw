@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next"
 import {
   getBills,
+  getDataUpdatedAt,
   getLaws,
   getLawsByEnforcementMonth,
   getLawsByPromulgationYear,
@@ -34,31 +35,36 @@ const listRoutes = (): string[] => [
   ),
 ]
 
-const sitemap = (): MetadataRoute.Sitemap => [
-  ...staticRoutes.map((route) => ({
-    url: absoluteUrl(route),
-    lastModified: new Date(),
-    changeFrequency: "daily" as const,
-    priority: route === "/" ? 1 : 0.8,
-  })),
-  ...listRoutes().map((route) => ({
-    url: absoluteUrl(route),
-    lastModified: new Date(),
-    changeFrequency: "weekly" as const,
-    priority: 0.6,
-  })),
-  ...getBills().map((bill) => ({
-    url: absoluteUrl(`/bills/${bill.id}/`),
-    lastModified: new Date(bill.updatedAt),
-    changeFrequency: "daily" as const,
-    priority: 0.7,
-  })),
-  ...getLaws().map((law) => ({
-    url: absoluteUrl(`/laws/${law.id}/`),
-    lastModified: new Date(law.updatedAt),
-    changeFrequency: "weekly" as const,
-    priority: 0.7,
-  })),
-]
+// 一覧ページの更新日時は収集データの最終更新日時とする (ビルド時刻にしない)
+// ponytail: 単一ファイル。URL が 50,000 件に近づいたら generateSitemaps で分割する
+const sitemap = (): MetadataRoute.Sitemap => {
+  const dataUpdatedAt = new Date(getDataUpdatedAt())
+  return [
+    ...staticRoutes.map((route) => ({
+      url: absoluteUrl(route),
+      lastModified: dataUpdatedAt,
+      changeFrequency: "daily" as const,
+      priority: route === "/" ? 1 : 0.8,
+    })),
+    ...listRoutes().map((route) => ({
+      url: absoluteUrl(route),
+      lastModified: dataUpdatedAt,
+      changeFrequency: "weekly" as const,
+      priority: 0.6,
+    })),
+    ...getBills().map((bill) => ({
+      url: absoluteUrl(`/bills/${bill.id}/`),
+      lastModified: new Date(bill.updatedAt),
+      changeFrequency: "daily" as const,
+      priority: 0.7,
+    })),
+    ...getLaws().map((law) => ({
+      url: absoluteUrl(`/laws/${law.id}/`),
+      lastModified: new Date(law.updatedAt),
+      changeFrequency: "weekly" as const,
+      priority: 0.7,
+    })),
+  ]
+}
 
 export default sitemap

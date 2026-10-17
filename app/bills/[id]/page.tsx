@@ -78,8 +78,14 @@ export const generateMetadata = async ({
       description: "指定された法案は見つかりません。",
       path: "/bills/",
     })
+  const focus = TERMINAL_STATUSES.includes(bill.status)
+    ? "審議経過・廃案等の状況"
+    : bill.promulgatedAt
+      ? "成立・公布日・施行日"
+      : "審議状況・審議経過"
   return pageMetadata({
-    title: `${bill.title}｜成立状況・審議経過・施行日`,
+    // 同名の法案が回次をまたいで存在するため、議案番号で区別する
+    title: `${bill.title}${bill.billNumber ? `（${bill.billNumber}）` : ""}｜${focus}`,
     description: compactText(billDescription(bill)),
     path: `/bills/${bill.id}/`,
   })
@@ -202,7 +208,8 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
           description,
           identifier: bill.billNumber,
           datePublished: bill.promulgatedAt,
-          legislationDate: bill.submittedAt,
+          // legislationDate は採択日: 法案は成立日 (未成立なら出力しない)
+          legislationDate: bill.enactedAt,
           legislationType: "法律案",
           sourceUrl: bill.sourceUrl,
         })}

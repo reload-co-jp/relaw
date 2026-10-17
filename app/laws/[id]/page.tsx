@@ -40,12 +40,7 @@ import { Timeline } from "components/elements/timeline"
 import { ChangeHistory } from "components/elements/change-history"
 import { RelationGraph } from "components/elements/relation-graph"
 import { WatchButton } from "components/elements/watch-button"
-import {
-  lawTimeline,
-  nextStep,
-  sourceOf,
-  TimelineItem,
-} from "lib/lifecycle"
+import { lawTimeline, nextStep, sourceOf, TimelineItem } from "lib/lifecycle"
 import { PublicCommentList } from "components/blocks/public-comment-list"
 
 export const generateStaticParams = () =>
@@ -107,16 +102,14 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
             "passed_diet",
           ].includes(event.type)
         )
-        .map(
-          (event): TimelineItem => ({
-            key: event.id,
-            date: event.date,
-            label: `法案${billEventTypeLabels[event.type]}`,
-            note: bill.title,
-            state: "done",
-            source: sourceOf(event.sourceUrl),
-          })
-        )
+        .map((event): TimelineItem => ({
+          key: event.id,
+          date: event.date,
+          label: `法案${billEventTypeLabels[event.type]}`,
+          note: bill.title,
+          state: "done",
+          source: sourceOf(event.sourceUrl),
+        }))
     ),
     ...lawTimeline(law),
     ...relations.amendedBy.flatMap(({ version }): TimelineItem[] =>
@@ -215,7 +208,9 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
             公的データの値を組み合わせて自動作成した文章です。法的な解釈や判断を示すものではありません。
           </p>
           {(purpose || enactmentClause) && (
-            <h3 className="related-heading">条文からの引用（原文・e-Gov 法令検索）</h3>
+            <h3 className="related-heading">
+              条文からの引用（原文・e-Gov 法令検索）
+            </h3>
           )}
           {purpose && (
             <blockquote className="detail-quote">
