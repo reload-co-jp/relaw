@@ -2,6 +2,7 @@ import { FC } from "react"
 import { getLaws } from "lib/data"
 import { Section } from "components/elements/section"
 import { LawList } from "components/blocks/law-list"
+import { SearchForm } from "components/blocks/search-form"
 import { pageMetadata } from "lib/seo"
 import { Breadcrumbs, LinkChips } from "components/elements/breadcrumbs"
 
@@ -25,6 +26,11 @@ const Page: FC = () => {
             { label: "施行予定", href: "/laws/upcoming/" },
             { label: "テーマ別", href: "/themes/" },
           ]}
+        />
+        <SearchForm
+          label="法令を検索"
+          placeholder="法令名・法令番号・キーワード"
+          type="law"
         />
         <LawList laws={laws} />
       </Section>

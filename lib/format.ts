@@ -14,3 +14,14 @@ export const formatDate = (date: string): string => {
   const [year, month, day] = date.split("-").map(Number)
   return `${year}年${month}月${day}日`
 }
+
+const DAY_MS = 24 * 60 * 60 * 1000
+const JST_OFFSET_MS = 9 * 60 * 60 * 1000
+
+/** 日本時間の今日 ("2026-10-18")。ビルドは JST 06:00 (UTC 前日 21:00) に走るため UTC 基準だと 1 日ずれる */
+export const today = (now = Date.now()): string =>
+  new Date(now + JST_OFFSET_MS).toISOString().slice(0, 10)
+
+/** from から date までの日数 (date が過去なら負) */
+export const daysUntil = (date: string, from = today()): number =>
+  Math.round((Date.parse(date) - Date.parse(from)) / DAY_MS)

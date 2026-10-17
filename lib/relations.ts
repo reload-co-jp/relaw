@@ -66,9 +66,17 @@ export interface LawRelations {
   publicComments: PublicComment[]
 }
 
+/** 法案の施行日。e-Gov の版データ (制定時版 / 改正版) に記録されたもののみ */
+export interface BillEnforcement {
+  date: string
+  law: Law
+  version: LawVersion
+}
+
 export interface BillRelations {
   enactedLaw?: Law
   amendedLaws: Law[]
+  enforcements: BillEnforcement[]
   publicComments: PublicComment[]
 }
 
@@ -104,7 +112,10 @@ const build = () => {
     ])
   )
   const billRelations = new Map<string, BillRelations>(
-    bills.map((bill) => [bill.id, { amendedLaws: [], publicComments: [] }])
+    bills.map((bill) => [
+      bill.id,
+      { amendedLaws: [], enforcements: [], publicComments: [] },
+    ])
   )
   const lawById = new Map(laws.map((law) => [law.id, law]))
   const pushUnique = <T>(list: T[], item: T) => {
@@ -142,6 +153,17 @@ const build = () => {
     if (enacted) {
       relations.enactedLaw = enacted
       lawRelations.get(enacted.id)!.bills.push(bill)
+      for (const version of versions)
+        if (
+          version.lawId === enacted.id &&
+          !version.amendmentLawNumber &&
+          version.enforcedAt
+        )
+          relations.enforcements.push({
+            date: version.enforcedAt,
+            law: enacted,
+            version,
+          })
     }
     for (const version of versions) {
       if (
@@ -153,7 +175,14 @@ const build = () => {
       if (!amended) continue
       pushUnique(relations.amendedLaws, amended)
       pushUnique(lawRelations.get(amended.id)!.bills, bill)
+      if (version.enforcedAt)
+        relations.enforcements.push({
+          date: version.enforcedAt,
+          law: amended,
+          version,
+        })
     }
+    relations.enforcements.sort((a, b) => a.date.localeCompare(b.date))
   }
 
   for (const comment of comments) {

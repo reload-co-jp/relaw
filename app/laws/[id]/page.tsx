@@ -21,6 +21,7 @@ import {
   lawTypeLabels,
 } from "lib/labels"
 import { formatDate } from "lib/format"
+import { tones } from "lib/design"
 import { lawDescription, lawOverview } from "lib/overview"
 import {
   getEnactmentClause,
@@ -256,7 +257,7 @@ const Page: FC<{ params: Promise<{ id: string }> }> = async ({ params }) => {
                   <span className="timeline-label">{version.versionLabel}</span>
                   {version.current && (
                     <span style={{ marginLeft: ".75rem" }}>
-                      <Badge label="現行" color="#8fbf9f" />
+                      <Badge label="現行" color={tones.success} />
                     </span>
                   )}
                   <p className="timeline-description">

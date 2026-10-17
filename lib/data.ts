@@ -9,6 +9,9 @@ import type {
   LawVersion,
   PublicComment,
 } from "./types"
+import { today } from "./format"
+
+export { today }
 
 // ビルド中にページ数 × ファイル数の読み込みが発生するため、ファイル単位でキャッシュする。
 // ponytail: プロセス内キャッシュ。dev で data/ を更新したら再起動が必要
@@ -22,8 +25,6 @@ const readJson = <T>(filename: string): T[] => {
     )
   return [...(jsonCache.get(filename) as T[])]
 }
-
-export const today = (): string => new Date().toISOString().slice(0, 10)
 
 export const getBills = (): Bill[] =>
   readJson<Bill>("bills.json").sort((a, b) =>
@@ -146,57 +147,16 @@ export const getBillDocuments = (billId: string): Document[] =>
 export const getLawDocuments = (lawId: string): Document[] =>
   getDocuments().filter((doc) => doc.lawId === lawId)
 
+/** 収集時の status は締切後も "open" のまま残るため、締切日 (JST) で再判定する。endAt 当日は募集中 */
+const withCommentStatus = (comment: PublicComment): PublicComment =>
+  comment.status === "open" && comment.endAt && comment.endAt < today()
+    ? { ...comment, status: "closed" }
+    : comment
+
 export const getPublicComments = (): PublicComment[] =>
-  readJson<PublicComment>("public-comments.json").sort((a, b) =>
-    b.updatedAt.localeCompare(a.updatedAt)
-  )
-
-const DASHBOARD_WINDOW_DAYS = 30
-
-const daysFromToday = (date: string): number =>
-  Math.floor((Date.parse(date) - Date.now()) / (24 * 60 * 60 * 1000))
-
-export const getRecentlySubmittedBills = (): Bill[] =>
-  getBills().filter(
-    (bill) =>
-      bill.submittedAt &&
-      daysFromToday(bill.submittedAt) >= -DASHBOARD_WINDOW_DAYS
-  )
-
-export const getBillsUnderDeliberation = (): Bill[] =>
-  getBills().filter((bill) =>
-    [
-      "submitted",
-      "committee_review",
-      "passed_lower_house",
-      "passed_upper_house",
-    ].includes(bill.status)
-  )
-
-export const getEnactedBills = (): Bill[] =>
-  getBills().filter((bill) =>
-    ["passed_diet", "promulgated", "enforced"].includes(bill.status)
-  )
-
-export const getOpenPublicComments = (): PublicComment[] =>
-  getPublicComments().filter((comment) => comment.status === "open")
-
-export const getRecentlyPromulgatedLaws = (): Law[] =>
-  getLaws().filter(
-    (law) =>
-      law.promulgatedAt &&
-      daysFromToday(law.promulgatedAt) >= -DASHBOARD_WINDOW_DAYS * 3
-  )
-
-export const getUpcomingEnforcementLaws = (): Law[] =>
-  getLaws()
-    .filter(
-      (law) =>
-        law.enforcedAt &&
-        daysFromToday(law.enforcedAt) >= 0 &&
-        daysFromToday(law.enforcedAt) <= DASHBOARD_WINDOW_DAYS * 2
-    )
-    .sort((a, b) => (a.enforcedAt ?? "").localeCompare(b.enforcedAt ?? ""))
+  readJson<PublicComment>("public-comments.json")
+    .map(withCommentStatus)
+    .sort((a, b) => b.updatedAt.localeCompare(a.updatedAt))
 
 /** 公布年ごとの法令 (新しい年順) */
 export const getLawsByPromulgationYear = (): Map<string, Law[]> => {
@@ -229,3 +189,36 @@ export const getUpcomingLaws = (): Law[] =>
   getLaws()
     .filter((law) => law.enforcedAt && law.enforcedAt > today())
     .sort((a, b) => (a.enforcedAt ?? "").localeCompare(b.enforcedAt ?? ""))
+
+const NOTABLE_EVENTS: BillEvent["type"][] = [
+  "submitted",
+  "amended",
+  "passed_lower_house",
+  "passed_upper_house",
+  "passed_diet",
+  "promulgated",
+  "enforced",
+  "continued",
+  "withdrawn",
+  "rejected",
+  "expired",
+]
+
+/** 法案の主要な動き (委員会付託などの手続き的なイベントを除く)。日付の新しい順 */
+export const getRecentBillEvents = (limit: number): BillEvent[] =>
+  readJson<BillEvent>("bill-events.json")
+    .filter(
+      (event) => NOTABLE_EVENTS.includes(event.type) && event.date <= today()
+    )
+    .sort(
+      (a, b) => b.date.localeCompare(a.date) || a.billId.localeCompare(b.billId)
+    )
+    .slice(0, limit)
+
+/** 収集データの最終更新日時 (各エンティティの updatedAt の最大値) */
+export const getDataUpdatedAt = (): string =>
+  [
+    ...getBills().map((bill) => bill.updatedAt),
+    ...getLaws().map((law) => law.updatedAt),
+    ...getPublicComments().map((comment) => comment.updatedAt),
+  ].reduce((a, b) => (a > b ? a : b), "")

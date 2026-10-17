@@ -11,7 +11,8 @@
     "build": "next build",
     "start": "next start",
     "format": "prettier --write .",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test": "node --test lib/*.test.ts"
   },
   "keywords": [],
   "author": "",

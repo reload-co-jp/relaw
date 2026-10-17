@@ -7,6 +7,7 @@ import type {
   LawType,
   PublicCommentStatus,
 } from "./types"
+import { tones } from "./design"
 
 export const billStatusLabels: Record<BillStatus, string> = {
   draft: "起草中",
@@ -25,19 +26,19 @@ export const billStatusLabels: Record<BillStatus, string> = {
 }
 
 export const billStatusColors: Record<BillStatus, string> = {
-  draft: "#8a8577",
-  public_comment: "#b8a26a",
-  submitted: "#8ea3bd",
-  committee_review: "#c8a96a",
-  passed_lower_house: "#9db8d2",
-  passed_upper_house: "#9db8d2",
-  passed_diet: "#8fbf9f",
-  promulgated: "#74b3ae",
-  enforced: "#79a98b",
-  withdrawn: "#c08a8a",
-  rejected: "#c08a8a",
-  expired: "#77726a",
-  unknown: "#77726a",
+  draft: tones.neutral,
+  public_comment: tones.progress,
+  submitted: tones.info,
+  committee_review: tones.progress,
+  passed_lower_house: tones.progress,
+  passed_upper_house: tones.progress,
+  passed_diet: tones.success,
+  promulgated: tones.promulgated,
+  enforced: tones.success,
+  withdrawn: tones.danger,
+  rejected: tones.danger,
+  expired: tones.neutral,
+  unknown: tones.neutral,
 }
 
 /** 政治に詳しくないユーザ向けの平易なステータス説明 */
@@ -153,7 +154,7 @@ export const lawStatusLabels: Record<LawStatus, string> = {
   unknown: "不明",
 }
 
-export const lawTypeColor = "#a89ec4"
+export const lawTypeColor = tones.kindLaw
 
 export const searchEntryKindLabels = {
   bill: "法案",
@@ -165,23 +166,23 @@ export const searchEntryKindColors: Record<
   keyof typeof searchEntryKindLabels,
   string
 > = {
-  bill: "#8ea3bd",
-  law: "#a89ec4",
-  publicComment: "#b8a26a",
+  bill: tones.kindBill,
+  law: tones.kindLaw,
+  publicComment: tones.kindPublicComment,
 }
 
 export const lawStatusColors: Record<LawStatus, string> = {
-  in_force: "#8fbf9f",
-  not_yet_enforced: "#c8a96a",
-  repealed: "#c08a8a",
-  unknown: "#77726a",
+  in_force: tones.success,
+  not_yet_enforced: tones.progress,
+  repealed: tones.danger,
+  unknown: tones.neutral,
 }
 
 export const publicCommentStatusColors: Record<PublicCommentStatus, string> = {
-  open: "#8fbf9f",
-  closed: "#8a8577",
-  result_published: "#8ea3bd",
-  unknown: "#77726a",
+  open: tones.success,
+  closed: tones.neutral,
+  result_published: tones.info,
+  unknown: tones.neutral,
 }
 
 export const documentTypeLabels: Record<DocumentType, string> = {

@@ -1,8 +1,8 @@
 import { FC } from "react"
-import { getBills, getLatestBillEvents, getSessions } from "lib/data"
+import { getBills, getSessions } from "lib/data"
 import { Section } from "components/elements/section"
-import { billEntry, billSearchText } from "components/blocks/bill-list"
-import { BillSearchList } from "components/blocks/bill-search-list"
+import { BillList } from "components/blocks/bill-list"
+import { SearchForm } from "components/blocks/search-form"
 import { pageMetadata } from "lib/seo"
 import { Breadcrumbs, LinkChips } from "components/elements/breadcrumbs"
 
@@ -15,14 +15,6 @@ export const metadata = pageMetadata({
 
 const Page: FC = () => {
   const bills = getBills()
-  const latestEvents = getLatestBillEvents()
-  const entries = bills.map((bill) => {
-    const latestEvent = latestEvents.get(bill.id)
-    return {
-      ...billEntry(bill, latestEvent),
-      searchText: billSearchText(bill, latestEvent),
-    }
-  })
   return (
     <>
       <Breadcrumbs items={[{ name: "法案一覧", path: "/bills/" }]} />
@@ -33,7 +25,12 @@ const Page: FC = () => {
             href: `/bills/${session}/`,
           }))}
         />
-        <BillSearchList entries={entries} />
+        <SearchForm
+          label="法案を検索"
+          placeholder="法案名・議案番号・提出者・キーワード"
+          type="bill"
+        />
+        <BillList bills={bills} />
       </Section>
     </>
   )

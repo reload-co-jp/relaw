@@ -1,8 +1,9 @@
 import { FC } from "react"
+import { tones } from "lib/design"
 
 export const Badge: FC<{ label: string; color?: string; title?: string }> = ({
   label,
-  color = "#a09b91",
+  color = tones.neutral,
   title,
 }) => (
   <span

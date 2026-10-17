@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - main
+  # collect.yml は GITHUB_TOKEN で push するため push トリガーでは起動しない。
+  # 収集の完了ごと (データ差分なし・失敗時も) に再ビルドし、「施行まであと N 日」やパブコメの募集状況を日付に追従させる
+  workflow_run:
+    workflows: ["Collect data"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:

@@ -2,6 +2,7 @@ import Link from "next/link"
 import Script from "next/script"
 import { siteDescription, siteName, siteUrl, websiteJsonLd } from "lib/seo"
 import { JsonLd } from "components/elements/json-ld"
+import { cssVariables } from "lib/design"
 import "./reset.css"
 import "./theme.css"
 
@@ -50,6 +51,8 @@ const navLinks = [
   { href: "/laws/", label: "法令" },
   { href: "/public-comments/", label: "パブリックコメント" },
   { href: "/themes/", label: "テーマ" },
+  { href: "/search/", label: "検索" },
+  { href: "/watchlist/", label: "ウォッチリスト" },
 ]
 
 const googleAnalyticsId = "G-2G15942RCJ"
@@ -57,6 +60,9 @@ const googleAnalyticsId = "G-2G15942RCJ"
 const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <html lang="ja">
+      <head>
+        <style>{cssVariables}</style>
+      </head>
       <body>
         <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${googleAnalyticsId}`}
