@@ -1,8 +1,8 @@
 {
   "id": "text-law-508CO0000000259",
   "lawId": "law-508CO0000000259",
-  "revisionId": "508CO0000000259_20260828_508CO0000000264",
-  "fetchedAt": "2026-09-14T23:41:15.235Z",
+  "revisionId": "508CO0000000259_20260917_508CO0000000298",
+  "fetchedAt": "2026-10-07T00:21:36.001Z",
   "blocks": [
     {
       "type": "paragraph",
@@ -25,6 +25,15 @@
       "type": "heading",
       "level": 2,
       "text": "附　則（令和八年八月二八日政令第二六四号）"
+    },
+    {
+      "type": "paragraph",
+      "text": "この政令は、公布の日から施行する。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "附　則（令和八年九月一七日政令第二九八号）"
     },
     {
       "type": "paragraph",
