@@ -56,12 +56,18 @@ const navLinks = [
 ]
 
 const googleAnalyticsId = "G-2G15942RCJ"
+const googleAdsenseClient = "ca-pub-6542845006087970"
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <html lang="ja">
       <head>
         <style>{cssVariables}</style>
+        <script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${googleAdsenseClient}`}
+          crossOrigin="anonymous"
+        />
       </head>
       <body>
         <Script
