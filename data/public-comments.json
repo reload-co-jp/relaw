@@ -1095,6 +1095,40 @@
     "updatedAt": "2026-10-14T00:10:56.823Z"
   },
   {
+    "id": "pc-155260414",
+    "title": "「景観法運用指針の一部改正（案）」に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-10-16",
+    "endAt": "2026-11-14",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260414&Mode=0",
+    "createdAt": "2026-10-17T22:56:30.082Z",
+    "updatedAt": "2026-10-17T22:56:30.082Z"
+  },
+  {
+    "id": "pc-155260415",
+    "title": "「地域における歴史的風致の維持及び向上に関する法律運用指針の一部改正（案）」\nに関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-10-16",
+    "endAt": "2026-11-14",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260415&Mode=0",
+    "createdAt": "2026-10-17T22:56:30.082Z",
+    "updatedAt": "2026-10-17T22:56:30.082Z"
+  },
+  {
+    "id": "pc-155260416",
+    "title": "都市再生特別措置法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令案に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-10-16",
+    "endAt": "2026-11-14",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260416&Mode=0",
+    "billId": "bill-221-shugiin-43b37848703981c2",
+    "createdAt": "2026-10-17T22:56:30.082Z",
+    "updatedAt": "2026-10-17T22:56:30.082Z"
+  },
+  {
     "id": "pc-155260507",
     "title": "水道法施行規則の一部を改正する省令案に関する意見募集について",
     "ministry": "国土交通省",
@@ -1115,6 +1149,18 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260508&Mode=0",
     "createdAt": "2026-07-16T22:05:37.067Z",
     "updatedAt": "2026-07-16T22:05:37.067Z"
+  },
+  {
+    "id": "pc-155260509",
+    "title": "下水道法等の一部を改正する法律の施行に伴う関係政令・関係省令・関係告示（案）に関するパブリックコメントの募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-10-16",
+    "endAt": "2026-11-14",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260509&Mode=0",
+    "billId": "bill-221-shugiin-5371ce93cd499661",
+    "createdAt": "2026-10-17T22:56:30.081Z",
+    "updatedAt": "2026-10-17T22:56:30.081Z"
   },
   {
     "id": "pc-155260604",
@@ -2163,6 +2209,17 @@
     "updatedAt": "2026-10-02T00:33:55.981Z"
   },
   {
+    "id": "pc-225026067",
+    "title": "「監査基準の改訂について（公開草案）」の公表について",
+    "ministry": "金融庁",
+    "status": "open",
+    "startAt": "2026-10-16",
+    "endAt": "2026-11-16",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=225026067&Mode=0",
+    "createdAt": "2026-10-17T22:56:30.081Z",
+    "updatedAt": "2026-10-17T22:56:30.081Z"
+  },
+  {
     "id": "pc-235030052",
     "title": "「現代社会における消費者取引の在り方を踏まえた消費者契約法検討会 中間取りまとめ」 に関する意見公募について",
     "ministry": "消費者庁",
@@ -3167,6 +3224,17 @@
     "updatedAt": "2026-10-16T23:17:02.029Z"
   },
   {
+    "id": "pc-495260213",
+    "title": "資金移動業者の口座への賃金支払に関する資金移動業者向けガイドライン（改正案）に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-10-16",
+    "endAt": "2026-11-16",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260213&Mode=0",
+    "createdAt": "2026-10-17T22:56:30.080Z",
+    "updatedAt": "2026-10-17T22:56:30.080Z"
+  },
+  {
     "id": "pc-495260216",
     "title": "感染症の予防及び感染症の患者に対する医療に関する法律施行規則の一部を改正する省令案に関する御意見の募集について",
     "ministry": "厚生労働省",
@@ -3198,6 +3266,38 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260218&Mode=0",
     "createdAt": "2026-10-14T00:10:56.823Z",
     "updatedAt": "2026-10-14T00:10:56.823Z"
+  },
+  {
+    "id": "pc-495260220",
+    "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令案に関する御意見の募集について",
+    "status": "open",
+    "startAt": "2026-10-16",
+    "endAt": "2026-11-14",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260220&Mode=0",
+    "createdAt": "2026-10-17T22:56:30.081Z",
+    "updatedAt": "2026-10-17T22:56:30.081Z"
+  },
+  {
+    "id": "pc-495260221",
+    "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第三十六条の三第二項の規定に基づき厚生労働大臣が指定する医薬品（案）に関する御意見の募集について",
+    "status": "open",
+    "startAt": "2026-10-16",
+    "endAt": "2026-11-14",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260221&Mode=0",
+    "createdAt": "2026-10-17T22:56:30.081Z",
+    "updatedAt": "2026-10-17T22:56:30.081Z"
+  },
+  {
+    "id": "pc-495260222",
+    "title": "社会福祉法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-10-16",
+    "endAt": "2026-11-15",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260222&Mode=0",
+    "billId": "bill-221-shugiin-1369ec0907eddf30",
+    "createdAt": "2026-10-17T22:56:30.081Z",
+    "updatedAt": "2026-10-17T22:56:30.081Z"
   },
   {
     "id": "pc-550004376",
