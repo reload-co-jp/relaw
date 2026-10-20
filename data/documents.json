@@ -1738,6 +1738,16 @@
     "updatedAt": "2026-08-11T21:43:23.538Z"
   },
   {
+    "id": "doc-kanpo-6b66494990266d32",
+    "title": "地方税法施行規則等の一部を改正する省令（総務一一九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261021/20261021g00231/20261021g002310004f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-10-20T23:37:10.748Z"
+  },
+  {
     "id": "doc-kanpo-6c65a7c3de6ef76d",
     "title": "刑事訴訟法の一部を改正する法律（六七）",
     "type": "kanpo",
@@ -2322,6 +2332,17 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.552Z"
+  },
+  {
+    "id": "doc-kanpo-ac531d58e2950c21",
+    "title": "郵政民営化委員会令の一部を改正する政令（三三一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261021/20261021g00231/20261021g002310002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-10-20T23:37:10.748Z",
+    "updatedAt": "2026-10-20T23:37:10.748Z"
   },
   {
     "id": "doc-kanpo-ad87205849e7a20c",
@@ -2959,7 +2980,7 @@
     "source": "官報",
     "publishedAt": "2026-10-15",
     "createdAt": "2026-10-14T23:41:06.068Z",
-    "updatedAt": "2026-10-20T00:06:26.858Z"
+    "updatedAt": "2026-10-20T23:37:12.623Z"
   },
   {
     "id": "doc-kanpo-ddb5a2179957ccb8",
@@ -3447,6 +3468,16 @@
     "source": "官報",
     "publishedAt": "2026-09-16",
     "createdAt": "2026-09-16T23:32:22.552Z"
+  },
+  {
+    "id": "doc-kanpo-fff5e4e81eca7d3b",
+    "title": "物資の流通の効率化に関する法律の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令（国土交通八四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261021/20261021g00231/20261021g002310009f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-10-20T23:37:10.748Z"
   },
   {
     "id": "doc-kokkai-0240f4e135c823a7",
