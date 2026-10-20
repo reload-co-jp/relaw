@@ -2077,7 +2077,7 @@
     "source": "官報",
     "publishedAt": "2026-10-09",
     "createdAt": "2026-10-09T00:58:29.463Z",
-    "updatedAt": "2026-10-18T22:46:12.266Z"
+    "updatedAt": "2026-10-20T00:06:28.337Z"
   },
   {
     "id": "doc-kanpo-974a71217d0bfcb3",
@@ -2170,6 +2170,16 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-9fd2c21fe0d74353",
+    "title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則（人事院一七－〇－一五四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261020/20261020h01811/20261020h018110002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-20",
+    "createdAt": "2026-10-20T00:06:25.379Z"
   },
   {
     "id": "doc-kanpo-a1acee33d6b9e113",
@@ -2949,7 +2959,7 @@
     "source": "官報",
     "publishedAt": "2026-10-15",
     "createdAt": "2026-10-14T23:41:06.068Z",
-    "updatedAt": "2026-10-18T22:46:11.009Z"
+    "updatedAt": "2026-10-20T00:06:26.858Z"
   },
   {
     "id": "doc-kanpo-ddb5a2179957ccb8",
