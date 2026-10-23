@@ -455,6 +455,17 @@
     "updatedAt": "2026-10-07T00:23:39.223Z"
   },
   {
+    "id": "pc-141000242",
+    "title": "「令和９年度こども家庭科学研究」に対する御意見募集（パブリック・コメント）について",
+    "ministry": "こども家庭庁",
+    "status": "open",
+    "startAt": "2026-10-23",
+    "endAt": "2026-11-21",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=141000242&Mode=0",
+    "createdAt": "2026-10-23T23:47:04.105Z",
+    "updatedAt": "2026-10-23T23:47:04.105Z"
+  },
+  {
     "id": "pc-141000243",
     "title": "「保育所における感染症対策ガイドライン（2026年改訂版）」案に関する御意見の募集について",
     "ministry": "こども家庭庁",
@@ -1789,6 +1800,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=185001512&Mode=0",
     "createdAt": "2026-10-22T23:55:39.274Z",
     "updatedAt": "2026-10-22T23:55:39.274Z"
+  },
+  {
+    "id": "pc-185001513",
+    "title": "デジタルな形態を含む教科書の発行・採択等に関する指針の策定に向けて（素案）に関する意見の募集の実施について",
+    "ministry": "文部科学省",
+    "status": "open",
+    "startAt": "2026-10-23",
+    "endAt": "2026-11-08",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=185001513&Mode=0",
+    "createdAt": "2026-10-23T23:47:04.105Z",
+    "updatedAt": "2026-10-23T23:47:04.105Z"
   },
   {
     "id": "pc-195260024",
@@ -3531,6 +3553,17 @@
     "updatedAt": "2026-10-21T23:56:12.880Z"
   },
   {
+    "id": "pc-495260235",
+    "title": "労働者災害補償保険法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令案に関する御意見の募集について",
+    "status": "open",
+    "startAt": "2026-10-22",
+    "endAt": "2026-11-23",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260235&Mode=0",
+    "billId": "bill-221-shugiin-41674abdb4f95582",
+    "createdAt": "2026-10-23T23:47:04.105Z",
+    "updatedAt": "2026-10-23T23:47:04.105Z"
+  },
+  {
     "id": "pc-550004376",
     "title": "農業信用保証保険法施行規則の一部を改正する命令案についての意見・情報の募集について",
     "ministry": "農林水産省",
@@ -4468,6 +4501,17 @@
     "updatedAt": "2026-10-02T00:33:55.982Z"
   },
   {
+    "id": "pc-595320037",
+    "title": "容器包装に係る分別収集及び再商品化の促進等に関する法律施行規則の一部を改正する省令案等に対する意見公募",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-10-22",
+    "endAt": "2026-11-21",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320037&Mode=0",
+    "createdAt": "2026-10-23T23:47:04.105Z",
+    "updatedAt": "2026-10-23T23:47:04.105Z"
+  },
+  {
     "id": "pc-595320038",
     "title": "貿易関係貿易外取引等に関する省令第十条第三項の規定に基づく重要管理対象技術を提供することを目的とする取引を行おうとする者に報告を求める事項の一部を改正する件に対する意見公募",
     "ministry": "経済産業省",
@@ -4699,6 +4743,17 @@
     "billId": "bill-221-shugiin-507b23f3c61af710",
     "createdAt": "2026-10-10T00:31:39.949Z",
     "updatedAt": "2026-10-10T00:31:39.949Z"
+  },
+  {
+    "id": "pc-620340015",
+    "title": "エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律施行規則の一部を改正する省令案及びガス温水機器及び電気温水機器のエネルギー消費性能の向上に関するエネルギー消費機器等製造事業者等の判断の基準等に対する意見公募要領",
+    "ministry": "資源エネルギー庁",
+    "status": "open",
+    "startAt": "2026-10-22",
+    "endAt": "2026-11-20",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340015&Mode=0",
+    "createdAt": "2026-10-23T23:47:04.105Z",
+    "updatedAt": "2026-10-23T23:47:04.105Z"
   },
   {
     "id": "pc-630300000",

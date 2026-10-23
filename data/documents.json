@@ -90,6 +90,16 @@
     "createdAt": "2026-07-07T00:36:49.743Z"
   },
   {
+    "id": "doc-cas-2138e5acac70628d",
+    "billId": "bill-222-cas-0f2cf1a7f7ef3b3a",
+    "title": "法律案・理由（PDF／300KB）",
+    "type": "reason",
+    "url": "https://www.cas.go.jp/jp/houan/261023/shiryo22.pdf",
+    "format": "pdf",
+    "source": "内閣官房",
+    "createdAt": "2026-10-23T23:44:48.311Z"
+  },
+  {
     "id": "doc-cas-2198ee54b208fb21",
     "billId": "bill-221-cas-8d0bef80280e32d1",
     "title": "新旧対照表（PDF／216KB）",
@@ -98,6 +108,36 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-07-07T00:36:49.742Z"
+  },
+  {
+    "id": "doc-cas-229b4e6ce4468179",
+    "billId": "bill-222-cas-0f2cf1a7f7ef3b3a",
+    "title": "新旧対照表（PDF／720KB）",
+    "type": "comparison_table",
+    "url": "https://www.cas.go.jp/jp/houan/261023/shiryo23.pdf",
+    "format": "pdf",
+    "source": "内閣官房",
+    "createdAt": "2026-10-23T23:44:48.311Z"
+  },
+  {
+    "id": "doc-cas-23dd750934c1f39f",
+    "billId": "bill-222-cas-401e58fe20de6075",
+    "title": "法律案・理由（PDF／193KB）",
+    "type": "reason",
+    "url": "https://www.cas.go.jp/jp/houan/261023/shiryo02.pdf",
+    "format": "pdf",
+    "source": "内閣官房",
+    "createdAt": "2026-10-23T23:44:48.311Z"
+  },
+  {
+    "id": "doc-cas-26381216638f21be",
+    "billId": "bill-222-cas-401e58fe20de6075",
+    "title": "参照条文2/2（PDF／7.5MB）",
+    "type": "reference_provisions",
+    "url": "https://www.cas.go.jp/jp/houan/261023/shiryo03-2.pdf",
+    "format": "pdf",
+    "source": "内閣官房",
+    "createdAt": "2026-10-23T23:44:48.311Z"
   },
   {
     "id": "doc-cas-277cc62b5e441709",
@@ -110,6 +150,16 @@
     "createdAt": "2026-10-10T00:29:26.584Z"
   },
   {
+    "id": "doc-cas-28a818f77153689a",
+    "billId": "bill-222-cas-0f2cf1a7f7ef3b3a",
+    "title": "参照条文2/4（PDF／9.2MB）",
+    "type": "reference_provisions",
+    "url": "https://www.cas.go.jp/jp/houan/261023/shiryo24-2.pdf",
+    "format": "pdf",
+    "source": "内閣官房",
+    "createdAt": "2026-10-23T23:44:48.311Z"
+  },
+  {
     "id": "doc-cas-28dd7bae05afec57",
     "billId": "bill-219-cas-57f16337980bafee",
     "title": "参照条文（PDF／4,812KB）",
@@ -118,6 +168,16 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-07-07T00:36:46.412Z"
+  },
+  {
+    "id": "doc-cas-29302dd3421efa60",
+    "billId": "bill-222-cas-401e58fe20de6075",
+    "title": "参照条文1/2（PDF／7.8MB）",
+    "type": "reference_provisions",
+    "url": "https://www.cas.go.jp/jp/houan/261023/shiryo03-1.pdf",
+    "format": "pdf",
+    "source": "内閣官房",
+    "createdAt": "2026-10-23T23:44:48.311Z"
   },
   {
     "id": "doc-cas-2f9e5d7fa24bbd9f",
@@ -140,6 +200,16 @@
     "createdAt": "2026-10-10T00:29:26.584Z"
   },
   {
+    "id": "doc-cas-33505651d20311d2",
+    "billId": "bill-222-cas-0f2cf1a7f7ef3b3a",
+    "title": "参照条文4/4（PDF／8.4MB）",
+    "type": "reference_provisions",
+    "url": "https://www.cas.go.jp/jp/houan/261023/shiryo24-4.pdf",
+    "format": "pdf",
+    "source": "内閣官房",
+    "createdAt": "2026-10-23T23:44:48.312Z"
+  },
+  {
     "id": "doc-cas-350e99bcc2b0d153",
     "billId": "bill-219-cas-6307f77d6021d601",
     "title": "新旧対照表（PDF／164KB）",
@@ -148,6 +218,26 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-07-07T00:36:46.413Z"
+  },
+  {
+    "id": "doc-cas-371381af1cafd415",
+    "billId": "bill-222-cas-401e58fe20de6075",
+    "title": "要綱（PDF／145KB）",
+    "type": "outline",
+    "url": "https://www.cas.go.jp/jp/houan/261023/shiryo01.pdf",
+    "format": "pdf",
+    "source": "内閣官房",
+    "createdAt": "2026-10-23T23:44:48.311Z"
+  },
+  {
+    "id": "doc-cas-372814d9ca72fd11",
+    "billId": "bill-222-cas-0f2cf1a7f7ef3b3a",
+    "title": "参照条文1/4（PDF／9.3MB）",
+    "type": "reference_provisions",
+    "url": "https://www.cas.go.jp/jp/houan/261023/shiryo24-1.pdf",
+    "format": "pdf",
+    "source": "内閣官房",
+    "createdAt": "2026-10-23T23:44:48.311Z"
   },
   {
     "id": "doc-cas-384733b50966c2b6",
@@ -330,6 +420,16 @@
     "createdAt": "2026-07-07T00:36:49.743Z"
   },
   {
+    "id": "doc-cas-8ec290e2b389f89d",
+    "billId": "bill-222-cas-0f2cf1a7f7ef3b3a",
+    "title": "参照条文3/4（PDF／9.3MB）",
+    "type": "reference_provisions",
+    "url": "https://www.cas.go.jp/jp/houan/261023/shiryo24-3.pdf",
+    "format": "pdf",
+    "source": "内閣官房",
+    "createdAt": "2026-10-23T23:44:48.312Z"
+  },
+  {
     "id": "doc-cas-931b1b9917bd0b81",
     "billId": "bill-222-cas-d81b73f30ca09207",
     "title": "要綱（PDF／70KB）",
@@ -390,6 +490,17 @@
     "createdAt": "2026-07-07T00:36:49.743Z"
   },
   {
+    "id": "doc-cas-a93d85a977f82b3f",
+    "billId": "bill-222-cas-0f2cf1a7f7ef3b3a",
+    "title": "概要（PDF／497KB）",
+    "type": "summary",
+    "url": "https://www.cas.go.jp/jp/houan/261023/shiryo00.pdf",
+    "format": "pdf",
+    "source": "内閣官房",
+    "createdAt": "2026-10-23T23:44:48.311Z",
+    "updatedAt": "2026-10-23T23:44:48.311Z"
+  },
+  {
     "id": "doc-cas-ad09f9c9329e1fe3",
     "billId": "bill-221-cas-dfc6ce6332f6bfec",
     "title": "参照条文1/3（PDF／9.4MB）",
@@ -398,6 +509,16 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-07-07T00:36:49.743Z"
+  },
+  {
+    "id": "doc-cas-ae1828936d9e37a3",
+    "billId": "bill-222-cas-0f2cf1a7f7ef3b3a",
+    "title": "要綱（PDF／41KB）",
+    "type": "outline",
+    "url": "https://www.cas.go.jp/jp/houan/261023/shiryo21.pdf",
+    "format": "pdf",
+    "source": "内閣官房",
+    "createdAt": "2026-10-23T23:44:48.311Z"
   },
   {
     "id": "doc-cas-ae2efaa79a20f415",
@@ -1412,7 +1533,7 @@
     "source": "官報",
     "publishedAt": "2026-10-23",
     "createdAt": "2026-10-22T23:53:11.789Z",
-    "updatedAt": "2026-10-22T23:53:11.789Z"
+    "updatedAt": "2026-10-23T23:44:37.191Z"
   },
   {
     "id": "doc-kanpo-513c703aaab382de",
@@ -2383,7 +2504,7 @@
     "source": "官報",
     "publishedAt": "2026-10-21",
     "createdAt": "2026-10-20T23:37:10.748Z",
-    "updatedAt": "2026-10-22T23:53:12.768Z"
+    "updatedAt": "2026-10-23T23:44:38.133Z"
   },
   {
     "id": "doc-kanpo-ad87205849e7a20c",
@@ -3041,7 +3162,7 @@
     "source": "官報",
     "publishedAt": "2026-10-15",
     "createdAt": "2026-10-14T23:41:06.068Z",
-    "updatedAt": "2026-10-22T23:53:14.725Z"
+    "updatedAt": "2026-10-23T23:44:40.087Z"
   },
   {
     "id": "doc-kanpo-ddb5a2179957ccb8",
@@ -4089,6 +4210,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-04-24",
     "createdAt": "2026-07-07T00:39:00.190Z"
+  },
+  {
+    "id": "doc-kokkai-4044afdb85c5254b",
+    "billId": "bill-222-cas-d94020c8875e09ca",
+    "title": "第222回国会 衆議院 議院運営委員会 第4号 (2026-10-20)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00420261020",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-20",
+    "createdAt": "2026-10-23T23:46:45.775Z"
   },
   {
     "id": "doc-kokkai-4193c71a08efc230",
@@ -7595,6 +7727,16 @@
     "createdAt": "2026-10-06T01:41:33.163Z"
   },
   {
+    "id": "doc-sangiin-706f216908cca41a",
+    "billId": "bill-222-shugiin-3dc68adcad738b86",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t0802220122220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-10-23T23:46:10.977Z"
+  },
+  {
     "id": "doc-sangiin-70ead783e561e24e",
     "billId": "bill-221-shugiin-10f985b02910d91e",
     "title": "議案要旨",
@@ -8305,6 +8447,16 @@
     "createdAt": "2026-07-07T04:49:23.079Z"
   },
   {
+    "id": "doc-sangiin-95d986c6cc794fb5",
+    "billId": "bill-222-shugiin-775b509548767cdd",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t0802220142220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-10-23T23:46:11.723Z"
+  },
+  {
     "id": "doc-sangiin-95ed1207a4ec1fdb",
     "billId": "bill-221-shugiin-6acf47077b50e55e",
     "title": "議案要旨",
@@ -8544,6 +8696,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:17.216Z"
+  },
+  {
+    "id": "doc-sangiin-a7e17514ab3d9850",
+    "billId": "bill-222-shugiin-c510f5a58fc7a0ff",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t0802220112220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-10-23T23:46:10.604Z"
   },
   {
     "id": "doc-sangiin-a8320971bc20300b",
@@ -8814,6 +8976,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:24.511Z"
+  },
+  {
+    "id": "doc-sangiin-b646c28a615e31d1",
+    "billId": "bill-222-shugiin-cbe682b3b50d4d8e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t0802220132220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-10-23T23:46:11.352Z"
   },
   {
     "id": "doc-sangiin-b6cd6ddf2236a3b9",
