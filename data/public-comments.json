@@ -920,6 +920,28 @@
     "updatedAt": "2026-10-06T01:42:11.084Z"
   },
   {
+    "id": "pc-145210784",
+    "title": "周波数割当計画の一部を変更する告示案に係る意見募集\n-26GHz帯における第5世代移動通信システムの普及のための価額競争実施指針に係る価額競争の実施の結果の反映-",
+    "ministry": "総務省",
+    "status": "result_published",
+    "startAt": "2026-10-24",
+    "endAt": "2026-11-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210784&Mode=0",
+    "createdAt": "2026-10-24T22:55:49.365Z",
+    "updatedAt": "2026-10-24T22:55:49.365Z"
+  },
+  {
+    "id": "pc-145210785",
+    "title": "令和８年総務省告示第43号（電波法施行規則第７条第５号の規定に基づく特定実験試験局として使用可能な周波数の範囲等を定める件）の一部を改正する告示案に関する意見募集\n- 5.8GHz帯ドローン用実験試験局の利用手続の簡素化 -",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-10-24",
+    "endAt": "2026-11-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210785&Mode=0",
+    "createdAt": "2026-10-24T22:55:49.366Z",
+    "updatedAt": "2026-10-24T22:55:49.366Z"
+  },
+  {
     "id": "pc-145210786",
     "title": "郵便事業の安定的・持続的な運営を確保するための方策に関する意見募集",
     "ministry": "総務省",
@@ -929,6 +951,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210786&Mode=0",
     "createdAt": "2026-10-20T00:09:23.144Z",
     "updatedAt": "2026-10-20T00:09:23.144Z"
+  },
+  {
+    "id": "pc-145210789",
+    "title": "選挙の公正に対する悪影響を軽減するための措置の適切かつ有効な実施に関する指針案等に対する意見募集",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-10-24",
+    "endAt": "2026-11-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210789&Mode=0",
+    "createdAt": "2026-10-24T22:55:49.366Z",
+    "updatedAt": "2026-10-24T22:55:49.366Z"
   },
   {
     "id": "pc-155260103",
@@ -1205,6 +1238,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260604&Mode=0",
     "createdAt": "2026-07-07T00:39:11.946Z",
     "updatedAt": "2026-07-07T00:39:11.946Z"
+  },
+  {
+    "id": "pc-155260605",
+    "title": "車両制限令の一部を改正する政令案に関するパブリックコメントの募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-10-23",
+    "endAt": "2026-11-21",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260605&Mode=0",
+    "createdAt": "2026-10-24T22:55:49.366Z",
+    "updatedAt": "2026-10-24T22:55:49.366Z"
   },
   {
     "id": "pc-155260718",
@@ -2142,6 +2186,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260070&Mode=0",
     "createdAt": "2026-10-20T00:09:23.145Z",
     "updatedAt": "2026-10-20T00:09:23.145Z"
+  },
+  {
+    "id": "pc-195260072",
+    "title": "釧路湿原国立公園の公園区域及び公園計画の変更[第２次点検]に関する意見の募集（パブリック・コメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-10-23",
+    "endAt": "2026-11-22",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260072&Mode=0",
+    "createdAt": "2026-10-24T22:55:49.366Z",
+    "updatedAt": "2026-10-24T22:55:49.366Z"
   },
   {
     "id": "pc-198026102",
@@ -4088,6 +4143,17 @@
     "updatedAt": "2026-10-09T01:01:06.420Z"
   },
   {
+    "id": "pc-550004434",
+    "title": "防災重点農業用ため池に係る防災工事等基本指針の一部改正案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-10-23",
+    "endAt": "2026-11-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004434&Mode=0",
+    "createdAt": "2026-10-24T22:55:49.366Z",
+    "updatedAt": "2026-10-24T22:55:49.366Z"
+  },
+  {
     "id": "pc-595126108",
     "title": "電気事業法施行規則第五十二条の二第一号ロの要件、第一号ハ及び第二号ロの機械器具並びに第一号ニ及び第二号ハの算定方法等並びに第五十三条第二項第五号の頻度に関する告示の一部改正（案）に対する意見公募",
     "ministry": "経済産業省",
@@ -4554,6 +4620,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320041&Mode=0",
     "createdAt": "2026-10-20T00:09:23.145Z",
     "updatedAt": "2026-10-20T00:09:23.145Z"
+  },
+  {
+    "id": "pc-595320042",
+    "title": "サイバー・フィジカル・セキュリティ対策フレームワーク（CPSF）version 1.1（案）に対する意見公募について",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-10-23",
+    "endAt": "2026-12-22",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320042&Mode=0",
+    "createdAt": "2026-10-24T22:55:49.366Z",
+    "updatedAt": "2026-10-24T22:55:49.366Z"
   },
   {
     "id": "pc-595320043",
