@@ -1,5 +1,32 @@
 [
   {
+    "id": "change-bill-222-cas-0f2cf1a7f7ef3b3a-billNumber-2026-10-27T00:16:34.238Z",
+    "entityType": "bill",
+    "entityId": "bill-222-cas-0f2cf1a7f7ef3b3a",
+    "field": "billNumber",
+    "before": null,
+    "after": "第222回国会 閣法第20号",
+    "detectedAt": "2026-10-27T00:16:34.238Z"
+  },
+  {
+    "id": "change-bill-222-cas-401e58fe20de6075-billNumber-2026-10-27T00:16:34.238Z",
+    "entityType": "bill",
+    "entityId": "bill-222-cas-401e58fe20de6075",
+    "field": "billNumber",
+    "before": null,
+    "after": "第222回国会 閣法第19号",
+    "detectedAt": "2026-10-27T00:16:34.238Z"
+  },
+  {
+    "id": "change-bill-222-sangiin-054775081ea50f13-billNumber-2026-10-27T00:16:34.238Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-054775081ea50f13",
+    "field": "billNumber",
+    "before": null,
+    "after": "第222回国会 閣法第18号",
+    "detectedAt": "2026-10-27T00:16:34.238Z"
+  },
+  {
     "id": "change-bill-222-sangiin-8804df8bf3434c4b-billNumber-2026-10-20T00:09:23.149Z",
     "entityType": "bill",
     "entityId": "bill-222-sangiin-8804df8bf3434c4b",
@@ -16,6 +43,15 @@
     "before": null,
     "after": "第222回国会 閣法第16号",
     "detectedAt": "2026-10-20T00:09:23.149Z"
+  },
+  {
+    "id": "change-bill-222-sangiin-98e35c20d6e0bf65-billNumber-2026-10-27T00:16:34.238Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-98e35c20d6e0bf65",
+    "field": "billNumber",
+    "before": null,
+    "after": "第222回国会 閣法第21号",
+    "detectedAt": "2026-10-27T00:16:34.238Z"
   },
   {
     "id": "change-bill-222-sangiin-dc1da4a58422661c-billNumber-2026-10-20T00:09:23.149Z",

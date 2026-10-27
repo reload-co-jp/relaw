@@ -1737,6 +1737,17 @@
     "updatedAt": "2026-10-16T23:17:02.029Z"
   },
   {
+    "id": "pc-155261239",
+    "title": "民間訓練試験空域の一部変更・指定について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-10-27",
+    "endAt": "2026-11-25",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261239&Mode=0",
+    "createdAt": "2026-10-27T00:16:34.230Z",
+    "updatedAt": "2026-10-27T00:16:34.230Z"
+  },
+  {
     "id": "pc-170000250",
     "title": "予備自衛官等の職務の円滑な遂行を図るための国家公務員及び地方公務員の兼業の特例に関する法律第三条第一項の規定による予備自衛官等の兼業に関する規則案に関する意見の募集について",
     "ministry": "防衛省",
@@ -2188,6 +2199,17 @@
     "updatedAt": "2026-10-20T00:09:23.145Z"
   },
   {
+    "id": "pc-195260071",
+    "title": "「水道水中における農薬類の分類の見直し（案）」に関する御意見の募集について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-10-26",
+    "endAt": "2026-11-25",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260071&Mode=0",
+    "createdAt": "2026-10-27T00:16:34.231Z",
+    "updatedAt": "2026-10-27T00:16:34.231Z"
+  },
+  {
     "id": "pc-195260072",
     "title": "釧路湿原国立公園の公園区域及び公園計画の変更[第２次点検]に関する意見の募集（パブリック・コメント）について",
     "ministry": "環境省",
@@ -2197,6 +2219,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260072&Mode=0",
     "createdAt": "2026-10-24T22:55:49.366Z",
     "updatedAt": "2026-10-24T22:55:49.366Z"
+  },
+  {
+    "id": "pc-195260073",
+    "title": "遺伝子組換え生ワクチン（犬用）の第一種使用等に関する承認に先立っての意見募集について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-10-27",
+    "endAt": "2026-11-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260073&Mode=0",
+    "createdAt": "2026-10-27T00:16:34.230Z",
+    "updatedAt": "2026-10-27T00:16:34.230Z"
   },
   {
     "id": "pc-198026102",
@@ -3619,6 +3652,29 @@
     "updatedAt": "2026-10-23T23:47:04.105Z"
   },
   {
+    "id": "pc-495260237",
+    "title": "健康保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-10-26",
+    "endAt": "2026-11-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260237&Mode=0",
+    "billId": "bill-219-shugiin-fd73ab4e63190c8b",
+    "createdAt": "2026-10-27T00:16:34.231Z",
+    "updatedAt": "2026-10-27T00:16:34.231Z"
+  },
+  {
+    "id": "pc-495260238",
+    "title": "確定拠出年金法施行規則の一部を改正する省令案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-10-26",
+    "endAt": "2026-11-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260238&Mode=0",
+    "createdAt": "2026-10-27T00:16:34.231Z",
+    "updatedAt": "2026-10-27T00:16:34.231Z"
+  },
+  {
     "id": "pc-550004376",
     "title": "農業信用保証保険法施行規則の一部を改正する命令案についての意見・情報の募集について",
     "ministry": "農林水産省",
@@ -4143,6 +4199,50 @@
     "updatedAt": "2026-10-09T01:01:06.420Z"
   },
   {
+    "id": "pc-550004430",
+    "title": "令和四年農林水産省告示第千六百五十号（農薬取締法第四条第一項第五号に掲げる場合に該当するかどうかの基準を定める件第一号の規定に基づき、同号の農林水産大臣が定める基準を定める件）の一部を改正する件（エチプロール）（案）についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-10-26",
+    "endAt": "2026-11-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004430&Mode=0",
+    "createdAt": "2026-10-27T00:16:34.231Z",
+    "updatedAt": "2026-10-27T00:16:34.231Z"
+  },
+  {
+    "id": "pc-550004431",
+    "title": "令和四年農林水産省告示第千六百五十号（農薬取締法第四条第一項第五号に掲げる場合に該当するかどうかの基準を定める件第一号の規定に基づき、同号の農林水産大臣が定める基準を定める件）の一部を改正する件（フロリルピコキサミド）（案）についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-10-26",
+    "endAt": "2026-11-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004431&Mode=0",
+    "createdAt": "2026-10-27T00:16:34.231Z",
+    "updatedAt": "2026-10-27T00:16:34.231Z"
+  },
+  {
+    "id": "pc-550004432",
+    "title": "令和四年農林水産省告示第千六百五十号（農薬取締法第四条第一項第五号に掲げる場合に該当するかどうかの基準を定める件第一号の規定に基づき、同号の農林水産大臣が定める基準を定める件）の一部を改正する件（ジノテフラン）（案）についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-10-26",
+    "endAt": "2026-11-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004432&Mode=0",
+    "createdAt": "2026-10-27T00:16:34.231Z",
+    "updatedAt": "2026-10-27T00:16:34.231Z"
+  },
+  {
+    "id": "pc-550004433",
+    "title": "「漁協等向けの総合的な監督指針（信用事業及び共済事業のみに係るものを除く。）」の一部改正案についての意見・情報の募集について",
+    "ministry": "水産庁",
+    "status": "open",
+    "startAt": "2026-10-26",
+    "endAt": "2026-11-25",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004433&Mode=0",
+    "createdAt": "2026-10-27T00:16:34.231Z",
+    "updatedAt": "2026-10-27T00:16:34.231Z"
+  },
+  {
     "id": "pc-550004434",
     "title": "防災重点農業用ため池に係る防災工事等基本指針の一部改正案についての意見・情報の募集について",
     "ministry": "農林水産省",
@@ -4642,6 +4742,19 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320043&Mode=0",
     "createdAt": "2026-10-22T23:55:39.275Z",
     "updatedAt": "2026-10-22T23:55:39.275Z"
+  },
+  {
+    "id": "pc-595320044",
+    "title": "特定輸入事業者の輸入に係る特定製品関係報告規則等の一部を改正する省令案に対する意見公募について",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-10-26",
+    "endAt": "2026-11-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320044&Mode=0",
+    "lawId": "law-507M60000400007",
+    "relatedLawTitle": "特定輸入事業者の輸入に係る特定製品関係報告規則",
+    "createdAt": "2026-10-27T00:16:34.231Z",
+    "updatedAt": "2026-10-27T00:16:34.231Z"
   },
   {
     "id": "pc-620226018",

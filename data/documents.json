@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-10-25T23:00:59.247Z"
+    "updatedAt": "2026-10-27T00:14:08.979Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -1208,6 +1208,16 @@
     "createdAt": "2026-08-28T05:06:28.172Z"
   },
   {
+    "id": "doc-kanpo-34245b003c6b6d80",
+    "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令（厚生労働一五〇）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261027/20261027h01816/20261027h018160001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-27",
+    "createdAt": "2026-10-27T00:13:57.602Z"
+  },
+  {
     "id": "doc-kanpo-35345cd923bbdcfe",
     "title": "家畜伝染病予防法施行規則等の一部を改正する等の省令（農林水産四七）",
     "type": "kanpo",
@@ -1533,7 +1543,7 @@
     "source": "官報",
     "publishedAt": "2026-10-23",
     "createdAt": "2026-10-22T23:53:11.789Z",
-    "updatedAt": "2026-10-25T23:00:47.502Z"
+    "updatedAt": "2026-10-27T00:13:58.620Z"
   },
   {
     "id": "doc-kanpo-513c703aaab382de",
@@ -2504,7 +2514,7 @@
     "source": "官報",
     "publishedAt": "2026-10-21",
     "createdAt": "2026-10-20T23:37:10.748Z",
-    "updatedAt": "2026-10-25T23:00:48.470Z"
+    "updatedAt": "2026-10-27T00:13:59.644Z"
   },
   {
     "id": "doc-kanpo-ad87205849e7a20c",
@@ -3761,6 +3771,17 @@
     "createdAt": "2026-08-21T21:24:08.878Z"
   },
   {
+    "id": "doc-kokkai-0fe2b95a1285d8bc",
+    "billId": "bill-221-shugiin-4700f1a7e8350247",
+    "title": "第222回国会 衆議院 総務委員会 第1号 (2026-10-22)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204601X00120261022",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-22",
+    "createdAt": "2026-10-27T00:15:59.888Z"
+  },
+  {
     "id": "doc-kokkai-10a6b4eeeeefb9fc",
     "billId": "bill-221-shugiin-b2e04dc4061d4a81",
     "title": "第221回国会 衆議院 農林水産委員会 第15号 (2026-06-16)",
@@ -4155,6 +4176,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-04-28",
     "createdAt": "2026-07-07T00:38:01.714Z"
+  },
+  {
+    "id": "doc-kokkai-3bf5eb1b0c8c1148",
+    "billId": "bill-221-shugiin-426ee0047ccd63e6",
+    "title": "第222回国会 衆議院 総務委員会 第1号 (2026-10-22)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204601X00120261022",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-22",
+    "createdAt": "2026-10-27T00:15:59.051Z"
   },
   {
     "id": "doc-kokkai-3ca21d522a5c177d",
@@ -7837,6 +7869,16 @@
     "createdAt": "2026-07-07T04:48:28.994Z"
   },
   {
+    "id": "doc-sangiin-7908567b7d47f08f",
+    "billId": "bill-222-sangiin-dc1da4a58422661c",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t0802220172220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-10-27T00:15:41.228Z"
+  },
+  {
     "id": "doc-sangiin-794bcbe09bf681eb",
     "billId": "bill-221-shugiin-55576ec34fbc6496",
     "title": "成立法律",
@@ -8205,6 +8247,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:57.989Z"
+  },
+  {
+    "id": "doc-sangiin-8c3c27d725fdcfae",
+    "billId": "bill-222-sangiin-90629d88a370196e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t0802220162220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-10-27T00:15:40.817Z"
   },
   {
     "id": "doc-sangiin-8c3c7a600f6367f5",
@@ -8716,6 +8768,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-15T22:01:09.152Z"
+  },
+  {
+    "id": "doc-sangiin-a8964dd14f78c63b",
+    "billId": "bill-222-sangiin-8804df8bf3434c4b",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t0802220152220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-10-27T00:15:40.409Z"
   },
   {
     "id": "doc-sangiin-a89ed66a9fca2650",
