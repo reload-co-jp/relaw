@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-10-27T00:14:08.979Z"
+    "updatedAt": "2026-10-28T00:14:48.112Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -1543,7 +1543,7 @@
     "source": "官報",
     "publishedAt": "2026-10-23",
     "createdAt": "2026-10-22T23:53:11.789Z",
-    "updatedAt": "2026-10-27T00:13:58.620Z"
+    "updatedAt": "2026-10-28T00:14:38.327Z"
   },
   {
     "id": "doc-kanpo-513c703aaab382de",
@@ -2064,6 +2064,16 @@
     "updatedAt": "2026-08-03T22:07:56.210Z"
   },
   {
+    "id": "doc-kanpo-7ab838d92e0a5bda",
+    "title": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律の施行期日を定める政令（三三四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261028/20261028h01817/20261028h018170003f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-28",
+    "createdAt": "2026-10-28T00:14:37.035Z"
+  },
+  {
     "id": "doc-kanpo-7b486b194eaffcee",
     "title": "地域公共交通の活性化及び再生に関する法律第十二条及び第十七条に規定する軌道運送高度化事業及び道路運送高度化事業を定める省令の一部を改正する省令（総務一一七）",
     "type": "kanpo",
@@ -2156,6 +2166,16 @@
     "source": "官報",
     "publishedAt": "2026-10-22",
     "createdAt": "2026-10-21T23:53:45.170Z"
+  },
+  {
+    "id": "doc-kanpo-898a7767671b376c",
+    "title": "健康保険法施行規則等の一部を改正する省令（厚生労働一五一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261028/20261028g00236/20261028g002360001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-28",
+    "createdAt": "2026-10-28T00:14:37.035Z"
   },
   {
     "id": "doc-kanpo-8e0c4b9471c91f00",
@@ -2514,7 +2534,7 @@
     "source": "官報",
     "publishedAt": "2026-10-21",
     "createdAt": "2026-10-20T23:37:10.748Z",
-    "updatedAt": "2026-10-27T00:13:59.644Z"
+    "updatedAt": "2026-10-28T00:14:39.191Z"
   },
   {
     "id": "doc-kanpo-ad87205849e7a20c",
@@ -2935,6 +2955,16 @@
     "source": "官報",
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T01:00:33.130Z"
+  },
+  {
+    "id": "doc-kanpo-cf22f9a9eb7ccc61",
+    "title": "経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律施行令の一部を改正する政令（三三六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261028/20261028h01817/20261028h018170004f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-28",
+    "createdAt": "2026-10-28T00:14:37.035Z"
   },
   {
     "id": "doc-kanpo-cfea8823afc33ef9",
@@ -3474,6 +3504,16 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-f49fde8069dbc699",
+    "title": "在外公館に勤務する外務公務員の在勤基本手当の額、在外住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令（三三三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261028/20261028h01817/20261028h018170002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-28",
+    "createdAt": "2026-10-28T00:14:37.035Z"
   },
   {
     "id": "doc-kanpo-f4dc3de1d0d9d6a2",
