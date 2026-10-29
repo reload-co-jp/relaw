@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-10-28T00:14:48.112Z"
+    "updatedAt": "2026-10-29T00:36:02.818Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -1543,7 +1543,7 @@
     "source": "官報",
     "publishedAt": "2026-10-23",
     "createdAt": "2026-10-22T23:53:11.789Z",
-    "updatedAt": "2026-10-28T00:14:38.327Z"
+    "updatedAt": "2026-10-29T00:35:53.860Z"
   },
   {
     "id": "doc-kanpo-513c703aaab382de",
@@ -2534,7 +2534,7 @@
     "source": "官報",
     "publishedAt": "2026-10-21",
     "createdAt": "2026-10-20T23:37:10.748Z",
-    "updatedAt": "2026-10-28T00:14:39.191Z"
+    "updatedAt": "2026-10-29T00:35:54.764Z"
   },
   {
     "id": "doc-kanpo-ad87205849e7a20c",
@@ -3099,6 +3099,16 @@
     "publishedAt": "2026-07-01",
     "createdAt": "2026-07-07T00:36:45.158Z",
     "updatedAt": "2026-07-09T22:26:19.503Z"
+  },
+  {
+    "id": "doc-kanpo-d64c18815be515e6",
+    "title": "電波法施行規則の一部を改正する省令（総務一二一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261029/20261029g00237/20261029g002370001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-29",
+    "createdAt": "2026-10-29T00:35:52.060Z"
   },
   {
     "id": "doc-kanpo-d7c08e990e6bea20",
@@ -3680,6 +3690,16 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z"
+  },
+  {
+    "id": "doc-kanpo-ff7014ccdea10dd2",
+    "title": "独立行政法人中小企業基盤整備機構の産業基盤整備業務を除く業務に係る業務運営、財務及び会計並びに人事管理に関する省令の一部を改正する省令（経済産業七七）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261029/20261029h01818/20261029h018180002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-29",
+    "createdAt": "2026-10-29T00:35:52.060Z"
   },
   {
     "id": "doc-kanpo-ffb6eb7805666aa4",
@@ -8798,6 +8818,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-10-23T23:46:10.604Z"
+  },
+  {
+    "id": "doc-sangiin-a7e1efe4687fe844",
+    "billId": "bill-222-shugiin-610b3412dfcc25ea",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t0902220012220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-10-29T00:37:27.479Z"
   },
   {
     "id": "doc-sangiin-a8320971bc20300b",

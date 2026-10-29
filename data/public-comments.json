@@ -1628,6 +1628,17 @@
     "updatedAt": "2026-10-01T00:24:02.569Z"
   },
   {
+    "id": "pc-155261212",
+    "title": "「空港運用業務指針」の一部改正案に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-10-29",
+    "endAt": "2026-11-27",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261212&Mode=0",
+    "createdAt": "2026-10-29T00:38:19.248Z",
+    "updatedAt": "2026-10-29T00:38:19.248Z"
+  },
+  {
     "id": "pc-155261221",
     "title": "「部品等脱落防止措置に関する技術基準細則」の一部改正に関する意見募集について",
     "status": "open",
@@ -2320,6 +2331,16 @@
     "updatedAt": "2026-07-30T22:06:53.946Z"
   },
   {
+    "id": "pc-198026202",
+    "title": "原子炉等規制法等における許認可制度等及び国内保障措置制度の見直しの概要案に対する意見募集について",
+    "status": "open",
+    "startAt": "2026-10-29",
+    "endAt": "2026-11-28",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=198026202&Mode=0",
+    "createdAt": "2026-10-29T00:38:19.248Z",
+    "updatedAt": "2026-10-29T00:38:19.248Z"
+  },
+  {
     "id": "pc-225026049",
     "title": "貸金業法施行規則の一部を改正する内閣府令（案）に対するパブリックコメントの実施について",
     "ministry": "金融庁",
@@ -2572,6 +2593,17 @@
     "updatedAt": "2026-10-22T23:55:39.274Z"
   },
   {
+    "id": "pc-240000133",
+    "title": "個人情報の保護に関する法律についてのガイドライン（通則編）の一部を改正する告示（案）等に関する意見募集について",
+    "ministry": "個人情報保護委員会",
+    "status": "open",
+    "startAt": "2026-10-29",
+    "endAt": "2026-11-27",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=240000133&Mode=0",
+    "createdAt": "2026-10-29T00:38:19.247Z",
+    "updatedAt": "2026-10-29T00:38:19.247Z"
+  },
+  {
     "id": "pc-290608071",
     "title": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に対する意見募集について",
     "ministry": "デジタル庁",
@@ -2702,6 +2734,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=315000146&Mode=0",
     "createdAt": "2026-09-29T00:51:52.201Z",
     "updatedAt": "2026-09-29T00:51:52.201Z"
+  },
+  {
+    "id": "pc-315000150",
+    "title": "出入国管理及び難民認定法施行規則の一部を改正する省令案に係る意見公募手続の実施について",
+    "ministry": "出入国在留管理庁",
+    "status": "open",
+    "startAt": "2026-10-29",
+    "endAt": "2026-11-28",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=315000150&Mode=0",
+    "createdAt": "2026-10-29T00:38:19.248Z",
+    "updatedAt": "2026-10-29T00:38:19.248Z"
   },
   {
     "id": "pc-395081961",
@@ -3694,6 +3737,16 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260232&Mode=0",
     "createdAt": "2026-10-21T23:56:12.880Z",
     "updatedAt": "2026-10-21T23:56:12.880Z"
+  },
+  {
+    "id": "pc-495260234",
+    "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則の一部を改正する省令案に関する御意見の募集について",
+    "status": "open",
+    "startAt": "2026-10-28",
+    "endAt": "2026-11-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260234&Mode=0",
+    "createdAt": "2026-10-29T00:38:19.248Z",
+    "updatedAt": "2026-10-29T00:38:19.248Z"
   },
   {
     "id": "pc-495260235",
@@ -4821,6 +4874,28 @@
     "relatedLawTitle": "特定輸入事業者の輸入に係る特定製品関係報告規則",
     "createdAt": "2026-10-27T00:16:34.231Z",
     "updatedAt": "2026-10-27T00:16:34.231Z"
+  },
+  {
+    "id": "pc-595320045",
+    "title": "「計量法施行令の一部を改正する政令案」に対する意見公募について",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-10-28",
+    "endAt": "2026-11-27",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320045&Mode=0",
+    "createdAt": "2026-10-29T00:38:19.248Z",
+    "updatedAt": "2026-10-29T00:38:19.248Z"
+  },
+  {
+    "id": "pc-595320047",
+    "title": "工業用水道事業法施行令の一部を改正する政令案に関するパブリックコメントの募集について",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-10-28",
+    "endAt": "2026-11-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320047&Mode=0",
+    "createdAt": "2026-10-29T00:38:19.248Z",
+    "updatedAt": "2026-10-29T00:38:19.248Z"
   },
   {
     "id": "pc-595320115",
