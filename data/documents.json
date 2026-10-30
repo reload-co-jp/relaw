@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-10-29T00:36:02.818Z"
+    "updatedAt": "2026-10-30T00:36:53.193Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -848,6 +848,16 @@
     "createdAt": "2026-07-31T22:03:58.764Z"
   },
   {
+    "id": "doc-kanpo-0fe1dd8b7d9c764a",
+    "title": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律施行規則（内閣府九二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380011f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
+  },
+  {
     "id": "doc-kanpo-1239a1e982744f1a",
     "title": "厚生労働省組織規則の一部を改正する省令（厚生労働一二二）",
     "type": "kanpo",
@@ -1138,6 +1148,17 @@
     "createdAt": "2026-10-15T23:32:31.764Z"
   },
   {
+    "id": "doc-kanpo-2b7a70f9ca1dadaf",
+    "title": "郵便法及び民間事業者による信書の送達に関する法律の一部を改正する法律の施行期日を定める政令（三四一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380009f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z",
+    "updatedAt": "2026-10-30T00:36:41.882Z"
+  },
+  {
     "id": "doc-kanpo-2c346eec8018fe4e",
     "title": "道路運送法施行規則及び国土交通省関係国家戦略特別区域法施行規則の一部を改正する省令（同七五）",
     "type": "kanpo",
@@ -1412,6 +1433,16 @@
     "createdAt": "2026-08-07T01:00:33.612Z"
   },
   {
+    "id": "doc-kanpo-483485ee613dac7a",
+    "title": "日本郵政株式会社法施行規則等の一部を改正する省令（同一二三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380045f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
+  },
+  {
     "id": "doc-kanpo-488743919a8c6bca",
     "title": "国の会計帳簿及び書類の様式等に関する省令等の一部を改正する省令（財務五九）",
     "type": "kanpo",
@@ -1543,7 +1574,7 @@
     "source": "官報",
     "publishedAt": "2026-10-23",
     "createdAt": "2026-10-22T23:53:11.789Z",
-    "updatedAt": "2026-10-29T00:35:53.860Z"
+    "updatedAt": "2026-10-30T00:36:43.972Z"
   },
   {
     "id": "doc-kanpo-513c703aaab382de",
@@ -1714,6 +1745,16 @@
     "source": "官報",
     "publishedAt": "2026-07-17",
     "createdAt": "2026-07-17T21:52:34.771Z"
+  },
+  {
+    "id": "doc-kanpo-5cc815d8cc57e6d9",
+    "title": "研修員手当の号の適用に関する規則の一部を改正する省令（外務二四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380064f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
   },
   {
     "id": "doc-kanpo-5cdb7de439acda4a",
@@ -2178,6 +2219,16 @@
     "createdAt": "2026-10-28T00:14:37.035Z"
   },
   {
+    "id": "doc-kanpo-89b5d05901d276e7",
+    "title": "郵便法施行規則等の一部を改正する省令（同一二四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380050f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
+  },
+  {
     "id": "doc-kanpo-8e0c4b9471c91f00",
     "title": "種苗法の一部を改正する法律（七二）",
     "type": "kanpo",
@@ -2454,6 +2505,16 @@
     "createdAt": "2026-09-16T23:32:22.551Z"
   },
   {
+    "id": "doc-kanpo-a839d5ea99d1e01b",
+    "title": "ニッケル系ステンレス冷延鋼帯及び冷延鋼板に対して課する暫定的な不当廉売関税に関する政令第一条第二項に規定する特定国等において熱延鋼帯について冷間圧延をする工程を経て製造されていない旨の証明書の発給に関する省令の一部を改正する省令（経済産業七八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380067f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
+  },
+  {
     "id": "doc-kanpo-a8628ee82c45cf67",
     "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則の一部を改正する省令（厚生労働一三三）",
     "type": "kanpo",
@@ -2483,6 +2544,16 @@
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
     "updatedAt": "2026-08-16T21:17:35.614Z"
+  },
+  {
+    "id": "doc-kanpo-a9cc2abd0d248756",
+    "title": "政治資金規正法施行令及び政党助成法施行令の一部を改正する政令（三三八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380007f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
   },
   {
     "id": "doc-kanpo-a9fe29a8bc65c5c6",
@@ -2619,6 +2690,16 @@
     "createdAt": "2026-07-23T22:03:02.348Z"
   },
   {
+    "id": "doc-kanpo-b34286a4807c282e",
+    "title": "総務省組織令の一部を改正する政令（三三九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380008f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
+  },
+  {
     "id": "doc-kanpo-b34a75bb744714aa",
     "title": "建築物のエネルギー消費性能の向上等に関する法律の一部を改正する法律（七五）",
     "type": "kanpo",
@@ -2627,6 +2708,16 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-b5347c0351cdf802",
+    "title": "建築基準法施行規則の一部を改正する省令（国土交通八五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380069f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
   },
   {
     "id": "doc-kanpo-b67916ba21453256",
@@ -2752,6 +2843,26 @@
     "createdAt": "2026-09-30T00:03:53.554Z"
   },
   {
+    "id": "doc-kanpo-bd7fdbda49853d79",
+    "title": "ニッケル系ステンレス冷延鋼帯及び冷延鋼板に対して課する暫定的な不当廉売関税に関する政令第一条第二項に規定する特定国等において熱延鋼帯について冷間圧延をする工程を経て製造されていない旨の証明書の提出に関する省令の一部を改正する省令（財務六四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380066f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
+  },
+  {
+    "id": "doc-kanpo-be2737bc9b5efbd9",
+    "title": "商業登記規則等の一部を改正する省令（法務五一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380055f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
+  },
+  {
     "id": "doc-kanpo-be30c4d3d93202c9",
     "title": "電気通信事業法施行規則等の一部を改正する省令（総務一〇七）",
     "type": "kanpo",
@@ -2861,6 +2972,16 @@
     "source": "官報",
     "publishedAt": "2026-07-01",
     "createdAt": "2026-07-07T00:36:45.158Z"
+  },
+  {
+    "id": "doc-kanpo-c72ab8b4279090e0",
+    "title": "日本国憲法の改正手続に関する法律施行令の一部を改正する政令（三三七）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380004f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
   },
   {
     "id": "doc-kanpo-c7ac647f2aca29f4",
@@ -3143,6 +3264,26 @@
     "createdAt": "2026-09-30T00:03:53.554Z"
   },
   {
+    "id": "doc-kanpo-d930b0a2a07e830f",
+    "title": "政治資金規正法施行規則及び政党助成法施行規則の一部を改正する省令（同一二五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380053f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
+  },
+  {
+    "id": "doc-kanpo-da6467fc7270fd22",
+    "title": "日本国憲法の改正手続に関する法律施行規則の一部を改正する省令（総務一二二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380025f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
+  },
+  {
     "id": "doc-kanpo-daa8259fdf92d7c0",
     "title": "危険物の規制に関する規則の一部を改正する省令（総務八三）",
     "type": "kanpo",
@@ -3349,6 +3490,16 @@
     "source": "官報",
     "publishedAt": "2026-09-30",
     "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
+    "id": "doc-kanpo-e8069eab1e0dee17",
+    "title": "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第十八条に規定する承認地域経済牽引事業に関する省令及び地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第三十三条に規定する承認連携支援事業に関する省令の一部を改正する省令（総務・財務・厚生労働・農林水産・経済産業・国土交通・環境二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261030/20261030g00238/20261030g002380054f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-10-30T00:36:41.882Z"
   },
   {
     "id": "doc-kanpo-e8b2bcc70eb31a69",
@@ -3796,6 +3947,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-05-22",
     "createdAt": "2026-07-07T00:38:02.557Z"
+  },
+  {
+    "id": "doc-kokkai-08fd2b37bc71091d",
+    "billId": "bill-221-shugiin-d0efe5e1e3022a7e",
+    "title": "第222回国会 衆議院 経済産業委員会 第1号 (2026-10-21)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204080X00120261021",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-10-30T00:38:33.043Z"
   },
   {
     "id": "doc-kokkai-0c5ae9a0be5e4955",
@@ -4931,6 +5093,28 @@
     "createdAt": "2026-08-24T21:29:11.392Z"
   },
   {
+    "id": "doc-kokkai-97c80b3c4a2b97ad",
+    "billId": "bill-221-shugiin-c591f224038dc04b",
+    "title": "第222回国会 衆議院 経済産業委員会 第1号 (2026-10-21)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204080X00120261021",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-10-30T00:38:32.237Z"
+  },
+  {
+    "id": "doc-kokkai-99c687905413cb75",
+    "billId": "bill-221-shugiin-d1825e726f9145ea",
+    "title": "第222回国会 衆議院 厚生労働委員会 第1号 (2026-10-21)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204260X00120261021",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-10-30T00:38:34.363Z"
+  },
+  {
     "id": "doc-kokkai-9c8a7f3edadf66ca",
     "billId": "bill-221-shugiin-b09d45b89c9c7fd2",
     "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
@@ -5336,6 +5520,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-10-06T01:42:10.567Z"
+  },
+  {
+    "id": "doc-kokkai-d6d9da90c0f1f076",
+    "billId": "bill-221-sangiin-ed662caa2334a5ae",
+    "title": "第222回国会 衆議院 経済産業委員会 第1号 (2026-10-21)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204080X00120261021",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-10-30T00:38:21.433Z"
   },
   {
     "id": "doc-kokkai-daec0870601358dd",

@@ -953,6 +953,17 @@
     "updatedAt": "2026-10-20T00:09:23.144Z"
   },
   {
+    "id": "pc-145210787",
+    "title": "ブロードバンドに関するユニバーサルサービス制度に基づく交付金の額及び交付方法の認可並びに負担金の額及び徴収方法の認可に対する意見募集",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-10-30",
+    "endAt": "2026-11-30",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210787&Mode=0",
+    "createdAt": "2026-10-30T00:39:00.277Z",
+    "updatedAt": "2026-10-30T00:39:00.277Z"
+  },
+  {
     "id": "pc-145210788",
     "title": "「MVNOに係る電気通信事業法及び電波法の適用関係に関するガイドライン」改定案に対する意見募集",
     "ministry": "総務省",
@@ -1912,6 +1923,19 @@
     "updatedAt": "2026-10-23T23:47:04.105Z"
   },
   {
+    "id": "pc-185001514",
+    "title": "ヒトゲノム編集胚等の取扱いの規制に関する法律等の制定に伴う関係指針の一部改正等に関するパブリック・コメント（意見公募手続）の実施について",
+    "ministry": "文部科学省",
+    "status": "open",
+    "startAt": "2026-10-30",
+    "endAt": "2026-11-30",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=185001514&Mode=0",
+    "lawId": "law-508AC0000000070",
+    "relatedLawTitle": "ヒトゲノム編集胚等の取扱いの規制に関する法律",
+    "createdAt": "2026-10-30T00:39:00.277Z",
+    "updatedAt": "2026-10-30T00:39:00.277Z"
+  },
+  {
     "id": "pc-195260024",
     "title": "令和８年度国指定鳥獣保護区の変更等に関する意見の募集（パブリック・コメント）について",
     "ministry": "環境省",
@@ -2276,6 +2300,17 @@
     "updatedAt": "2026-10-27T00:16:34.230Z"
   },
   {
+    "id": "pc-195260074",
+    "title": "「廃棄物の処理及び清掃に関する法律施行令の一部を改正する政令案」に対する御意見の募集（パブリック・コメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-10-29",
+    "endAt": "2026-11-29",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260074&Mode=0",
+    "createdAt": "2026-10-30T00:39:00.277Z",
+    "updatedAt": "2026-10-30T00:39:00.277Z"
+  },
+  {
     "id": "pc-198026102",
     "title": "運転責任者に係る基準等に関する規程の改正案に対する意見公募について",
     "ministry": "原子力規制庁",
@@ -2626,6 +2661,18 @@
     "updatedAt": "2026-07-24T22:06:14.526Z"
   },
   {
+    "id": "pc-300090077",
+    "title": "「情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令案」について（意見募集）",
+    "ministry": "法務省",
+    "status": "open",
+    "startAt": "2026-10-29",
+    "endAt": "2026-11-27",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=300090077&Mode=0",
+    "billId": "bill-219-shugiin-7d0cda2f0fd926d0",
+    "createdAt": "2026-10-30T00:39:00.277Z",
+    "updatedAt": "2026-10-30T00:39:00.277Z"
+  },
+  {
     "id": "pc-300110056",
     "title": "「保護司及び保護司会連合会に関する規則の一部を改正する省令案」に関する意見募集について",
     "ministry": "法務省",
@@ -2845,6 +2892,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=410080066&Mode=0",
     "createdAt": "2026-10-21T23:56:12.880Z",
     "updatedAt": "2026-10-21T23:56:12.880Z"
+  },
+  {
+    "id": "pc-410080068",
+    "title": "「酒類の地理的表示としてジャパニーズウイスキー（蒸留酒）を指定する件(案）」に対する意見募集について",
+    "ministry": "国税庁",
+    "status": "open",
+    "startAt": "2026-10-30",
+    "endAt": "2026-11-30",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=410080068&Mode=0",
+    "createdAt": "2026-10-30T00:39:00.277Z",
+    "updatedAt": "2026-10-30T00:39:00.277Z"
+  },
+  {
+    "id": "pc-410080069",
+    "title": "「法人税基本通達の制定について」（法令解釈通達）ほか１件の一部改正（案）に対する意見公募手続の実施について",
+    "ministry": "国税庁",
+    "status": "open",
+    "startAt": "2026-10-30",
+    "endAt": "2026-11-28",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=410080069&Mode=0",
+    "createdAt": "2026-10-30T00:39:00.276Z",
+    "updatedAt": "2026-10-30T00:39:00.276Z"
   },
   {
     "id": "pc-495260102",
@@ -3616,6 +3685,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260218&Mode=0",
     "createdAt": "2026-10-14T00:10:56.823Z",
     "updatedAt": "2026-10-14T00:10:56.823Z"
+  },
+  {
+    "id": "pc-495260219",
+    "title": "医薬部外品原料規格2021を改正する件（案）に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-10-30",
+    "endAt": "2026-11-29",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260219&Mode=0",
+    "createdAt": "2026-10-30T00:39:00.277Z",
+    "updatedAt": "2026-10-30T00:39:00.277Z"
   },
   {
     "id": "pc-495260220",
@@ -5098,6 +5178,17 @@
     "updatedAt": "2026-10-23T23:47:04.105Z"
   },
   {
+    "id": "pc-620340016",
+    "title": "液化石油ガスの保安の確保及び取引の適正化に関する法律施行規則（平成９年通商産業省令第１１号）の運用及び解釈の基準について（案）等に対する意見公募",
+    "ministry": "資源エネルギー庁",
+    "status": "open",
+    "startAt": "2026-10-29",
+    "endAt": "2026-11-27",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340016&Mode=0",
+    "createdAt": "2026-10-30T00:39:00.277Z",
+    "updatedAt": "2026-10-30T00:39:00.277Z"
+  },
+  {
     "id": "pc-630300000",
     "title": "「審判便覧」改定案に対する意見募集の実施について",
     "ministry": "特許庁",
@@ -5173,6 +5264,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=670000138&Mode=0",
     "createdAt": "2026-10-16T23:17:02.029Z",
     "updatedAt": "2026-10-16T23:17:02.029Z"
+  },
+  {
+    "id": "pc-670000139",
+    "title": "港則法施行規則の危険物の種類を定める告示の一部を改正する告示案に関するパブリックコメントの募集について",
+    "ministry": "海上保安庁",
+    "status": "open",
+    "startAt": "2026-10-29",
+    "endAt": "2026-11-28",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=670000139&Mode=0",
+    "createdAt": "2026-10-30T00:39:00.277Z",
+    "updatedAt": "2026-10-30T00:39:00.277Z"
   },
   {
     "id": "pc-860202605",
