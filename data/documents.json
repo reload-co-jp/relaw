@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-10-30T00:36:53.193Z"
+    "updatedAt": "2026-10-31T00:22:25.720Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -1156,7 +1156,7 @@
     "source": "官報",
     "publishedAt": "2026-10-30",
     "createdAt": "2026-10-30T00:36:41.882Z",
-    "updatedAt": "2026-10-30T00:36:41.882Z"
+    "updatedAt": "2026-10-31T00:22:14.111Z"
   },
   {
     "id": "doc-kanpo-2c346eec8018fe4e",
@@ -1574,7 +1574,7 @@
     "source": "官報",
     "publishedAt": "2026-10-23",
     "createdAt": "2026-10-22T23:53:11.789Z",
-    "updatedAt": "2026-10-30T00:36:43.972Z"
+    "updatedAt": "2026-10-31T00:22:16.458Z"
   },
   {
     "id": "doc-kanpo-513c703aaab382de",
@@ -3883,6 +3883,17 @@
     "createdAt": "2026-10-20T23:37:10.748Z"
   },
   {
+    "id": "doc-kokkai-0126351894d55092",
+    "billId": "bill-222-sangiin-7ce93c6bd8bc5825",
+    "title": "第222回国会 参議院 法務委員会 第1号 (2026-10-22)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122215206X00120261022",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-22",
+    "createdAt": "2026-10-31T00:24:30.213Z"
+  },
+  {
     "id": "doc-kokkai-0240f4e135c823a7",
     "billId": "bill-221-shugiin-9837f6f89f23038a",
     "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
@@ -3936,6 +3947,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-18",
     "createdAt": "2026-07-07T00:38:39.501Z"
+  },
+  {
+    "id": "doc-kokkai-06dff86789c66e0f",
+    "billId": "bill-222-sangiin-b5349b1f70e00feb",
+    "title": "第222回国会 参議院 法務委員会 第1号 (2026-10-22)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122215206X00120261022",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-22",
+    "createdAt": "2026-10-31T00:24:33.892Z"
   },
   {
     "id": "doc-kokkai-0771b245e0bc1c21",
@@ -4002,6 +4024,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-10-22",
     "createdAt": "2026-10-27T00:15:59.888Z"
+  },
+  {
+    "id": "doc-kokkai-108382112ad8f2d7",
+    "billId": "bill-222-sangiin-8804df8bf3434c4b",
+    "title": "第222回国会 衆議院 議院運営委員会 第5号 (2026-10-27)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00520261027",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-27",
+    "createdAt": "2026-10-31T00:24:31.039Z"
   },
   {
     "id": "doc-kokkai-10a6b4eeeeefb9fc",
@@ -4719,6 +4752,17 @@
     "createdAt": "2026-07-07T00:38:02.557Z"
   },
   {
+    "id": "doc-kokkai-5daf8e9426bfde41",
+    "billId": "bill-222-sangiin-7ce93c6bd8bc5825",
+    "title": "第222回国会 衆議院 法務委員会 第1号 (2026-10-21)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122205206X00120261021",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-10-31T00:24:30.213Z"
+  },
+  {
     "id": "doc-kokkai-5f6b0492c4fd48b0",
     "billId": "bill-221-shugiin-277efad5ec7df88c",
     "title": "第221回国会 衆議院 議院運営委員会 第32号 (2026-06-26)",
@@ -5302,6 +5346,17 @@
     "createdAt": "2026-07-07T00:38:01.714Z"
   },
   {
+    "id": "doc-kokkai-b59b6557642b1650",
+    "billId": "bill-222-sangiin-b5349b1f70e00feb",
+    "title": "第222回国会 衆議院 法務委員会 第1号 (2026-10-21)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122205206X00120261021",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-10-31T00:24:33.892Z"
+  },
+  {
     "id": "doc-kokkai-b59d6a2e2c65a639",
     "billId": "bill-221-shugiin-f8a7a40301921654",
     "title": "第221回国会 衆議院 農林水産委員会 第11号 (2026-05-26)",
@@ -5443,6 +5498,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-03",
     "createdAt": "2026-07-07T00:39:11.823Z"
+  },
+  {
+    "id": "doc-kokkai-cb29f533a325658e",
+    "billId": "bill-221-shugiin-dd01c57f8d20200e",
+    "title": "第222回国会 衆議院 法務委員会 第1号 (2026-10-21)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122205206X00120261021",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-10-31T00:24:18.755Z"
   },
   {
     "id": "doc-kokkai-cd78b42af4dd61e6",
