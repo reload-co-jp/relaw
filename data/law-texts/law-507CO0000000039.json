@@ -1,8 +1,8 @@
 {
   "id": "text-law-507CO0000000039",
   "lawId": "law-507CO0000000039",
-  "revisionId": "507CO0000000039_20260701_508CO0000000205",
-  "fetchedAt": "2026-07-07T22:10:20.189Z",
+  "revisionId": "507CO0000000039_20261102_508CO0000000305",
+  "fetchedAt": "2026-11-02T00:14:42.506Z",
   "blocks": [
     {
       "type": "paragraph",
@@ -149,112 +149,117 @@
     {
       "type": "item",
       "level": 1,
-      "text": "八　総務省"
+      "text": "八　防災庁"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "九　法務省"
+      "text": "九　総務省"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "十　外務省"
+      "text": "十　法務省"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "十一　財務省"
+      "text": "十一　外務省"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "十二　国税庁"
+      "text": "十二　財務省"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "十三　文部科学省"
+      "text": "十三　国税庁"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "十四　厚生労働省"
+      "text": "十四　文部科学省"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "十五　検疫所"
+      "text": "十五　厚生労働省"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "十六　農林水産省"
+      "text": "十六　検疫所"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "十七　植物防疫所"
+      "text": "十七　農林水産省"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "十八　那覇植物防疫事務所"
+      "text": "十八　植物防疫所"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "十九　動物検疫所"
+      "text": "十九　那覇植物防疫事務所"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "二十　動物医薬品検査所"
+      "text": "二十　動物検疫所"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "二十一　経済産業省"
+      "text": "二十一　動物医薬品検査所"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "二十二　資源エネルギー庁"
+      "text": "二十二　経済産業省"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "二十三　中小企業庁"
+      "text": "二十三　資源エネルギー庁"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "二十四　国土交通省"
+      "text": "二十四　中小企業庁"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "二十五　気象庁"
+      "text": "二十五　国土交通省"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "二十六　海上保安庁"
+      "text": "二十六　気象庁"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "二十七　環境省"
+      "text": "二十七　海上保安庁"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "二十八　防衛省"
+      "text": "二十八　環境省"
     },
     {
       "type": "item",
       "level": 1,
-      "text": "二十九　防衛装備庁"
+      "text": "二十九　防衛省"
+    },
+    {
+      "type": "item",
+      "level": 1,
+      "text": "三十　防衛装備庁"
     },
     {
       "type": "caption",
@@ -396,6 +401,19 @@
     {
       "type": "paragraph",
       "text": "この政令は、令和八年七月一日から施行する。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "附　則（令和八年九月三〇日政令第三〇五号）"
+    },
+    {
+      "type": "caption",
+      "text": "（施行期日）"
+    },
+    {
+      "type": "paragraph",
+      "text": "第一条　この政令は、防災庁設置法の施行の日（令和八年十一月二日）から施行する。"
     }
   ]
 }

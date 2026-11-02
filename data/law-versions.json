@@ -1044,6 +1044,18 @@
     "createdAt": "2026-07-07T00:35:39.815Z"
   },
   {
+    "id": "version-507CO0000000026_20261102_508CO0000000305",
+    "lawId": "law-507CO0000000026",
+    "versionLabel": "令和八年政令第三百五号による改正",
+    "amendmentLawNumber": "令和八年政令第三百五号",
+    "amendmentLawTitle": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+    "promulgatedAt": "2026-09-30",
+    "enforcedAt": "2026-11-02",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/507CO0000000026",
+    "createdAt": "2026-11-02T00:14:41.485Z"
+  },
+  {
     "id": "version-507CO0000000036_20250221_000000000000000",
     "lawId": "law-507CO0000000036",
     "versionLabel": "制定時",
@@ -1078,6 +1090,18 @@
     "current": true,
     "sourceUrl": "https://laws.e-gov.go.jp/law/507CO0000000039",
     "createdAt": "2026-07-07T22:10:19.728Z"
+  },
+  {
+    "id": "version-507CO0000000039_20261102_508CO0000000305",
+    "lawId": "law-507CO0000000039",
+    "versionLabel": "令和八年政令第三百五号による改正",
+    "amendmentLawNumber": "令和八年政令第三百五号",
+    "amendmentLawTitle": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+    "promulgatedAt": "2026-09-30",
+    "enforcedAt": "2026-11-02",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/507CO0000000039",
+    "createdAt": "2026-11-02T00:14:41.485Z"
   },
   {
     "id": "version-507CO0000000047_20250312_000000000000000",
@@ -2578,6 +2602,18 @@
     "current": true,
     "sourceUrl": "https://laws.e-gov.go.jp/law/508AC0000000061",
     "createdAt": "2026-07-17T21:52:24.257Z"
+  },
+  {
+    "id": "version-508AC0000000061_20261102_000000000000000",
+    "lawId": "law-508AC0000000061",
+    "versionLabel": "制定時",
+    "amendmentLawNumber": null,
+    "amendmentLawTitle": null,
+    "promulgatedAt": "2026-07-17",
+    "enforcedAt": "2026-11-02",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508AC0000000061",
+    "createdAt": "2026-11-02T00:14:41.488Z"
   },
   {
     "id": "version-508AC0000000070_20260724_000000000000000",
