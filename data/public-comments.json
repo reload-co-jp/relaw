@@ -1115,6 +1115,17 @@
     "updatedAt": "2026-09-18T23:03:42.934Z"
   },
   {
+    "id": "pc-155260278",
+    "title": "「建築ライフサイクルDX戦略（案）」の策定に向けた意見募集",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-11-04",
+    "endAt": "2026-11-18",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260278&Mode=0",
+    "createdAt": "2026-11-04T01:04:29.303Z",
+    "updatedAt": "2026-11-04T01:04:29.303Z"
+  },
+  {
     "id": "pc-155260309",
     "title": "「建設業者の不正行為等に対する監督処分の基準について」の一部改正案に関する意見募集について",
     "ministry": "国土交通省",
@@ -2422,6 +2433,28 @@
     "updatedAt": "2026-10-30T00:39:00.277Z"
   },
   {
+    "id": "pc-195260076",
+    "title": "環境物品等の調達の推進に関する基本方針（改定案）に対する意見募集（パブリック・コメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-11-04",
+    "endAt": "2026-12-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260076&Mode=0",
+    "createdAt": "2026-11-04T01:04:29.303Z",
+    "updatedAt": "2026-11-04T01:04:29.303Z"
+  },
+  {
+    "id": "pc-195260077",
+    "title": "「廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令案」に対する御意見の募集（パブリック・コメント）について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-11-04",
+    "endAt": "2026-12-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260077&Mode=0",
+    "createdAt": "2026-11-04T01:04:29.303Z",
+    "updatedAt": "2026-11-04T01:04:29.303Z"
+  },
+  {
     "id": "pc-198026102",
     "title": "運転責任者に係る基準等に関する規程の改正案に対する意見公募について",
     "ministry": "原子力規制庁",
@@ -2925,6 +2958,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=395081962&Mode=0",
     "createdAt": "2026-08-29T03:07:18.760Z",
     "updatedAt": "2026-08-29T03:07:18.760Z"
+  },
+  {
+    "id": "pc-395085002",
+    "title": "国家公務員等の旅費支給規程の一部を改正する省令案に対する意見募集について",
+    "ministry": "財務省",
+    "status": "open",
+    "startAt": "2026-11-04",
+    "endAt": "2026-12-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=395085002&Mode=0",
+    "createdAt": "2026-11-04T01:04:29.303Z",
+    "updatedAt": "2026-11-04T01:04:29.303Z"
   },
   {
     "id": "pc-395122514",
@@ -4653,6 +4697,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004440&Mode=0",
     "createdAt": "2026-10-31T00:24:44.865Z",
     "updatedAt": "2026-10-31T00:24:44.865Z"
+  },
+  {
+    "id": "pc-550004441",
+    "title": "「肥料に係る安定供給確保を図るための取組方針の一部改正（案）」についての意見及び情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-11-04",
+    "endAt": "2026-12-03",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004441&Mode=0",
+    "createdAt": "2026-11-04T01:04:29.302Z",
+    "updatedAt": "2026-11-04T01:04:29.302Z"
   },
   {
     "id": "pc-595126108",
