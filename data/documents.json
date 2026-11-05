@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-04T01:02:07.542Z"
+    "updatedAt": "2026-11-05T01:17:10.699Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -1176,7 +1176,7 @@
     "source": "官報",
     "publishedAt": "2026-10-30",
     "createdAt": "2026-10-30T00:36:41.882Z",
-    "updatedAt": "2026-11-04T01:01:57.825Z"
+    "updatedAt": "2026-11-05T01:17:01.486Z"
   },
   {
     "id": "doc-kanpo-2c346eec8018fe4e",
@@ -1277,7 +1277,7 @@
     "source": "官報",
     "publishedAt": "2026-11-02",
     "createdAt": "2026-11-02T00:14:44.787Z",
-    "updatedAt": "2026-11-04T01:01:57.346Z"
+    "updatedAt": "2026-11-05T01:17:01.076Z"
   },
   {
     "id": "doc-kanpo-35ce1b9da40ea3a9",
@@ -1879,7 +1879,7 @@
     "source": "官報",
     "publishedAt": "2026-11-02",
     "createdAt": "2026-11-02T00:14:44.788Z",
-    "updatedAt": "2026-11-04T01:01:57.347Z"
+    "updatedAt": "2026-11-05T01:17:01.076Z"
   },
   {
     "id": "doc-kanpo-6622adf8217f1b23",
@@ -2386,6 +2386,17 @@
     "createdAt": "2026-08-05T22:11:31.054Z"
   },
   {
+    "id": "doc-kanpo-999d4f32bd3a8d5e",
+    "title": "消費生活協同組合法施行規則の一部を改正する省令（厚生労働一五二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261105/20261105h01822/20261105h018220002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-05",
+    "createdAt": "2026-11-05T01:17:00.258Z",
+    "updatedAt": "2026-11-05T01:17:00.259Z"
+  },
+  {
     "id": "doc-kanpo-99b163a59ed09c45",
     "title": "再生可能エネルギー電気の利用の促進に関する特別措置法施行規則の一部を改正する省令（同七三）",
     "type": "kanpo",
@@ -2394,6 +2405,16 @@
     "source": "官報",
     "publishedAt": "2026-09-30",
     "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
+    "id": "doc-kanpo-9a2ca77d1191c9b3",
+    "title": "試験研究の用に供する原子炉等の設置、運転等に関する規則等の一部を改正する規則（原子力規制委八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261105/20261105g00242/20261105g002420001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-05",
+    "createdAt": "2026-11-05T01:17:00.259Z"
   },
   {
     "id": "doc-kanpo-9a335997d1864183",
@@ -4397,6 +4418,17 @@
     "createdAt": "2026-07-07T00:38:34.794Z"
   },
   {
+    "id": "doc-kokkai-2fe37c5d9d010f9b",
+    "billId": "bill-222-sangiin-64a8c3623ed37938",
+    "title": "第222回国会 衆議院 議院運営委員会 第6号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00620261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-05T01:19:00.991Z"
+  },
+  {
     "id": "doc-kokkai-30d4eb793b7269c5",
     "billId": "bill-221-shugiin-bcf1f1dc9f4a1fa1",
     "title": "第221回国会 衆議院 政治改革に関する特別委員会 第7号 (2026-06-23)",
@@ -4428,6 +4460,28 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-16",
     "createdAt": "2026-07-10T22:03:09.267Z"
+  },
+  {
+    "id": "doc-kokkai-322b624621e49af4",
+    "billId": "bill-222-cas-57f16337980bafee",
+    "title": "第222回国会 衆議院 議院運営委員会 第6号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00620261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-05T01:18:54.425Z"
+  },
+  {
+    "id": "doc-kokkai-327e32b25e678400",
+    "billId": "bill-222-sangiin-4ace47251fe8ed9e",
+    "title": "第222回国会 衆議院 議院運営委員会 第6号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00620261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-05T01:18:58.701Z"
   },
   {
     "id": "doc-kokkai-332a1ef6b8f1e2c3",
@@ -4496,6 +4550,17 @@
     "createdAt": "2026-10-27T00:15:59.051Z"
   },
   {
+    "id": "doc-kokkai-3bf656bcfbbed068",
+    "billId": "bill-222-sangiin-7ce93c6bd8bc5825",
+    "title": "第222回国会 衆議院 議院運営委員会 第6号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00620261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-05T01:19:01.990Z"
+  },
+  {
     "id": "doc-kokkai-3ca21d522a5c177d",
     "billId": "bill-221-shugiin-5c47cfc1e5147636",
     "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
@@ -4505,6 +4570,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-07-30T22:06:36.586Z"
+  },
+  {
+    "id": "doc-kokkai-3e28fdc95bca6b77",
+    "billId": "bill-222-sangiin-8804df8bf3434c4b",
+    "title": "第222回国会 参議院 内閣委員会 第1号 (2026-10-22)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122214889X00120261022",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-22",
+    "createdAt": "2026-11-05T01:19:02.768Z"
   },
   {
     "id": "doc-kokkai-3ecf50c2c12507f4",
@@ -4626,6 +4702,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-10-05",
     "createdAt": "2026-10-14T23:43:06.033Z"
+  },
+  {
+    "id": "doc-kokkai-47a69a5b0ac3e5f5",
+    "billId": "bill-222-sangiin-8804df8bf3434c4b",
+    "title": "第222回国会 衆議院 議院運営委員会 第6号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00620261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-05T01:19:02.768Z"
   },
   {
     "id": "doc-kokkai-4ac92255b31d0b1f",
@@ -5123,6 +5210,17 @@
     "createdAt": "2026-07-07T22:14:25.617Z"
   },
   {
+    "id": "doc-kokkai-8d539b6dd915c5b5",
+    "billId": "bill-222-cas-78140543f49075cc",
+    "title": "第222回国会 衆議院 議院運営委員会 第6号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00620261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-05T01:18:55.248Z"
+  },
+  {
     "id": "doc-kokkai-8ea9e61b307a75e7",
     "billId": "bill-221-cas-dfc6ce6332f6bfec",
     "title": "第221回国会 衆議院 災害対策特別委員会 第9号 (2026-05-14)",
@@ -5332,6 +5430,17 @@
     "createdAt": "2026-10-06T01:42:08.635Z"
   },
   {
+    "id": "doc-kokkai-ac01e538471ddeb6",
+    "billId": "bill-222-sangiin-90629d88a370196e",
+    "title": "第222回国会 衆議院 議院運営委員会 第6号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00620261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-05T01:19:03.815Z"
+  },
+  {
     "id": "doc-kokkai-ac885ed2d8dff70e",
     "billId": "bill-221-shugiin-5371ce93cd499661",
     "title": "第221回国会 衆議院 議院運営委員会 第24号 (2026-05-26)",
@@ -5451,6 +5560,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-07-30T22:06:33.216Z"
+  },
+  {
+    "id": "doc-kokkai-bd862cdac22cb284",
+    "billId": "bill-222-sangiin-b5349b1f70e00feb",
+    "title": "第222回国会 衆議院 議院運営委員会 第6号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00620261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-05T01:19:05.510Z"
   },
   {
     "id": "doc-kokkai-be1c87480a728ee5",
@@ -5574,6 +5694,17 @@
     "createdAt": "2026-10-06T01:42:08.634Z"
   },
   {
+    "id": "doc-kokkai-ce4d8362c44f2d21",
+    "billId": "bill-222-cas-d81b73f30ca09207",
+    "title": "第222回国会 衆議院 議院運営委員会 第6号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00620261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-05T01:18:56.038Z"
+  },
+  {
     "id": "doc-kokkai-cf5c3a92f639d87d",
     "billId": "bill-221-shugiin-94ca35289fa8a2ac",
     "title": "第221回国会 衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 第6号 (2026-05-12)",
@@ -5662,6 +5793,17 @@
     "createdAt": "2026-07-07T00:38:34.794Z"
   },
   {
+    "id": "doc-kokkai-deb8d7cb731106e0",
+    "billId": "bill-222-sangiin-dc1da4a58422661c",
+    "title": "第222回国会 衆議院 議院運営委員会 第6号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00620261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-05T01:19:08.045Z"
+  },
+  {
     "id": "doc-kokkai-e2a67a5f8988ba52",
     "billId": "bill-221-shugiin-f8a7a40301921654",
     "title": "第221回国会 衆議院 議院運営委員会 第20号 (2026-04-28)",
@@ -5671,6 +5813,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-04-28",
     "createdAt": "2026-07-07T00:39:11.823Z"
+  },
+  {
+    "id": "doc-kokkai-e4338b62492ea849",
+    "billId": "bill-222-sangiin-c3b0904c7081e412",
+    "title": "第222回国会 衆議院 議院運営委員会 第6号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00620261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-05T01:19:06.452Z"
   },
   {
     "id": "doc-kokkai-e5547ade29b2b49d",

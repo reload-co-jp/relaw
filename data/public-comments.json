@@ -1450,6 +1450,17 @@
     "updatedAt": "2026-11-02T00:16:54.225Z"
   },
   {
+    "id": "pc-155260728",
+    "title": "「建築ライフサイクルDX戦略（案）」の策定に向けた意見募集",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-11-04",
+    "endAt": "2026-11-18",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155260728&Mode=0",
+    "createdAt": "2026-11-05T01:19:15.691Z",
+    "updatedAt": "2026-11-05T01:19:15.691Z"
+  },
+  {
     "id": "pc-155260729",
     "title": "畜舎等の建築等及び利用の特例に関する法律施行規則の一部を改正する省令案に関する意見募集について",
     "ministry": "国土交通省",
@@ -1738,6 +1749,16 @@
     "updatedAt": "2026-11-03T02:47:44.817Z"
   },
   {
+    "id": "pc-155261035",
+    "title": "「次世代船舶の開発」プロジェクトに関する研究開発・社会実装計画（改定案）",
+    "status": "open",
+    "startAt": "2026-11-05",
+    "endAt": "2026-12-05",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261035&Mode=0",
+    "createdAt": "2026-11-05T01:19:15.691Z",
+    "updatedAt": "2026-11-05T01:19:15.691Z"
+  },
+  {
     "id": "pc-155261105",
     "title": "「国土交通省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者等に関する省令の一部を改正する省令案」に関する意見募集について",
     "ministry": "国土交通省",
@@ -1924,6 +1945,17 @@
     "relatedLawTitle": "予備自衛官等の職務の円滑な遂行を図るための国家公務員及び地方公務員の兼業の特例に関する法律",
     "createdAt": "2026-08-07T01:03:39.483Z",
     "updatedAt": "2026-08-07T01:03:39.483Z"
+  },
+  {
+    "id": "pc-170000251",
+    "title": "自衛隊法施行規則の一\n部を改正する省令案及\nび若年定年制自衛官等\nであった者の就職の援\n助について（案）に関す\nる意見の募集について",
+    "ministry": "防衛省",
+    "status": "open",
+    "startAt": "2026-11-05",
+    "endAt": "2026-12-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=170000251&Mode=0",
+    "createdAt": "2026-11-05T01:19:15.691Z",
+    "updatedAt": "2026-11-05T01:19:15.691Z"
   },
   {
     "id": "pc-185001500",
@@ -3974,6 +4006,18 @@
     "updatedAt": "2026-10-21T23:56:12.880Z"
   },
   {
+    "id": "pc-495260233",
+    "title": "社会福祉法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-11-04",
+    "endAt": "2026-12-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260233&Mode=0",
+    "billId": "bill-221-shugiin-1369ec0907eddf30",
+    "createdAt": "2026-11-05T01:19:15.691Z",
+    "updatedAt": "2026-11-05T01:19:15.691Z"
+  },
+  {
     "id": "pc-495260234",
     "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則の一部を改正する省令案に関する御意見の募集について",
     "status": "open",
@@ -4096,6 +4140,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260248&Mode=0",
     "createdAt": "2026-11-03T02:47:44.816Z",
     "updatedAt": "2026-11-03T02:47:44.816Z"
+  },
+  {
+    "id": "pc-495260249",
+    "title": "社会福祉法人会計基準及び社会福祉連携推進法人会計基準の一部を改正する省令案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-11-04",
+    "endAt": "2026-12-03",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260249&Mode=0",
+    "createdAt": "2026-11-05T01:19:15.691Z",
+    "updatedAt": "2026-11-05T01:19:15.691Z"
+  },
+  {
+    "id": "pc-495260251",
+    "title": "がん登録等の推進に関する法律施行規則の一部を改正する省令案に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-11-05",
+    "endAt": "2026-12-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260251&Mode=0",
+    "createdAt": "2026-11-05T01:19:15.691Z",
+    "updatedAt": "2026-11-05T01:19:15.691Z"
   },
   {
     "id": "pc-550004376",
@@ -4688,6 +4754,39 @@
     "updatedAt": "2026-10-28T00:16:51.942Z"
   },
   {
+    "id": "pc-550004436",
+    "title": "低たん白加工処理玄米の包装米飯の日本農林規格の確認案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-11-05",
+    "endAt": "2026-12-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004436&Mode=0",
+    "createdAt": "2026-11-05T01:19:15.690Z",
+    "updatedAt": "2026-11-05T01:19:15.690Z"
+  },
+  {
+    "id": "pc-550004437",
+    "title": "りんごジュース中のプロシアニジン類の定量 －高速液体クロマトグラフ法の日本農林規格の確認案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-11-05",
+    "endAt": "2026-12-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004437&Mode=0",
+    "createdAt": "2026-11-05T01:19:15.690Z",
+    "updatedAt": "2026-11-05T01:19:15.690Z"
+  },
+  {
+    "id": "pc-550004438",
+    "title": "「特定水産動植物等の国内流通の適正化等に関する法律施行規則第二条及び第四条の農林水産大臣が別に定めて告示する加工品を定める件の一部改正案」についての意見・情報の募集について",
+    "ministry": "水産庁",
+    "status": "open",
+    "startAt": "2026-11-05",
+    "endAt": "2026-12-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004438&Mode=0",
+    "createdAt": "2026-11-05T01:19:15.690Z",
+    "updatedAt": "2026-11-05T01:19:15.690Z"
+  },
+  {
     "id": "pc-550004440",
     "title": "トド管理基本方針の一部改正案についての意見・情報の募集について",
     "ministry": "水産庁",
@@ -4708,6 +4807,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004441&Mode=0",
     "createdAt": "2026-11-04T01:04:29.302Z",
     "updatedAt": "2026-11-04T01:04:29.302Z"
+  },
+  {
+    "id": "pc-550004443",
+    "title": "合板等のホルムアルデヒド放散量の試験方法の日本農林規格案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-11-05",
+    "endAt": "2026-12-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004443&Mode=0",
+    "createdAt": "2026-11-05T01:19:15.690Z",
+    "updatedAt": "2026-11-05T01:19:15.690Z"
+  },
+  {
+    "id": "pc-550004444",
+    "title": "素材の日本農林規格の一部改正案についての意見・情報の募集について",
+    "ministry": "農林水産省",
+    "status": "open",
+    "startAt": "2026-11-05",
+    "endAt": "2026-12-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004444&Mode=0",
+    "createdAt": "2026-11-05T01:19:15.690Z",
+    "updatedAt": "2026-11-05T01:19:15.690Z"
   },
   {
     "id": "pc-595126108",
@@ -5543,6 +5664,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=640230003&Mode=0",
     "createdAt": "2026-10-21T23:56:12.880Z",
     "updatedAt": "2026-10-21T23:56:12.880Z"
+  },
+  {
+    "id": "pc-640230105",
+    "title": "中小企業等の経営強化に関する基本方針の一部を改正する告示について",
+    "ministry": "中小企業庁",
+    "status": "open",
+    "startAt": "2026-11-05",
+    "endAt": "2026-12-04",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=640230105&Mode=0",
+    "createdAt": "2026-11-05T01:19:15.691Z",
+    "updatedAt": "2026-11-05T01:19:15.691Z"
   },
   {
     "id": "pc-670000138",
