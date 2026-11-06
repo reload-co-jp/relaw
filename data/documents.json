@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-05T01:17:10.699Z"
+    "updatedAt": "2026-11-06T01:22:15.974Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -1176,7 +1176,7 @@
     "source": "官報",
     "publishedAt": "2026-10-30",
     "createdAt": "2026-10-30T00:36:41.882Z",
-    "updatedAt": "2026-11-05T01:17:01.486Z"
+    "updatedAt": "2026-11-06T01:22:07.993Z"
   },
   {
     "id": "doc-kanpo-2c346eec8018fe4e",
@@ -1277,7 +1277,7 @@
     "source": "官報",
     "publishedAt": "2026-11-02",
     "createdAt": "2026-11-02T00:14:44.787Z",
-    "updatedAt": "2026-11-05T01:17:01.076Z"
+    "updatedAt": "2026-11-06T01:22:07.594Z"
   },
   {
     "id": "doc-kanpo-35ce1b9da40ea3a9",
@@ -1758,6 +1758,16 @@
     "createdAt": "2026-07-29T22:00:03.601Z"
   },
   {
+    "id": "doc-kanpo-59f35a558387e44c",
+    "title": "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第十三条第三項第三号ハの経済産業省令で定める事項を定める省令の一部を改正する省令（経済産業七九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261106/20261106g00243/20261106g002430001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-06",
+    "createdAt": "2026-11-06T01:22:06.400Z"
+  },
+  {
     "id": "doc-kanpo-5a7a54b7941fad1e",
     "title": "厚生労働省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令の一部を改正する省令（厚生労働一四〇）",
     "type": "kanpo",
@@ -1879,7 +1889,7 @@
     "source": "官報",
     "publishedAt": "2026-11-02",
     "createdAt": "2026-11-02T00:14:44.788Z",
-    "updatedAt": "2026-11-05T01:17:01.076Z"
+    "updatedAt": "2026-11-06T01:22:07.594Z"
   },
   {
     "id": "doc-kanpo-6622adf8217f1b23",
@@ -2394,7 +2404,7 @@
     "source": "官報",
     "publishedAt": "2026-11-05",
     "createdAt": "2026-11-05T01:17:00.258Z",
-    "updatedAt": "2026-11-05T01:17:00.259Z"
+    "updatedAt": "2026-11-06T01:22:06.798Z"
   },
   {
     "id": "doc-kanpo-99b163a59ed09c45",
@@ -5384,6 +5394,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-05-22",
     "createdAt": "2026-07-14T21:58:16.797Z"
+  },
+  {
+    "id": "doc-kokkai-a7b8bbd5a6300651",
+    "billId": "bill-221-shugiin-0c41b35e8e33dd19",
+    "title": "第222回国会 衆議院 文部科学委員会 第1号 (2026-10-23)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122205124X00120261023",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-23",
+    "createdAt": "2026-11-06T01:23:37.440Z"
   },
   {
     "id": "doc-kokkai-a7c0ca7b45c08f37",
