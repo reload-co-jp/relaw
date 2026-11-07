@@ -72,6 +72,24 @@
     "detectedAt": "2026-10-31T00:24:44.873Z"
   },
   {
+    "id": "change-bill-222-cas-d94020c8875e09ca-passedLowerHouseAt-2026-11-07T00:39:29.682Z",
+    "entityType": "bill",
+    "entityId": "bill-222-cas-d94020c8875e09ca",
+    "field": "passedLowerHouseAt",
+    "before": null,
+    "after": "2026-11-06",
+    "detectedAt": "2026-11-07T00:39:29.682Z"
+  },
+  {
+    "id": "change-bill-222-cas-d94020c8875e09ca-status-2026-11-07T00:39:29.682Z",
+    "entityType": "bill",
+    "entityId": "bill-222-cas-d94020c8875e09ca",
+    "field": "status",
+    "before": "committee_review",
+    "after": "passed_lower_house",
+    "detectedAt": "2026-11-07T00:39:29.682Z"
+  },
+  {
     "id": "change-bill-222-sangiin-054775081ea50f13-billNumber-2026-10-27T00:16:34.238Z",
     "entityType": "bill",
     "entityId": "bill-222-sangiin-054775081ea50f13",
@@ -79,6 +97,24 @@
     "before": null,
     "after": "第222回国会 閣法第18号",
     "detectedAt": "2026-10-27T00:16:34.238Z"
+  },
+  {
+    "id": "change-bill-222-sangiin-5f3e8f18fb6b11b5-passedLowerHouseAt-2026-11-07T00:39:29.682Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-5f3e8f18fb6b11b5",
+    "field": "passedLowerHouseAt",
+    "before": null,
+    "after": "2026-11-06",
+    "detectedAt": "2026-11-07T00:39:29.682Z"
+  },
+  {
+    "id": "change-bill-222-sangiin-5f3e8f18fb6b11b5-status-2026-11-07T00:39:29.682Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-5f3e8f18fb6b11b5",
+    "field": "status",
+    "before": "committee_review",
+    "after": "passed_lower_house",
+    "detectedAt": "2026-11-07T00:39:29.682Z"
   },
   {
     "id": "change-bill-222-sangiin-64a8c3623ed37938-passedLowerHouseAt-2026-10-31T00:24:44.873Z",
@@ -223,6 +259,51 @@
     "before": "committee_review",
     "after": "passed_lower_house",
     "detectedAt": "2026-10-31T00:24:44.873Z"
+  },
+  {
+    "id": "change-bill-222-sangiin-e80079aafc4b63a9-passedLowerHouseAt-2026-11-07T00:39:29.682Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-e80079aafc4b63a9",
+    "field": "passedLowerHouseAt",
+    "before": null,
+    "after": "2026-11-06",
+    "detectedAt": "2026-11-07T00:39:29.682Z"
+  },
+  {
+    "id": "change-bill-222-sangiin-e80079aafc4b63a9-status-2026-11-07T00:39:29.682Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-e80079aafc4b63a9",
+    "field": "status",
+    "before": "committee_review",
+    "after": "passed_lower_house",
+    "detectedAt": "2026-11-07T00:39:29.682Z"
+  },
+  {
+    "id": "change-bill-222-shugiin-610b3412dfcc25ea-status-2026-11-07T00:39:29.682Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-610b3412dfcc25ea",
+    "field": "status",
+    "before": "committee_review",
+    "after": "rejected",
+    "detectedAt": "2026-11-07T00:39:29.682Z"
+  },
+  {
+    "id": "change-bill-222-shugiin-775b509548767cdd-passedLowerHouseAt-2026-11-07T00:39:29.682Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-775b509548767cdd",
+    "field": "passedLowerHouseAt",
+    "before": null,
+    "after": "2026-11-06",
+    "detectedAt": "2026-11-07T00:39:29.682Z"
+  },
+  {
+    "id": "change-bill-222-shugiin-775b509548767cdd-status-2026-11-07T00:39:29.682Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-775b509548767cdd",
+    "field": "status",
+    "before": "committee_review",
+    "after": "passed_lower_house",
+    "detectedAt": "2026-11-07T00:39:29.682Z"
   },
   {
     "id": "change-law-506M60000002115-title-2026-10-20T00:09:23.149Z",
