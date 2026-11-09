@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-08T00:11:20.429Z"
+    "updatedAt": "2026-11-09T00:32:36.726Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -1176,7 +1176,7 @@
     "source": "官報",
     "publishedAt": "2026-10-30",
     "createdAt": "2026-10-30T00:36:41.882Z",
-    "updatedAt": "2026-11-08T00:11:08.019Z"
+    "updatedAt": "2026-11-09T00:32:27.791Z"
   },
   {
     "id": "doc-kanpo-2c346eec8018fe4e",
@@ -1277,7 +1277,7 @@
     "source": "官報",
     "publishedAt": "2026-11-02",
     "createdAt": "2026-11-02T00:14:44.787Z",
-    "updatedAt": "2026-11-08T00:11:07.520Z"
+    "updatedAt": "2026-11-09T00:32:27.292Z"
   },
   {
     "id": "doc-kanpo-35ce1b9da40ea3a9",
@@ -1889,7 +1889,7 @@
     "source": "官報",
     "publishedAt": "2026-11-02",
     "createdAt": "2026-11-02T00:14:44.788Z",
-    "updatedAt": "2026-11-08T00:11:07.520Z"
+    "updatedAt": "2026-11-09T00:32:27.292Z"
   },
   {
     "id": "doc-kanpo-6622adf8217f1b23",
@@ -2404,7 +2404,7 @@
     "source": "官報",
     "publishedAt": "2026-11-05",
     "createdAt": "2026-11-05T01:17:00.258Z",
-    "updatedAt": "2026-11-08T00:11:06.530Z"
+    "updatedAt": "2026-11-09T00:32:26.304Z"
   },
   {
     "id": "doc-kanpo-99b163a59ed09c45",
@@ -2415,6 +2415,17 @@
     "source": "官報",
     "publishedAt": "2026-09-30",
     "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
+    "id": "doc-kanpo-99b1a17b3a01497a",
+    "title": "農地法施行規則の一部を改正する省令（農林水産七四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261109/20261109h01824/20261109h018240002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-09",
+    "createdAt": "2026-11-09T00:32:25.314Z",
+    "updatedAt": "2026-11-09T00:32:25.314Z"
   },
   {
     "id": "doc-kanpo-9a2ca77d1191c9b3",
