@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-09T00:32:36.726Z"
+    "updatedAt": "2026-11-10T03:09:55.168Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -1176,7 +1176,7 @@
     "source": "官報",
     "publishedAt": "2026-10-30",
     "createdAt": "2026-10-30T00:36:41.882Z",
-    "updatedAt": "2026-11-09T00:32:27.791Z"
+    "updatedAt": "2026-11-10T03:09:46.029Z"
   },
   {
     "id": "doc-kanpo-2c346eec8018fe4e",
@@ -1277,7 +1277,7 @@
     "source": "官報",
     "publishedAt": "2026-11-02",
     "createdAt": "2026-11-02T00:14:44.787Z",
-    "updatedAt": "2026-11-09T00:32:27.292Z"
+    "updatedAt": "2026-11-10T03:09:45.588Z"
   },
   {
     "id": "doc-kanpo-35ce1b9da40ea3a9",
@@ -1889,7 +1889,7 @@
     "source": "官報",
     "publishedAt": "2026-11-02",
     "createdAt": "2026-11-02T00:14:44.788Z",
-    "updatedAt": "2026-11-09T00:32:27.292Z"
+    "updatedAt": "2026-11-10T03:09:45.589Z"
   },
   {
     "id": "doc-kanpo-6622adf8217f1b23",
@@ -1900,6 +1900,16 @@
     "source": "官報",
     "publishedAt": "2026-09-28",
     "createdAt": "2026-09-27T23:39:14.562Z"
+  },
+  {
+    "id": "doc-kanpo-6642bda4e878a939",
+    "title": "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第四条第一項に規定する基本計画等に関する省令の一部を改正する省令（総務・財務・厚生労働・農林水産・経済産業・国土交通一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261110/20261110g00245/20261110g002450001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-10",
+    "createdAt": "2026-11-10T03:09:43.398Z"
   },
   {
     "id": "doc-kanpo-66be8f35880201c2",
@@ -2404,7 +2414,7 @@
     "source": "官報",
     "publishedAt": "2026-11-05",
     "createdAt": "2026-11-05T01:17:00.258Z",
-    "updatedAt": "2026-11-09T00:32:26.304Z"
+    "updatedAt": "2026-11-10T03:09:44.712Z"
   },
   {
     "id": "doc-kanpo-99b163a59ed09c45",
@@ -2425,7 +2435,7 @@
     "source": "官報",
     "publishedAt": "2026-11-09",
     "createdAt": "2026-11-09T00:32:25.314Z",
-    "updatedAt": "2026-11-09T00:32:25.314Z"
+    "updatedAt": "2026-11-10T03:09:43.837Z"
   },
   {
     "id": "doc-kanpo-9a2ca77d1191c9b3",
@@ -4065,6 +4075,17 @@
     "createdAt": "2026-07-07T00:38:02.557Z"
   },
   {
+    "id": "doc-kokkai-08a3895f46293068",
+    "billId": "bill-222-cas-d94020c8875e09ca",
+    "title": "第222回国会 衆議院 農林水産委員会 第2号 (2026-10-27)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122205007X00220261027",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-27",
+    "createdAt": "2026-11-10T03:11:49.568Z"
+  },
+  {
     "id": "doc-kokkai-08fd2b37bc71091d",
     "billId": "bill-221-shugiin-d0efe5e1e3022a7e",
     "title": "第222回国会 衆議院 経済産業委員会 第1号 (2026-10-21)",
@@ -4162,6 +4183,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-08-24T21:28:56.841Z"
+  },
+  {
+    "id": "doc-kokkai-18c196c6cd627c46",
+    "billId": "bill-221-shugiin-b09d45b89c9c7fd2",
+    "title": "第222回国会 衆議院 内閣委員会 第1号 (2026-10-21)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204889X00120261021",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-11-10T03:11:38.084Z"
   },
   {
     "id": "doc-kokkai-19002c0339150d3f",
@@ -4437,6 +4469,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-04-16",
     "createdAt": "2026-07-07T00:38:34.794Z"
+  },
+  {
+    "id": "doc-kokkai-2f95729863972ca9",
+    "billId": "bill-222-sangiin-8804df8bf3434c4b",
+    "title": "第222回国会 衆議院 内閣委員会 第1号 (2026-10-21)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204889X00120261021",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-11-10T03:11:56.472Z"
   },
   {
     "id": "doc-kokkai-2fe37c5d9d010f9b",
@@ -5451,6 +5494,17 @@
     "createdAt": "2026-07-07T00:38:00.278Z"
   },
   {
+    "id": "doc-kokkai-aa40c3e05e5fb23d",
+    "billId": "bill-222-sangiin-90629d88a370196e",
+    "title": "第222回国会 参議院 政治改革に関する特別委員会 第2号 (2026-11-04)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122214575X00220261104",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-04",
+    "createdAt": "2026-11-10T03:11:58.191Z"
+  },
+  {
     "id": "doc-kokkai-ab233c6f88381fdd",
     "billId": "bill-222-shugiin-229a14dd24fc7402",
     "title": "第221回国会 衆議院 政治改革に関する特別委員会 第6号 (2026-06-22)",
@@ -5834,6 +5888,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-10-30",
     "createdAt": "2026-11-05T01:19:08.045Z"
+  },
+  {
+    "id": "doc-kokkai-e218ea159b2ace9a",
+    "billId": "bill-221-shugiin-dcb81b4d41296dfa",
+    "title": "第222回国会 衆議院 内閣委員会 第1号 (2026-10-21)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204889X00120261021",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-11-10T03:11:42.946Z"
   },
   {
     "id": "doc-kokkai-e2a67a5f8988ba52",

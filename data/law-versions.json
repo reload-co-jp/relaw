@@ -3036,6 +3036,18 @@
     "createdAt": "2026-07-17T21:52:24.257Z"
   },
   {
+    "id": "version-508CO0000000224_20261031_508CO0000000340",
+    "lawId": "law-508CO0000000224",
+    "versionLabel": "令和八年政令第三百四十号による改正",
+    "amendmentLawNumber": "令和八年政令第三百四十号",
+    "amendmentLawTitle": "ニッケル系ステンレス冷延鋼帯及び冷延鋼板に対して課する暫定的な不当廉売関税に関する政令の一部を改正する政令",
+    "promulgatedAt": "2026-10-30",
+    "enforcedAt": "2026-10-31",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508CO0000000224",
+    "createdAt": "2026-11-10T03:09:39.086Z"
+  },
+  {
     "id": "version-508CO0000000254_20260808_000000000000000",
     "lawId": "law-508CO0000000254",
     "versionLabel": "制定時",
@@ -3166,6 +3178,30 @@
     "current": true,
     "sourceUrl": "https://laws.e-gov.go.jp/law/508CO0000000332",
     "createdAt": "2026-11-07T00:37:02.618Z"
+  },
+  {
+    "id": "version-508CO0000000335_20261030_000000000000000",
+    "lawId": "law-508CO0000000335",
+    "versionLabel": "制定時",
+    "amendmentLawNumber": null,
+    "amendmentLawTitle": null,
+    "promulgatedAt": "2026-10-28",
+    "enforcedAt": "2026-10-30",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508CO0000000335",
+    "createdAt": "2026-11-10T03:09:39.087Z"
+  },
+  {
+    "id": "version-508CO0000000342_20261030_000000000000000",
+    "lawId": "law-508CO0000000342",
+    "versionLabel": "制定時",
+    "amendmentLawNumber": null,
+    "amendmentLawTitle": null,
+    "promulgatedAt": "2026-10-30",
+    "enforcedAt": "2026-10-30",
+    "current": true,
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508CO0000000342",
+    "createdAt": "2026-11-10T03:09:39.087Z"
   },
   {
     "id": "version-508M60000002016_20261001_000000000000000",
