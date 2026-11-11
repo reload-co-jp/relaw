@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-10T03:09:55.168Z"
+    "updatedAt": "2026-11-11T01:00:03.969Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -899,6 +899,17 @@
     "updatedAt": "2026-07-13T21:55:09.197Z"
   },
   {
+    "id": "doc-kanpo-15719eafa7b92277",
+    "title": "健康保険法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令（三四七）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261111/20261111h01826/20261111h018260003f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-11",
+    "createdAt": "2026-11-11T00:59:53.107Z",
+    "updatedAt": "2026-11-11T00:59:53.108Z"
+  },
+  {
     "id": "doc-kanpo-1622dd0ae80f76ee",
     "title": "防衛省設置法等の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令（三〇八）",
     "type": "kanpo",
@@ -1277,7 +1288,7 @@
     "source": "官報",
     "publishedAt": "2026-11-02",
     "createdAt": "2026-11-02T00:14:44.787Z",
-    "updatedAt": "2026-11-10T03:09:45.588Z"
+    "updatedAt": "2026-11-11T00:59:55.946Z"
   },
   {
     "id": "doc-kanpo-35ce1b9da40ea3a9",
@@ -1587,6 +1598,16 @@
     "createdAt": "2026-07-30T22:04:23.774Z"
   },
   {
+    "id": "doc-kanpo-4e4c223c9ea93547",
+    "title": "シナイ半島国際平和協力隊の設置等に関する政令の一部を改正する政令（三四八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261111/20261111h01826/20261111h018260007f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-11",
+    "createdAt": "2026-11-11T00:59:53.108Z"
+  },
+  {
     "id": "doc-kanpo-4e5f759115cc9343",
     "title": "電波法施行規則等の一部を改正する省令（総務九一）",
     "type": "kanpo",
@@ -1889,7 +1910,7 @@
     "source": "官報",
     "publishedAt": "2026-11-02",
     "createdAt": "2026-11-02T00:14:44.788Z",
-    "updatedAt": "2026-11-10T03:09:45.589Z"
+    "updatedAt": "2026-11-11T00:59:55.946Z"
   },
   {
     "id": "doc-kanpo-6622adf8217f1b23",
@@ -2414,7 +2435,7 @@
     "source": "官報",
     "publishedAt": "2026-11-05",
     "createdAt": "2026-11-05T01:17:00.258Z",
-    "updatedAt": "2026-11-10T03:09:44.712Z"
+    "updatedAt": "2026-11-11T00:59:54.999Z"
   },
   {
     "id": "doc-kanpo-99b163a59ed09c45",
@@ -2435,7 +2456,7 @@
     "source": "官報",
     "publishedAt": "2026-11-09",
     "createdAt": "2026-11-09T00:32:25.314Z",
-    "updatedAt": "2026-11-10T03:09:43.837Z"
+    "updatedAt": "2026-11-11T00:59:54.053Z"
   },
   {
     "id": "doc-kanpo-9a2ca77d1191c9b3",
@@ -2975,6 +2996,16 @@
     "source": "官報",
     "publishedAt": "2026-10-23",
     "createdAt": "2026-10-22T23:53:11.789Z"
+  },
+  {
+    "id": "doc-kanpo-bf413a0f9ee223aa",
+    "title": "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第十二条の四に規定する承認地域経済牽引事業用地整備に関する省令（経済産業八〇）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261111/20261111g00246/20261111g002460001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-11",
+    "createdAt": "2026-11-11T00:59:53.108Z"
   },
   {
     "id": "doc-kanpo-c0cc931b39cadb3d",
@@ -4702,6 +4733,17 @@
     "createdAt": "2026-10-23T23:46:45.775Z"
   },
   {
+    "id": "doc-kokkai-411a4d278b8b2cf6",
+    "billId": "bill-222-cas-401e58fe20de6075",
+    "title": "第222回国会 衆議院 議院運営委員会 第7号 (2026-11-06)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00720261106",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-06",
+    "createdAt": "2026-11-11T01:02:02.683Z"
+  },
+  {
     "id": "doc-kokkai-4193c71a08efc230",
     "billId": "bill-222-shugiin-3f3b2d2174275f42",
     "title": "第221回国会 参議院 沖縄・北方問題及び地方に関する特別委員会 第7号 (2026-07-22)",
@@ -4768,6 +4810,17 @@
     "createdAt": "2026-10-14T23:43:06.033Z"
   },
   {
+    "id": "doc-kokkai-45175f04073ea604",
+    "billId": "bill-222-cas-0f2cf1a7f7ef3b3a",
+    "title": "第222回国会 衆議院 議院運営委員会 第7号 (2026-11-06)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00720261106",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-06",
+    "createdAt": "2026-11-11T01:02:01.926Z"
+  },
+  {
     "id": "doc-kokkai-47a69a5b0ac3e5f5",
     "billId": "bill-222-sangiin-8804df8bf3434c4b",
     "title": "第222回国会 衆議院 議院運営委員会 第6号 (2026-10-30)",
@@ -4777,6 +4830,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-10-30",
     "createdAt": "2026-11-05T01:19:02.768Z"
+  },
+  {
+    "id": "doc-kokkai-481fc6a9d72a8f10",
+    "billId": "bill-222-shugiin-775b509548767cdd",
+    "title": "第222回国会 衆議院 議院運営委員会 第7号 (2026-11-06)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00720261106",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-06",
+    "createdAt": "2026-11-11T01:02:24.161Z"
   },
   {
     "id": "doc-kokkai-4ac92255b31d0b1f",
@@ -4889,6 +4953,17 @@
     "createdAt": "2026-07-07T00:39:11.823Z"
   },
   {
+    "id": "doc-kokkai-5567044b6166fee6",
+    "billId": "bill-222-sangiin-5f3e8f18fb6b11b5",
+    "title": "第222回国会 衆議院 議院運営委員会 第7号 (2026-11-06)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00720261106",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-06",
+    "createdAt": "2026-11-11T01:02:10.694Z"
+  },
+  {
     "id": "doc-kokkai-557871e53712c582",
     "billId": "bill-221-shugiin-0c41b35e8e33dd19",
     "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
@@ -4953,6 +5028,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-05-19",
     "createdAt": "2026-07-07T00:38:02.557Z"
+  },
+  {
+    "id": "doc-kokkai-5d3b1474a0d772d7",
+    "billId": "bill-222-sangiin-e80079aafc4b63a9",
+    "title": "第222回国会 衆議院 議院運営委員会 第7号 (2026-11-06)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00720261106",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-06",
+    "createdAt": "2026-11-11T01:02:20.082Z"
   },
   {
     "id": "doc-kokkai-5daf8e9426bfde41",
@@ -5197,6 +5283,17 @@
     "createdAt": "2026-08-03T22:10:36.874Z"
   },
   {
+    "id": "doc-kokkai-7f6b90ba88321e4c",
+    "billId": "bill-222-sangiin-054775081ea50f13",
+    "title": "第222回国会 衆議院 議院運営委員会 第7号 (2026-11-06)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00720261106",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-06",
+    "createdAt": "2026-11-11T01:02:07.757Z"
+  },
+  {
     "id": "doc-kokkai-81e66b0a128a7570",
     "billId": "bill-221-shugiin-94ca35289fa8a2ac",
     "title": "第221回国会 衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 第4号 (2026-04-23)",
@@ -5228,6 +5325,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-05-12",
     "createdAt": "2026-07-07T00:38:00.278Z"
+  },
+  {
+    "id": "doc-kokkai-84fb5d05c723ffad",
+    "billId": "bill-222-cas-d94020c8875e09ca",
+    "title": "第222回国会 衆議院 議院運営委員会 第7号 (2026-11-06)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00720261106",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-06",
+    "createdAt": "2026-11-11T01:02:06.837Z"
   },
   {
     "id": "doc-kokkai-867893ca3f36769d",
@@ -10244,6 +10352,16 @@
     "createdAt": "2026-07-10T22:02:30.692Z"
   },
   {
+    "id": "doc-sangiin-cf50c53436e61bbc",
+    "billId": "bill-222-sangiin-d9cc12edd2d5182e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t1002220022220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-11T01:01:43.243Z"
+  },
+  {
     "id": "doc-sangiin-d013f7faf1a038ca",
     "billId": "bill-219-shugiin-01afee253b85e8fc",
     "title": "提出法律案",
@@ -10652,6 +10770,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:23.079Z"
+  },
+  {
+    "id": "doc-sangiin-e8fafae18add914b",
+    "billId": "bill-222-sangiin-4ace47251fe8ed9e",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t0902220022220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-11T01:01:34.311Z"
   },
   {
     "id": "doc-sangiin-e93371d3c6ac8ab4",
