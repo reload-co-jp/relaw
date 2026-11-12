@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-11T01:00:03.969Z"
+    "updatedAt": "2026-11-12T02:06:55.965Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -888,6 +888,16 @@
     "createdAt": "2026-11-02T00:14:44.787Z"
   },
   {
+    "id": "doc-kanpo-15329c2aa9ef979e",
+    "title": "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第十八条に規定する承認地域経済牽引事業に関する省令の一部を改正する省令（総務・財務・厚生労働・農林水産・経済産業・国土交通・環境四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261112/20261112g00247/20261112g002470001f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-12",
+    "createdAt": "2026-11-12T02:06:45.079Z"
+  },
+  {
     "id": "doc-kanpo-15640acca47fb576",
     "title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令（二二二）",
     "type": "kanpo",
@@ -907,7 +917,7 @@
     "source": "官報",
     "publishedAt": "2026-11-11",
     "createdAt": "2026-11-11T00:59:53.107Z",
-    "updatedAt": "2026-11-11T00:59:53.108Z"
+    "updatedAt": "2026-11-12T02:06:45.552Z"
   },
   {
     "id": "doc-kanpo-1622dd0ae80f76ee",
@@ -2146,6 +2156,16 @@
     "createdAt": "2026-09-16T23:32:22.551Z"
   },
   {
+    "id": "doc-kanpo-75d83c1ae0153647",
+    "title": "国民健康保険法施行規則等の一部を改正する省令（厚生労働一五三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261112/20261112g00247/20261112g002470010f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-12",
+    "createdAt": "2026-11-12T02:06:45.080Z"
+  },
+  {
     "id": "doc-kanpo-77e3e4b35cfeed30",
     "title": "鉱山保安法施行規則の一部を改正する省令（経済産業七五）",
     "type": "kanpo",
@@ -2435,7 +2455,7 @@
     "source": "官報",
     "publishedAt": "2026-11-05",
     "createdAt": "2026-11-05T01:17:00.258Z",
-    "updatedAt": "2026-11-11T00:59:54.999Z"
+    "updatedAt": "2026-11-12T02:06:47.437Z"
   },
   {
     "id": "doc-kanpo-99b163a59ed09c45",
@@ -2456,7 +2476,7 @@
     "source": "官報",
     "publishedAt": "2026-11-09",
     "createdAt": "2026-11-09T00:32:25.314Z",
-    "updatedAt": "2026-11-11T00:59:54.053Z"
+    "updatedAt": "2026-11-12T02:06:46.492Z"
   },
   {
     "id": "doc-kanpo-9a2ca77d1191c9b3",
@@ -4282,6 +4302,17 @@
     "createdAt": "2026-10-06T01:42:10.567Z"
   },
   {
+    "id": "doc-kokkai-1f52504768e540e5",
+    "billId": "bill-222-cas-d94020c8875e09ca",
+    "title": "第222回国会 衆議院 財務金融委員会 第1号 (2026-10-20)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204376X00120261020",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-20",
+    "createdAt": "2026-11-12T02:08:53.355Z"
+  },
+  {
     "id": "doc-kokkai-1f6894b2945c3021",
     "billId": "bill-221-cas-8d0bef80280e32d1",
     "title": "第221回国会 衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 第4号 (2026-04-23)",
@@ -4698,6 +4729,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-04-23",
     "createdAt": "2026-07-07T00:38:01.714Z"
+  },
+  {
+    "id": "doc-kokkai-3f2fd1f84ac716ce",
+    "billId": "bill-221-shugiin-5c47cfc1e5147636",
+    "title": "第222回国会 衆議院 財務金融委員会 第1号 (2026-10-20)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204376X00120261020",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-20",
+    "createdAt": "2026-11-12T02:08:41.150Z"
   },
   {
     "id": "doc-kokkai-3f5b6ef9bd0fe3f9",
@@ -5382,6 +5424,17 @@
     "createdAt": "2026-07-07T22:14:25.617Z"
   },
   {
+    "id": "doc-kokkai-8d12ae31dc48ad1c",
+    "billId": "bill-222-sangiin-c3b0904c7081e412",
+    "title": "第222回国会 参議院 外交防衛委員会 第1号 (2026-10-22)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122213950X00120261022",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-22",
+    "createdAt": "2026-11-12T02:08:59.641Z"
+  },
+  {
     "id": "doc-kokkai-8d539b6dd915c5b5",
     "billId": "bill-222-cas-78140543f49075cc",
     "title": "第222回国会 衆議院 議院運営委員会 第6号 (2026-10-30)",
@@ -5391,6 +5444,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-10-30",
     "createdAt": "2026-11-05T01:18:55.248Z"
+  },
+  {
+    "id": "doc-kokkai-8d90ef268863c55c",
+    "billId": "bill-221-shugiin-9837f6f89f23038a",
+    "title": "第222回国会 衆議院 財務金融委員会 第1号 (2026-10-20)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204376X00120261020",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-20",
+    "createdAt": "2026-11-12T02:08:43.926Z"
   },
   {
     "id": "doc-kokkai-8ea9e61b307a75e7",
@@ -5974,6 +6038,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-10-21",
     "createdAt": "2026-10-30T00:38:21.433Z"
+  },
+  {
+    "id": "doc-kokkai-d8b72d18de2a4684",
+    "billId": "bill-221-shugiin-75a5791173054ee8",
+    "title": "第222回国会 衆議院 財務金融委員会 第1号 (2026-10-20)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204376X00120261020",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-20",
+    "createdAt": "2026-11-12T02:08:43.020Z"
   },
   {
     "id": "doc-kokkai-daec0870601358dd",
@@ -7431,6 +7506,16 @@
     "createdAt": "2026-07-07T04:49:09.252Z"
   },
   {
+    "id": "doc-sangiin-383e8cec00a0c5c6",
+    "billId": "bill-222-sangiin-4ace47251fe8ed9e",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/59022220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-12T02:08:23.385Z"
+  },
+  {
     "id": "doc-sangiin-397d8ac5ea9238e8",
     "billId": "bill-221-shugiin-a8b4b31f9b075a52",
     "title": "議案要旨",
@@ -7449,6 +7534,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:05.865Z"
+  },
+  {
+    "id": "doc-sangiin-39f604fcc1d47398",
+    "billId": "bill-222-sangiin-7ce93c6bd8bc5825",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/58022260.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-12T02:08:17.021Z"
   },
   {
     "id": "doc-sangiin-3aa15b549838d236",
@@ -9121,6 +9216,16 @@
     "createdAt": "2026-07-07T04:49:11.169Z"
   },
   {
+    "id": "doc-sangiin-8ee99e5e551ec79b",
+    "billId": "bill-222-cas-d81b73f30ca09207",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/58022240.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-12T02:08:16.281Z"
+  },
+  {
     "id": "doc-sangiin-8fc8f507f2091122",
     "billId": "bill-219-shugiin-5a5ec28fa0326c09",
     "title": "関連資料（提案理由、各院委員長報告、附帯決議）",
@@ -9339,6 +9444,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:54.869Z"
+  },
+  {
+    "id": "doc-sangiin-9b3be9c261dec5b8",
+    "billId": "bill-222-cas-57f16337980bafee",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/58022220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-12T02:08:15.527Z"
   },
   {
     "id": "doc-sangiin-9c73fcc92249457a",
@@ -9992,6 +10107,16 @@
     "createdAt": "2026-07-16T22:04:35.982Z"
   },
   {
+    "id": "doc-sangiin-bd6a20ebbf062ff1",
+    "billId": "bill-222-sangiin-b5349b1f70e00feb",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/58022270.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-12T02:08:17.401Z"
+  },
+  {
     "id": "doc-sangiin-bddf6cd635fda5c0",
     "billId": "bill-221-sangiin-fdf3bf98cb6d5d37",
     "title": "提出法律案",
@@ -10240,6 +10365,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-17T21:54:07.873Z"
+  },
+  {
+    "id": "doc-sangiin-ca087c695bbfc79d",
+    "billId": "bill-222-sangiin-90629d88a370196e",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/580222160.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-12T02:08:20.765Z"
   },
   {
     "id": "doc-sangiin-ca1011a3b7b0d2b2",
@@ -11020,6 +11155,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:56.518Z"
+  },
+  {
+    "id": "doc-sangiin-f610a79e8ddfeac9",
+    "billId": "bill-222-cas-78140543f49075cc",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/58022230.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-12T02:08:15.905Z"
   },
   {
     "id": "doc-sangiin-f6166ff493b7a5ec",

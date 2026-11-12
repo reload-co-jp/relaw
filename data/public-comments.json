@@ -310,6 +310,36 @@
     "updatedAt": "2026-10-01T00:24:02.568Z"
   },
   {
+    "id": "pc-095260920",
+    "title": "クロチアニジン及び d•d-T80-プラレトリンを有効成分とする畜舎噴霧剤（ヌーベルショット、トリプルアクセル）に係る食品健康影響評価に関する審議結果（案）についての意見・情報の募集について",
+    "status": "result_published",
+    "startAt": "2026-11-11",
+    "endAt": "2026-12-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260920&Mode=0",
+    "createdAt": "2026-11-12T02:09:08.961Z",
+    "updatedAt": "2026-11-12T02:09:08.961Z"
+  },
+  {
+    "id": "pc-095260930",
+    "title": "GABp6株を利用して生産されたγ-アミノ酪酸に係る食品健康影響評価に関する審議結果（案）についての意見・情報の募集について",
+    "status": "result_published",
+    "startAt": "2026-11-11",
+    "endAt": "2026-12-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260930&Mode=0",
+    "createdAt": "2026-11-12T02:09:08.961Z",
+    "updatedAt": "2026-11-12T02:09:08.961Z"
+  },
+  {
+    "id": "pc-095260940",
+    "title": "JPBL017株を利用して生産されたアルカリ性プロテアーゼに係る食品健康影響評価に関する審議結果（案）についての意見・情報の募集について",
+    "status": "result_published",
+    "startAt": "2026-11-11",
+    "endAt": "2026-12-10",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260940&Mode=0",
+    "createdAt": "2026-11-12T02:09:08.961Z",
+    "updatedAt": "2026-11-12T02:09:08.961Z"
+  },
+  {
     "id": "pc-110200065",
     "title": "「企業結合審査に関する独占禁止法の運用指針」の改定案に対する意見募集について",
     "ministry": "公正取引委員会",
@@ -2565,6 +2595,28 @@
     "updatedAt": "2026-11-11T01:02:26.437Z"
   },
   {
+    "id": "pc-195260081",
+    "title": "「温室効果ガス算定排出量等の報告等に関する命令第一条第五号に規定する環境大臣及び経済産業大臣が定める国内認証排出削減量の一部を改正する件（案）」に対する意見募集について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-11-12",
+    "endAt": "2026-12-12",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260081&Mode=0",
+    "createdAt": "2026-11-12T02:09:08.961Z",
+    "updatedAt": "2026-11-12T02:09:08.961Z"
+  },
+  {
+    "id": "pc-195260082",
+    "title": "「温室効果ガス算定排出量等の報告等に関する命令第四条第五項及び第十三条第三項の規定に基づき環境大臣及び経済産業大臣が定める算定方法の一部を改正する件（案）」に対する意見募集について",
+    "ministry": "環境省",
+    "status": "open",
+    "startAt": "2026-11-12",
+    "endAt": "2026-12-12",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260082&Mode=0",
+    "createdAt": "2026-11-12T02:09:08.961Z",
+    "updatedAt": "2026-11-12T02:09:08.961Z"
+  },
+  {
     "id": "pc-198026102",
     "title": "運転責任者に係る基準等に関する規程の改正案に対する意見公募について",
     "ministry": "原子力規制庁",
@@ -2913,6 +2965,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=290608071&Mode=0",
     "createdAt": "2026-09-01T00:26:09.831Z",
     "updatedAt": "2026-09-01T00:26:09.831Z"
+  },
+  {
+    "id": "pc-290610301",
+    "title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令案について",
+    "ministry": "デジタル庁",
+    "status": "open",
+    "startAt": "2026-11-12",
+    "endAt": "2026-12-12",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=290610301&Mode=0",
+    "createdAt": "2026-11-12T02:09:08.961Z",
+    "updatedAt": "2026-11-12T02:09:08.961Z"
+  },
+  {
+    "id": "pc-290610302",
+    "title": "貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律施行規則の一部を改正する命令案について",
+    "ministry": "デジタル庁",
+    "status": "open",
+    "startAt": "2026-11-12",
+    "endAt": "2026-12-12",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=290610302&Mode=0",
+    "createdAt": "2026-11-12T02:09:08.961Z",
+    "updatedAt": "2026-11-12T02:09:08.961Z"
   },
   {
     "id": "pc-300080357",
