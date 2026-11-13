@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-12T02:06:55.965Z"
+    "updatedAt": "2026-11-13T01:41:07.982Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -700,6 +700,16 @@
     "publishedAt": "2026-07-15",
     "createdAt": "2026-07-15T21:59:10.733Z",
     "updatedAt": "2026-07-26T21:58:06.637Z"
+  },
+  {
+    "id": "doc-kanpo-03e7fd119be86ace",
+    "title": "職業能力開発促進法施行規則の一部を改正する省令（厚生労働一五四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261113/20261113h01828/20261113h018280002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-13",
+    "createdAt": "2026-11-13T01:40:56.030Z"
   },
   {
     "id": "doc-kanpo-045e5be38dcc2d6e",
@@ -917,7 +927,7 @@
     "source": "官報",
     "publishedAt": "2026-11-11",
     "createdAt": "2026-11-11T00:59:53.107Z",
-    "updatedAt": "2026-11-12T02:06:45.552Z"
+    "updatedAt": "2026-11-13T01:40:56.994Z"
   },
   {
     "id": "doc-kanpo-1622dd0ae80f76ee",
@@ -2455,7 +2465,7 @@
     "source": "官報",
     "publishedAt": "2026-11-05",
     "createdAt": "2026-11-05T01:17:00.258Z",
-    "updatedAt": "2026-11-12T02:06:47.437Z"
+    "updatedAt": "2026-11-13T01:40:58.918Z"
   },
   {
     "id": "doc-kanpo-99b163a59ed09c45",
@@ -2476,7 +2486,7 @@
     "source": "官報",
     "publishedAt": "2026-11-09",
     "createdAt": "2026-11-09T00:32:25.314Z",
-    "updatedAt": "2026-11-12T02:06:46.492Z"
+    "updatedAt": "2026-11-13T01:40:57.954Z"
   },
   {
     "id": "doc-kanpo-9a2ca77d1191c9b3",
@@ -2925,6 +2935,17 @@
     "source": "官報",
     "publishedAt": "2026-08-17",
     "createdAt": "2026-08-17T21:23:30.643Z"
+  },
+  {
+    "id": "doc-kanpo-ba6d86ee0842e80f",
+    "title": "予防接種法施行規則の一部を改正する省令（厚生労働一五五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261113/20261113g00248/20261113g002480002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-13",
+    "createdAt": "2026-11-13T01:40:56.031Z",
+    "updatedAt": "2026-11-13T01:40:56.031Z"
   },
   {
     "id": "doc-kanpo-bad24c54dc429350",
@@ -5928,6 +5949,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-03",
     "createdAt": "2026-07-07T00:39:11.823Z"
+  },
+  {
+    "id": "doc-kokkai-ca8f67fd3b4dae66",
+    "billId": "bill-222-cas-d94020c8875e09ca",
+    "title": "第222回国会 参議院 予算委員会 第1号 (2026-10-16)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122215261X00120261016",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-16",
+    "createdAt": "2026-11-13T01:43:13.994Z"
   },
   {
     "id": "doc-kokkai-cb29f533a325658e",
@@ -9044,6 +9076,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:27.554Z"
+  },
+  {
+    "id": "doc-sangiin-89c08654a7acb3e6",
+    "billId": "bill-222-shugiin-610b3412dfcc25ea",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t1002220032220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-13T01:42:50.638Z"
   },
   {
     "id": "doc-sangiin-8b09c051c91371ed",
