@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-13T01:41:07.982Z"
+    "updatedAt": "2026-11-14T01:17:19.849Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -927,7 +927,7 @@
     "source": "官報",
     "publishedAt": "2026-11-11",
     "createdAt": "2026-11-11T00:59:53.107Z",
-    "updatedAt": "2026-11-13T01:40:56.994Z"
+    "updatedAt": "2026-11-14T01:17:10.163Z"
   },
   {
     "id": "doc-kanpo-1622dd0ae80f76ee",
@@ -2465,7 +2465,7 @@
     "source": "官報",
     "publishedAt": "2026-11-05",
     "createdAt": "2026-11-05T01:17:00.258Z",
-    "updatedAt": "2026-11-13T01:40:58.918Z"
+    "updatedAt": "2026-11-14T01:17:11.828Z"
   },
   {
     "id": "doc-kanpo-99b163a59ed09c45",
@@ -2486,7 +2486,7 @@
     "source": "官報",
     "publishedAt": "2026-11-09",
     "createdAt": "2026-11-09T00:32:25.314Z",
-    "updatedAt": "2026-11-13T01:40:57.954Z"
+    "updatedAt": "2026-11-14T01:17:10.994Z"
   },
   {
     "id": "doc-kanpo-9a2ca77d1191c9b3",
@@ -2945,7 +2945,7 @@
     "source": "官報",
     "publishedAt": "2026-11-13",
     "createdAt": "2026-11-13T01:40:56.031Z",
-    "updatedAt": "2026-11-13T01:40:56.031Z"
+    "updatedAt": "2026-11-14T01:17:09.331Z"
   },
   {
     "id": "doc-kanpo-bad24c54dc429350",
@@ -4246,6 +4246,28 @@
     "createdAt": "2026-07-07T00:38:01.714Z"
   },
   {
+    "id": "doc-kokkai-16afd0c1d44ae09f",
+    "billId": "bill-222-shugiin-3dc68adcad738b86",
+    "title": "第222回国会 衆議院 議院運営委員会 第8号 (2026-11-10)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00820261110",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-10",
+    "createdAt": "2026-11-14T01:19:14.046Z"
+  },
+  {
+    "id": "doc-kokkai-16b6bd7904f7a3f8",
+    "billId": "bill-222-cas-401e58fe20de6075",
+    "title": "第222回国会 衆議院 議院運営委員会 第8号 (2026-11-10)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00820261110",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-10",
+    "createdAt": "2026-11-14T01:19:03.785Z"
+  },
+  {
     "id": "doc-kokkai-17a709619cd4276b",
     "billId": "bill-221-shugiin-426ee0047ccd63e6",
     "title": "第221回国会 衆議院 総務委員会 第15号 (2026-07-24)",
@@ -4431,6 +4453,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-08-03T22:10:33.943Z"
+  },
+  {
+    "id": "doc-kokkai-2543b73db0d7987a",
+    "billId": "bill-222-sangiin-dc1da4a58422661c",
+    "title": "第222回国会 衆議院 国土交通委員会 第1号 (2026-10-21)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204319X00120261021",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-11-14T01:19:11.858Z"
   },
   {
     "id": "doc-kokkai-26edb2ad48542d5a",
@@ -4772,6 +4805,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-07-30T22:06:47.587Z"
+  },
+  {
+    "id": "doc-kokkai-3fa16a46550ccae3",
+    "billId": "bill-221-sangiin-caeb9e707b294329",
+    "title": "第222回国会 衆議院 国土交通委員会 第1号 (2026-10-21)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204319X00120261021",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-11-14T01:18:47.376Z"
   },
   {
     "id": "doc-kokkai-3fbac33c8f5b6a6c",
@@ -5170,6 +5214,17 @@
     "createdAt": "2026-07-30T22:06:48.836Z"
   },
   {
+    "id": "doc-kokkai-65083f44882c7cc7",
+    "billId": "bill-222-sangiin-98e35c20d6e0bf65",
+    "title": "第222回国会 衆議院 議院運営委員会 第8号 (2026-11-10)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00820261110",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-10",
+    "createdAt": "2026-11-14T01:19:09.345Z"
+  },
+  {
     "id": "doc-kokkai-652cfd9be61dd329",
     "billId": "bill-221-shugiin-277efad5ec7df88c",
     "title": "第221回国会 衆議院 議院運営委員会 第36号 (2026-07-15)",
@@ -5179,6 +5234,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-15",
     "createdAt": "2026-07-30T22:06:31.425Z"
+  },
+  {
+    "id": "doc-kokkai-662e4799c76736a7",
+    "billId": "bill-222-shugiin-c510f5a58fc7a0ff",
+    "title": "第222回国会 衆議院 議院運営委員会 第8号 (2026-11-10)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00820261110",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-10",
+    "createdAt": "2026-11-14T01:19:17.426Z"
   },
   {
     "id": "doc-kokkai-6702e455451c5252",
@@ -5324,6 +5390,17 @@
     "createdAt": "2026-07-07T00:39:00.190Z"
   },
   {
+    "id": "doc-kokkai-776be5b4a2f183b7",
+    "billId": "bill-222-sangiin-8804df8bf3434c4b",
+    "title": "第222回国会 衆議院 議院運営委員会 第8号 (2026-11-10)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00820261110",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-10",
+    "createdAt": "2026-11-14T01:19:08.511Z"
+  },
+  {
     "id": "doc-kokkai-78364f91e5d38e8e",
     "billId": "bill-221-cas-8d0bef80280e32d1",
     "title": "第221回国会 衆議院 本会議 第14号 (2026-04-21)",
@@ -5333,6 +5410,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-04-21",
     "createdAt": "2026-07-07T00:38:00.278Z"
+  },
+  {
+    "id": "doc-kokkai-7a1c0b88a5a2c283",
+    "billId": "bill-222-cas-0f2cf1a7f7ef3b3a",
+    "title": "第222回国会 衆議院 議院運営委員会 第8号 (2026-11-10)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00820261110",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-10",
+    "createdAt": "2026-11-14T01:19:03.044Z"
   },
   {
     "id": "doc-kokkai-7aa1770b2653184b",
@@ -5828,6 +5916,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-05-13",
     "createdAt": "2026-07-07T00:39:11.823Z"
+  },
+  {
+    "id": "doc-kokkai-bbd146f7265dee81",
+    "billId": "bill-222-sangiin-054775081ea50f13",
+    "title": "第222回国会 衆議院 議院運営委員会 第8号 (2026-11-10)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00820261110",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-10",
+    "createdAt": "2026-11-14T01:19:05.907Z"
   },
   {
     "id": "doc-kokkai-bc55f630a2beccda",
@@ -7078,6 +7177,16 @@
     "createdAt": "2026-07-07T04:48:27.795Z"
   },
   {
+    "id": "doc-sangiin-251c420667c938fd",
+    "billId": "bill-222-sangiin-64a8c3623ed37938",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/58022250.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-14T01:18:29.633Z"
+  },
+  {
     "id": "doc-sangiin-251ff40216754956",
     "billId": "bill-221-shugiin-b2e04dc4061d4a81",
     "title": "提出法律案",
@@ -7588,6 +7697,16 @@
     "createdAt": "2026-07-07T04:49:13.086Z"
   },
   {
+    "id": "doc-sangiin-3ae751766bdaf5b1",
+    "billId": "bill-222-shugiin-775b509548767cdd",
+    "title": "参議院環境委員会の修正案（い党・否決）",
+    "type": "other",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/h0802220142220010.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-14T01:18:32.632Z"
+  },
+  {
     "id": "doc-sangiin-3c61cf4c88f74e55",
     "billId": "bill-221-shugiin-7dcb74ca384a6d94",
     "title": "提出法律案",
@@ -7596,6 +7715,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:23.560Z"
+  },
+  {
+    "id": "doc-sangiin-3ce904a02003a5fa",
+    "billId": "bill-222-sangiin-c3b0904c7081e412",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/580222100.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-14T01:18:31.303Z"
   },
   {
     "id": "doc-sangiin-3cf0e0a493f1e24c",
@@ -7866,6 +7995,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:29.485Z"
+  },
+  {
+    "id": "doc-sangiin-47b0b48406cd5afa",
+    "billId": "bill-222-shugiin-775b509548767cdd",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/580222140.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-14T01:18:32.632Z"
   },
   {
     "id": "doc-sangiin-47e085890f592ab6",
@@ -9517,6 +9656,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:07.521Z"
+  },
+  {
+    "id": "doc-sangiin-9d4be5a73d920372",
+    "billId": "bill-222-sangiin-e80079aafc4b63a9",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/58022290.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-14T01:18:30.969Z"
   },
   {
     "id": "doc-sangiin-9dd12e4d35ecd4fd",

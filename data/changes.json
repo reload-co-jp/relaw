@@ -225,6 +225,15 @@
     "detectedAt": "2026-11-07T00:39:29.682Z"
   },
   {
+    "id": "change-bill-222-sangiin-64a8c3623ed37938-enactedAt-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-64a8c3623ed37938",
+    "field": "enactedAt",
+    "before": null,
+    "after": "2026-11-13",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
+  },
+  {
     "id": "change-bill-222-sangiin-64a8c3623ed37938-passedLowerHouseAt-2026-10-31T00:24:44.873Z",
     "entityType": "bill",
     "entityId": "bill-222-sangiin-64a8c3623ed37938",
@@ -234,6 +243,15 @@
     "detectedAt": "2026-10-31T00:24:44.873Z"
   },
   {
+    "id": "change-bill-222-sangiin-64a8c3623ed37938-passedUpperHouseAt-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-64a8c3623ed37938",
+    "field": "passedUpperHouseAt",
+    "before": null,
+    "after": "2026-11-13",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
+  },
+  {
     "id": "change-bill-222-sangiin-64a8c3623ed37938-status-2026-10-31T00:24:44.873Z",
     "entityType": "bill",
     "entityId": "bill-222-sangiin-64a8c3623ed37938",
@@ -241,6 +259,15 @@
     "before": "committee_review",
     "after": "passed_lower_house",
     "detectedAt": "2026-10-31T00:24:44.873Z"
+  },
+  {
+    "id": "change-bill-222-sangiin-64a8c3623ed37938-status-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-64a8c3623ed37938",
+    "field": "status",
+    "before": "passed_lower_house",
+    "after": "passed_diet",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
   },
   {
     "id": "change-bill-222-sangiin-7ce93c6bd8bc5825-enactedAt-2026-11-12T02:09:08.967Z",
@@ -441,6 +468,15 @@
     "detectedAt": "2026-11-12T02:09:08.967Z"
   },
   {
+    "id": "change-bill-222-sangiin-c3b0904c7081e412-enactedAt-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-c3b0904c7081e412",
+    "field": "enactedAt",
+    "before": null,
+    "after": "2026-11-13",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
+  },
+  {
     "id": "change-bill-222-sangiin-c3b0904c7081e412-passedLowerHouseAt-2026-10-31T00:24:44.873Z",
     "entityType": "bill",
     "entityId": "bill-222-sangiin-c3b0904c7081e412",
@@ -450,6 +486,15 @@
     "detectedAt": "2026-10-31T00:24:44.873Z"
   },
   {
+    "id": "change-bill-222-sangiin-c3b0904c7081e412-passedUpperHouseAt-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-c3b0904c7081e412",
+    "field": "passedUpperHouseAt",
+    "before": null,
+    "after": "2026-11-13",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
+  },
+  {
     "id": "change-bill-222-sangiin-c3b0904c7081e412-status-2026-10-31T00:24:44.873Z",
     "entityType": "bill",
     "entityId": "bill-222-sangiin-c3b0904c7081e412",
@@ -457,6 +502,15 @@
     "before": "committee_review",
     "after": "passed_lower_house",
     "detectedAt": "2026-10-31T00:24:44.873Z"
+  },
+  {
+    "id": "change-bill-222-sangiin-c3b0904c7081e412-status-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-c3b0904c7081e412",
+    "field": "status",
+    "before": "passed_lower_house",
+    "after": "passed_diet",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
   },
   {
     "id": "change-bill-222-sangiin-dc1da4a58422661c-billNumber-2026-10-20T00:09:23.149Z",
@@ -486,6 +540,15 @@
     "detectedAt": "2026-10-31T00:24:44.873Z"
   },
   {
+    "id": "change-bill-222-sangiin-e80079aafc4b63a9-enactedAt-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-e80079aafc4b63a9",
+    "field": "enactedAt",
+    "before": null,
+    "after": "2026-11-13",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
+  },
+  {
     "id": "change-bill-222-sangiin-e80079aafc4b63a9-passedLowerHouseAt-2026-11-07T00:39:29.682Z",
     "entityType": "bill",
     "entityId": "bill-222-sangiin-e80079aafc4b63a9",
@@ -495,6 +558,15 @@
     "detectedAt": "2026-11-07T00:39:29.682Z"
   },
   {
+    "id": "change-bill-222-sangiin-e80079aafc4b63a9-passedUpperHouseAt-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-e80079aafc4b63a9",
+    "field": "passedUpperHouseAt",
+    "before": null,
+    "after": "2026-11-13",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
+  },
+  {
     "id": "change-bill-222-sangiin-e80079aafc4b63a9-status-2026-11-07T00:39:29.682Z",
     "entityType": "bill",
     "entityId": "bill-222-sangiin-e80079aafc4b63a9",
@@ -502,6 +574,15 @@
     "before": "committee_review",
     "after": "passed_lower_house",
     "detectedAt": "2026-11-07T00:39:29.682Z"
+  },
+  {
+    "id": "change-bill-222-sangiin-e80079aafc4b63a9-status-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-e80079aafc4b63a9",
+    "field": "status",
+    "before": "passed_lower_house",
+    "after": "passed_diet",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
   },
   {
     "id": "change-bill-222-shugiin-3dc68adcad738b86-passedLowerHouseAt-2026-11-11T01:02:26.443Z",
@@ -558,6 +639,15 @@
     "detectedAt": "2026-11-12T02:09:08.967Z"
   },
   {
+    "id": "change-bill-222-shugiin-775b509548767cdd-enactedAt-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-775b509548767cdd",
+    "field": "enactedAt",
+    "before": null,
+    "after": "2026-11-13",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
+  },
+  {
     "id": "change-bill-222-shugiin-775b509548767cdd-passedLowerHouseAt-2026-11-07T00:39:29.682Z",
     "entityType": "bill",
     "entityId": "bill-222-shugiin-775b509548767cdd",
@@ -567,6 +657,15 @@
     "detectedAt": "2026-11-07T00:39:29.682Z"
   },
   {
+    "id": "change-bill-222-shugiin-775b509548767cdd-passedUpperHouseAt-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-775b509548767cdd",
+    "field": "passedUpperHouseAt",
+    "before": null,
+    "after": "2026-11-13",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
+  },
+  {
     "id": "change-bill-222-shugiin-775b509548767cdd-status-2026-11-07T00:39:29.682Z",
     "entityType": "bill",
     "entityId": "bill-222-shugiin-775b509548767cdd",
@@ -574,6 +673,33 @@
     "before": "committee_review",
     "after": "passed_lower_house",
     "detectedAt": "2026-11-07T00:39:29.682Z"
+  },
+  {
+    "id": "change-bill-222-shugiin-775b509548767cdd-status-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-775b509548767cdd",
+    "field": "status",
+    "before": "passed_lower_house",
+    "after": "passed_diet",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
+  },
+  {
+    "id": "change-bill-222-shugiin-978379fe3ca88d89-status-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-978379fe3ca88d89",
+    "field": "status",
+    "before": "submitted",
+    "after": "committee_review",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
+  },
+  {
+    "id": "change-bill-222-shugiin-978379fe3ca88d89-submittedAt-2026-11-14T01:19:18.500Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-978379fe3ca88d89",
+    "field": "submittedAt",
+    "before": null,
+    "after": "2026-11-12",
+    "detectedAt": "2026-11-14T01:19:18.500Z"
   },
   {
     "id": "change-bill-222-shugiin-c510f5a58fc7a0ff-passedLowerHouseAt-2026-11-11T01:02:26.443Z",
