@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-17T03:23:48.569Z"
+    "updatedAt": "2026-11-18T02:44:37.639Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -868,6 +868,16 @@
     "createdAt": "2026-10-30T00:36:41.882Z"
   },
   {
+    "id": "doc-kanpo-11f1125876c08bde",
+    "title": "一般職の職員の給与に関する法律等の一部を改正する法律（七九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261118/20261118g00251/20261118g002510004f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-18",
+    "createdAt": "2026-11-18T02:44:25.986Z"
+  },
+  {
     "id": "doc-kanpo-1239a1e982744f1a",
     "title": "厚生労働省組織規則の一部を改正する省令（厚生労働一二二）",
     "type": "kanpo",
@@ -927,7 +937,7 @@
     "source": "官報",
     "publishedAt": "2026-11-11",
     "createdAt": "2026-11-11T00:59:53.107Z",
-    "updatedAt": "2026-11-17T03:23:38.944Z"
+    "updatedAt": "2026-11-18T02:44:28.387Z"
   },
   {
     "id": "doc-kanpo-1622dd0ae80f76ee",
@@ -1103,6 +1113,16 @@
     "source": "官報",
     "publishedAt": "2026-06-30",
     "createdAt": "2026-07-07T00:36:45.475Z"
+  },
+  {
+    "id": "doc-kanpo-209bfaa04a3929c4",
+    "title": "特別職の職員の給与に関する法律及び二千二十七年国際園芸博覧会政府委員の設置に関する臨時措置法の一部を改正する法律（八〇）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261118/20261118g00251/20261118g002510046f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-18",
+    "createdAt": "2026-11-18T02:44:25.986Z"
   },
   {
     "id": "doc-kanpo-20dca28b70ebc806",
@@ -1329,6 +1349,16 @@
     "source": "官報",
     "publishedAt": "2026-09-17",
     "createdAt": "2026-09-16T23:32:22.074Z"
+  },
+  {
+    "id": "doc-kanpo-39138d85e618d476",
+    "title": "産業競争力強化法施行令及び登録免許税法施行令の一部を改正する政令（三五三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261118/20261118g00251/20261118g002510054f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-18",
+    "createdAt": "2026-11-18T02:44:25.986Z"
   },
   {
     "id": "doc-kanpo-39b7b22e7856c469",
@@ -1729,6 +1759,16 @@
     "createdAt": "2026-09-30T00:03:53.553Z"
   },
   {
+    "id": "doc-kanpo-5618685c96fac232",
+    "title": "検察官の俸給等に関する法律の一部を改正する法律（八五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261118/20261118g00251/20261118g002510051f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-18",
+    "createdAt": "2026-11-18T02:44:25.986Z"
+  },
+  {
     "id": "doc-kanpo-56fe6fae2b5e9c5d",
     "title": "地方独立行政法人法別表及び地方独立行政法人法施行令第五条第一項の総務省令で定める事務を定める省令の一部を改正する省令（総務九六）",
     "type": "kanpo",
@@ -1888,6 +1928,16 @@
     "source": "官報",
     "publishedAt": "2026-09-18",
     "createdAt": "2026-09-18T23:00:47.240Z"
+  },
+  {
+    "id": "doc-kanpo-6127c3570927b114",
+    "title": "裁判官の報酬等に関する法律の一部を改正する法律（八四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261118/20261118g00251/20261118g002510050f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-18",
+    "createdAt": "2026-11-18T02:44:25.986Z"
   },
   {
     "id": "doc-kanpo-634fe3c106700e57",
@@ -2072,7 +2122,7 @@
     "source": "官報",
     "publishedAt": "2026-11-17",
     "createdAt": "2026-11-17T03:23:37.146Z",
-    "updatedAt": "2026-11-17T03:23:37.147Z"
+    "updatedAt": "2026-11-18T02:44:26.467Z"
   },
   {
     "id": "doc-kanpo-6dbe3c9c1f53b552",
@@ -2103,6 +2153,16 @@
     "source": "官報",
     "publishedAt": "2026-09-30",
     "createdAt": "2026-09-30T00:03:53.554Z"
+  },
+  {
+    "id": "doc-kanpo-6f4b8d359706f43e",
+    "title": "人事院規則九―四〇（期末手当及び勤勉手当）の一部を改正する人事院規則（同九－四〇－六六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261118/20261118g00251/20261118g002510069f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-18",
+    "createdAt": "2026-11-18T02:44:25.987Z"
   },
   {
     "id": "doc-kanpo-6f55694159038a48",
@@ -2291,6 +2351,16 @@
     "updatedAt": "2026-07-08T22:04:49.166Z"
   },
   {
+    "id": "doc-kanpo-81a44bbcf8cefcc8",
+    "title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律の一部の施行期日を定める政令（三五二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261118/20261118g00251/20261118g002510053f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-18",
+    "createdAt": "2026-11-18T02:44:25.986Z"
+  },
+  {
     "id": "doc-kanpo-82ca298942d7844b",
     "title": "人事院規則九―五五（特地勤務手当等）の一部を改正する人事院規則（同九－五五－一五七）",
     "type": "kanpo",
@@ -2300,6 +2370,17 @@
     "publishedAt": "2026-07-01",
     "createdAt": "2026-07-07T00:36:45.158Z",
     "updatedAt": "2026-07-09T22:26:19.503Z"
+  },
+  {
+    "id": "doc-kanpo-82d844a09baa9128",
+    "title": "人事院規則九―八（初任給、昇格、昇給等の基準）の一部を改正する人事院規則（同九－八－九八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261118/20261118g00251/20261118g002510055f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-18",
+    "createdAt": "2026-11-18T02:44:25.986Z",
+    "updatedAt": "2026-11-18T02:44:25.986Z"
   },
   {
     "id": "doc-kanpo-8666a9d6e5b4a6b4",
@@ -2641,6 +2722,16 @@
     "createdAt": "2026-10-21T23:53:45.169Z"
   },
   {
+    "id": "doc-kanpo-a504b6f69e001a80",
+    "title": "地方公共団体の議会の議員及び長の選挙期日等の臨時特例に関する法律（八三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261118/20261118g00251/20261118g002510049f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-18",
+    "createdAt": "2026-11-18T02:44:25.986Z"
+  },
+  {
     "id": "doc-kanpo-a537256bddebae57",
     "title": "地方自治法施行規則の一部を改正する省令（総務一一二）",
     "type": "kanpo",
@@ -2966,7 +3057,7 @@
     "source": "官報",
     "publishedAt": "2026-11-13",
     "createdAt": "2026-11-13T01:40:56.031Z",
-    "updatedAt": "2026-11-17T03:23:38.045Z"
+    "updatedAt": "2026-11-18T02:44:27.427Z"
   },
   {
     "id": "doc-kanpo-bad24c54dc429350",
@@ -3461,6 +3552,16 @@
     "createdAt": "2026-10-30T00:36:41.882Z"
   },
   {
+    "id": "doc-kanpo-d9dc60b5f2f87524",
+    "title": "国家公務員災害補償法及び国家公務員共済組合法の一部を改正する法律（八二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261118/20261118g00251/20261118g002510048f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-18",
+    "createdAt": "2026-11-18T02:44:25.986Z"
+  },
+  {
     "id": "doc-kanpo-da6467fc7270fd22",
     "title": "日本国憲法の改正手続に関する法律施行規則の一部を改正する省令（総務一二二）",
     "type": "kanpo",
@@ -3780,6 +3881,16 @@
     "createdAt": "2026-09-18T23:00:47.240Z"
   },
   {
+    "id": "doc-kanpo-eeb18acab4e67aa2",
+    "title": "国会議員の秘書の給与等に関する法律の一部を改正する法律（八一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261118/20261118g00251/20261118g002510047f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-18",
+    "createdAt": "2026-11-18T02:44:25.986Z"
+  },
+  {
     "id": "doc-kanpo-eeeeacdbb923965d",
     "title": "更生保護制度の充実を図るための保護司法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令（二五三）",
     "type": "kanpo",
@@ -3975,6 +4086,17 @@
     "publishedAt": "2026-09-30",
     "createdAt": "2026-09-30T00:03:53.553Z",
     "updatedAt": "2026-10-08T00:42:48.259Z"
+  },
+  {
+    "id": "doc-kanpo-fa6a03645c465c02",
+    "title": "人事院規則九―三四（初任給調整手当）の一部を改正する人事院規則（同九－三四－三七）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261118/20261118g00251/20261118g002510067f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-18",
+    "createdAt": "2026-11-18T02:44:25.987Z",
+    "updatedAt": "2026-11-18T02:44:25.987Z"
   },
   {
     "id": "doc-kanpo-fb0eb7ee465f0c04",
@@ -5089,6 +5211,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-05-12",
     "createdAt": "2026-07-07T00:39:11.823Z"
+  },
+  {
+    "id": "doc-kokkai-54de63a936049a0a",
+    "billId": "bill-222-sangiin-5f3e8f18fb6b11b5",
+    "title": "第222回国会 衆議院 文部科学委員会 第2号 (2026-10-28)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122205124X00220261028",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-28",
+    "createdAt": "2026-11-18T02:46:52.580Z"
   },
   {
     "id": "doc-kokkai-5567044b6166fee6",

@@ -738,6 +738,15 @@
     "detectedAt": "2026-10-20T00:09:23.149Z"
   },
   {
+    "id": "change-law-507M60000002058-title-2026-11-18T02:47:03.638Z",
+    "entityType": "law",
+    "entityId": "law-507M60000002058",
+    "field": "title",
+    "before": "登録被災者援護協力団体に関する内閣府令",
+    "after": "登録被災者援護協力団体に関する防災庁令",
+    "detectedAt": "2026-11-18T02:47:03.638Z"
+  },
+  {
     "id": "change-law-508CO0000000224-title-2026-11-10T03:12:10.578Z",
     "entityType": "law",
     "entityId": "law-508CO0000000224",

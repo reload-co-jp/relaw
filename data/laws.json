@@ -1470,8 +1470,8 @@
   },
   {
     "id": "law-507M60000002058",
-    "title": "登録被災者援護協力団体に関する内閣府令",
-    "titleKana": "とうろくひさいしゃえんごきょうりょくだんたいにかんするないかくふれい",
+    "title": "登録被災者援護協力団体に関する防災庁令",
+    "titleKana": "とうろくひさいしゃえんごきょうりょくだんたいにかんするぼうさいちょうれい",
     "lawNumber": "令和七年内閣府令第五十八号",
     "lawType": "ministerial_ordinance",
     "status": "in_force",
@@ -1479,7 +1479,7 @@
     "egovLawId": "507M60000002058",
     "sourceUrl": "https://laws.e-gov.go.jp/law/507M60000002058",
     "createdAt": "2026-07-07T00:35:39.815Z",
-    "updatedAt": "2026-07-07T00:35:39.815Z"
+    "updatedAt": "2026-11-18T02:43:57.137Z"
   },
   {
     "id": "law-507M60000002063",
@@ -2559,6 +2559,19 @@
     "sourceUrl": "https://laws.e-gov.go.jp/law/508AC0000000071",
     "createdAt": "2026-07-24T22:03:03.710Z",
     "updatedAt": "2026-07-24T22:03:03.710Z"
+  },
+  {
+    "id": "law-508AC0000000083",
+    "title": "地方公共団体の議会の議員及び長の選挙期日等の臨時特例に関する法律",
+    "titleKana": "ちほうこうきょうだんたいのぎかいのぎいんおよびちょうのせんきょきじつとうのりんじとくれいにかんするほうりつ",
+    "lawNumber": "令和八年法律第八十三号",
+    "lawType": "act",
+    "status": "in_force",
+    "promulgatedAt": "2026-11-18",
+    "egovLawId": "508AC0000000083",
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508AC0000000083",
+    "createdAt": "2026-11-18T02:43:57.140Z",
+    "updatedAt": "2026-11-18T02:43:57.140Z"
   },
   {
     "id": "law-508AC1000000069",
@@ -4288,6 +4301,71 @@
     "sourceUrl": "https://laws.e-gov.go.jp/law/508M60004018002",
     "createdAt": "2026-07-07T00:35:39.817Z",
     "updatedAt": "2026-07-07T00:35:39.817Z"
+  },
+  {
+    "id": "law-508M60008000001",
+    "title": "防災庁組織規則",
+    "titleKana": "ぼうさいちょうそしききそく",
+    "lawNumber": "令和八年防災庁令第一号",
+    "lawType": "ministerial_ordinance",
+    "status": "in_force",
+    "promulgatedAt": "2026-11-02",
+    "egovLawId": "508M60008000001",
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508M60008000001",
+    "createdAt": "2026-11-18T02:43:57.145Z",
+    "updatedAt": "2026-11-18T02:43:57.145Z"
+  },
+  {
+    "id": "law-508M60008000002",
+    "title": "防災庁聴聞手続規則",
+    "titleKana": "ぼうさいちょうちょうもんてつづききそく",
+    "lawNumber": "令和八年防災庁令第二号",
+    "lawType": "ministerial_ordinance",
+    "status": "in_force",
+    "promulgatedAt": "2026-11-02",
+    "egovLawId": "508M60008000002",
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508M60008000002",
+    "createdAt": "2026-11-18T02:43:57.145Z",
+    "updatedAt": "2026-11-18T02:43:57.145Z"
+  },
+  {
+    "id": "law-508M60008000003",
+    "title": "防災庁の所管する法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則",
+    "titleKana": "ぼうさいちょうのしょかんするほうれいにかかるじょうほうつうしんぎじゅつをかつようしたぎょうせいのすいしんとうにかんするほうりつしこうきそく",
+    "lawNumber": "令和八年防災庁令第三号",
+    "lawType": "ministerial_ordinance",
+    "status": "in_force",
+    "promulgatedAt": "2026-11-02",
+    "egovLawId": "508M60008000003",
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508M60008000003",
+    "createdAt": "2026-11-18T02:43:57.145Z",
+    "updatedAt": "2026-11-18T02:43:57.145Z"
+  },
+  {
+    "id": "law-508M60008000004",
+    "title": "防災庁所管に属する物品の無償貸付及び譲与に関する防災庁令",
+    "titleKana": "ぼうさいちょうしょかんにぞくするぶっぴんのむしょうかしつけおよびじょうよにかんするぼうさいちょうれい",
+    "lawNumber": "令和八年防災庁令第四号",
+    "lawType": "ministerial_ordinance",
+    "status": "in_force",
+    "promulgatedAt": "2026-11-02",
+    "egovLawId": "508M60008000004",
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508M60008000004",
+    "createdAt": "2026-11-18T02:43:57.145Z",
+    "updatedAt": "2026-11-18T02:43:57.145Z"
+  },
+  {
+    "id": "law-508M60008000005",
+    "title": "防災庁の所管に属する不動産及び船舶に関する権利の登記嘱託職員を指定する防災庁令",
+    "titleKana": "ぼうさいちょうのしょかんにぞくするふどうさんおよびせんぱくにかんするけんりのとうきしょくたくしょくいんをしていするぼうさいちょうれい",
+    "lawNumber": "令和八年防災庁令第五号",
+    "lawType": "ministerial_ordinance",
+    "status": "in_force",
+    "promulgatedAt": "2026-11-02",
+    "egovLawId": "508M60008000005",
+    "sourceUrl": "https://laws.e-gov.go.jp/law/508M60008000005",
+    "createdAt": "2026-11-18T02:43:57.145Z",
+    "updatedAt": "2026-11-18T02:43:57.145Z"
   },
   {
     "id": "law-508M60400000008",
