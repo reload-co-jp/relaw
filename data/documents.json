@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-18T02:44:37.639Z"
+    "updatedAt": "2026-11-19T02:16:01.866Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -734,6 +734,17 @@
     "updatedAt": "2026-10-08T00:42:48.258Z"
   },
   {
+    "id": "doc-kanpo-0583156719e1b33f",
+    "title": "産業競争力強化法の規定による株式会社への組織変更に関する省令（厚生労働・経済産業二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261119/20261119h01832/20261119h018320002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-19",
+    "createdAt": "2026-11-19T02:15:50.371Z",
+    "updatedAt": "2026-11-19T02:15:50.372Z"
+  },
+  {
     "id": "doc-kanpo-05a7da66c97e4f4e",
     "title": "感染症の予防及び感染症の患者に対する医療に関する法律施行規則の一部を改正する省令（同一〇九）",
     "type": "kanpo",
@@ -795,6 +806,17 @@
     "source": "官報",
     "publishedAt": "2026-07-17",
     "createdAt": "2026-07-17T21:52:34.771Z"
+  },
+  {
+    "id": "doc-kanpo-096916480266d3ad",
+    "title": "経済産業省関係産業競争力強化法施行規則の一部を改正する省令（同八三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261119/20261119h01832/20261119h018320003f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-19",
+    "createdAt": "2026-11-19T02:15:50.372Z",
+    "updatedAt": "2026-11-19T02:15:50.372Z"
   },
   {
     "id": "doc-kanpo-09ad9becd2a368e2",
@@ -937,7 +959,7 @@
     "source": "官報",
     "publishedAt": "2026-11-11",
     "createdAt": "2026-11-11T00:59:53.107Z",
-    "updatedAt": "2026-11-18T02:44:28.387Z"
+    "updatedAt": "2026-11-19T02:15:53.237Z"
   },
   {
     "id": "doc-kanpo-1622dd0ae80f76ee",
@@ -2122,7 +2144,7 @@
     "source": "官報",
     "publishedAt": "2026-11-17",
     "createdAt": "2026-11-17T03:23:37.146Z",
-    "updatedAt": "2026-11-18T02:44:26.467Z"
+    "updatedAt": "2026-11-19T02:15:51.327Z"
   },
   {
     "id": "doc-kanpo-6dbe3c9c1f53b552",
@@ -2380,7 +2402,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.986Z",
-    "updatedAt": "2026-11-18T02:44:25.986Z"
+    "updatedAt": "2026-11-19T02:15:50.849Z"
   },
   {
     "id": "doc-kanpo-8666a9d6e5b4a6b4",
@@ -3057,7 +3079,7 @@
     "source": "官報",
     "publishedAt": "2026-11-13",
     "createdAt": "2026-11-13T01:40:56.031Z",
-    "updatedAt": "2026-11-18T02:44:27.427Z"
+    "updatedAt": "2026-11-19T02:15:52.282Z"
   },
   {
     "id": "doc-kanpo-bad24c54dc429350",
@@ -4096,7 +4118,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.987Z",
-    "updatedAt": "2026-11-18T02:44:25.987Z"
+    "updatedAt": "2026-11-19T02:15:50.849Z"
   },
   {
     "id": "doc-kanpo-fb0eb7ee465f0c04",
@@ -5103,6 +5125,17 @@
     "createdAt": "2026-11-11T01:02:24.161Z"
   },
   {
+    "id": "doc-kokkai-48cc74494d8f2413",
+    "billId": "bill-222-cas-d94020c8875e09ca",
+    "title": "第222回国会 参議院 議院運営委員会 第5号 (2026-11-11)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122214024X00520261111",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-11",
+    "createdAt": "2026-11-19T02:18:09.243Z"
+  },
+  {
     "id": "doc-kokkai-4ac92255b31d0b1f",
     "billId": "bill-221-shugiin-bcf1f1dc9f4a1fa1",
     "title": "第222回国会 衆議院 政治改革に関する特別委員会 第1号 (2026-10-05)",
@@ -5376,6 +5409,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-07-30T22:06:48.836Z"
+  },
+  {
+    "id": "doc-kokkai-6455c01ae7ae5fa2",
+    "billId": "bill-222-cas-d94020c8875e09ca",
+    "title": "第222回国会 衆議院 本会議 第4号 (2026-10-20)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122205254X00420261020",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-20",
+    "createdAt": "2026-11-19T02:18:09.243Z"
   },
   {
     "id": "doc-kokkai-65083f44882c7cc7",
@@ -6410,6 +6454,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-18",
     "createdAt": "2026-07-29T22:02:47.431Z"
+  },
+  {
+    "id": "doc-kokkai-e84bbff327d9544f",
+    "billId": "bill-222-cas-d94020c8875e09ca",
+    "title": "第222回国会 衆議院 財務金融委員会 第2号 (2026-10-21)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204376X00220261021",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-21",
+    "createdAt": "2026-11-19T02:18:09.243Z"
   },
   {
     "id": "doc-kokkai-e8691af32a11c860",
