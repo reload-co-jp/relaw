@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-19T02:16:01.866Z"
+    "updatedAt": "2026-11-20T02:00:35.933Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -742,7 +742,7 @@
     "source": "官報",
     "publishedAt": "2026-11-19",
     "createdAt": "2026-11-19T02:15:50.371Z",
-    "updatedAt": "2026-11-19T02:15:50.372Z"
+    "updatedAt": "2026-11-20T02:00:24.326Z"
   },
   {
     "id": "doc-kanpo-05a7da66c97e4f4e",
@@ -816,7 +816,7 @@
     "source": "官報",
     "publishedAt": "2026-11-19",
     "createdAt": "2026-11-19T02:15:50.372Z",
-    "updatedAt": "2026-11-19T02:15:50.372Z"
+    "updatedAt": "2026-11-20T02:00:24.326Z"
   },
   {
     "id": "doc-kanpo-09ad9becd2a368e2",
@@ -960,6 +960,16 @@
     "publishedAt": "2026-11-11",
     "createdAt": "2026-11-11T00:59:53.107Z",
     "updatedAt": "2026-11-19T02:15:53.237Z"
+  },
+  {
+    "id": "doc-kanpo-15fe0c7032495b2c",
+    "title": "産業競争力強化法第百四十条の二十八第一項に規定する生活維持物品役務需要減等事業適応支援業務を行う者の認定等に関する省令（同八五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261120/20261120g00253/20261120g002530056f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-20",
+    "createdAt": "2026-11-20T02:00:23.829Z"
   },
   {
     "id": "doc-kanpo-1622dd0ae80f76ee",
@@ -1310,6 +1320,16 @@
     "source": "官報",
     "publishedAt": "2026-07-31",
     "createdAt": "2026-07-31T22:03:58.764Z"
+  },
+  {
+    "id": "doc-kanpo-30a3e69a1478afcd",
+    "title": "防衛省の職員の給与等に関する法律の一部を改正する法律（八九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261120/20261120g00253/20261120g002530005f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-20",
+    "createdAt": "2026-11-20T02:00:23.829Z"
   },
   {
     "id": "doc-kanpo-33449359047e4bad",
@@ -1811,6 +1831,17 @@
     "createdAt": "2026-09-11T22:58:17.964Z"
   },
   {
+    "id": "doc-kanpo-588f4cbf71f92510",
+    "title": "防衛省職員給与施行規則の一部を改正する省令（同二八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261120/20261120g00253/20261120g002530152f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-20",
+    "createdAt": "2026-11-20T02:00:23.829Z",
+    "updatedAt": "2026-11-20T02:00:23.829Z"
+  },
+  {
     "id": "doc-kanpo-58cb7db2fa174a52",
     "title": "予防接種法の一部を改正する法律（七六）",
     "type": "kanpo",
@@ -1869,6 +1900,16 @@
     "source": "官報",
     "publishedAt": "2026-11-06",
     "createdAt": "2026-11-06T01:22:06.400Z"
+  },
+  {
+    "id": "doc-kanpo-5a2daf4fa9d073d0",
+    "title": "都市再生特別措置法等の一部を改正する法律の施行期日を定める政令（三五四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261120/20261120g00253/20261120g002530013f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-20",
+    "createdAt": "2026-11-20T02:00:23.829Z"
   },
   {
     "id": "doc-kanpo-5a7a54b7941fad1e",
@@ -2144,7 +2185,7 @@
     "source": "官報",
     "publishedAt": "2026-11-17",
     "createdAt": "2026-11-17T03:23:37.146Z",
-    "updatedAt": "2026-11-19T02:15:51.327Z"
+    "updatedAt": "2026-11-20T02:00:25.318Z"
   },
   {
     "id": "doc-kanpo-6dbe3c9c1f53b552",
@@ -2402,7 +2443,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.986Z",
-    "updatedAt": "2026-11-19T02:15:50.849Z"
+    "updatedAt": "2026-11-20T02:00:24.823Z"
   },
   {
     "id": "doc-kanpo-8666a9d6e5b4a6b4",
@@ -2887,6 +2928,16 @@
     "updatedAt": "2026-10-29T00:35:54.764Z"
   },
   {
+    "id": "doc-kanpo-ac97f744e6bc8012",
+    "title": "建築基準法施行規則及び建築基準法に基づく指定建築基準適合判定資格者検定機関等に関する省令の一部を改正する省令（国土交通八七）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261120/20261120g00253/20261120g002530061f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-20",
+    "createdAt": "2026-11-20T02:00:23.829Z"
+  },
+  {
     "id": "doc-kanpo-ad87205849e7a20c",
     "title": "円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律施行規則（経済産業五八）",
     "type": "kanpo",
@@ -2957,6 +3008,16 @@
     "publishedAt": "2026-08-28",
     "createdAt": "2026-08-28T05:06:28.172Z",
     "updatedAt": "2026-09-07T23:16:40.762Z"
+  },
+  {
+    "id": "doc-kanpo-b2b2e2ae08ed0909",
+    "title": "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第二十六条の地方公共団体等を定める省令の一部を改正する省令（総務一二七）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261120/20261120g00253/20261120g002530050f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-20",
+    "createdAt": "2026-11-20T02:00:23.829Z"
   },
   {
     "id": "doc-kanpo-b30bf527f09857ff",
@@ -3079,7 +3140,7 @@
     "source": "官報",
     "publishedAt": "2026-11-13",
     "createdAt": "2026-11-13T01:40:56.031Z",
-    "updatedAt": "2026-11-19T02:15:52.282Z"
+    "updatedAt": "2026-11-20T02:00:26.310Z"
   },
   {
     "id": "doc-kanpo-bad24c54dc429350",
@@ -3121,6 +3182,16 @@
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z",
     "updatedAt": "2026-08-16T21:17:35.614Z"
+  },
+  {
+    "id": "doc-kanpo-bd20e63c64932dc0",
+    "title": "中小企業信用保険法施行規則の一部を改正する省令（経済産業八四）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261120/20261120g00253/20261120g002530052f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-20",
+    "createdAt": "2026-11-20T02:00:23.829Z"
   },
   {
     "id": "doc-kanpo-bd530371f34e634e",
@@ -3274,6 +3345,16 @@
     "createdAt": "2026-07-07T00:36:45.158Z"
   },
   {
+    "id": "doc-kanpo-c6e77dafc74aaadc",
+    "title": "都市再生特別措置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令（三五五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261120/20261120g00253/20261120g002530014f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-20",
+    "createdAt": "2026-11-20T02:00:23.829Z"
+  },
+  {
     "id": "doc-kanpo-c72ab8b4279090e0",
     "title": "日本国憲法の改正手続に関する法律施行令の一部を改正する政令（三三七）",
     "type": "kanpo",
@@ -3292,6 +3373,16 @@
     "source": "官報",
     "publishedAt": "2026-09-28",
     "createdAt": "2026-09-27T23:39:14.562Z"
+  },
+  {
+    "id": "doc-kanpo-c808a0fb6dc79b35",
+    "title": "防衛省の職員の給与等に関する法律第四条第一項の学生及び生徒に支給する第二種初任給調整手当の特例に関する政令（三五六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261120/20261120g00253/20261120g002530017f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-20",
+    "createdAt": "2026-11-20T02:00:23.829Z"
   },
   {
     "id": "doc-kanpo-c819a43fdd7cd418",
@@ -3655,6 +3746,16 @@
     "createdAt": "2026-07-24T22:03:16.531Z"
   },
   {
+    "id": "doc-kanpo-dcc6a259e1d560dd",
+    "title": "地方公務員災害補償法及び地方公務員等共済組合法の一部を改正する法律（八六）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261120/20261120g00253/20261120g002530003f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-20",
+    "createdAt": "2026-11-20T02:00:23.829Z"
+  },
+  {
     "id": "doc-kanpo-dd9e3186c56384ac",
     "title": "環境影響評価法施行令の一部を改正する政令（三二七）",
     "type": "kanpo",
@@ -3664,6 +3765,16 @@
     "publishedAt": "2026-10-15",
     "createdAt": "2026-10-14T23:41:06.068Z",
     "updatedAt": "2026-10-25T23:00:50.408Z"
+  },
+  {
+    "id": "doc-kanpo-ddb43053bf5c4135",
+    "title": "化学物質の審査及び製造等の規制に関する法律施行令附則第四項の表ＰＦＯＳ又はその塩の項等に規定する消火器、消火器用消火薬剤及び泡消火薬剤に関する技術上の基準を定める省令の一部を改正する省令（総務・厚生労働・経済産業・国土交通・環境・防衛二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261120/20261120h01833/20261120h018330002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-20",
+    "createdAt": "2026-11-20T02:00:23.828Z"
   },
   {
     "id": "doc-kanpo-ddb5a2179957ccb8",
@@ -3718,6 +3829,17 @@
     "publishedAt": "2026-09-04",
     "createdAt": "2026-09-04T22:46:40.508Z",
     "updatedAt": "2026-09-13T22:52:29.517Z"
+  },
+  {
+    "id": "doc-kanpo-e3830229e8a26582",
+    "title": "特定Ｂ型肝炎ウイルス感染者給付金等の支給に関する特別措置法の一部を改正する法律（八八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261120/20261120g00253/20261120g002530004f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-20",
+    "createdAt": "2026-11-20T02:00:23.829Z",
+    "updatedAt": "2026-11-20T02:00:23.829Z"
   },
   {
     "id": "doc-kanpo-e3e8c6991e1ee8e7",
@@ -4118,7 +4240,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.987Z",
-    "updatedAt": "2026-11-19T02:15:50.849Z"
+    "updatedAt": "2026-11-20T02:00:24.823Z"
   },
   {
     "id": "doc-kanpo-fb0eb7ee465f0c04",
@@ -6456,6 +6578,17 @@
     "createdAt": "2026-07-29T22:02:47.431Z"
   },
   {
+    "id": "doc-kokkai-e5bab0742017867a",
+    "billId": "bill-222-sangiin-5f3e8f18fb6b11b5",
+    "title": "第222回国会 衆議院 文部科学委員会 第3号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122205124X00320261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-20T02:02:51.298Z"
+  },
+  {
     "id": "doc-kokkai-e84bbff327d9544f",
     "billId": "bill-222-cas-d94020c8875e09ca",
     "title": "第222回国会 衆議院 財務金融委員会 第2号 (2026-10-21)",
@@ -6723,6 +6856,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:57.509Z"
+  },
+  {
+    "id": "doc-sangiin-0536d7bc32d43c79",
+    "billId": "bill-222-cas-57f16337980bafee",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/s0802220022220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-20T02:02:04.393Z"
   },
   {
     "id": "doc-sangiin-053b22c4a0acd9b8",
@@ -7043,6 +7186,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:28.036Z"
+  },
+  {
+    "id": "doc-sangiin-11be91457a9f9c91",
+    "billId": "bill-222-cas-78140543f49075cc",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/s0802220032220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-20T02:02:04.818Z"
   },
   {
     "id": "doc-sangiin-11fe3550356c95f9",
@@ -8946,6 +9099,16 @@
     "createdAt": "2026-07-07T04:48:29.963Z"
   },
   {
+    "id": "doc-sangiin-6b0a477983dc13e3",
+    "billId": "bill-222-cas-d81b73f30ca09207",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/s0802220042220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-20T02:02:05.244Z"
+  },
+  {
     "id": "doc-sangiin-6bc771d4f4f2422d",
     "billId": "bill-221-shugiin-d889124a4f6f1a36",
     "title": "成立法律",
@@ -10377,6 +10540,16 @@
     "createdAt": "2026-07-07T04:49:24.998Z"
   },
   {
+    "id": "doc-sangiin-b73c28c88ea1c6fb",
+    "billId": "bill-222-sangiin-7ce93c6bd8bc5825",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/s0802220062220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-20T02:02:06.143Z"
+  },
+  {
     "id": "doc-sangiin-b77dda57b26476f1",
     "billId": "bill-221-shugiin-ab99b092ab2bfaf7",
     "title": "提出法律案",
@@ -10647,6 +10820,16 @@
     "createdAt": "2026-07-07T04:48:28.755Z"
   },
   {
+    "id": "doc-sangiin-c2f0a7bf4dd513d6",
+    "billId": "bill-222-sangiin-90629d88a370196e",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/s0802220162220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-20T02:02:10.381Z"
+  },
+  {
     "id": "doc-sangiin-c364044fa7b5c26f",
     "billId": "bill-221-shugiin-94ca35289fa8a2ac",
     "title": "参議院デジタル社会の形成及び人工知能の活用等に関する特別委員会の修正案（立憲、公明、沖縄・否決）",
@@ -10765,6 +10948,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-21T22:03:50.181Z"
+  },
+  {
+    "id": "doc-sangiin-c8a118c840ae69fb",
+    "billId": "bill-222-sangiin-b5349b1f70e00feb",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/s0802220072220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-20T02:02:06.566Z"
   },
   {
     "id": "doc-sangiin-c901f9ea83b371e6",
@@ -11267,6 +11460,16 @@
     "createdAt": "2026-07-07T04:49:08.775Z"
   },
   {
+    "id": "doc-sangiin-e3adacf6d70d54d2",
+    "billId": "bill-222-sangiin-4ace47251fe8ed9e",
+    "title": "成立法律",
+    "type": "result",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/s0902220022220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-20T02:02:13.331Z"
+  },
+  {
     "id": "doc-sangiin-e43fdc1d81e3fc51",
     "billId": "bill-221-shugiin-db693801bd5d6db5",
     "title": "提出法律案",
@@ -11275,6 +11478,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:49:30.137Z"
+  },
+  {
+    "id": "doc-sangiin-e5783bc070843771",
+    "billId": "bill-222-sangiin-1d61dfc890624cf6",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t1002220052220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-20T02:02:24.702Z"
   },
   {
     "id": "doc-sangiin-e6198999a2356e7b",
