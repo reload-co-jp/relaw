@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-21T01:58:01.340Z"
+    "updatedAt": "2026-11-22T00:56:58.854Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -742,7 +742,7 @@
     "source": "官報",
     "publishedAt": "2026-11-19",
     "createdAt": "2026-11-19T02:15:50.371Z",
-    "updatedAt": "2026-11-21T01:57:50.165Z"
+    "updatedAt": "2026-11-22T00:56:48.461Z"
   },
   {
     "id": "doc-kanpo-05a7da66c97e4f4e",
@@ -816,7 +816,7 @@
     "source": "官報",
     "publishedAt": "2026-11-19",
     "createdAt": "2026-11-19T02:15:50.372Z",
-    "updatedAt": "2026-11-21T01:57:50.165Z"
+    "updatedAt": "2026-11-22T00:56:48.461Z"
   },
   {
     "id": "doc-kanpo-09ad9becd2a368e2",
@@ -1839,7 +1839,7 @@
     "source": "官報",
     "publishedAt": "2026-11-20",
     "createdAt": "2026-11-20T02:00:23.829Z",
-    "updatedAt": "2026-11-21T01:57:49.683Z"
+    "updatedAt": "2026-11-22T00:56:48.013Z"
   },
   {
     "id": "doc-kanpo-58cb7db2fa174a52",
@@ -2185,7 +2185,7 @@
     "source": "官報",
     "publishedAt": "2026-11-17",
     "createdAt": "2026-11-17T03:23:37.146Z",
-    "updatedAt": "2026-11-21T01:57:51.129Z"
+    "updatedAt": "2026-11-22T00:56:49.358Z"
   },
   {
     "id": "doc-kanpo-6dbe3c9c1f53b552",
@@ -2443,7 +2443,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.986Z",
-    "updatedAt": "2026-11-21T01:57:50.647Z"
+    "updatedAt": "2026-11-22T00:56:48.910Z"
   },
   {
     "id": "doc-kanpo-8666a9d6e5b4a6b4",
@@ -3140,7 +3140,7 @@
     "source": "官報",
     "publishedAt": "2026-11-13",
     "createdAt": "2026-11-13T01:40:56.031Z",
-    "updatedAt": "2026-11-21T01:57:52.093Z"
+    "updatedAt": "2026-11-22T00:56:50.254Z"
   },
   {
     "id": "doc-kanpo-bad24c54dc429350",
@@ -3839,7 +3839,7 @@
     "source": "官報",
     "publishedAt": "2026-11-20",
     "createdAt": "2026-11-20T02:00:23.829Z",
-    "updatedAt": "2026-11-21T01:57:49.682Z"
+    "updatedAt": "2026-11-22T00:56:48.012Z"
   },
   {
     "id": "doc-kanpo-e3e8c6991e1ee8e7",
@@ -4240,7 +4240,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.987Z",
-    "updatedAt": "2026-11-21T01:57:50.647Z"
+    "updatedAt": "2026-11-22T00:56:48.910Z"
   },
   {
     "id": "doc-kanpo-fb0eb7ee465f0c04",
@@ -4893,6 +4893,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-10-21",
     "createdAt": "2026-11-10T03:11:56.472Z"
+  },
+  {
+    "id": "doc-kokkai-2fb76be909363a5d",
+    "billId": "bill-221-shugiin-7ee6e626b8ad694e",
+    "title": "第221回国会 衆議院 議院運営委員会 第39号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104024X03920260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-11-22T00:58:46.626Z"
   },
   {
     "id": "doc-kokkai-2fe37c5d9d010f9b",
@@ -5962,6 +5973,17 @@
     "createdAt": "2026-10-06T01:42:10.567Z"
   },
   {
+    "id": "doc-kokkai-945c3d8f9b9588f5",
+    "billId": "bill-221-shugiin-7ee6e626b8ad694e",
+    "title": "第221回国会 衆議院 政治改革に関する特別委員会 第12号 (2026-07-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122104575X01220260724",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-07-24",
+    "createdAt": "2026-11-22T00:58:46.626Z"
+  },
+  {
     "id": "doc-kokkai-96ad7a1601b33b99",
     "billId": "bill-221-shugiin-bcf1f1dc9f4a1fa1",
     "title": "第221回国会 衆議院 政治改革に関する特別委員会 第12号 (2026-07-24)",
@@ -6015,6 +6037,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-08-24T21:28:58.188Z"
+  },
+  {
+    "id": "doc-kokkai-9e4e3b45bc2b433b",
+    "billId": "bill-221-shugiin-7ee6e626b8ad694e",
+    "title": "第222回国会 衆議院 政治改革に関する特別委員会 第1号 (2026-10-05)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204575X00120261005",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-05",
+    "createdAt": "2026-11-22T00:58:46.626Z"
   },
   {
     "id": "doc-kokkai-9f173b929e37582e",
@@ -6950,13 +6983,14 @@
   },
   {
     "id": "doc-sangiin-095e76825c6c45f2",
-    "billId": "bill-221-sangiin-7ee6e626b8ad694e",
+    "billId": "bill-221-shugiin-7ee6e626b8ad694e",
     "title": "提出法律案",
     "type": "bill_text",
     "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t0902210352210.pdf",
     "format": "pdf",
     "source": "参議院",
-    "createdAt": "2026-10-06T01:41:35.881Z"
+    "createdAt": "2026-10-06T01:41:35.881Z",
+    "updatedAt": "2026-11-22T00:58:30.015Z"
   },
   {
     "id": "doc-sangiin-09eb32c5424ec55b",
