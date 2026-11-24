@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-23T01:24:05.622Z"
+    "updatedAt": "2026-11-24T05:07:57.948Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -742,7 +742,7 @@
     "source": "官報",
     "publishedAt": "2026-11-19",
     "createdAt": "2026-11-19T02:15:50.371Z",
-    "updatedAt": "2026-11-23T01:23:54.562Z"
+    "updatedAt": "2026-11-24T05:07:48.150Z"
   },
   {
     "id": "doc-kanpo-05a7da66c97e4f4e",
@@ -816,7 +816,7 @@
     "source": "官報",
     "publishedAt": "2026-11-19",
     "createdAt": "2026-11-19T02:15:50.372Z",
-    "updatedAt": "2026-11-23T01:23:54.562Z"
+    "updatedAt": "2026-11-24T05:07:48.150Z"
   },
   {
     "id": "doc-kanpo-09ad9becd2a368e2",
@@ -1839,7 +1839,7 @@
     "source": "官報",
     "publishedAt": "2026-11-20",
     "createdAt": "2026-11-20T02:00:23.829Z",
-    "updatedAt": "2026-11-23T01:23:54.049Z"
+    "updatedAt": "2026-11-24T05:07:47.721Z"
   },
   {
     "id": "doc-kanpo-58cb7db2fa174a52",
@@ -2185,7 +2185,7 @@
     "source": "官報",
     "publishedAt": "2026-11-17",
     "createdAt": "2026-11-17T03:23:37.146Z",
-    "updatedAt": "2026-11-23T01:23:55.589Z"
+    "updatedAt": "2026-11-24T05:07:49.006Z"
   },
   {
     "id": "doc-kanpo-6dbe3c9c1f53b552",
@@ -2424,6 +2424,16 @@
     "createdAt": "2026-11-18T02:44:25.986Z"
   },
   {
+    "id": "doc-kanpo-8271e8e7ead2848d",
+    "title": "都市再生特別措置法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令（国土交通八八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261124/20261124g00255/20261124g002550008f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-24",
+    "createdAt": "2026-11-24T05:07:47.291Z"
+  },
+  {
     "id": "doc-kanpo-82ca298942d7844b",
     "title": "人事院規則九―五五（特地勤務手当等）の一部を改正する人事院規則（同九－五五－一五七）",
     "type": "kanpo",
@@ -2443,7 +2453,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.986Z",
-    "updatedAt": "2026-11-23T01:23:55.075Z"
+    "updatedAt": "2026-11-24T05:07:48.578Z"
   },
   {
     "id": "doc-kanpo-8666a9d6e5b4a6b4",
@@ -2917,6 +2927,16 @@
     "createdAt": "2026-09-16T23:32:22.552Z"
   },
   {
+    "id": "doc-kanpo-ab9ad6ead10c3e2f",
+    "title": "文部科学省・農林水産省・国土交通省関係地域における歴史的風致の維持及び向上に関する法律施行規則の一部を改正する省令（文部科学・農林水産・国土交通一）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261124/20261124g00255/20261124g002550002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-24",
+    "createdAt": "2026-11-24T05:07:47.291Z"
+  },
+  {
     "id": "doc-kanpo-ac531d58e2950c21",
     "title": "郵政民営化委員会令の一部を改正する政令（三三一）",
     "type": "kanpo",
@@ -3140,7 +3160,7 @@
     "source": "官報",
     "publishedAt": "2026-11-13",
     "createdAt": "2026-11-13T01:40:56.031Z",
-    "updatedAt": "2026-11-23T01:23:56.618Z"
+    "updatedAt": "2026-11-24T05:07:49.862Z"
   },
   {
     "id": "doc-kanpo-bad24c54dc429350",
@@ -3171,6 +3191,16 @@
     "source": "官報",
     "publishedAt": "2026-07-27",
     "createdAt": "2026-07-27T22:05:04.288Z"
+  },
+  {
+    "id": "doc-kanpo-bb9de5ccd41e8134",
+    "title": "独立行政法人住宅金融支援機構に関する省令の一部を改正する省令（財務・国土交通三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261124/20261124h01834/20261124h018340002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-24",
+    "createdAt": "2026-11-24T05:07:47.291Z"
   },
   {
     "id": "doc-kanpo-bba163c4d49873e9",
@@ -3820,6 +3850,16 @@
     "updatedAt": "2026-08-16T21:17:35.614Z"
   },
   {
+    "id": "doc-kanpo-e2ee45d08d1f3a5b",
+    "title": "労働安全衛生規則の一部を改正する省令（厚生労働一五八）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261124/20261124g00255/20261124g002550003f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-24",
+    "createdAt": "2026-11-24T05:07:47.291Z"
+  },
+  {
     "id": "doc-kanpo-e33b6b45dac18a74",
     "title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の一部の施行に伴う経過措置に関する省令（厚生労働一三七）",
     "type": "kanpo",
@@ -3839,7 +3879,7 @@
     "source": "官報",
     "publishedAt": "2026-11-20",
     "createdAt": "2026-11-20T02:00:23.829Z",
-    "updatedAt": "2026-11-23T01:23:54.048Z"
+    "updatedAt": "2026-11-24T05:07:47.721Z"
   },
   {
     "id": "doc-kanpo-e3e8c6991e1ee8e7",
@@ -3891,6 +3931,16 @@
     "publishedAt": "2026-08-07",
     "createdAt": "2026-08-07T21:37:14.552Z",
     "updatedAt": "2026-08-18T21:21:47.338Z"
+  },
+  {
+    "id": "doc-kanpo-e6655d58d037d30a",
+    "title": "景観行政団体及び景観計画に関する省令の一部を改正する省令（農林水産・国土交通・環境二）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261124/20261124g00255/20261124g002550007f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-24",
+    "createdAt": "2026-11-24T05:07:47.291Z"
   },
   {
     "id": "doc-kanpo-e67dd161670547a2",
@@ -4221,6 +4271,16 @@
     "createdAt": "2026-07-07T00:36:44.528Z"
   },
   {
+    "id": "doc-kanpo-f9b1d17dc9a21b68",
+    "title": "都市計画区域外の景観重要樹木及び景観協定に関する省令及び畜舎等の建築等及び利用の特例に関する法律施行規則の一部を改正する省令（農林水産・国土交通三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261124/20261124g00255/20261124g002550004f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-24",
+    "createdAt": "2026-11-24T05:07:47.291Z"
+  },
+  {
     "id": "doc-kanpo-fa018b2a64c089d3",
     "title": "雇用保険法施行令の一部を改正する政令（三一八）",
     "type": "kanpo",
@@ -4240,7 +4300,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.987Z",
-    "updatedAt": "2026-11-23T01:23:55.076Z"
+    "updatedAt": "2026-11-24T05:07:48.578Z"
   },
   {
     "id": "doc-kanpo-fb0eb7ee465f0c04",
