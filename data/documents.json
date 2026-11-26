@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-25T03:56:56.409Z"
+    "updatedAt": "2026-11-26T03:22:28.557Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -742,7 +742,7 @@
     "source": "官報",
     "publishedAt": "2026-11-19",
     "createdAt": "2026-11-19T02:15:50.371Z",
-    "updatedAt": "2026-11-25T03:56:46.141Z"
+    "updatedAt": "2026-11-26T03:22:10.127Z"
   },
   {
     "id": "doc-kanpo-05a7da66c97e4f4e",
@@ -816,7 +816,7 @@
     "source": "官報",
     "publishedAt": "2026-11-19",
     "createdAt": "2026-11-19T02:15:50.372Z",
-    "updatedAt": "2026-11-25T03:56:46.141Z"
+    "updatedAt": "2026-11-26T03:22:10.127Z"
   },
   {
     "id": "doc-kanpo-09ad9becd2a368e2",
@@ -1249,6 +1249,17 @@
     "source": "官報",
     "publishedAt": "2026-10-16",
     "createdAt": "2026-10-15T23:32:31.764Z"
+  },
+  {
+    "id": "doc-kanpo-29c7d76043772663",
+    "title": "医療法第三十条の二十三第二項第五号に規定する取組を定める省令の一部を改正する省令（文部科学・厚生労働五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261126/20261126h01836/20261126h018360002f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-26",
+    "createdAt": "2026-11-26T03:22:08.322Z",
+    "updatedAt": "2026-11-26T03:22:08.322Z"
   },
   {
     "id": "doc-kanpo-2b7a70f9ca1dadaf",
@@ -1839,7 +1850,7 @@
     "source": "官報",
     "publishedAt": "2026-11-20",
     "createdAt": "2026-11-20T02:00:23.829Z",
-    "updatedAt": "2026-11-25T03:56:45.644Z"
+    "updatedAt": "2026-11-26T03:22:09.676Z"
   },
   {
     "id": "doc-kanpo-58cb7db2fa174a52",
@@ -2185,7 +2196,7 @@
     "source": "官報",
     "publishedAt": "2026-11-17",
     "createdAt": "2026-11-17T03:23:37.146Z",
-    "updatedAt": "2026-11-25T03:56:47.189Z"
+    "updatedAt": "2026-11-26T03:22:11.028Z"
   },
   {
     "id": "doc-kanpo-6dbe3c9c1f53b552",
@@ -2453,7 +2464,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.986Z",
-    "updatedAt": "2026-11-25T03:56:46.694Z"
+    "updatedAt": "2026-11-26T03:22:10.579Z"
   },
   {
     "id": "doc-kanpo-8666a9d6e5b4a6b4",
@@ -3879,7 +3890,7 @@
     "source": "官報",
     "publishedAt": "2026-11-20",
     "createdAt": "2026-11-20T02:00:23.829Z",
-    "updatedAt": "2026-11-25T03:56:45.644Z"
+    "updatedAt": "2026-11-26T03:22:09.676Z"
   },
   {
     "id": "doc-kanpo-e3e8c6991e1ee8e7",
@@ -4053,7 +4064,7 @@
     "source": "官報",
     "publishedAt": "2026-11-25",
     "createdAt": "2026-11-25T03:56:44.650Z",
-    "updatedAt": "2026-11-25T03:56:44.650Z"
+    "updatedAt": "2026-11-26T03:22:08.773Z"
   },
   {
     "id": "doc-kanpo-ecb137963cb8f5a5",
@@ -4311,7 +4322,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.987Z",
-    "updatedAt": "2026-11-25T03:56:46.694Z"
+    "updatedAt": "2026-11-26T03:22:10.579Z"
   },
   {
     "id": "doc-kanpo-fb0eb7ee465f0c04",
@@ -4603,6 +4614,17 @@
     "createdAt": "2026-07-15T22:01:57.169Z"
   },
   {
+    "id": "doc-kokkai-13a0d4a3c15448df",
+    "billId": "bill-222-shugiin-3dc68adcad738b86",
+    "title": "第222回国会 衆議院 経済産業委員会 第2号 (2026-10-23)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204080X00220261023",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-23",
+    "createdAt": "2026-11-26T03:24:31.773Z"
+  },
+  {
     "id": "doc-kokkai-13e713be39207cf4",
     "billId": "bill-221-cas-dfc6ce6332f6bfec",
     "title": "第221回国会 衆議院 災害対策特別委員会 第8号 (2026-05-12)",
@@ -4823,6 +4845,17 @@
     "createdAt": "2026-08-03T22:10:33.943Z"
   },
   {
+    "id": "doc-kokkai-252f6ec3a9b5984e",
+    "billId": "bill-222-shugiin-cbe682b3b50d4d8e",
+    "title": "第222回国会 衆議院 議院運営委員会 第9号 (2026-11-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00920261124",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-24",
+    "createdAt": "2026-11-26T03:24:37.895Z"
+  },
+  {
     "id": "doc-kokkai-2543b73db0d7987a",
     "billId": "bill-222-sangiin-dc1da4a58422661c",
     "title": "第222回国会 衆議院 国土交通委員会 第1号 (2026-10-21)",
@@ -4933,6 +4966,17 @@
     "createdAt": "2026-07-07T22:13:52.805Z"
   },
   {
+    "id": "doc-kokkai-2d5f3b8c98b45d4a",
+    "billId": "bill-222-shugiin-3dc68adcad738b86",
+    "title": "第222回国会 衆議院 経済産業委員会 第3号 (2026-10-28)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204080X00320261028",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-28",
+    "createdAt": "2026-11-26T03:24:31.773Z"
+  },
+  {
     "id": "doc-kokkai-2db38d48643bbb4d",
     "billId": "bill-221-shugiin-f8a7a40301921654",
     "title": "第221回国会 衆議院 農林水産委員会 第10号 (2026-05-20)",
@@ -4986,6 +5030,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-10-30",
     "createdAt": "2026-11-05T01:19:00.991Z"
+  },
+  {
+    "id": "doc-kokkai-30735af36c23b11a",
+    "billId": "bill-222-cas-0f2cf1a7f7ef3b3a",
+    "title": "第222回国会 衆議院 議院運営委員会 第9号 (2026-11-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00920261124",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-24",
+    "createdAt": "2026-11-26T03:24:18.658Z"
   },
   {
     "id": "doc-kokkai-30d4eb793b7269c5",
@@ -5272,6 +5327,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-22",
     "createdAt": "2026-07-15T22:02:04.809Z"
+  },
+  {
+    "id": "doc-kokkai-42578de487fab98b",
+    "billId": "bill-222-shugiin-c510f5a58fc7a0ff",
+    "title": "第222回国会 衆議院 経済産業委員会 第2号 (2026-10-23)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204080X00220261023",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-23",
+    "createdAt": "2026-11-26T03:24:36.997Z"
   },
   {
     "id": "doc-kokkai-4268af59a997ee32",
@@ -5725,6 +5791,17 @@
     "createdAt": "2026-08-24T21:28:41.061Z"
   },
   {
+    "id": "doc-kokkai-6c06ca2bab5c568c",
+    "billId": "bill-222-sangiin-054775081ea50f13",
+    "title": "第222回国会 衆議院 議院運営委員会 第9号 (2026-11-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00920261124",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-24",
+    "createdAt": "2026-11-26T03:24:22.007Z"
+  },
+  {
     "id": "doc-kokkai-6ccd41ab55a754ea",
     "billId": "bill-222-shugiin-3f3b2d2174275f42",
     "title": "第221回国会 参議院 総務委員会 第14号 (2026-07-23)",
@@ -5879,6 +5956,17 @@
     "createdAt": "2026-11-11T01:02:07.757Z"
   },
   {
+    "id": "doc-kokkai-812cecba1c132d60",
+    "billId": "bill-222-cas-401e58fe20de6075",
+    "title": "第222回国会 衆議院 議院運営委員会 第9号 (2026-11-24)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X00920261124",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-24",
+    "createdAt": "2026-11-26T03:24:19.474Z"
+  },
+  {
     "id": "doc-kokkai-81e66b0a128a7570",
     "billId": "bill-221-shugiin-94ca35289fa8a2ac",
     "title": "第221回国会 衆議院 地域活性化・こども政策・デジタル社会形成に関する特別委員会 第4号 (2026-04-23)",
@@ -5976,6 +6064,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-10-22",
     "createdAt": "2026-11-12T02:08:59.641Z"
+  },
+  {
+    "id": "doc-kokkai-8d3ed557edc373ef",
+    "billId": "bill-222-sangiin-dc1da4a58422661c",
+    "title": "第222回国会 衆議院 国土交通委員会 第3号 (2026-10-28)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204319X00320261028",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-28",
+    "createdAt": "2026-11-26T03:24:29.953Z"
   },
   {
     "id": "doc-kokkai-8d539b6dd915c5b5",
@@ -6495,6 +6594,17 @@
     "createdAt": "2026-10-09T01:00:23.816Z"
   },
   {
+    "id": "doc-kokkai-c8911ab7181f0319",
+    "billId": "bill-222-shugiin-c510f5a58fc7a0ff",
+    "title": "第222回国会 衆議院 経済産業委員会 第3号 (2026-10-28)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204080X00320261028",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-28",
+    "createdAt": "2026-11-26T03:24:36.997Z"
+  },
+  {
     "id": "doc-kokkai-c93d02248f00ffe3",
     "billId": "bill-221-shugiin-f8a7a40301921654",
     "title": "第221回国会 衆議院 議院運営委員会 第26号 (2026-06-03)",
@@ -6746,6 +6856,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-07-24",
     "createdAt": "2026-07-30T22:06:51.706Z"
+  },
+  {
+    "id": "doc-kokkai-e9189554b4d18016",
+    "billId": "bill-222-sangiin-dc1da4a58422661c",
+    "title": "第222回国会 衆議院 国土交通委員会 第2号 (2026-10-23)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204319X00220261023",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-23",
+    "createdAt": "2026-11-26T03:24:29.953Z"
   },
   {
     "id": "doc-kokkai-ebf41683261d1a2e",
@@ -7756,6 +7877,16 @@
     "createdAt": "2026-07-07T04:48:29.963Z"
   },
   {
+    "id": "doc-sangiin-276faef91eab3078",
+    "billId": "bill-222-sangiin-8daed5a4768566d0",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t1002220082220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-26T03:23:56.953Z"
+  },
+  {
     "id": "doc-sangiin-27dd6185da7b4880",
     "billId": "bill-221-sangiin-1cc1962702814770",
     "title": "提出法律案",
@@ -8444,6 +8575,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:31.144Z"
+  },
+  {
+    "id": "doc-sangiin-44dfb088df2f06b3",
+    "billId": "bill-222-sangiin-98e35c20d6e0bf65",
+    "title": "議案要旨",
+    "type": "summary",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/580222210.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-26T03:23:46.568Z"
   },
   {
     "id": "doc-sangiin-455f305b5bcd6938",

@@ -4780,6 +4780,17 @@
     "updatedAt": "2026-11-21T02:00:22.412Z"
   },
   {
+    "id": "pc-495260272",
+    "title": "「医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令第二条の十三各号の規定に基づき厚生労働大臣が指定する医薬品（案）」に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-11-25",
+    "endAt": "2026-12-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260272&Mode=0",
+    "createdAt": "2026-11-26T03:24:38.308Z",
+    "updatedAt": "2026-11-26T03:24:38.308Z"
+  },
+  {
     "id": "pc-550004376",
     "title": "農業信用保証保険法施行規則の一部を改正する命令案についての意見・情報の募集について",
     "ministry": "農林水産省",
@@ -6105,6 +6116,18 @@
     "updatedAt": "2026-11-21T02:00:22.412Z"
   },
   {
+    "id": "pc-595320124",
+    "title": "電気事業法第５２条に基づく火力設備に対する溶接自主検査ガイド（２０２３０３１０保局第２号）等 の一部を改正する規程に対する意見公募について",
+    "ministry": "経済産業省",
+    "status": "open",
+    "startAt": "2026-11-25",
+    "endAt": "2026-12-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=595320124&Mode=0",
+    "billId": "bill-221-shugiin-507b23f3c61af710",
+    "createdAt": "2026-11-26T03:24:38.308Z",
+    "updatedAt": "2026-11-26T03:24:38.308Z"
+  },
+  {
     "id": "pc-620226018",
     "title": "ベースロード市場ガイドライン（案）に対する意見募集",
     "ministry": "経済産業省",
@@ -6316,6 +6339,17 @@
     "updatedAt": "2026-11-20T02:03:02.594Z"
   },
   {
+    "id": "pc-620340105",
+    "title": "ベースロード市場ガイドライン（案）に対する意見募集について",
+    "ministry": "資源エネルギー庁",
+    "status": "open",
+    "startAt": "2026-11-25",
+    "endAt": "2026-12-24",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=620340105&Mode=0",
+    "createdAt": "2026-11-26T03:24:38.308Z",
+    "updatedAt": "2026-11-26T03:24:38.308Z"
+  },
+  {
     "id": "pc-620340106",
     "title": "次世代電力・ガス事業基盤構築小委員会　電力安定供給ワーキンググループ　長期脱炭素電源オークションの第４回募集に向けて（改定案）　長期脱炭素電源オークションガイドライン（改定案）についての意見公募",
     "ministry": "資源エネルギー庁",
@@ -6424,6 +6458,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=670000139&Mode=0",
     "createdAt": "2026-10-30T00:39:00.277Z",
     "updatedAt": "2026-10-30T00:39:00.277Z"
+  },
+  {
+    "id": "pc-670000140",
+    "title": "港則法施行規則第十一条第一項の規定による進路を他の船舶に知らせるために船舶自動識別装置の目的地に関する情報として送信する記号の一部を改正する告示案に関するパブリックコメントの募集について",
+    "ministry": "海上保安庁",
+    "status": "open",
+    "startAt": "2026-11-25",
+    "endAt": "2026-12-25",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=670000140&Mode=0",
+    "createdAt": "2026-11-26T03:24:38.308Z",
+    "updatedAt": "2026-11-26T03:24:38.308Z"
   },
   {
     "id": "pc-860202605",

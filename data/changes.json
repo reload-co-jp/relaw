@@ -603,6 +603,15 @@
     "detectedAt": "2026-10-27T00:16:34.238Z"
   },
   {
+    "id": "change-bill-222-sangiin-98e35c20d6e0bf65-enactedAt-2026-11-26T03:24:38.316Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-98e35c20d6e0bf65",
+    "field": "enactedAt",
+    "before": null,
+    "after": "2026-11-25",
+    "detectedAt": "2026-11-26T03:24:38.316Z"
+  },
+  {
     "id": "change-bill-222-sangiin-98e35c20d6e0bf65-passedLowerHouseAt-2026-11-11T01:02:26.443Z",
     "entityType": "bill",
     "entityId": "bill-222-sangiin-98e35c20d6e0bf65",
@@ -612,6 +621,15 @@
     "detectedAt": "2026-11-11T01:02:26.443Z"
   },
   {
+    "id": "change-bill-222-sangiin-98e35c20d6e0bf65-passedUpperHouseAt-2026-11-26T03:24:38.316Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-98e35c20d6e0bf65",
+    "field": "passedUpperHouseAt",
+    "before": null,
+    "after": "2026-11-25",
+    "detectedAt": "2026-11-26T03:24:38.316Z"
+  },
+  {
     "id": "change-bill-222-sangiin-98e35c20d6e0bf65-status-2026-11-11T01:02:26.443Z",
     "entityType": "bill",
     "entityId": "bill-222-sangiin-98e35c20d6e0bf65",
@@ -619,6 +637,15 @@
     "before": "committee_review",
     "after": "passed_lower_house",
     "detectedAt": "2026-11-11T01:02:26.443Z"
+  },
+  {
+    "id": "change-bill-222-sangiin-98e35c20d6e0bf65-status-2026-11-26T03:24:38.316Z",
+    "entityType": "bill",
+    "entityId": "bill-222-sangiin-98e35c20d6e0bf65",
+    "field": "status",
+    "before": "passed_lower_house",
+    "after": "passed_diet",
+    "detectedAt": "2026-11-26T03:24:38.316Z"
   },
   {
     "id": "change-bill-222-sangiin-b5349b1f70e00feb-enactedAt-2026-11-12T02:09:08.967Z",
@@ -835,6 +862,24 @@
     "before": "passed_diet",
     "after": "promulgated",
     "detectedAt": "2026-11-21T02:00:22.417Z"
+  },
+  {
+    "id": "change-bill-222-shugiin-229a14dd24fc7402-billNumber-2026-11-26T03:24:38.316Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-229a14dd24fc7402",
+    "field": "billNumber",
+    "before": "第221回国会 衆法第14号",
+    "after": "第222回国会 参法第9号",
+    "detectedAt": "2026-11-26T03:24:38.316Z"
+  },
+  {
+    "id": "change-bill-222-shugiin-229a14dd24fc7402-submittedAt-2026-11-26T03:24:38.316Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-229a14dd24fc7402",
+    "field": "submittedAt",
+    "before": "2026-06-12",
+    "after": "2026-11-25",
+    "detectedAt": "2026-11-26T03:24:38.316Z"
   },
   {
     "id": "change-bill-222-shugiin-3dc68adcad738b86-passedLowerHouseAt-2026-11-11T01:02:26.443Z",
