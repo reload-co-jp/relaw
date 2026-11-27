@@ -350,6 +350,18 @@
     "updatedAt": "2026-11-19T02:18:25.489Z"
   },
   {
+    "id": "pc-095260960",
+    "title": "人工衛星等の打上げ及び人工衛星の管理に関する法律等の一部を改正する法律（令和八年法律第三十九号）の施行に伴う人工衛星等の打上げ及び人工衛星の管理に関する法律施行規則及び宇宙資源の探査及び開発に関する事業活動の促進に関する法律施行規則の一部を改正する内閣府令（案）等に係る意見募集について",
+    "ministry": "内閣府",
+    "status": "open",
+    "startAt": "2026-11-27",
+    "endAt": "2026-12-28",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=095260960&Mode=0",
+    "billId": "bill-221-shugiin-115635ee0d08d6f1",
+    "createdAt": "2026-11-27T03:31:15.944Z",
+    "updatedAt": "2026-11-27T03:31:15.944Z"
+  },
+  {
     "id": "pc-110200065",
     "title": "「企業結合審査に関する独占禁止法の運用指針」の改定案に対する意見募集について",
     "ministry": "公正取引委員会",
@@ -2160,6 +2172,17 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261233&Mode=0",
     "createdAt": "2026-09-25T23:52:17.917Z",
     "updatedAt": "2026-09-25T23:52:17.917Z"
+  },
+  {
+    "id": "pc-155261234",
+    "title": "無人航空機の登録講習機関及び登録更新講習機関に関する省令の一部改正（案）に関する意見募集について",
+    "ministry": "国土交通省",
+    "status": "open",
+    "startAt": "2026-11-27",
+    "endAt": "2026-12-28",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261234&Mode=0",
+    "createdAt": "2026-11-27T03:31:15.944Z",
+    "updatedAt": "2026-11-27T03:31:15.944Z"
   },
   {
     "id": "pc-155261238",
@@ -4789,6 +4812,28 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260272&Mode=0",
     "createdAt": "2026-11-26T03:24:38.308Z",
     "updatedAt": "2026-11-26T03:24:38.308Z"
+  },
+  {
+    "id": "pc-495260273",
+    "title": "労働者災害補償保険法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令案に関する御意見の募集について",
+    "status": "open",
+    "startAt": "2026-11-26",
+    "endAt": "2026-12-27",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260273&Mode=0",
+    "billId": "bill-221-shugiin-41674abdb4f95582",
+    "createdAt": "2026-11-27T03:31:15.944Z",
+    "updatedAt": "2026-11-27T03:31:15.944Z"
+  },
+  {
+    "id": "pc-495260276",
+    "title": "介護保険事業に係る保険給付の円滑な実施を確保するための基本的な指針の全部を改正する件（案）に関する御意見の募集について",
+    "ministry": "厚生労働省",
+    "status": "open",
+    "startAt": "2026-11-26",
+    "endAt": "2026-12-26",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260276&Mode=0",
+    "createdAt": "2026-11-27T03:31:15.944Z",
+    "updatedAt": "2026-11-27T03:31:15.944Z"
   },
   {
     "id": "pc-550004376",

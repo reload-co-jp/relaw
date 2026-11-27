@@ -936,6 +936,33 @@
     "detectedAt": "2026-11-12T02:09:08.967Z"
   },
   {
+    "id": "change-bill-222-shugiin-610d548176f67d68-passedLowerHouseAt-2026-11-27T03:31:15.951Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-610d548176f67d68",
+    "field": "passedLowerHouseAt",
+    "before": null,
+    "after": "2026-11-26",
+    "detectedAt": "2026-11-27T03:31:15.951Z"
+  },
+  {
+    "id": "change-bill-222-shugiin-610d548176f67d68-status-2026-11-27T03:31:15.951Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-610d548176f67d68",
+    "field": "status",
+    "before": "submitted",
+    "after": "passed_lower_house",
+    "detectedAt": "2026-11-27T03:31:15.951Z"
+  },
+  {
+    "id": "change-bill-222-shugiin-610d548176f67d68-submittedAt-2026-11-27T03:31:15.951Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-610d548176f67d68",
+    "field": "submittedAt",
+    "before": null,
+    "after": "2026-11-25",
+    "detectedAt": "2026-11-27T03:31:15.951Z"
+  },
+  {
     "id": "change-bill-222-shugiin-775b509548767cdd-enactedAt-2026-11-14T01:19:18.500Z",
     "entityType": "bill",
     "entityId": "bill-222-shugiin-775b509548767cdd",
@@ -1015,6 +1042,33 @@
     "before": null,
     "after": "2026-11-12",
     "detectedAt": "2026-11-14T01:19:18.500Z"
+  },
+  {
+    "id": "change-bill-222-shugiin-c2eb98d39746bd2c-passedLowerHouseAt-2026-11-27T03:31:15.951Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-c2eb98d39746bd2c",
+    "field": "passedLowerHouseAt",
+    "before": null,
+    "after": "2026-11-26",
+    "detectedAt": "2026-11-27T03:31:15.951Z"
+  },
+  {
+    "id": "change-bill-222-shugiin-c2eb98d39746bd2c-status-2026-11-27T03:31:15.951Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-c2eb98d39746bd2c",
+    "field": "status",
+    "before": "submitted",
+    "after": "passed_lower_house",
+    "detectedAt": "2026-11-27T03:31:15.951Z"
+  },
+  {
+    "id": "change-bill-222-shugiin-c2eb98d39746bd2c-submittedAt-2026-11-27T03:31:15.951Z",
+    "entityType": "bill",
+    "entityId": "bill-222-shugiin-c2eb98d39746bd2c",
+    "field": "submittedAt",
+    "before": null,
+    "after": "2026-11-25",
+    "detectedAt": "2026-11-27T03:31:15.951Z"
   },
   {
     "id": "change-bill-222-shugiin-c510f5a58fc7a0ff-passedLowerHouseAt-2026-11-11T01:02:26.443Z",

@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-26T03:22:28.557Z"
+    "updatedAt": "2026-11-27T03:28:54.285Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -742,7 +742,7 @@
     "source": "官報",
     "publishedAt": "2026-11-19",
     "createdAt": "2026-11-19T02:15:50.371Z",
-    "updatedAt": "2026-11-26T03:22:10.127Z"
+    "updatedAt": "2026-11-27T03:28:45.702Z"
   },
   {
     "id": "doc-kanpo-05a7da66c97e4f4e",
@@ -816,7 +816,7 @@
     "source": "官報",
     "publishedAt": "2026-11-19",
     "createdAt": "2026-11-19T02:15:50.372Z",
-    "updatedAt": "2026-11-26T03:22:10.127Z"
+    "updatedAt": "2026-11-27T03:28:45.702Z"
   },
   {
     "id": "doc-kanpo-09ad9becd2a368e2",
@@ -1168,6 +1168,16 @@
     "updatedAt": "2026-10-08T00:42:48.258Z"
   },
   {
+    "id": "doc-kanpo-20fbb77d25366e82",
+    "title": "種苗法施行規則及び品種登録規則の一部を改正する省令（農林水産七五）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261127/20261127g00258/20261127g002580013f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-27",
+    "createdAt": "2026-11-27T03:28:43.291Z"
+  },
+  {
     "id": "doc-kanpo-21b815f6ed6148d0",
     "title": "農林水産省関係福島復興再生特別措置法施行規則の一部を改正する省令（農林水産六八）",
     "type": "kanpo",
@@ -1259,7 +1269,7 @@
     "source": "官報",
     "publishedAt": "2026-11-26",
     "createdAt": "2026-11-26T03:22:08.322Z",
-    "updatedAt": "2026-11-26T03:22:08.322Z"
+    "updatedAt": "2026-11-27T03:28:43.772Z"
   },
   {
     "id": "doc-kanpo-2b7a70f9ca1dadaf",
@@ -1850,7 +1860,7 @@
     "source": "官報",
     "publishedAt": "2026-11-20",
     "createdAt": "2026-11-20T02:00:23.829Z",
-    "updatedAt": "2026-11-26T03:22:09.676Z"
+    "updatedAt": "2026-11-27T03:28:45.220Z"
   },
   {
     "id": "doc-kanpo-58cb7db2fa174a52",
@@ -2331,6 +2341,17 @@
     "createdAt": "2026-11-12T02:06:45.080Z"
   },
   {
+    "id": "doc-kanpo-75f0e637d1a78d18",
+    "title": "重要品種の育成及びその種苗の生産の振興に関する法律の施行期日を定める政令（三五九）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261127/20261127g00258/20261127g002580003f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-27",
+    "createdAt": "2026-11-27T03:28:43.291Z",
+    "updatedAt": "2026-11-27T03:28:43.291Z"
+  },
+  {
     "id": "doc-kanpo-77e3e4b35cfeed30",
     "title": "鉱山保安法施行規則の一部を改正する省令（経済産業七五）",
     "type": "kanpo",
@@ -2464,7 +2485,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.986Z",
-    "updatedAt": "2026-11-26T03:22:10.579Z"
+    "updatedAt": "2026-11-27T03:28:46.186Z"
   },
   {
     "id": "doc-kanpo-8666a9d6e5b4a6b4",
@@ -3890,7 +3911,7 @@
     "source": "官報",
     "publishedAt": "2026-11-20",
     "createdAt": "2026-11-20T02:00:23.829Z",
-    "updatedAt": "2026-11-26T03:22:09.676Z"
+    "updatedAt": "2026-11-27T03:28:45.219Z"
   },
   {
     "id": "doc-kanpo-e3e8c6991e1ee8e7",
@@ -4064,7 +4085,7 @@
     "source": "官報",
     "publishedAt": "2026-11-25",
     "createdAt": "2026-11-25T03:56:44.650Z",
-    "updatedAt": "2026-11-26T03:22:08.773Z"
+    "updatedAt": "2026-11-27T03:28:44.255Z"
   },
   {
     "id": "doc-kanpo-ecb137963cb8f5a5",
@@ -4075,6 +4096,17 @@
     "source": "官報",
     "publishedAt": "2026-08-05",
     "createdAt": "2026-08-05T22:11:31.054Z"
+  },
+  {
+    "id": "doc-kanpo-ed88642d0ba6b4b9",
+    "title": "電気事業法の一部を改正する法律の施行に伴う関係政令の整備に関する政令（三六三）",
+    "type": "kanpo",
+    "url": "https://www.kanpo.go.jp/20261127/20261127g00258/20261127g002580004f.html",
+    "format": "html",
+    "source": "官報",
+    "publishedAt": "2026-11-27",
+    "createdAt": "2026-11-27T03:28:43.291Z",
+    "updatedAt": "2026-11-27T03:28:43.291Z"
   },
   {
     "id": "doc-kanpo-ee2afabd8042600a",
@@ -4322,7 +4354,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.987Z",
-    "updatedAt": "2026-11-26T03:22:10.579Z"
+    "updatedAt": "2026-11-27T03:28:46.186Z"
   },
   {
     "id": "doc-kanpo-fb0eb7ee465f0c04",
@@ -5439,6 +5471,17 @@
     "createdAt": "2026-07-07T00:38:28.121Z"
   },
   {
+    "id": "doc-kokkai-4da2edd46dfc207e",
+    "billId": "bill-222-shugiin-3dc68adcad738b86",
+    "title": "第222回国会 衆議院 経済産業委員会 第4号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204080X00420261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-27T03:31:08.450Z"
+  },
+  {
     "id": "doc-kokkai-4e0282f9c86d43f8",
     "billId": "bill-221-shugiin-5371ce93cd499661",
     "title": "第221回国会 衆議院 国土交通委員会 第9号 (2026-05-15)",
@@ -5646,6 +5689,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-26",
     "createdAt": "2026-07-07T00:38:11.403Z"
+  },
+  {
+    "id": "doc-kokkai-5ff0f8e6d253d0bf",
+    "billId": "bill-222-shugiin-c510f5a58fc7a0ff",
+    "title": "第222回国会 衆議院 経済産業委員会 第4号 (2026-10-30)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204080X00420261030",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-10-30",
+    "createdAt": "2026-11-27T03:31:14.597Z"
   },
   {
     "id": "doc-kokkai-60ab6c4856411387",
@@ -10946,6 +11000,16 @@
     "format": "pdf",
     "source": "参議院",
     "createdAt": "2026-07-07T04:48:28.755Z"
+  },
+  {
+    "id": "doc-sangiin-bb9255751f4d5ea3",
+    "billId": "bill-222-shugiin-229a14dd24fc7402",
+    "title": "提出法律案",
+    "type": "bill_text",
+    "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t1002220092220.pdf",
+    "format": "pdf",
+    "source": "参議院",
+    "createdAt": "2026-11-27T03:30:35.718Z"
   },
   {
     "id": "doc-sangiin-bbd8dbf2c200b3f5",
