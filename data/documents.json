@@ -498,7 +498,7 @@
     "format": "pdf",
     "source": "内閣官房",
     "createdAt": "2026-10-23T23:44:48.311Z",
-    "updatedAt": "2026-11-27T03:28:54.285Z"
+    "updatedAt": "2026-11-28T03:05:12.816Z"
   },
   {
     "id": "doc-cas-ad09f9c9329e1fe3",
@@ -742,7 +742,7 @@
     "source": "官報",
     "publishedAt": "2026-11-19",
     "createdAt": "2026-11-19T02:15:50.371Z",
-    "updatedAt": "2026-11-27T03:28:45.702Z"
+    "updatedAt": "2026-11-28T03:05:04.991Z"
   },
   {
     "id": "doc-kanpo-05a7da66c97e4f4e",
@@ -816,7 +816,7 @@
     "source": "官報",
     "publishedAt": "2026-11-19",
     "createdAt": "2026-11-19T02:15:50.372Z",
-    "updatedAt": "2026-11-27T03:28:45.702Z"
+    "updatedAt": "2026-11-28T03:05:04.991Z"
   },
   {
     "id": "doc-kanpo-09ad9becd2a368e2",
@@ -1269,7 +1269,7 @@
     "source": "官報",
     "publishedAt": "2026-11-26",
     "createdAt": "2026-11-26T03:22:08.322Z",
-    "updatedAt": "2026-11-27T03:28:43.772Z"
+    "updatedAt": "2026-11-28T03:05:03.256Z"
   },
   {
     "id": "doc-kanpo-2b7a70f9ca1dadaf",
@@ -1860,7 +1860,7 @@
     "source": "官報",
     "publishedAt": "2026-11-20",
     "createdAt": "2026-11-20T02:00:23.829Z",
-    "updatedAt": "2026-11-27T03:28:45.220Z"
+    "updatedAt": "2026-11-28T03:05:04.558Z"
   },
   {
     "id": "doc-kanpo-58cb7db2fa174a52",
@@ -2349,7 +2349,7 @@
     "source": "官報",
     "publishedAt": "2026-11-27",
     "createdAt": "2026-11-27T03:28:43.291Z",
-    "updatedAt": "2026-11-27T03:28:43.291Z"
+    "updatedAt": "2026-11-28T03:05:02.824Z"
   },
   {
     "id": "doc-kanpo-77e3e4b35cfeed30",
@@ -2485,7 +2485,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.986Z",
-    "updatedAt": "2026-11-27T03:28:46.186Z"
+    "updatedAt": "2026-11-28T03:05:05.425Z"
   },
   {
     "id": "doc-kanpo-8666a9d6e5b4a6b4",
@@ -3911,7 +3911,7 @@
     "source": "官報",
     "publishedAt": "2026-11-20",
     "createdAt": "2026-11-20T02:00:23.829Z",
-    "updatedAt": "2026-11-27T03:28:45.219Z"
+    "updatedAt": "2026-11-28T03:05:04.558Z"
   },
   {
     "id": "doc-kanpo-e3e8c6991e1ee8e7",
@@ -4085,7 +4085,7 @@
     "source": "官報",
     "publishedAt": "2026-11-25",
     "createdAt": "2026-11-25T03:56:44.650Z",
-    "updatedAt": "2026-11-27T03:28:44.255Z"
+    "updatedAt": "2026-11-28T03:05:03.690Z"
   },
   {
     "id": "doc-kanpo-ecb137963cb8f5a5",
@@ -4106,7 +4106,7 @@
     "source": "官報",
     "publishedAt": "2026-11-27",
     "createdAt": "2026-11-27T03:28:43.291Z",
-    "updatedAt": "2026-11-27T03:28:43.291Z"
+    "updatedAt": "2026-11-28T03:05:02.824Z"
   },
   {
     "id": "doc-kanpo-ee2afabd8042600a",
@@ -4354,7 +4354,7 @@
     "source": "官報",
     "publishedAt": "2026-11-18",
     "createdAt": "2026-11-18T02:44:25.987Z",
-    "updatedAt": "2026-11-27T03:28:46.186Z"
+    "updatedAt": "2026-11-28T03:05:05.425Z"
   },
   {
     "id": "doc-kanpo-fb0eb7ee465f0c04",
@@ -6571,6 +6571,17 @@
     "createdAt": "2026-08-24T21:29:02.682Z"
   },
   {
+    "id": "doc-kokkai-c1a7ec888136712f",
+    "billId": "bill-222-shugiin-610d548176f67d68",
+    "title": "第222回国会 衆議院 議院運営委員会 第10号 (2026-11-26)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X01020261126",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-26",
+    "createdAt": "2026-11-28T03:07:19.846Z"
+  },
+  {
     "id": "doc-kokkai-c293b2a14c866061",
     "billId": "bill-221-sangiin-ed662caa2334a5ae",
     "title": "第221回国会 衆議院 経済産業委員会 第17号 (2026-07-24)",
@@ -7009,6 +7020,17 @@
     "source": "国会会議録検索システム",
     "publishedAt": "2026-06-04",
     "createdAt": "2026-07-07T00:38:19.530Z"
+  },
+  {
+    "id": "doc-kokkai-f10b37a04d19cc54",
+    "billId": "bill-222-shugiin-c2eb98d39746bd2c",
+    "title": "第222回国会 衆議院 議院運営委員会 第10号 (2026-11-26)",
+    "type": "minutes",
+    "url": "https://kokkai.ndl.go.jp/txt/122204024X01020261126",
+    "format": "html",
+    "source": "国会会議録検索システム",
+    "publishedAt": "2026-11-26",
+    "createdAt": "2026-11-28T03:07:22.336Z"
   },
   {
     "id": "doc-kokkai-f15ebdea433334c0",

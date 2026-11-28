@@ -1215,6 +1215,17 @@
     "updatedAt": "2026-11-19T02:18:25.488Z"
   },
   {
+    "id": "pc-145210803",
+    "title": "無線局の免許等関連手続の電子申請義務化に係る制度改正案に対する意見募集（電波法施行規則の一部を改正する省令案）",
+    "ministry": "総務省",
+    "status": "open",
+    "startAt": "2026-11-28",
+    "endAt": "2026-12-28",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210803&Mode=0",
+    "createdAt": "2026-11-28T03:07:24.543Z",
+    "updatedAt": "2026-11-28T03:07:24.543Z"
+  },
+  {
     "id": "pc-155260103",
     "title": "「地域公共交通の活性化及び再生の促進に関する基本方針」の一部変更案に関する意見募集について",
     "status": "open",
@@ -3130,6 +3141,18 @@
     "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=225026070&Mode=0",
     "createdAt": "2026-11-19T02:18:25.489Z",
     "updatedAt": "2026-11-19T02:18:25.489Z"
+  },
+  {
+    "id": "pc-225026072",
+    "title": "「金融庁関係国家戦略特別区域法第二十六条に規定する政令等規制事業に係る内閣府令の特例に関する措置を定める内閣府令の一部を改正する内閣府令（案）」に対するパブリックコメントの実施について",
+    "status": "open",
+    "startAt": "2026-11-27",
+    "endAt": "2026-12-27",
+    "sourceUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=225026072&Mode=0",
+    "lawId": "law-506M60000002099",
+    "relatedLawTitle": "金融庁関係国家戦略特別区域法第二十六条に規定する政令等規制事業に係る内閣府令の特例に関する措置を定める内閣府令",
+    "createdAt": "2026-11-28T03:07:24.543Z",
+    "updatedAt": "2026-11-28T03:07:24.543Z"
   },
   {
     "id": "pc-235030052",
